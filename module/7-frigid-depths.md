@@ -2,6 +2,7 @@
 name: Frigid Depths
 slug: frigid-depths
 order: 7
+module-pagebreaks: h1, h2
 ---
 ![Frigid Depths](assets/img/placeholder_1920x1080.jpg){.size-cover}
 # 7. Frigid Depths

@@ -2,6 +2,7 @@
 name: Marquet
 slug: marquet
 order: 3
+module-pagebreaks: h1, h2
 ---
 ![Marquet](assets/img/placeholder_1920x1080.jpg){.size-cover}
 # 3.  Marquet

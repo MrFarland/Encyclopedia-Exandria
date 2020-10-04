@@ -2,6 +2,7 @@
 name: Ozmit Sea
 slug: ozmit-sea
 order: 9
+module-pagebreaks: h1, h2
 ---
 ![Ozmit Sea](assets/img/placeholder_1920x1080.jpg){.size-cover}
 # 9. Ozmit Sea

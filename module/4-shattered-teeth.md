@@ -2,6 +2,7 @@
 name: Shattered Teeth
 slug: shattered-teeth
 order: 4
+module-pagebreaks: h1, h2
 ---
 ![Shattered Teeth](assets/img/placeholder_1920x1080.jpg){.size-cover}
 # 4.  Shattered Teeth

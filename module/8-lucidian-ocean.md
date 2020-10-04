@@ -2,6 +2,7 @@
 name: Lucidian Ocean
 slug: lucidian-ocean
 order: 8
+module-pagebreaks: h1, h2
 ---
 ![Lucidian Ocean](assets/img/placeholder_1920x1080.jpg){.size-cover}
 # 8. Lucidian Ocean

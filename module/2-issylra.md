@@ -2,6 +2,7 @@
 name: Issylra
 slug: issylra
 order: 2
+module-pagebreaks: h1, h2
 ---
 ![Issylra](assets/img/placeholder_1920x1080.jpg){.size-cover}
 # 2.  Issylra
