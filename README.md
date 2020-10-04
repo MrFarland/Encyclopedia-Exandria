@@ -4,7 +4,7 @@ Atlas Exandria is a reference module for the popular 5th edition Dungeons & Drag
 ## About Encounter+
 Encounter+ is an advanced Virtual Tabletop (VTT) application for the 5th edition of the popular tabletop RPG system Dungeons & Dragons. It was designed to help Dungeon masters run combat encounters more easily, track initiative, health, statistics and conditions seamlessly and efficiently. It is available for iOS and Mac devices.
 
-#### What is an Encounter+ Module?
+### What is an Encounter+ Module?
 A module is a collection of pages, encounters, and maps that can be quickly and easily imported into Encounter+. They can be reference materials, adventures, or any number of tools that can help run a D&D session more efficiently. 
 
 ## Special Thanks
