@@ -1,0 +1,5 @@
+# Specify filepatterns you want git to ignore.
+.DS_Store
+module/ModuleBuild
+module-mrfarland/ModuleBuild
+releases/*.module
