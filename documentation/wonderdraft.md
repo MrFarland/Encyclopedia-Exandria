@@ -7,10 +7,9 @@ order: 0
 Atlas Exandria is an ambitious project that aims to create a comprehensive, canon-consistent set of maps for the world of Exandria. Maintaining accuracy and consistency requires a great deal of effort and this document was created to help me achieve these goals while simultaneously helping others recreate the look & feel of these maps and even create their own companion maps. 
 
 ## Wonderdraft
-This project would not be possible without the use of the outstanding cartography application, [Wonderdraft](https://wonderdraft.net). The application provides users with a nearly overwhelming number of settings and customizations that allows a cartographer to define a "style" that is all their own. This section defines what those settings are for the purpose of making sure future additions and improvements remain true to the original vision of this atlas.
+The maps in this atlas were created using the application, [Wonderdraft](https://wonderdraft.net). The maps in this atlas were created with Wonderdraft version **1.1.3**.
 
-### Overall Style
-The following are the general settings used to achieve the overall look and feel of the maps in this atlas.
+An advanced cartography application, Wonderdraft provides the cartographer with a range of settings and style choices. The following are the settings used to create the look and feel of these maps.
 
 |||
 |:---|:---|
@@ -27,72 +26,128 @@ The following are the general settings used to achieve the overall look and feel
 | **Symbol Color 1**      | r(37) g(20) b(12) a (255) |
 | **Symbol Color 2**      | r(37) g(35) b(30) a (150) |
 | **Symbol Color 3**      | r(76) g(71) b(63) a (255) |
-| **Font**                | IM Fell English  |
 {.gray}
 
+#### Color Palette
+The color palette used in my maps is from the Avoro 4 theme for Wonderdraft. I have not made any modifications to colors, but only used a small subset of them for the map.
 
-This page was created to provide you with all of the settings used to create the maps in this atlas. This should come in handy for anyone looking to replicate my look & feel or create companion maps for your own Exandrian home game.
+When painting, use the grunge like brush and lower the opacity, but keep the brush large. Multiple passes blend areas better than high opacity or a small brush.
 
-Wonderdraft version **1.1.3** was used to create all of the maps in this Atlas. Only stock, royalty-free assets were used to create these maps.
+#### Labels
+I am not documenting all of the label styles including colors and styles because there are simply too many. I'm only including the base styles used on the world map as a way to quickly replicate the overall feel. The **IM Fell English** font is the only typeface used in all maps.
+
+| Label       | Size | Color                 | Outline               |
+|:------------|:----:|:---------------------:|:---------------------:|
+| Desert     | | | |
+| Forest (Evergreen) | | | |
+| Forest (Broadleaf) | | | |
+| Settlement (Capital) | | | |
+| Settlement (City) | | | |
+| Settlement (Town) | | | |
+| Settlement (Village) | | | |
+| Water (Feature) | | | |
+| Water (Ocean) | | | |
+| Water (River) | | | |
+{.gray}
+
+#### Path
+The following settings were used for all paths.
+
+In addition to drawing roads using the above settings, all roads are traced with the dirt color to help blend them into the countryside. It also helps to convey "wear" from travelers.
+
+(print-page)
+
 
 ## Scale 
-The maps included in the Atlas are canon-consistent. They are not 100% canon and never will be. First and foremost, the scale of the canon maps themselves are wildly inconsistent across the various printings of the Tal'Dorei Campaign Setting Guide and the Explorer's Guide to Wildemount. 
+The scale of the maps in this atlas are based on the official map of Tal'Dorei from the 1.1 release of the Tal'Dorei Campaign Setting Guide. The continent of Tal'Dorei in the Atlas is a 1:1 representation of that map and all other continents and regions are positioned and scaled to that reference map.
 
-In this suite of maps, the scale of the maps are all based on the official map of Tal'Dorei from the 1.1 release of the Tal'Dorei Campaign Setting Guide. The continent of Tal'Dorei in the Atlas is a 1:1 representation of that map and all other continents and regions are positioned and scaled to that reference map.
-- **Continent Maps** are 2x larger than they appear on the world map.
-- **Region Maps** are 4x larger than they appear on the world map.
+All of the maps use a faint hex grid to provide DMs with a means of quickly and accurately measuring the distance between two points. The size and scale of those hexes vary based on map type.
 
-#### Overlays
-All of the maps have a very faint hex overlay to aid the DM in the quick calculation of distances and travel. All of them use the **pointy hex** setting with different values depending on the type of map. The following are the dimensions for the hexes by map type.
+- **F2F**: The distance across the hexagon from one face to the opposite face.
+- **V2V**: The distance across the hexagon, diagonally from one vertex to vertex.
+- **V2C**: The distance from a vertex to the center of the hexagon. Also the length of a single face.
+{.square}
 
-| Map       |  F2F  |  V2V  |  Area  |
-|:----------|:-----:|:-----:|:------:|
-| World     |  |  |  |
-| Continent |  |  |  |
-| Region    |  |  |  |
+*^All^ ^numbers^ ^are^ ^in^ ^miles^ ^or^ ^square^ ^miles^*
+
+#### Dimensions of a Hex
+The following actual numbers are included for completeness. I strongly recommend using the recommended distances to speed up estimating distances and make it easier to remember.
+
+#### Actual
+| Map Type  | F2F | V2V   | V2C  | Area     |
+|:----------|:---:|:-----:|:----:|:--------:|
+| World     | 120 | 138.6 | 69.3 | 12,471.0 |
+| Continent |  60 |  69.3 | 34.6 |  3,118.0 |
+| Region    |  30 |  34.6 | 17.3 |    779.4 |
+{.gray}
+
+#### Recommended
+| Map Type  | F2F | V2V   | V2C  | Area     |
+|:----------|:---:|:-----:|:----:|:--------:|
+| World     | 120 | 140   | 70   | 12,471.0 |
+| Continent |  60 |  70   | 35   |  3,118.0 |
+| Region    |  30 |  35   | 17.5 |    779.4 |
 {.gray}
 
 ## Resolution
 The following table lists all of the maps in the atlas, the working size of the map used in Wonderdraft and both the digital and physical dimensions of the exported image. In all cases, the base **points per inch (PPI)** of each map is **300**. 
 
-| Type       | Name                   | Wonderdraft | Digital (x2) | Physical  |
-|:-----------|:-----------------------|:-----------:|:------------:|:---------:|
-| **World**  | **Exandria**           | 5400 x 3600 | 10800 x 7200 | 36" x 24" |
-| Continent  | Issylra*               | 3600 x 4800 |  7200 x 9600 | 24" x 32" |
-| Continent  | Marquet*               | 3600 x 2850 |  7200 x 5700 | 24" x 19" |
-| Continent  | Shattered Teeth*       | 4200 x 2700 |  8400 x 5400 | 28" x 18" |
-| **Continent**  | **Tal'Dorei**      | 3000 x 4200 |  6000 x 8400 | 20" x 28" |
-| Region     | Alabaster Sierras      | 2400 x 1800 |  4800 x 3600 | 16" x 12" |
-| Region     | Bladeshimmer Shoreline | 2400 x 2400 |  4800 x 4800 | 16" x 16" |
-| Region     | Cliffkeep Mountains    | 4200 x 3000 |  8400 x 6000 | 28" x 20" |
-| Region     | Dividing Plains        | 2700 x 2100 |  5400 x 4200 | 18" x 14" |
-| Region     | Lucidian Coast         | 1800 x 2400 |  3600 x 4800 | 12" x 16" |
-| Region     | Rifenmist Peninsula    | 4200 x 2700 |  8400 x 5400 | 28" x 18" |
-| Region     | Stormcrest Mountains   | 2400 x 1800 |  4800 x 3600 | 16" x 12" |
-| Region     | Verdant Expanse        | 3000 x 1800 |  6000 x 3600 | 20" x 12" |
-| **Continent**  | **Wildemount**     | 4500 x 4500 |  9000 x 9000 | 30" x 30" |
-| Region     | Blightshore            | 1800 x 3600 |  3600 x 7200 | 12" x 24" |
-| Region     | Eiselcross             | 3000 x 2400 |  6000 x 4800 | 20" x 16" |
-| Region     | Greying Wildlands      | 3000 x 2400 |  6000 x 4800 | 20" x 16" |
-| Region     | Marrow Valley          | 3000 x 3000 |  6000 x 6000 | 20" x 20" |
-| Region     | Menagerie Coast        | 4800 x 4800 |  9600 x 9600 | 32" x 32" |
-| Region     | Xhorhas                | 2400 x 4200 |  4800 x 8400 | 16" x 28" |
-| Region     | Zemni Fields           | 2400 x 2400 |  4800 x 4800 | 16" x 16" | 
+#### World Map
+| Name                   | Wonderdraft | Digital      | Physical  |
+|:-----------------------|:-----------:|:------------:|:---------:|
+| **Exandria**           | 5400 x 3600 | 10800 x 7200 | 36" x 24" |
 {.gray}
 
-*^\*^ ^These^ ^maps^ ^are^ ^incomplete.^ ^There^ ^are^ ^no^ ^official^ ^maps^ ^of^ ^these^ ^continents^ ^at^ ^this^ ^time.^*
-
-#### Refernce Dimensions
-The following reference dimensions are designed to help you visual .
-
-| Type           | Digital      | Physical   | Ratio |
-|:---------------|:------------:|:----------:|:-----:|
-| Poster (Lg)    | 10800 x 7200 | 36" x 24"  |  3:2  |
-| Poster (Work)  |  5400 x 3600 | 18" x 12"  |  3:2  |     
-| Poster (Md)    |  7200 x 5400 | 24" x 18"  |  4:3  |      
-| Poster (Sm)    |  5100 x 3300 | 17" x 11"  | 17:11 |     
-| Full Page      |  3300 x 2550 | 11" x 8.5" | 22:17 |
-| Half Page      |  2550 x 1650 | 8.5" x 5"  | 17:11 |
-| Half Page (Sq) |  2550 x 2550 | 8.5" x 8.5"|  1:1  |
-| Widescreen     |  1920 x 1080 | N/A        | 16:9  |
+#### Issylra
+| Name                   | Wonderdraft | Digital      |
+|:-----------------------|:-----------:|:------------:|
+| Issylra                | 3600 x 4800 |  7200 x 9600 |
 {.gray}
+
+#### Marquet
+| Name                   | Wonderdraft | Digital      |
+|:-----------------------|:-----------:|:------------:|
+| Marquet                | 3600 x 2850 |  7200 x 5700 |
+{.gray}
+
+#### Shattered Teeth
+| Name                   | Wonderdraft | Digital      |
+|:-----------------------|:-----------:|:------------:|
+| Shattered Teeth        | 4200 x 2700 |  8400 x 5400 |
+{.gray}
+
+(print-page)
+
+
+#### Tal'Dorei
+| Name                   | Wonderdraft | Digital      |
+|:-----------------------|:-----------:|:------------:|
+| **Tal'Dorei**          | 3000 x 4200 |  6000 x 8400 |
+| Alabaster Sierras      | 2400 x 1800 |  4800 x 3600 |
+| Bladeshimmer  | 2400 x 2400 |  4800 x 4800 |
+| Cliffkeep Mountains    | 4200 x 3000 |  8400 x 6000 |
+| Dividing Plains        | 2700 x 2100 |  5400 x 4200 |
+| Lucidian Coast         | 1800 x 2400 |  3600 x 4800 |
+| Rifenmist Peninsula    | 4200 x 2700 |  8400 x 5400 |
+| Stormcrest Mountains   | 2400 x 1800 |  4800 x 3600 |
+| Verdant Expanse        | 3000 x 1800 |  6000 x 3600 |
+{.gray}
+
+
+#### Wildemount
+| Name                   | Wonderdraft | Digital      |
+|:-----------------------|:-----------:|:------------:|
+| **Wildemount**         | 4500 x 4500 |  9000 x 9000 |
+| Blightshore            | 1800 x 3600 |  3600 x 7200 |
+| Eiselcross             | 3000 x 2400 |  6000 x 4800 |
+| Greying Wildlands      | 3000 x 2400 |  6000 x 4800 |
+| Marrow Valley          | 3000 x 3000 |  6000 x 6000 |
+| Menagerie Coast        | 4800 x 4800 |  9600 x 9600 |
+| Xhorhas                | 2400 x 4200 |  4800 x 8400 |
+| Zemni Fields           | 2400 x 2400 |  4800 x 4800 |
+{.gray}
+
+
+
+
+
