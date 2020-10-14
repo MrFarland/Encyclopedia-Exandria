@@ -28,12 +28,12 @@ An advanced cartography application, Wonderdraft provides the cartographer with 
 | **Symbol Color 3**      | r(76) g(71) b(63) a (255) |
 {.gray}
 
-#### Color Palette
+### Color Palette
 The color palette used in my maps is from the Avoro 4 theme for Wonderdraft. I have not made any modifications to colors, but only used a small subset of them for the map.
 
 When painting, use the grunge like brush and lower the opacity, but keep the brush large. Multiple passes blend areas better than high opacity or a small brush.
 
-#### Labels
+### Labels
 I am not documenting all of the label styles including colors and styles because there are simply too many. I'm only including the base styles used on the world map as a way to quickly replicate the overall feel. The **IM Fell English** font is the only typeface used in all maps.
 
 | Label              | Size* | Color                | Outline               |
@@ -58,7 +58,7 @@ I am not documenting all of the label styles including colors and styles because
 | Water (River)      | | | |
 {.gray}
 
-#### Path
+### Path
 The following settings were used for all paths.
 
 In addition to drawing roads using the above settings, all roads are traced with the dirt color to help blend them into the countryside. It also helps to convey "wear" from travelers.
@@ -66,7 +66,7 @@ In addition to drawing roads using the above settings, all roads are traced with
 (print-page)
 
 
-## Scale 
+### Scale 
 The scale of the maps in this atlas are based on the official map of Tal'Dorei from the 1.1 release of the Tal'Dorei Campaign Setting Guide. The continent of Tal'Dorei in the Atlas is a 1:1 representation of that map and all other continents and regions are positioned and scaled to that reference map.
 
 All of the maps use a faint hex grid to provide DMs with a means of quickly and accurately measuring the distance between two points. The size and scale of those hexes vary based on map type.
@@ -97,7 +97,22 @@ The following actual numbers are included for completeness. I strongly recommend
 | Region    |  30 |  35   | 17.5 |    779.4 |
 {.gray}
 
-## Resolution
+
+### Title Blocks
+
+#### World
+- Exandria = 192 - #282828
+- Text = 24 - #000000
+- Sovereign = 48
+- Council = 36 
+- Box = 919191
+- Red = #300D0D
+
+#### Continents
+- Name
+- Box
+
+## Maps
 The following table lists all of the maps in the atlas, the working size of the map used in Wonderdraft and both the digital and physical dimensions of the exported image. In all cases, the base **points per inch (PPI)** of each map is **300**. 
 
 #### World Map
