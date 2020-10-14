@@ -36,18 +36,26 @@ When painting, use the grunge like brush and lower the opacity, but keep the bru
 #### Labels
 I am not documenting all of the label styles including colors and styles because there are simply too many. I'm only including the base styles used on the world map as a way to quickly replicate the overall feel. The **IM Fell English** font is the only typeface used in all maps.
 
-| Label       | Size | Color                 | Outline               |
-|:------------|:----:|:---------------------:|:---------------------:|
-| Desert     | | | |
-| Forest (Evergreen) | | | |
+| Label              | Size* | Color                | Outline               |
+|:-------------------|:-----:|:--------------------:|:---------------------:|
+| Continent          | | | |
+| Desert             | | | |
 | Forest (Broadleaf) | | | |
-| Settlement (Capital) | | | |
-| Settlement (City) | | | |
-| Settlement (Town) | | | |
-| Settlement (Village) | | | |
-| Water (Feature) | | | |
-| Water (Ocean) | | | |
-| Water (River) | | | |
+| Forest (Dark/Dead) | | | |
+| Forest (Evergreen) | | | |
+| Islands            | | | |
+| Mountain           | | | |
+| Mountains          | | | |
+| Point of Interest  | | | |
+| Roads              | | | |
+| Settlement (Cap)   | | | |
+| Settlement (City)  | | | |
+| Settlement (Town)  | | | |
+| Settlement (Vill)  | | | |
+| Swamp              | | | |
+| Water (Feature)    | | | |
+| Water (Ocean)      | | | |
+| Water (River)      | | | |
 {.gray}
 
 #### Path
