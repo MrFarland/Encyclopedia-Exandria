@@ -1,0 +1,9 @@
+id: 08eda92a-6bfc-47ff-a53b-55ea451bd028
+name: Atlas Exandria Documentation
+slug: atlas-exandria-docs
+description: Documentation on the Atlas Exandria module.
+author: Donald Farland (donfarland.com)
+code: atlas-exandria
+cover: ../module/assets/img/map-world-exandria.jpg
+version: null
+autoIncrementVersion: false

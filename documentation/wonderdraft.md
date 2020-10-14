@@ -1,30 +1,35 @@
 ---
-name: Wonderdraft
-slug: wonderdraft
+name: Documentation
+slug: documentation
 order: 0
-module-pagebreaks: h1, h2
 ---
+# Documentation
+Atlas Exandria is an ambitious project that aims to create a comprehensive, canon-consistent set of maps for the world of Exandria. Maintaining accuracy and consistency requires a great deal of effort and this document was created to help me achieve these goals while simultaneously helping others recreate the look & feel of these maps and even create their own companion maps. 
 
-# Wonderdraft
-| General Settings ||
+## Wonderdraft
+This project would not be possible without the use of the outstanding cartography application, [Wonderdraft](https://wonderdraft.net). The application provides users with a nearly overwhelming number of settings and customizations that allows a cartographer to define a "style" that is all their own. This section defines what those settings are for the purpose of making sure future additions and improvements remain true to the original vision of this atlas.
+
+### Overall Style
+The following are the general settings used to achieve the overall look and feel of the maps in this atlas.
+
+|||
 |:---|:---|
-| Textures            | Worn / Worn   |
-| Coastal FX Distance | ~ 33%  |
-| Landmass Outline    | ~ 75%  |
-| Vignette            | ~ 50%  |
-| Coastline           | Irregular |
-| Coastline Color     | r(48) g(67) b(1) a (122)  |
-| Landmass Color      | r(67) g(42) b(10) a (255) |
-| Freshwater Color    | r(41) g(91) b(51) a (140) |
-| Freshwater Outline  | r(45) g(30) b(0) a (255)  |
-| Path Color          | r(132) g(117) b(110) a (180) |
-| Symbol Color 1      | r(37) g(20) b(12) a (255) |
-| Symbol Color 2      | r(37) g(35) b(30) a (150) |
-| Symbol Color 3      | r(76) g(71) b(63) a (255) |
-| Font                | IM Fell English  |
-{.sidebar}
+| **Textures**            | Worn / Worn   |
+| **Coastal FX Distance** | ~ 33%  |
+| **Landmass Outline**    | ~ 75%  |
+| **Vignette**            | ~ 50%  |
+| **Coastline**           | Irregular |
+| **Coastline Color**     | r(48) g(67) b(1) a (122)  |
+| **Landmass Color**      | r(67) g(42) b(10) a (255) |
+| **Freshwater Color**    | r(41) g(91) b(51) a (140) |
+| **Freshwater Outline**  | r(45) g(30) b(0) a (255)  |
+| **Path Color**          | r(132) g(117) b(110) a (180) |
+| **Symbol Color 1**      | r(37) g(20) b(12) a (255) |
+| **Symbol Color 2**      | r(37) g(35) b(30) a (150) |
+| **Symbol Color 3**      | r(76) g(71) b(63) a (255) |
+| **Font**                | IM Fell English  |
+{.gray}
 
-Wonderdraft is an advanced map-making application designed specifically for the purpose of creating fantasy style maps for gamers, authors, or just amateur cartographers. It is available at [wonderdraft.net](https://wonderdraft.net) and I cannot recommend it enough for anyone interested in creating their own maps.
 
 This page was created to provide you with all of the settings used to create the maps in this atlas. This should come in handy for anyone looking to replicate my look & feel or create companion maps for your own Exandrian home game.
 
