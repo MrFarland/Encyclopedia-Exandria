@@ -37,17 +37,26 @@ In this suite of maps, the scale of the maps are all based on the official map o
 - **Continent Maps** are 2x larger than they appear on the world map.
 - **Region Maps** are 4x larger than they appear on the world map.
 
+#### Overlays
+All of the maps have a very faint hex overlay to aid the DM in the quick calculation of distances and travel. All of them use the **pointy hex** setting with different values depending on the type of map. The following are the dimensions for the hexes by map type.
+
+| Map       |  F2F  |  V2V  |  Area  |
+|:----------|:-----:|:-----:|:------:|
+| World     |  |  |  |
+| Continent |  |  |  |
+| Region    |  |  |  |
+{.gray}
 
 ## Resolution
 The following table lists all of the maps in the atlas, the working size of the map used in Wonderdraft and both the digital and physical dimensions of the exported image. In all cases, the base **points per inch (PPI)** of each map is **300**. 
 
 | Type       | Name                   | Wonderdraft | Digital (x2) | Physical  |
 |:-----------|:-----------------------|:-----------:|:------------:|:---------:|
-| World      | Exandria               | 5400 x 3600 | 10800 x 7200 | 36" x 24" |
+| **World**  | **Exandria**           | 5400 x 3600 | 10800 x 7200 | 36" x 24" |
 | Continent  | Issylra*               | 3600 x 4800 |  7200 x 9600 | 24" x 32" |
 | Continent  | Marquet*               | 3600 x 2850 |  7200 x 5700 | 24" x 19" |
 | Continent  | Shattered Teeth*       | 4200 x 2700 |  8400 x 5400 | 28" x 18" |
-| Continent  | Tal'Dorei              | 3000 x 4200 |  6000 x 8400 | 20" x 28" |
+| **Continent**  | **Tal'Dorei**      | 3000 x 4200 |  6000 x 8400 | 20" x 28" |
 | Region     | Alabaster Sierras      | 2400 x 1800 |  4800 x 3600 | 16" x 12" |
 | Region     | Bladeshimmer Shoreline | 2400 x 2400 |  4800 x 4800 | 16" x 16" |
 | Region     | Cliffkeep Mountains    | 4200 x 3000 |  8400 x 6000 | 28" x 20" |
@@ -56,7 +65,7 @@ The following table lists all of the maps in the atlas, the working size of the 
 | Region     | Rifenmist Peninsula    | 4200 x 2700 |  8400 x 5400 | 28" x 18" |
 | Region     | Stormcrest Mountains   | 2400 x 1800 |  4800 x 3600 | 16" x 12" |
 | Region     | Verdant Expanse        | 3000 x 1800 |  6000 x 3600 | 20" x 12" |
-| Continent  | Wildemount             | 4500 x 4500 |  9000 x 9000 | 30" x 30" |
+| **Continent**  | **Wildemount**     | 4500 x 4500 |  9000 x 9000 | 30" x 30" |
 | Region     | Blightshore            | 1800 x 3600 |  3600 x 7200 | 12" x 24" |
 | Region     | Eiselcross             | 3000 x 2400 |  6000 x 4800 | 20" x 16" |
 | Region     | Greying Wildlands      | 3000 x 2400 |  6000 x 4800 | 20" x 16" |
@@ -82,24 +91,3 @@ The following reference dimensions are designed to help you visual .
 | Half Page (Sq) |  2550 x 2550 | 8.5" x 8.5"|  1:1  |
 | Widescreen     |  1920 x 1080 | N/A        | 16:9  |
 {.gray}
-
-
-
-
-
-
-
-
-
-
-
-
-
-Alternate Resolutions
--------------------------
-
-1/2		2700 x 1800
-1/4		1350 x  900
-1/8		 675 x  450	
-1/10	 540 x  360
-1/20     270 x  180
