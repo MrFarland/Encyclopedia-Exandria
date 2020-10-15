@@ -109,7 +109,7 @@ The following actual numbers are included for completeness. I strongly recommend
 - Red = #300D0D
 
 #### Continents
-- Name
+- Name = 96
 - Box
 
 ## Maps
