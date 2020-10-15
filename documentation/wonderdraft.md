@@ -106,7 +106,7 @@ The following actual numbers are included for completeness. I strongly recommend
 - Sovereign = 48
 - Council = 36 
 - Box = 919191
-- Red = #300D0D
+- Red = #732828
 
 #### Continents
 - Name = 96
