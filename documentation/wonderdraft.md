@@ -11,6 +11,7 @@ The maps in this atlas were created using the application, [Wonderdraft](https:/
 
 An advanced cartography application, Wonderdraft provides the cartographer with a range of settings and style choices. The following are the settings used to create the look and feel of these maps.
 
+### General Settings
 |||
 |:---|:---|
 | **Textures**            | Worn / Worn   |
@@ -34,29 +35,47 @@ The color palette used in my maps is from the Avoro 4 theme for Wonderdraft. I h
 When painting, use the grunge like brush and lower the opacity, but keep the brush large. Multiple passes blend areas better than high opacity or a small brush.
 
 ### Labels
-I am not documenting all of the label styles including colors and styles because there are simply too many. I'm only including the base styles used on the world map as a way to quickly replicate the overall feel. The **IM Fell English** font is the only typeface used in all maps.
 
-| Label              | Size* | Color                | Outline               |
-|:-------------------|:-----:|:--------------------:|:---------------------:|
-| Continent          | | | |
-| Desert             | | | |
-| Forest (Broadleaf) | | | |
-| Forest (Dark/Dead) | | | |
-| Forest (Evergreen) | | | |
-| Islands            | | | |
-| Mountain           | | | |
-| Mountains          | | | |
-| Point of Interest  | | | |
-| Roads              | | | |
-| Settlement (Cap)   | | | |
-| Settlement (City)  | | | |
-| Settlement (Town)  | | | |
-| Settlement (Vill)  | | | |
-| Swamp              | | | |
-| Water (Feature)    | | | |
-| Water (Ocean)      | | | |
-| Water (River)      | | | |
+I am not documenting all of the label styles including colors and styles because there are simply too many. I'm only including the base styles used on the world map as a way to quickly replicate the overall feel. 
+
+| Preset             |  TS | TC        | OS | OC        |
+|:-------------------|:---:|:---------:|:--:|:---------:|
+| Continent          | 128 | #9c000000 |  - | -         |
+| Desert             |  24 | #7d000000 |  3 | #7dab9262 |
+| Forest (Broadleaf) |  24 | #c8000000 |  3 | #c8ccbe99 |
+| Forest (Dark/Dead) |  24 | #c8000000 |  3 | #c85f5543 |
+| Forest (Evergreen) |  24 | #c8000000 |  3 | #c8505633 |
+| Island             |  18 | #9c000000 |  - | -         |
+| Island Chain       |  36 | #9c000000 |  - | -         |
+| Mountain           |  16 | #c8000000 |  2 | #c8918775 |
+| Mountain (Snow)    |  16 | #c8000000 |  2 | #c8e2e1e1 |
+| Mountains          |  24 | #c8000000 |  3 | #c8918775 |
+| Mountains (Snow)   |  24 | #c8000000 |  3 | #c8e2e1e1 |
+| Plain              |  18 | #c84c4a21 |  3 | #c8989367 |
+| Plain (Snow)       |  18 | #c8000000 |  3 | #c8e0dad6 |
+| Point of Interest  |  12 | #000000   |  - | -         |
+| Roads              |  10 | #000000   |  - | -         |
+| Settlement (Cap)   |  18 | #c8ffffff |  1 | #c8000000 |
+| Settlement (City)  |  16 | #c8ffffff |  1 | #c8000000 |
+| Settlement (Town)  |  14 | #c8ffffff |  1 | #c8000000 |
+| Settlement (Vill)  |  12 | #c8ffffff |  1 | #c8000000 |
+| Swamp              |  16 | #c8483010 |  3 | #c87a6e46 |
+| Water (Lake)       |  12 | #32ffffff |  - | -         |
+| Water (Feature)    |  24 | #32ffffff |  - | -         |
+| Water (Ocean)      | 128 | #32ffffff |  - | -         |
+| Water (River)      |  12 | #96ffffff |  - | -         |
 {.gray}
+
+#### Font
+All labels use the **IM Fell English Italic** font.
+
+#### Font Size
+Smaller font sizes are used for some labels where the full size version would not fit. Forests, mountains, swamps, etc. Might have a smaller label then is listed if the feature is too small. I will decrease the font by two until I find a size that fits. 
+
+The smallest font size is 10. It is small, but readable on the full-size image at 100% zoom.
+
+#### Curvature
+Curvature is an artistic choice and varies from one label to the next.
 
 ### Path
 The following settings were used for all paths.
