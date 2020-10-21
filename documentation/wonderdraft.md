@@ -77,8 +77,12 @@ The smallest font size is 10. It is small, but readable on the full-size image a
 #### Curvature
 Curvature is an artistic choice and varies from one label to the next.
 
-### Path
+### Paths
 The following settings were used for all paths.
+- Color: #b483756e
+- Width: 2
+- Type: 1
+{.square}
 
 In addition to drawing roads using the above settings, all roads are traced with the dirt color to help blend them into the countryside. It also helps to convey "wear" from travelers.
 
@@ -131,8 +135,38 @@ The following actual numbers are included for completeness. I strongly recommend
 - Name = 96
 - Box
 
-## Maps
+## Detail Maps
 The following table lists all of the maps in the atlas, the working size of the map used in Wonderdraft and both the digital and physical dimensions of the exported image. In all cases, the base **points per inch (PPI)** of each map is **300**. 
+
+### Continent Maps
+
+
+### Regional Maps
+
+#### Tal'Dorei
+| Name                |Zoom|   X  |   Y  |   W  |   H  | Resolution   |
+|:--------------------|:--:|:----:|:----:|:----:|:----:|:------------:|
+| Alabaster Sierras   | 4x | 2757 |  810 |  600 |  450 |  2400 x 1800 |
+| Bladeshimmer Shore  | 4x | 1750 | 1250 |  600 |  675 |  2400 x 2700 |
+| Cliffkeep Mountains | 4x | 1900 |  550 | 1050 |  750 |  4200 x 3000 |
+| Dividing Plains     | 4x | 2350 | 1150 |  600 |  450 |  2400 x 1800 |
+| Lucidian Coast      | 4x | 2850 | 1200 |  450 |  600 |  1800 x 2400 |
+| Rifenmist Peninsula | 4x | 2000 | 1900 | 1050 |  675 |  4200 x 2700 |
+| Stormcrest Mountains| 4x | 2500 | 1600 |  450 |  375 |  1800 x 1500 |
+| Verdant Expanse     | 4x | 2050 | 1600 |  600 |  450 |  2400 x 1800 |
+{.gray}
+
+#### Wildemount
+| Name                   |Zoom|   X  |   Y  |   W  |   H  | Resolution   |
+|:-----------------------|:--:|:----:|:----:|:----:|:----:|:------------:|
+| Blightshore            | 4x | 4950 |  750 |  450 |  900 | 1800 x 3600 |
+| Eiselcross             | 4x | 3675 |   40 |  750 |  450 | 3000 x 1800 |
+| Greying Wildlands      | 4x | 4300 |  280 |  750 |  600 | 3000 x 2400 |
+| Marrow Valley          | 4x | 3950 |  900 |  750 |  675 | 3000 x 2700 |
+| Menagerie Coast        | 4x | 3200 |  850 | 1200 | 1200 | 4800 x 4800 |
+| Xhorhas                | 4x | 4500 |  860 |  600 | 1050 | 2400 x 4200 |
+| Zemni Fields           | 4x | 3900 |  600 |  600 |  525 | 2400 x 2100 |
+{.gray}
 
 #### World Map
 | Name                   | Wonderdraft | Digital      | Physical  |
@@ -161,33 +195,9 @@ The following table lists all of the maps in the atlas, the working size of the 
 (print-page)
 
 
-#### Tal'Dorei
-| Name                   | Wonderdraft | Digital      |
-|:-----------------------|:-----------:|:------------:|
-| **Tal'Dorei**          | 3000 x 4200 |  6000 x 8400 |
-| Alabaster Sierras      | 2400 x 1800 |  4800 x 3600 |
-| Bladeshimmer  | 2400 x 2400 |  4800 x 4800 |
-| Cliffkeep Mountains    | 4200 x 3000 |  8400 x 6000 |
-| Dividing Plains        | 2700 x 2100 |  5400 x 4200 |
-| Lucidian Coast         | 1800 x 2400 |  3600 x 4800 |
-| Rifenmist Peninsula    | 4200 x 2700 |  8400 x 5400 |
-| Stormcrest Mountains   | 2400 x 1800 |  4800 x 3600 |
-| Verdant Expanse        | 3000 x 1800 |  6000 x 3600 |
-{.gray}
 
 
-#### Wildemount
-| Name                   | Wonderdraft | Digital      |
-|:-----------------------|:-----------:|:------------:|
-| **Wildemount**         | 4500 x 4500 |  9000 x 9000 |
-| Blightshore            | 1800 x 3600 |  3600 x 7200 |
-| Eiselcross             | 3000 x 2400 |  6000 x 4800 |
-| Greying Wildlands      | 3000 x 2400 |  6000 x 4800 |
-| Marrow Valley          | 3000 x 3000 |  6000 x 6000 |
-| Menagerie Coast        | 4800 x 4800 |  9600 x 9600 |
-| Xhorhas                | 2400 x 4200 |  4800 x 8400 |
-| Zemni Fields           | 2400 x 2400 |  4800 x 4800 |
-{.gray}
+
 
 
 
