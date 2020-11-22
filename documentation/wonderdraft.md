@@ -98,36 +98,36 @@ The following are the starting points for all of the labels used on the world ma
 
 | Preset             |Text Color |Outline|Outline Color|World|Cont.| Reg.| 
 |:-------------------|:---------:|:-----:|:-----------:|:---:|:---:|:---:|
+| Bay, Channel, Etc  | #32ffffff |   -   |   -         |  24 | | |
+| Capital            | #c8ffffff |   1   |   #c8000000 |  24 | | |
+| City               | #c8ffffff |   1   |   #c8000000 |  20 | | |
 | Continent          | #9c000000 |   -   |   -         | 128 | | |
 | Desert             | #7d000000 |   3   |   #7dab9262 |  24 | | |
-| Forest (Broadleaf) | #c8000000 |   3   |   #c8ccbe99 |  24 | | |
-| Forest (Dark/Dead) | #c8000000 |   3   |   #c85f5543 |  24 | | |
-| Forest (Evergreen) | #c8000000 |   3   |   #c8505633 |  24 | | |
+| Forest (Broadleaf) | #c8000000 |   3   |   #c8ccbe99 |  18 | | |
+| Forest (Dark/Dead) | #c8000000 |   3   |   #c85f5543 |  18 | | |
+| Forest (Evergreen) | #c8000000 |   3   |   #c8505633 |  18 | | |
 | Island             | #9c000000 |   -   |   -         |  18 | | | 
 | Island Chain       | #9c000000 |   -   |   -         |  36 | | |
+| Lake / Pond        | #32ffffff |   -   |   -         |  16 | | |
 | Mountain           | #c8000000 |   2   |   #c8918775 |  16 | | |
 | Mountain (Snow)    | #c8000000 |   2   |   #c8e2e1e1 |  16 | | |
 | Mountains          | #c8000000 |   3   |   #c8918775 |  24 | | |
 | Mountains (Snow)   | #c8000000 |   3   |   #c8e2e1e1 |  24 | | |
+| Ocean, Sea         | #32ffffff |   -   |   -         | 128 | | |
 | Plain              | #c84c4a21 |   3   |   #c8989367 |  18 | | |
 | Plain (Snow)       | #c8000000 |   3   |   #c8e0dad6 |  18 | | |
-| Point of Interest  | #000000   |   -   |   -         |  14 | | | 
-| Roads              | #000000   |   -   |   -         |  10 | | |
-| Settlement (Cap)   | #c8ffffff |   1   |   #c8000000 |  24 | | |
-| Settlement (City)  | #c8ffffff |   1   |   #c8000000 |  20 | | |
-| Settlement (Town)  | #c8ffffff |   1   |   #c8000000 |  18 | | |
-| Settlement (Vill)  | #c8ffffff |   1   |   #c8000000 |  16 | | |
+| Point of Interest  | #000000   |   -   |   -         |  16 | | | 
+| River, Creek, Etc  | #96ffffff |   -   |   -         |  -  | | |
+| Roads              | #000000   |   -   |   -         |  -  | | |
 | Swamp              | #c8483010 |   3   |   #c87a6e46 |  16 | | |
 | Swamp 2            | #7a6e46   |   3   |   #665e3e   |  16 | | |
-| Water (Lake)       | #32ffffff |   -   |   -         |  12 | | |
-| Water (Feature)    | #32ffffff |   -   |   -         |  24 | | |
-| Water (Ocean)      | #32ffffff |   -   |   -         | 128 | | |
-| Water (River)      | #96ffffff |   -   |   -         |     | | |
+| Town               | #c8ffffff |   1   |   #c8000000 |  18 | | |
+| Village            | #c8ffffff |   1   |   #c8000000 |  16 | | |
 {.gray}
 
 ***Note:** Font sizes scale when creating detail maps based on the scale factor. Keep this in mind and adjust detail map fonts to match the new scale.*
 
-##### Curvature
+#### Curvature
 Curvature is an artistic choice and varies from one label to the next. It is useful for wrapping labels to natural contours and very few labels have no curvature. Do avoid excessive curvatures as it greatly reduces readability.
 
 ### Paths
@@ -149,7 +149,6 @@ The use and style of overlays is a highly personal choice. The following setting
 All of my maps use the **Double Line Transparent** border style with a **#080808** color and a size of **0.5**. 
 
 This border works very well for digital maps, but you may have to make adjustments if you intend to have the map professionally printed. Different printers may have a "margin" or "bleed" area that could take anywhere from a 1/16 to an 1/8 of inch off the edge of the map. It is possible the map border will be too close to the edge and might look a little off. You'll want to talk to your printer and request a preview or recommendation from them prior to printing.
-
 
 ### Hex Overlay
 A hex overlay is something people either love or hate. I myself am torn on them. I think they are ugly, but incredibly useful. I include a hex overlay on every map for the purpose of aiding in the rapid calculation of distances.
