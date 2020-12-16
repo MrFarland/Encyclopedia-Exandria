@@ -159,9 +159,9 @@ That being said, when I plan on getting professional prints, I will be turning o
 The following are the settings for the grids for the various map types in this map pack.
 | Type     | Style        | Layer   | Size     | Line | Color     | 
 |:---------|:-------------|:--------|:--------:|:----:|:----------|
-| World    | Pointed Hex  | Default |  **136** |   2  | #64080808 |
-| Continent| Pointed Hex  | Default |  **136** |   2  | #64080808 |
-| Region   | Pointed Hex  | Default |  **136** |   2  | #64080808 |
+| World    | Pointed Hex  | Default |  **122** |   2  | #64080808 |
+| Continent| Pointed Hex  | Default |  **122** |   2  | #64080808 |
+| Region   | Pointed Hex  | Default |  **122** |   2  | #64080808 |
 {.gray}
 
 
@@ -193,10 +193,10 @@ Text in the title blocks are just labels and they will always appear above the t
 The font sizes for the different elements in my title blocks are:
 | Map    | Use | Size     |
 |:-------|:------------------------------------------------|:---:|
-| World  | Primary Title (Exandria)                        | 192 |
-| World  | Secondary Title (Sovereign Uriel Tal'Dorei III) | 48  |
-| World  | Tertiary Title (Council of Tal'Dorei)           | 36  |
-| World  | General Text                                    | 24  |
+| World  | Primary Title (Exandria)                        | 181 |
+| World  | Secondary Title (Sovereign Uriel Tal'Dorei III) | 45  |
+| World  | Tertiary Title (Council of Tal'Dorei)           | 34  |
+| World  | General Text                                    | 22  |
 | Region | Primary Title                                   | 96  |
 {.gray}
 
@@ -209,59 +209,56 @@ All of the maps in this map pack were created to match real-world dimensions for
 ### Standard Dimensions
 The sizes of the included maps vary depending on the area being depicted. While the sizes may be different, all maps were created to match real-world dimensions. The supported map sizes are:
 
-| Physical   | Digital     | Wonderdraft |
-|:----------:|:-----------:|:-----------:|
-| 24" x 18"  | 7200 x 5400 | 3600 x 2700 |
-| 17" x 11"  | 5100 x 3300 | 2550 x 1650 |
-| 11" x 8.5" | 3300 x 2550 | 1650 x 1275 |
+| Physical   | Digital      | Wonderdraft | AR   |
+|:----------:|:------------:|:-----------:|:----:|
+| 36" x 24"  | 10800 x 7200 | 5400 x 3600 |  3:2 |
+| 24" x 18"  |  7200 x 5400 | 3600 x 2700 |  4:3 |
+| 17" x 11"  |  5100 x 3300 | 2550 x 1650 | 17:11|
+| 11" x 8.5" |  3300 x 2550 | 1650 x 1275 | 22:17|
 {.gray}
 
 - **Physical**: The physical dimensions of the map printed from the digital file at 300 PPI.
 - **Digital**: The dimensions of the base digital image created from a 2x export of the Wonderdraft file.
 - **Wonderdraft**: The working resolution of the map used in the Wonderdraft application. 
+{.square}
 
 ### Map Sizes
-The following table includes the dimensions for all of the maps currently included in the atlas.
+The following table includes the settings used to create the detail maps from the master world map and the resulting dimensions for each map. 
 
-#### World Map
-| Name                |Zoom|   X  |   Y  |   W  |   H  | Digital     | Wonderdraft |
-|:--------------------|:--:|:----:|:----:|:----:|:----:|:-----------:|:-----------:|
-| Exandria            | 1x |   -  |   -  |   -  |   -  | 7200 x 5400 | 3600 x 2700 |
+| Name                       | Scale | X,Y       | WxH      |Wonderdraft| 2x Export  |
+|:---------------------------|:-----:|:---------:|:--------:|:---------:|:----------:|
+| Exandria                   |   1x  | N/A       | N/A      | 5400x3600 | 10800x7200 |
+| - Tal'Dorei                |   2x  | 1910,420  | 1400x2025| 2800x4200 |  5600x8100 |
+| - - Alabaster Sierras      |   4x  | 2750,770  |  600x400 | 2400x1600 |  4800x3200 |
+| - - Bladeshimmer Shoreline |   4x  | 1880,1100 |  480x720 | 1920x2880 |  3840x5760 |
+| - - Cliffkeep Mountains    |   4x  | 1880,532  | 1050x700 | 4200x2800 |  8400x5600 |
+| - - Dividing Plains        |   4x  | 2360,1100 |  600x400 | 2400x1600 |  4800x3200 |
+| - - Lucidian Coast         |   4x  | 2850,1100 |  400x600 | 1600x2400 |  3200x4800 |
+| - - Rifenmist Peninsula    |   4x  | 2100,1820 |  900x600 | 3600x2400 |  7200x4800 |
+| - - Stormcrest Mountains   |   4x  | 2450,1490 |  600x400 | 2400x1600 |  4800x3200 |
+| - - Verdant Expanse        |   4x  | 2020,1500 |  675x450 | 2700x1800 |  6400x3600 |
 {.gray}
 
-#### Continent Maps
-| Name                |Zoom|   X  |   Y  |   W  |   H  | Digital     | Wonderdraft |
-|:--------------------|:--:|:----:|:----:|:----:|:----:|:-----------:|:-----------:|
-| Tal'Dorei           | 2x |   -  |   -  |   -  |   -  | 7200 x 5400 | 3600 x 2700 |
-| Wildemount          | 2x |   -  |   -  |   -  |   -  | 7200 x 5400 | 3600 x 2700 |
+#### Aspect Ratio
+All of the maps in this pack were created with an aspect ratio of **3:2** or (**2:3**). This means all of the maps have the same basic shape with the only difference being the size or the map and whether it has a portrait or landscape orientation.
+
+
+
+#### Printing
+All of the maps were created to allow for printing with a points per inch of 300. The following are common print sizes, their native resolution and the closest 3:2 resolution.
+
+| Print   | Print Res. | 3:2 Res.  | Comment |
+|:-------:|:----------:|:---------:|:---|
+| 36 x 24 | 10800x7200 |  Same     | Common size available from most printing services.     |
+| 30 x 20 |  9000x6000 |  Same     | Common size available from most printing services.     |
+| 18 x 12 |  5400x3600 |  Same     | Less common, but available from some print services.   |
+| 17 x 11 |  5100x3300 | 5100x3400 | Crop 100px off the height or accept some distortion.   |
+| 11 x 8.5|  3300x2550 | 3300x2200 | The height will be about 1.3" shorter, but it will fit.|
 {.gray}
 
-#### Region Maps (Tal'Dorei)
-| Name                |Zoom|   X  |   Y  |   W  |   H  | Digital     | Wonderdraft |
-|:--------------------|:--:|:----:|:----:|:----:|:----:|:-----------:|:-----------:|
-| Alabaster Sierras   | 4x | 2757 |  810 |  600 |  450 | 2400 x 1800 ||
-| Bladeshimmer Shore  | 4x | 1750 | 1250 |  600 |  675 | 2400 x 2700 ||
-| Cliffkeep Mountains | 4x | 1900 |  550 | 1050 |  750 | 4200 x 3000 ||
-| Dividing Plains     | 4x | 2350 | 1150 |  600 |  450 | 2400 x 1800 ||
-| Lucidian Coast      | 4x | 2850 | 1200 |  450 |  600 | 1800 x 2400 ||
-| Rifenmist Peninsula | 4x | 2000 | 1900 | 1050 |  675 | 4200 x 2700 ||
-| Stormcrest Mountains| 4x | 2500 | 1600 |  450 |  375 | 1800 x 1500 ||
-| Verdant Expanse     | 4x | 2050 | 1600 |  600 |  450 | 2400 x 1800 ||
-{.gray}
+*Pay close attention to how much you scale a map up or down. This will effect the readability of the map labels and general sharpness of the map.*
 
-#### Region Maps (Wildemount)
-| Name                |Zoom|   X  |   Y  |   W  |   H  | Digital     | Wonderdraft |
-|:--------------------|:--:|:----:|:----:|:----:|:----:|:-----------:|:-----------:|
-| Blightshore         | 4x | 4950 |  750 |  450 |  900 | 1800 x 3600 ||
-| Eiselcross          | 4x | 3675 |   40 |  750 |  450 | 3000 x 1800 ||
-| Greying Wildlands   | 4x | 4300 |  280 |  750 |  600 | 3000 x 2400 ||
-| Marrow Valley       | 4x | 3950 |  950 |  750 |  675 | 3000 x 2700 ||
-| Menagerie Coast     | 4x | 3200 |  850 | 1200 | 1200 | 4800 x 4800 ||
-| Xhorhas             | 4x | 4500 |  860 |  600 | 1050 | 2400 x 4200 ||
-| Zemni Fields        | 4x | 3900 |  600 |  600 |  525 | 2400 x 2100 ||
-{.gray}
 
-(print-page)
 
 
 
