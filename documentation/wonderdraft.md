@@ -225,40 +225,27 @@ The sizes of the included maps vary depending on the area being depicted. While 
 ### Map Sizes
 The following table includes the settings used to create the detail maps from the master world map and the resulting dimensions for each map. 
 
-| Name                       | Scale | X,Y       | WxH      |Wonderdraft| 2x Export  |
-|:---------------------------|:-----:|:---------:|:--------:|:---------:|:----------:|
-| Exandria                   |   1x  | N/A       | N/A      | 5400x3600 | 10800x7200 |
-| - Tal'Dorei                |   2x  | 1910,420  | 1400x2025| 2800x4200 |  5600x8100 |
-| - - Alabaster Sierras      |   4x  | 2750,770  |  600x400 | 2400x1600 |  4800x3200 |
-| - - Bladeshimmer Shoreline |   4x  | 1880,1100 |  480x720 | 1920x2880 |  3840x5760 |
-| - - Cliffkeep Mountains    |   4x  | 1880,532  | 1050x700 | 4200x2800 |  8400x5600 |
-| - - Dividing Plains        |   4x  | 2360,1100 |  600x400 | 2400x1600 |  4800x3200 |
-| - - Lucidian Coast         |   4x  | 2850,1100 |  400x600 | 1600x2400 |  3200x4800 |
-| - - Rifenmist Peninsula    |   4x  | 2100,1820 |  900x600 | 3600x2400 |  7200x4800 |
-| - - Stormcrest Mountains   |   4x  | 2450,1490 |  600x400 | 2400x1600 |  4800x3200 |
-| - - Verdant Expanse        |   4x  | 2020,1500 |  675x450 | 2700x1800 |  6400x3600 |
+| Name                      | Scale | X,Y       | WxH      |Wonderdraft| 2x Export  |  AR |
+|:--------------------------|:-----:|:---------:|:--------:|:---------:|:----------:|:---:|
+| Exandria                  |   1x  | N/A       | N/A      | 5400x3600 | 10800x7200 | 3:2 |
+| - Tal'Dorei               |   2x  | 1910,420  | 1400x2025| 2800x4200 |  5600x8100 | 3:2 |
+| -- Alabaster Sierras      |   4x  | 2750,770  |  600x400 | 2400x1600 |  4800x3200 | 3:2 |
+| -- Bladeshimmer Shoreline |   4x  | 1880,1100 |  480x720 | 1920x2880 |  3840x5760 | 2:3 |
+| -- Cliffkeep Mountains    |   4x  | 1880,532  | 1050x700 | 4200x2800 |  8400x5600 | 3:2 |
+| -- Dividing Plains        |   4x  | 2360,1100 |  600x400 | 2400x1600 |  4800x3200 | 3:2 |
+| -- Lucidian Coast         |   4x  | 2850,1100 |  400x600 | 1600x2400 |  3200x4800 | 2:3 |
+| -- Rifenmist Peninsula    |   4x  | 2100,1820 |  900x600 | 3600x2400 |  7200x4800 | 3:2 |
+| -- Stormcrest Mountains   |   4x  | 2450,1490 |  600x400 | 2400x1600 |  4800x3200 | 3:2 |
+| -- Verdant Expanse        |   4x  | 2020,1500 |  675x450 | 2700x1800 |  6400x3600 | 3:2 |
+| - Wildemount              |   2x  | 3180,1    | 2100x2100| 4200x4200 |  8400x8400 | 1:1 |
+| -- Blightshore            |   4x  | 4750,700  |  600x900 | 2400x3600 |  4800x7200 | 2:3 |
+| -- Eiselcross             |   4x  | 3500,1    |  900x600 | 3600x2400 |  7200x4800 | 3:2 |
+| -- Greying Wildlands      |   4x  | 4050,270  |  900x600 | 3600x2400 |  7200x4800 | 3:2 |
+| -- Marrow Valley          |   4x  | 3900,800  |  700x700 | 2800x2800 |  5600x5600 | 1:1 |
+| -- Menagerie Coast        |   4x  | 3180,780  | 1200x1200| 4800x4800 |  9600x9600 | 1:1 |
+| -- Xhorhas                |   4x  | 4400x840  |  600x900 | 2400x3600 |  4800x7200 | 2:3 |
+| -- Zemni Fields           |   4x  | 3700x570  |  720x480 | 2880x1920 |  5760x3840 | 3:2 |
 {.gray}
-
-#### Aspect Ratio
-All of the maps in this pack were created with an aspect ratio of **3:2** or (**2:3**). This means all of the maps have the same basic shape with the only difference being the size or the map and whether it has a portrait or landscape orientation.
-
-
-
-#### Printing
-All of the maps were created to allow for printing with a points per inch of 300. The following are common print sizes, their native resolution and the closest 3:2 resolution.
-
-| Print   | Print Res. | 3:2 Res.  | Comment |
-|:-------:|:----------:|:---------:|:---|
-| 36 x 24 | 10800x7200 |  Same     | Common size available from most printing services.     |
-| 30 x 20 |  9000x6000 |  Same     | Common size available from most printing services.     |
-| 18 x 12 |  5400x3600 |  Same     | Less common, but available from some print services.   |
-| 17 x 11 |  5100x3300 | 5100x3400 | Crop 100px off the height or accept some distortion.   |
-| 11 x 8.5|  3300x2550 | 3300x2200 | The height will be about 1.3" shorter, but it will fit.|
-{.gray}
-
-*Pay close attention to how much you scale a map up or down. This will effect the readability of the map labels and general sharpness of the map.*
-
-
 
 
 
