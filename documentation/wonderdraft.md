@@ -1,14 +1,28 @@
 ---
-name: Wonderdraft
-slug: wonderdraft
+name: Atlas Exandria Cartographer's Guide
+slug: atlas-exandria-cartographers-guide
 order: 0
+pdf-page-style: single-column
 ---
-# Wonderdraft
-Atlas Exandria is an ambitious project to create a comprehensive, canon-consistent set of maps for the entire world of Exandria. Created using the cartography application [Wonderdraft](https://wonderdraft.net), maintaining consistency across multiple maps requires a great deal of effort. This document was created to help me achieve that goals while simultaneously helping others recreate the look & feel of these maps and create their own companion maps. 
+# Atlas Exandria {.text-center}
+#### Cartographer's Guide {.text-center}
+
+
+(print-page)
+
+# Introduction
+Atlas Exandria is an ambitiou ambitious project to create a comprehensive, canon-consistent set of maps for the entire world of Exandria. The current release of the Atlas contains numerous maps of the world, continents, and disparate regions of Exandria. Maintaining consistency across all of the atlas' many maps has been a challenge, but one that was made easier by this document. Contained within this, Cartographer's Guide, are all of the settings and aesthetic choices used to create all of these maps.
+
+#### Tools
+
+
+(print-page)
+
+Created using the cartography application [Wonderdraft](https://wonderdraft.net), maintaining consistency across multiple maps requires a great deal of effort. This document was created to help me achieve that goals while simultaneously helping others recreate the look & feel of these maps and create their own companion maps. 
 
 The maps in Atlas Exandria were created with [Wonderdraft](https://wonderdraft.net) 1.1.4.
 
-## Appearance
+# Appearance
 While the land depicted in a map is the most important element of any map, the general look & feel of the map is the first thing viewers see and recognize. It sets the tone for the map and is nearly as important to the usability of the map as it's accuracy. This chapter documents the various settings used to create these maps.
 
 ### General Settings
@@ -159,9 +173,9 @@ That being said, when I plan on getting professional prints, I will be turning o
 The following are the settings for the grids for the various map types in this map pack.
 | Type     | Style        | Layer   | Size     | Line | Color     | 
 |:---------|:-------------|:--------|:--------:|:----:|:----------|
-| World    | Pointed Hex  | Default |  **122** |   2  | #64080808 |
-| Continent| Pointed Hex  | Default |  **122** |   2  | #64080808 |
-| Region   | Pointed Hex  | Default |  **122** |   2  | #64080808 |
+| World    | Pointed Hex  | Default |  **?** |   2  | #64080808 |
+| Continent| Pointed Hex  | Default |  **256** |   2  | #64080808 |
+| Region   | Pointed Hex  | Default |  **128** |   2  | #64080808 |
 {.gray}
 
 
