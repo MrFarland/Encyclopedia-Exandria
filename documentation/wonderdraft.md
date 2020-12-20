@@ -174,7 +174,7 @@ The following are the settings for the grids for the various map types in this m
 | Type     | Style        | Layer   | Size     | Line | Color     | 
 |:---------|:-------------|:--------|:--------:|:----:|:----------|
 | World    | Pointed Hex  | Default |  **?** |   2  | #64080808 |
-| Continent| Pointed Hex  | Default |  **256** |   2  | #64080808 |
+| Continent| Pointed Hex  | Default |  **244** |   2  | #64080808 |
 | Region   | Pointed Hex  | Default |  **128** |   2  | #64080808 |
 {.gray}
 
