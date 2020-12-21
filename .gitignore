@@ -2,5 +2,5 @@
 *.wonderdraft_map
 *.zip
 .DS_Store
-documentation/ModuleBuild
-module/ModuleBuild
+documentation/ModuleBuild/
+module/ModuleBuild/
