@@ -262,8 +262,32 @@ The following table includes the settings used to create the detail maps from th
 {.gray}
 
 
+#### US Paper Sizes Only
+The standard dimensions are:
+- 17x11  = 5100x3300 - 3x (1700x1100) - 1.5x (3400x2200)
+- 11x8.5 = 3300x2550 - 3x (1100x850) - 1.5x (2200x1700)
 
-
+| Name                      | Scale | X,Y       | WxH      |Wonderdraft| 2x Export  |  AR |
+|:--------------------------|:-----:|:---------:|:--------:|:---------:|:----------:|:---:|
+| Exandria                  |   1x  | N/A       | N/A      | 5400x3600 | 10800x7200 | 3:2 |
+| - Tal'Dorei               |   2x  | 1910,420  |   |  |   |  |
+| -- Alabaster Sierras      |   4x  | 2750,770  |   |  |   |  |
+| -- Bladeshimmer Shoreline |   4x  | 1880,1100 |   |  |   |  |
+| -- Cliffkeep Mountains    |   4x  | 1880,532  |   |  |   |  |
+| -- Dividing Plains        |   4x  | 2360,1100 |   |  |   |  |
+| -- Lucidian Coast         |   4x  | 2850,1100 |   |  |   |  |
+| -- Rifenmist Peninsula    |   4x  | 2100,1820 |   |  |   |  |
+| -- Stormcrest Mountains   |   4x  | 2450,1490 |   |  |   |  |
+| -- Verdant Expanse        |   4x  | 2020,1500 |   |  |   |  |
+| - Wildemount              |   2x  | 3180,1    |   |  |   |  |
+| -- Blightshore            |   4x  | 4750,700  |   |  |   |  |
+| -- Eiselcross             |   4x  | 3500,1    |   |  |   |  |
+| -- Greying Wildlands      |   4x  | 4050,270  |   |  |   |  |
+| -- Marrow Valley          |   4x  | 3900,800  |   |  |   |  |
+| -- Menagerie Coast        |   4x  | 3180,780  |   |  |   |  |
+| -- Xhorhas                |   4x  | 4400x840  |   |  |   |  |
+| -- Zemni Fields           |   4x  | 3700x570  |   |  |   |  |
+{.gray}
 
 
 
