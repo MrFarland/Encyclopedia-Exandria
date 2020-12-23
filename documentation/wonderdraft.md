@@ -267,26 +267,27 @@ The standard dimensions are:
 - 17x11  = 5100x3300 - 3x (1700x1100) - 1.5x (3400x2200)
 - 11x8.5 = 3300x2550 - 3x (1100x850) - 1.5x (2200x1700)
 
-| Name                      | Scale | X,Y       | WxH      |Wonderdraft| 2x Export  |  AR |
-|:--------------------------|:-----:|:---------:|:--------:|:---------:|:----------:|:---:|
-| Exandria                  |   1x  | N/A       | N/A      | 5400x3600 | 10800x7200 | 3:2 |
-| - Tal'Dorei               |   2x  | 1910,420  |   |  |   |  |
-| -- Alabaster Sierras      |   4x  | 2750,770  |   |  |   |  |
-| -- Bladeshimmer Shoreline |   4x  | 1880,1100 |   |  |   |  |
-| -- Cliffkeep Mountains    |   4x  | 1880,532  |   |  |   |  |
-| -- Dividing Plains        |   4x  | 2360,1100 |   |  |   |  |
-| -- Lucidian Coast         |   4x  | 2850,1100 |   |  |   |  |
-| -- Rifenmist Peninsula    |   4x  | 2100,1820 |   |  |   |  |
-| -- Stormcrest Mountains   |   4x  | 2450,1490 |   |  |   |  |
-| -- Verdant Expanse        |   4x  | 2020,1500 |   |  |   |  |
-| - Wildemount              |   2x  | 3180,1    |   |  |   |  |
-| -- Blightshore            |   4x  | 4750,700  |   |  |   |  |
-| -- Eiselcross             |   4x  | 3500,1    |   |  |   |  |
-| -- Greying Wildlands      |   4x  | 4050,270  |   |  |   |  |
-| -- Marrow Valley          |   4x  | 3900,800  |   |  |   |  |
-| -- Menagerie Coast        |   4x  | 3180,780  |   |  |   |  |
-| -- Xhorhas                |   4x  | 4400x840  |   |  |   |  |
-| -- Zemni Fields           |   4x  | 3700x570  |   |  |   |  |
+| Name                      | Scale | X,Y       | WxH     |Wonderdraft| 2x Export   |
+|:--------------------------|:-----:|:---------:|:-------:|:---------:|:-----------:|
+| Exandria                  |   1x  | N/A       | N/A     | 5400x3600 | 10800x7200  |
+| - Tal'Dorei               | 1.5x  | 1750,350  |1700x2200| 2550x3300 |  5100x6600  | 
+| -- Alabaster Sierras      |   6x  | 2750,750  | 550x425 | 3300x2550 |  6600x5100  |
+| -- Bladeshimmer Shoreline |   6x  | 1880,970  | 550x850 | 3300x5100 |  6600x10200 |
+| -- Cliffkeep Mountains    |   6x  | 2050,660  | 850x550 | 5100x3300 | 10200x6600  |
+| -- Dividing Plains        |   6x  | 2400,1100 | 550x425 | 3300x2550 |  6600x5100  |
+| -- Lucidian Coast         |   6x  | 2850,1125 | 425x550 | 3300x2550 |  6600x5100  |
+| -- Rifenmist Peninsula    |   6x  | 2100,1840 | 850x550 | 5100x3300 | 10200x6600  |
+| -- Stormcrest Mountains   |   6x  | 2480,1500 | 550x425 | 3300x2550 |  6600x5100  |
+| -- Verdant Expanse        |   6x  | 2020,1520 | 550x425 | 3300x2550 |  6600x5100  |
+| - Wildemount              | 1.5x  | 3100,200  |2200x1700| 3300x2550 |  6600x5100  |
+| -- Blightshore            |   6x  | 4750,730  | 550x850 | 3300x5100 |  6600x10200 |
+| -- Eiselcross             |   6x  | 3680,1    | 850x550 | 5100x3300 | 10200x6600  |
+| -- Greying Wildlands      |   6x  | 4100,285  | 850x550 | 5100x3300 | 10200x6600  |
+| -- Marrow Valley          |   6x  | 3880,885  | 850x550 | 5100x3300 | 10200x6600  |
+| -- Menagerie Coast (N)    |   6x  | 3190,810  | 850x550 | 5100x3300 | 10200x6000  |
+| -- Menagerie Coast (S)    |   6x  | 3490,1360 | 850x550 | 5100x3300 | 10200x6000  |
+| -- Xhorhas                |   6x  | 4460x860  | 550x850 | 3300x5100 |  6600x10200 |
+| -- Zemni Fields           |   6x  | 3600x550  | 850x550 | 5100x3300 | 10200x6600  |
 {.gray}
 
 
