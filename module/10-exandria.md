@@ -6,5 +6,42 @@ module-pagebreaks: h1, h2
 pdf-page-style: single-column
 hide-footer-text: false
 ---
+![Exandria - Western Hemisphere](assets/img/MrFarland-Exandria_800-0_world-exandria-2250x3000-left.jpg){.print-only}
+
+(print-page)
+
+![Exandria - Eastern Hemisphere](assets/img/MrFarland-Exandria_800-0_world-exandria-2250x3000-right.jpg){.print-only}
+
+(print-page)
+
+![Exandria](assets/img/MrFarland-Exandria_800-0_world-exandria-3840x2560.jpg){.size-cover .screen-only}
 # Exandria
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Exandria](exandria) is a world consisting of five continents and three oceans. The world is relatively small, compared to some of the other planes of the cosmos, with a circumference of roughly 5,000 miles. It resides on a material plane at the center of the Great Wheel
+
+#### Climate
+There are a wide range of climate types in [Exandria](exandria) with nearly every combination of . Extreme climates can be found on all of [Exandria's](exandria) continents, but they are relatively small in comparison to the more temperate regions. In addition, to it's natural climes, there are numberous regions that have been scarred by rifts between the planes or centuries of war.
+
+#### Diversity
+The world of [Exandria](exandria) is incredibly diverse with over twenty different races inhabiting the world. While most of these races are native to [Exandria](exandria), many of them emigrated from other planes in the cosmos. Regardless of how they got here; each brings their own unique culture to world.
+
+#### History
+The material plane of [Exandria](exandria) is relatively young. While nobody knows the world's true age, most scholars put the age of world  between 3,000 and 5,000 years. Despite it's young age, however, the world of [Exandria](exandria) has seen four ages and been nearly destroyed twice.
+
+#### Continents
+The continents of [Exandria](exandria) are:
+- [Issylra](issylra)
+- [Marquet](marquet)
+- [Shattered Teeth](shattered-teeth)
+- [Tal'Dorei](taldorei)
+- [Wildemount](wildemount)
+{.square}
+
+#### Oceans
+The oceans of [Exandria](exandria) are:
+- [Frigid Depths](frigid-depths)
+- [Lucidian Ocean](lucidian-ocean)
+- [Ozmit Sea](ozmit-sea)
+{.square}
+
+
+
