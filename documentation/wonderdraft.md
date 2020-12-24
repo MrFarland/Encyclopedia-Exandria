@@ -167,20 +167,13 @@ This border works very well for digital maps, but you may have to make adjustmen
 ### Hex Overlay
 A hex overlay is something people either love or hate. I myself am torn on them. I think they are ugly, but incredibly useful. I include a hex overlay on every map for the purpose of aiding in the rapid calculation of distances.
 
-That being said, when I plan on getting professional prints, I will be turning off the hex overlay prior to submitting them. At the moment, I do not plan on releasing the maps with and without grid, but I may change my mind.
+That being said, when I plan on getting professional prints, I will be turning off the hex overlay prior to submitting them. At the moment, I do not plan on releasing the maps without the grid, but ... I may change my mind.
 
-#### Settings
-The following are the settings for the grids for the various map types in this map pack.
-| Type     | Style        | Layer   | Size     | Line | Color     | 
-|:---------|:-------------|:--------|:--------:|:----:|:----------|
-| World    | Pointed Hex  | Default |  **?** |   2  | #64080808 |
-| Continent| Pointed Hex  | Default |  **244** |   2  | #64080808 |
-| Region   | Pointed Hex  | Default |  **128** |   2  | #64080808 |
-{.gray}
-
+#### Style
+The grid overlay on all maps uses the **Pointed Hex** style on the **Below Symbols** layer with a line weight of **2** and a color of **#32080808**.
 
 #### Hex Scale
-The scale of the maps in this atlas are based on the official map of Tal'Dorei from the 1.1 release of the Tal'Dorei Campaign Setting Guide. The continent of Tal'Dorei in the Atlas is a 1:1 representation of that map and all other continents and regions are positioned and scaled to that reference map.
+The scale of the maps in this atlas are based on the official map of Tal'Dorei from the 1.1 release of the Tal'Dorei Campaign Setting Guide by Adam Law. The continent of Tal'Dorei in the Atlas is a 1:1 representation of that map and all other continents and regions are positioned and scaled to that reference map.
 
 The numbers are approximate distances for the various dimensions of a hexagon. The actual numbers are in parenthesis, but I recommend rounding for your own sanity.
 
@@ -189,14 +182,14 @@ The numbers are approximate distances for the various dimensions of a hexagon. T
 - **V2C**: The distance from a vertex to the center of the hexagon. Also the length of a single face.
 {.square}
 
-*^All^ ^numbers^ ^are^ ^in^ ^miles^ ^or^ ^square^ ^miles^*
-
-| Map Type  | F2F | V2V   | V2C  | Area     |
-|:----------|:---:|:-----:|:----:|:--------:|
-| World     | 120 | 140 (138.6) | 70 (69.3) | 12,000 (12,471) |
-| Continent |  60 |  70 (69.3)  | 35 (34.6) |  3,000 (3,118) |
-| Region    |  30 |  35 (34.6)  | 17 (17.3) |    780 (779.4) |
+| Type     | Zoom | Size   | F2F | V2V         | V2C       | Area            |
+|:---------|:----:|:------:|:---:|:-----------:|:---------:|:---------------:|
+| World    | 1x   |**130** | 120 | 140 (138.6) | 70 (69.3) | 12,000 (12,471) |
+| Continent| 1.5x | **98** |  60 |  70 (69.3)  | 35 (34.6) |  3,000  (3,118) |
+| Region   | 6x   |**196** |  30 |  35 (34.6)  | 17 (17.3) |    780  (779.4) |  
 {.gray}
+
+***Note:** The scale of the Wildemount map in the Explorer's Guide to Wildemount is different than the scale of the Tal'Dorei map used in this atlas. I started working on my maps years before the EGtW map came out and I'm sticking with the original map from the Tal'Dorei Campaign Setting Guide as my reference. The differences are minor and should not affect gameplay in any way.*
 
 ### Title Blocks
 The title blocks for all maps use the **IM Fell English Italic** font with a base color of **#282828** and a highlight color of **#732828**. The boxes use a background color of **#919191** and the style **Double Line Opaque**.
@@ -239,34 +232,6 @@ The sizes of the included maps vary depending on the area being depicted. While 
 ### Map Sizes
 The following table includes the settings used to create the detail maps from the master world map and the resulting dimensions for each map. 
 
-| Name                      | Scale | X,Y       | WxH      |Wonderdraft| 2x Export  |  AR |
-|:--------------------------|:-----:|:---------:|:--------:|:---------:|:----------:|:---:|
-| Exandria                  |   1x  | N/A       | N/A      | 5400x3600 | 10800x7200 | 3:2 |
-| - Tal'Dorei               |   2x  | 1910,420  | 1400x2025| 2800x4200 |  5600x8100 | 3:2 |
-| -- Alabaster Sierras      |   4x  | 2750,770  |  600x400 | 2400x1600 |  4800x3200 | 3:2 |
-| -- Bladeshimmer Shoreline |   4x  | 1880,1100 |  480x720 | 1920x2880 |  3840x5760 | 2:3 |
-| -- Cliffkeep Mountains    |   4x  | 1880,532  | 1050x700 | 4200x2800 |  8400x5600 | 3:2 |
-| -- Dividing Plains        |   4x  | 2360,1100 |  600x400 | 2400x1600 |  4800x3200 | 3:2 |
-| -- Lucidian Coast         |   4x  | 2850,1100 |  400x600 | 1600x2400 |  3200x4800 | 2:3 |
-| -- Rifenmist Peninsula    |   4x  | 2100,1820 |  900x600 | 3600x2400 |  7200x4800 | 3:2 |
-| -- Stormcrest Mountains   |   4x  | 2450,1490 |  600x400 | 2400x1600 |  4800x3200 | 3:2 |
-| -- Verdant Expanse        |   4x  | 2020,1500 |  675x450 | 2700x1800 |  6400x3600 | 3:2 |
-| - Wildemount              |   2x  | 3180,1    | 2100x2100| 4200x4200 |  8400x8400 | 1:1 |
-| -- Blightshore            |   4x  | 4750,700  |  600x900 | 2400x3600 |  4800x7200 | 2:3 |
-| -- Eiselcross             |   4x  | 3500,1    |  900x600 | 3600x2400 |  7200x4800 | 3:2 |
-| -- Greying Wildlands      |   4x  | 4050,270  |  900x600 | 3600x2400 |  7200x4800 | 3:2 |
-| -- Marrow Valley          |   4x  | 3900,800  |  700x700 | 2800x2800 |  5600x5600 | 1:1 |
-| -- Menagerie Coast        |   4x  | 3180,780  | 1200x1200| 4800x4800 |  9600x9600 | 1:1 |
-| -- Xhorhas                |   4x  | 4400x840  |  600x900 | 2400x3600 |  4800x7200 | 2:3 |
-| -- Zemni Fields           |   4x  | 3700x570  |  720x480 | 2880x1920 |  5760x3840 | 3:2 |
-{.gray}
-
-
-#### US Paper Sizes Only
-The standard dimensions are:
-- 17x11  = 5100x3300 - 3x (1700x1100) - 1.5x (3400x2200)
-- 11x8.5 = 3300x2550 - 3x (1100x850) - 1.5x (2200x1700)
-
 | Name                      | Scale | X,Y       | WxH     |Wonderdraft| 2x Export   |
 |:--------------------------|:-----:|:---------:|:-------:|:---------:|:-----------:|
 | Exandria                  |   1x  | N/A       | N/A     | 5400x3600 | 10800x7200  |
@@ -290,6 +255,14 @@ The standard dimensions are:
 | -- Zemni Fields           |   6x  | 3600x550  | 850x550 | 5100x3300 | 10200x6600  |
 {.gray}
 
+##### Draft Complete
+- Exandria
+- Taldorei
+- Wildemount
+- Alabaster Sierras
+- Bladeshimmer Shoreline
+
+##### Final Complete
 
 
 
