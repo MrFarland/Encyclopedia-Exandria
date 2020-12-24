@@ -5,11 +5,11 @@ order: 53
 module-pagebreaks: h1, h2
 page-parent: taldorei
 ---
-![?](assets/img/MrFarland-Exandria_800-2_region-cliffkeep_mountains_west-5100x3300.jpg){.size-full .print-only}
+![?](assets/img/MrFarland-Exandria_800-2_region-cliffkeep_mountains_west-2550x3300.jpg){.size-full .print-only}
 
 (print-page)
 
-![?](assets/img/MrFarland-Exandria_800-2_region-cliffkeep_mountains_east-5100x3300.jpg){.size-full .print-only}
+![?](assets/img/MrFarland-Exandria_800-2_region-cliffkeep_mountains_east-2550x3300.jpg){.size-full .print-only}
 
 (print-page)
 

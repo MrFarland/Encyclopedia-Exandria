@@ -5,11 +5,11 @@ order: 52
 module-pagebreaks: h1, h2
 page-parent: taldorei
 ---
-![Bladeshimmer Shoreline - North](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline_north-3300x5100-rotated.jpg){.size-full .print-only}
+![Bladeshimmer Shoreline - North](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline_north-3300x2550-rotated.jpg){.size-full .print-only}
 
 (print-page)
 
-![Bladeshimmer Shoreline - South](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline_south-3300x5100-rotated.jpg){.size-full .print-only}
+![Bladeshimmer Shoreline - South](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline_south-3300x2550-rotated.jpg){.size-full .print-only}
 
 (print-page)
 
