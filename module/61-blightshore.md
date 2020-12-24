@@ -5,11 +5,11 @@ order: 61
 module-pagebreaks: h1, h2
 page-parent: wildemount
 ---
-![?](assets/img/placeholder-map-2550x3300.jpg){.size-full .print-only}
+![?](assets/img/MrFarland-Exandria_800-2_region-blightshore_north-3300x5100-rotated.jpg){.size-full .print-only}
 
 (print-page)
 
-![?](assets/img/placeholder-map-2550x3300.jpg){.size-full .print-only}
+![?](assets/img/MrFarland-Exandria_800-2_region-blightshore_south-3300x5100-rotated.jpg){.size-full .print-only}
 
 (print-page)
 
