@@ -248,10 +248,10 @@ The following table includes the settings used to create the detail maps from th
 | -- Blightshore            |   6x  | 4750,730  | 550x850 | 3300x5100 |  6600x10200 |
 | -- Eiselcross             |   6x  | 3680,1    | 850x550 | 5100x3300 | 10200x6600  |
 | -- Greying Wildlands      |   6x  | 4100,285  | 850x550 | 5100x3300 | 10200x6600  |
-| -- Marrow Valley          |   6x  | 3880,885  | 850x550 | 5100x3300 | 10200x6600  |
+| -- Marrow Valley          |   6x  | 3880,900  | 850x550 | 5100x3300 | 10200x6600  |
 | -- Menagerie Coast (N)    |   6x  | 3190,810  | 850x550 | 5100x3300 | 10200x6000  |
 | -- Menagerie Coast (S)    |   6x  | 3490,1360 | 850x550 | 5100x3300 | 10200x6000  |
-| -- Xhorhas                |   6x  | 4460x860  | 550x850 | 3300x5100 |  6600x10200 |
+| -- Xhorhas                |   6x  | 4450x870  | 550x850 | 3300x5100 |  6600x10200 |
 | -- Zemni Fields           |   6x  | 3600x550  | 850x550 | 5100x3300 | 10200x6600  |
 {.gray}
 
