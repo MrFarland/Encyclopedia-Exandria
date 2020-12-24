@@ -4,17 +4,10 @@ slug: exandria
 order: 10
 module-pagebreaks: h1, h2
 pdf-page-style: single-column
+print-cover: assets/img/placeholder-map-2550x3300.jpg
 hide-footer-text: false
 ---
-![Exandria - Western Hemisphere](assets/img/MrFarland-Exandria_800-0_world-exandria-2250x3000-left.jpg){.print-only}
 
-(print-page)
-
-![Exandria - Eastern Hemisphere](assets/img/MrFarland-Exandria_800-0_world-exandria-2250x3000-right.jpg){.print-only}
-
-(print-page)
-
-![Exandria](assets/img/MrFarland-Exandria_800-0_world-exandria-3840x2560.jpg){.size-cover .screen-only}
 # Exandria
 [Exandria](exandria) is a world consisting of five continents and three oceans. The world is relatively small, compared to some of the other planes of the cosmos, with a circumference of roughly 5,000 miles. It resides on a material plane at the center of the Great Wheel
 
