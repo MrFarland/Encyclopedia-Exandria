@@ -240,10 +240,10 @@ The following table includes the settings used to create the detail maps from th
 | -- Bladeshimmer Shoreline |   6x  | 1880,970  | 550x850 | 3300x5100 |  6600x10200 |
 | -- Cliffkeep Mountains    |   6x  | 2050,660  | 850x550 | 5100x3300 | 10200x6600  |
 | -- Dividing Plains        |   6x  | 2400,1100 | 550x425 | 3300x2550 |  6600x5100  |
-| -- Lucidian Coast         |   6x  | 2850,1125 | 425x550 | 3300x2550 |  6600x5100  |
+| -- Lucidian Coast         |   6x  | 2850,1130 | 425x550 | 3300x2550 |  6600x5100  |
 | -- Rifenmist Peninsula    |   6x  | 2100,1840 | 850x550 | 5100x3300 | 10200x6600  |
-| -- Stormcrest Mountains   |   6x  | 2480,1500 | 550x425 | 3300x2550 |  6600x5100  |
-| -- Verdant Expanse        |   6x  | 2020,1520 | 550x425 | 3300x2550 |  6600x5100  |
+| -- Stormcrest Mountains   |   6x  | 2480,1480 | 550x425 | 3300x2550 |  6600x5100  |
+| -- Verdant Expanse        |   6x  | 2100,1520 | 550x425 | 3300x2550 |  6600x5100  |
 | - Wildemount              | 1.5x  | 3100,200  |2200x1700| 3300x2550 |  6600x5100  |
 | -- Blightshore            |   6x  | 4750,730  | 550x850 | 3300x5100 |  6600x10200 |
 | -- Eiselcross             |   6x  | 3680,1    | 850x550 | 5100x3300 | 10200x6600  |
