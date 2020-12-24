@@ -4,14 +4,12 @@ slug: bladeshimmer-shoreline
 order: 52
 module-pagebreaks: h1, h2
 page-parent: taldorei
-pdf-page-style: multi-column
-hide-footer-text: false
 ---
-![?](assets/img/placeholder-map-2550x3300.jpg){.print-only}
+![?](assets/img/placeholder-map-2550x3300.jpg){.size-full .print-only}
 
 (print-page)
 
-![?](assets/img/placeholder-map-2550x3300.jpg){.print-only}
+![?](assets/img/placeholder-map-2550x3300.jpg){.size-full .print-only}
 
 (print-page)
 

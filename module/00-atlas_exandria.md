@@ -2,9 +2,9 @@
 name: Atlas Exandria
 slug: atlas-exandria
 order: 00
+hide-footer: true
+include-in: print
 pdf-page-style: single-column
-module-pagebreaks: h1, h2
-hide-footer-text: true
 ---
 
 <br/>

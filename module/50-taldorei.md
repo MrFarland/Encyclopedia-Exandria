@@ -2,11 +2,8 @@
 name: Tal'Dorei
 slug: taldorei
 order: 50
-module-pagebreaks: h1, h2
-pdf-page-style: single-column
-hide-footer-text: false
 ---
-![Exandria - Western Hemisphere](assets/img/placeholder-map-2550x3300.jpg){.print-only}
+![?](assets/img/placeholder-map-2550x3300.jpg) {.size-full .print-only}
 
 (print-page)
 

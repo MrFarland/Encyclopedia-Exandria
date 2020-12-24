@@ -3,14 +3,12 @@ name: Wildemount
 slug: wildemount
 order: 60
 module-pagebreaks: h1, h2
-pdf-page-style: single-column
-hide-footer-text: false
 ---
-![?](assets/img/placeholder-map-2550x3300.jpg){.print-only}
+![?](assets/img/placeholder-map-2550x3300.jpg){.size-full .print-only}
 
 (print-page)
 
-![?](assets/img/placeholder-map-2550x3300.jpg){.print-only}
+![?](assets/img/placeholder-map-2550x3300.jpg){.size-full .print-only}
 
 (print-page)
 

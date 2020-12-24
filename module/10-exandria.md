@@ -1,13 +1,18 @@
 ---
 name: Exandria
 slug: exandria
-order: 10
-module-pagebreaks: h1, h2
-pdf-page-style: single-column
-print-cover: assets/img/placeholder-map-2550x3300.jpg
-hide-footer-text: false
+order: 12
 ---
+![west](assets/img/placeholder-map-2550x3300.jpg){.size-full .print-only}
 
+(print-page)
+
+![east](assets/img/placeholder-map-2550x3300.jpg){.size-full .print-only}
+
+(print-page)
+
+
+![Heading](assets/img/heading.png){.size-cover}
 # Exandria
 [Exandria](exandria) is a world consisting of five continents and three oceans. The world is relatively small, compared to some of the other planes of the cosmos, with a circumference of roughly 5,000 miles. It resides on a material plane at the center of the Great Wheel
 
