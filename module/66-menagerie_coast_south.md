@@ -1,15 +1,15 @@
 ---
-name: Menagerie Coast (North)
-slug: menagerie-coast-north
+name: Menagerie Coast (South)
+slug: menagerie-coast-south
 order: 66
 module-pagebreaks: h1, h2
 page-parent: wildemount
 ---
-![?](assets/img/MrFarland-Exandria_800-2_region-menagerie_coast_south-west-2550x3300.jpg){.size-full .print-only}
+![?](assets/img/MrFarland-Exandria_800-2_region-menagerie_coast_south_west-2550x3300.jpg){.size-full .print-only}
 
 (print-page)
 
-![?](assets/img/MrFarland-Exandria_800-2_region-menagerie_coast_south-east-2550x3300.jpg){.size-full .print-only}
+![?](assets/img/MrFarland-Exandria_800-2_region-menagerie_coast_south_east-2550x3300.jpg){.size-full .print-only}
 
 (print-page)
 
@@ -17,3 +17,7 @@ page-parent: wildemount
 
 ## Menagerie Coast (South)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+(print-page)
+
+This page intentionally left blank ... for now.
