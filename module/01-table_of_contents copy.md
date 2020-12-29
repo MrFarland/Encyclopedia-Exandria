@@ -22,7 +22,8 @@ hide-footer: true
 - [Eiselcross](eiselcross)
 - [Greying Wildlands](greying-wildlands)
 - [Marrow Valley](marrow-valley)
-- [Menagerie Coast](menagerie-coast)
+- [Menagerie Coast (North)](menagerie-coast-north)
+- [Menagerie Coast (South)](menagerie-coast-south)
 - [Xhorhas](xhorhas)
 - [Zemni Fields](zemni-fields)
 {.toc}

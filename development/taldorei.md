@@ -95,7 +95,7 @@ Alabaster Bay is a large bay located on the eastern side of the [Alabaster Penin
 
 The western shore is rocky and cold. The [Sierras](alabaster-sierra-range) rise out of the water and flat land is hard to find. The southern shore, on the other hand, is relatively flat with the [Parchwood Timberland](parchwood-timberland) coming right to the water's edge.
 
-*^Canon^ ^Consistency:^ **^Medium^***
+*^Canon^ ^Consistency:^ **^Medium^*** {.screen-only}
 
 > I could find no name for this bay on any existing maps. Should I discover it has a name, I will update my maps and encyclopedia accordingly.
 > 
@@ -115,7 +115,7 @@ The entirety of the [Alabaster Peninsula](alabaster-sierras) is wild, untamed wi
 
 Infused with magical energy, the white stone from which the mountains get their name is a hot commodity in arcane circles. While the raw stone has some magical properties, it's arcane power is greatly enhanced once it has been refined into a green glass-like substance called [residuum](/item/residuum). It is a lucrative export for the city of [Whitestone](whitestone) and numerous quarries dot the northern end of the Alabaster Sierras.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
 
 ### Alabaster Trail
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
@@ -134,7 +134,7 @@ The Trail is a dangerous road. The northern and southern ends are well patroled 
 |[Whitestone](whitestone)|[Turst Fields](turst-fields)| Land |  350  |  14  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
 
 
 (print-page)
@@ -149,7 +149,7 @@ Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the
 
 Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range), the Dawnmist Bay and [Dawnmist Pines](dawnmist-pines) are often obscured by light fog. Only during the exceptionally warm months of summer does the fog burn off by midday.
 
-*^Canon^ ^Consistency:^ **^Medium^***
+*^Canon^ ^Consistency:^ **^Medium^*** {.screen-only}
 
 > The Dawnmist and Parchwood Bays are not labeled on any existing maps of Exandria. I have marked them with these names on my maps and in the Encyclopedia based on local lore and nearby features. Should I discover they were previously named elsewhere, I will update both accordingly.
 > 
@@ -169,7 +169,7 @@ Parchwood Bay is a large bay choked with tree covered islands and rocky shoals. 
 
 Unfortunately for many a captain, ships can easily become lost in the maze of islands and wreck on any of the numerous rocky shoals that hide beneath the surface of the deceptively calm waters of the bay.
 
-*^Canon^ ^Consistency:^ **^Medium^***
+*^Canon^ ^Consistency:^ **^Medium^*** {.screen-only}
 
 > The Dawnmist and Parchwood Bays are not labeled on any existing maps. I have given them these names based on local lore and nearby features. Should I discover have been previously named, I will update both accordingly.
 > 
@@ -191,7 +191,7 @@ The Parchwood Timberland is an extremely dangerous forest that teems with monstr
 
 The southern edge of the forest marks the southern boundary between the [Alabaster Sierras](alabaster-sierras) in the north and the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
 
 
 
@@ -219,7 +219,7 @@ The Shearing Channel is a narrow passage between the continents of [Tal'Dorei](t
 
 Passage through the Shearing Channel is extremely dangerous. Extreme weather and rough seas are the norm, rather than the exception. The channel and nearby [Parchwood Bay](parchwood-bay) are full of shipwrecks and the monsters that feed on them.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
 
 
 
@@ -234,7 +234,7 @@ As the river makes it's way south, it gains strength from countless streams and 
 
 The Upper Mooren River Run is barely navigable. There are numerous falls and intense rapids at various points along the river. It is most certainly a one-way trip with travel up-river impossible by non-magical means.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
 
 > While technically the same river, the portions of the Mooren River Run above and below [Mooren Lake](mooren-lake) could not be more different. As such, I have created separate entries for the [Upper Mooren River Run](upper-mooren-river-run) and the [Lower Mooren River Run](lower-mooren-river-run).
 > 
@@ -318,7 +318,7 @@ The Bladeshimmer Bay is not sheltered from the open [Ozmit Sea](ozmit-sea), but 
 
 While the bay is well-patroled and relatively safe, [sahuagin](/monster/sahuagin) clans and pirates operating out of the [Ruins of O'Noa](ruins-of-onoa) occassionally trouble merchants bound for [Marquet](marquet) or [Wildemount](wildemount).
 
-*^Canon^ ^Consistency:^ **^Medium^***
+*^Canon^ ^Consistency:^ **^Medium^*** {.screen-only}
 
 > I could find no name for this bay on any existing maps. Should I discover it has a name, I will update my maps and encyclopedia accordingly.
 > 
@@ -449,7 +449,7 @@ The Ivyheart Run is not a big, deep, or fast-moving river, but it is navigable v
 
 Shortly before it's arrival at the sea, the Run joins with the [Emerald River](emerald-river) north of the ruined city of [O'Noa](ruins-of-onoa).
 
-*^Canon^ ^Consistency:^ **^Medium^***
+*^Canon^ ^Consistency:^ **^Medium^*** {.screen-only}
 
 > Like the [Emerald River](emerald-river) to the south, there is no official name for this river in any published materials on the region or on any maps. I can only assume these materials were destroyed during the [Scattered War](history). The locals assure me it is called the "Emerald River". 
 > 
@@ -1289,7 +1289,7 @@ The lower Mooren River Run is a little over 100 miles long and is deep and wide 
 
 Trips up and down the lower Mooren are slow going and typically require extra security to keep pirates and opportunistic [gnolls](/monster/gnolls) or [lizardfolk](lizardfolk) from raiding the ships as they make the trip upriver.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
 
 > While technically the same river, the portions of the Mooren River Run above and below [Mooren Lake](mooren-lake) could not be more different. As such, I have created separate entries for the [Upper Mooren River Run](upper-mooren-river-run) and the [Lower Mooren River Run](lower-mooren-river-run).
 > 
