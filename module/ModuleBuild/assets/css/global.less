@@ -11,6 +11,7 @@
 @foreground-color: #000000;
 @green-background-secondary: #e0e4c3;
 @blue-background-secondary: #c3d3e4;
+@purple-background-secondary: #cec3e4;
 @red-background-secondary: #e4c3c3;
 @yellow-background-secondary: #e4e1c3;
 @gray-background-secondary: #d4d4d4;
@@ -287,6 +288,33 @@ blockquote.read {
   &:after {
     right: -3px;
   }
+}
+
+/******** Large Quote Block Quote ********/
+
+blockquote.large-quote {
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+  margin: 10px 40px;
+  padding: 20px 0px;
+  line-height: 1.45;
+  position: relative;
+  color: #58180d;
+  border-top: none;
+  border-bottom: none;
+  background-color: transparent;
+  box-shadow: none;
+  border-top: 2px solid #58180d;
+  border-bottom: 2px solid #58180d;
+}
+
+blockquote.large-quote:before {
+  background-image: none;
+}
+
+blockquote.large-quote:after {
+  background-image: none;
 }
 
 /******** Paper Block Quote ********/
@@ -639,6 +667,14 @@ table {
     tbody {
       tr:nth-child(odd) {
         background: @gray-background-secondary;
+      }
+    }
+  }
+
+  &.purple {
+    tbody {
+      tr:nth-child(odd) {
+        background: @purple-background-secondary;
       }
     }
   }
@@ -1003,6 +1039,11 @@ table.sidebar {
   @statblock-subtitle-color-neutral: #75240b;
   @statblock-border-top-bottom-neutral: #bda099;
 
+  @statblock-background-purple: #ede5f4;
+  @statblock-title-color-purple: #551092;
+  @statblock-subtitle-color-purple: #470d7a;
+  @statblock-border-top-bottom-purple: #9b7cba;
+
   .statblock.@{color} {
     background: ~"@{statblock-background-@{color}}";
 
@@ -1045,6 +1086,7 @@ table.sidebar {
 .statblockColor(~"yellow");
 .statblockColor(~"gray");
 .statblockColor(~"neutral");
+.statblockColor(~"purple");
 
 /******** Item Style ********/
 
@@ -1099,6 +1141,7 @@ table.sidebar {
 
   .item-block-description {
     font-size: 13px;
+    display: inline;
   }
 
   .item-block-heading {
@@ -1107,6 +1150,36 @@ table.sidebar {
     margin: 0px;
   }
 }
+
+.itemBlockColor(@color) {
+  @item-block-accent-color-blue: #105a92;
+  @item-block-accent-color-green: #099d43;
+  @item-block-accent-color-red: #9d0e09;
+  @item-block-accent-color-yellow: #d7c220;
+  @item-block-accent-color-orange: #dd712f;
+  @item-block-accent-color-gray: #535353;
+  @item-block-accent-color-neutral: #631d07;
+  @item-block-accent-color-purple: #6431ab;
+
+  .item-block.@{color} {
+    .item-block-top-border {
+      background: ~"@{item-block-accent-color-@{color}}";
+    }
+
+    .item-block-heading-border {
+      background: ~"@{item-block-accent-color-@{color}}";
+    }
+  }
+}
+
+.itemBlockColor(~"blue");
+.itemBlockColor(~"green");
+.itemBlockColor(~"red");
+.itemBlockColor(~"yellow");
+.itemBlockColor(~"orange");
+.itemBlockColor(~"gray");
+.itemBlockColor(~"neutral");
+.itemBlockColor(~"purple");
 
 /******** Spell Style ********/
 
@@ -1170,7 +1243,47 @@ table.sidebar {
   }
 }
 
+.spellBlockColor(@color) {
+  @spell-block-accent-color-blue: #105a92;
+  @spell-block-accent-color-green: #099d43;
+  @spell-block-accent-color-red: #9d0e09;
+  @spell-block-accent-color-yellow: #d7c220;
+  @spell-block-accent-color-orange: #dd712f;
+  @spell-block-accent-color-gray: #535353;
+  @spell-block-accent-color-neutral: #631d07;
+  @spell-block-accent-color-purple: #6431ab;
+
+  .spell-block.@{color} {
+    .spell-block-top-border {
+      background: ~"@{spell-block-accent-color-@{color}}";
+    }
+
+    .spell-block-heading-border {
+      background: ~"@{spell-block-accent-color-@{color}}";
+    }
+  }
+}
+
+.spellBlockColor(~"blue");
+.spellBlockColor(~"green");
+.spellBlockColor(~"red");
+.spellBlockColor(~"yellow");
+.spellBlockColor(~"orange");
+.spellBlockColor(~"gray");
+.spellBlockColor(~"neutral");
+.spellBlockColor(~"purple");
+
 /******** Screen-Specific Styles ********/
+
+@media screen and (max-width: 400px) {
+  /* Make the sidebar not float when the screen width is too small */
+  table.sidebar {
+    float: none;
+    margin-left: 0.1in;
+    margin-right: 0.1in;
+    width: calc(100% - 0.2in);
+  }
+}
 
 @media screen {
   .print-only {
@@ -1382,7 +1495,7 @@ table.sidebar {
       color: #aea41a;
       right: 2px;
       text-align: center;
-    }    
+    }
   }
 
   .two-column {
@@ -1391,6 +1504,10 @@ table.sidebar {
       margin-left: 0.1in;
       margin-right: 0.1in;
       width: calc(100% - 0.2in);
+    }
+
+    div.statblock.two-column {
+      display: block;
     }
   }
 

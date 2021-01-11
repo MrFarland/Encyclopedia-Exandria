@@ -83,7 +83,9 @@ The Alabaster Bay is a large bay located on the eastern side of the [Alabaster P
 
 The western shore of the bay is rocky and cold. The [Alabaster Sierras](alabaster-sierra-range) rise out of the water and shoot upward forming the eastern slope of the jagged peaks. The southern shore, on the other hand, is relatively flat with the [Parchwood Timberland](parchwood-timberland) coming right up to the water's edge.
 
-The icy waters of the Alabaster Bay are home to large colonies of seals and is a favorite hunting ground for sea lions and [killer whales](/monster/killer-whale). While most of the marine life keeps to itself, there are tales of [Chuul](/monster/chull) attacking seal hunters and fishers working the bay.
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+
+
 
 ### Alabaster Sierra Range
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
@@ -94,13 +96,9 @@ Named for their chalk-white color, the mountains of the [Alabaster Sierras](alab
 
 Infused with magical energy, the white stone from which the mountains get their name is a hot commodity in arcane circles. While the raw stone has some magical properties, it's arcane power is greatly enhanced once it has been refined into a green glass-like substance called [residuum](/item/residuum). It is a lucrative export for the city of [Whitestone](whitestone) and numerous quarries dot the northern end of the Alabaster Sierras.
 
-While not nearly as large as the massive [Cliffkeeps](cliffkeep-mountain-range) to the west, the [Alabaster Sierras](alabaster-sierras) are tall, jagged peaks crawling with monsters. [Behirs](/monster/behir), [harpies](/monster/harpy), and [wyverns](/monster/wyvern) all call the mountains home, as do some [stone giant](/monster/stone-giant) clans.
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
-
-
-(print-column)
 
 ### Alabaster Trail
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
@@ -109,9 +107,7 @@ While not nearly as large as the massive [Cliffkeeps](cliffkeep-mountain-range) 
 
 The [Alabaster Trail](alabaster-trail) is the only road linking the city of [Whitestone](whitestone) in northeastern [Tal'Dorei](taldorei) to the rest of the continent. It stretches a little under 360 miles from [Whitestone](whitestone) in the north to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
 
-The Trail is a dangerous road. The northern and southern ends are well patroled by the [Paleguard](paleguard) and [Shields of the Plains](shields-of-the-plains), but the majority of the road winds through the dark and dangerous [Parchwood Timberland](parchwood-timberland).
-
-[Bandits](/monster/bandit), [gnolls](/monster/gnoll) and [orcs](/monster/orcs) are a constant threat on the southern end, but even they avoid the stretch through the forest. Dire beasts and undead creatures have been known to harass travelers along the road. 
+The Trail is a dangerous road. The northern and southern ends are well patroled by the [Paleguard](paleguard) and [Shields of the Plains](shields-of-the-plains) respectively, but the majority of the road winds through the dark and dangerous [Parchwood Timberland](parchwood-timberland).
 
 ##### Travel
 | Origin                 | Destination                | Miles |
@@ -119,7 +115,8 @@ The Trail is a dangerous road. The northern and southern ends are well patroled 
 |[Whitestone](whitestone)|[Turst Fields](turst-fields)|  360  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+
 
 
 ### Dawnmist Bay
@@ -129,12 +126,10 @@ The Trail is a dangerous road. The northern and southern ends are well patroled 
 
 Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the [Dawnmist Bay](dawnmist-bay) is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei). While it is an extension of the [Frigid Depths](frigid-depths), the [Dawnmist](dawnmist-bay) is warmer and calmer than it's sister, the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
 
-Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range), the [Dawnmist Bay](dawnmist-bay) and its namesake forest, the [Dawnmist Pines](dawnmist-pines) are often obscured by light fog. Only during the warm months of summer does the fog burn off by midday.
+Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range), the [Dawnmist Bay](dawnmist-bay) and its namesake forest, the [Dawnmist Pines](dawnmist-pines) are often obscured by fog. Only during the warm months of summer does the fog burn off by midday.
 
-*^Canon^ ^Consistency:^ **^Medium^*** {.screen-only}
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
-
-(print-page)
 
 
 ### Parchwood Bay
@@ -142,13 +137,17 @@ Named for the heavy banks of fog that roll off the eastern slope of the [Cliffke
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
-Located on the western side of the [Shearing Channel](shearing-channel), the [Parchwood Bay](parchwood-bay) 
+The [Parchwood Bay](parchwood-bay) is a large, island-choked bay located along the western side of the [Shearing Channel](shearing-channel). The bay is littered with thousands of rocky, heavily-wooded islands.
 
-At first glance, the [Parchwood Bay](parchwood-bay) seems like a good place for ships to ride out one of the many storms that plague the perilous [Shearing Channel](shearing-channel). The hundreds of islands and hidden coves provide 
+At first glance, the bay seems like a good place for ships to ride out one of the many storms that plague the perilous [Shearing Channel](shearing-channel). The hundreds of islands and hidden coves provide 
 
 Unfortunately for many a captain, ships can easily become lost in the maze of islands and wreck on any of the numerous rocky shoals that hide beneath the surface of the deceptively calm waters of the bay.
 
-*^Canon^ ^Consistency:^ **^Medium^*** {.screen-only}
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+
+
+
+(print-page)
 
 
 
@@ -163,7 +162,7 @@ The Parchwood Timberland is an extremely dangerous forest that teems with monstr
 
 The southern edge of the forest marks the southern boundary between the [Alabaster Sierras](alabaster-sierras) in the north and the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 
@@ -173,8 +172,6 @@ The southern edge of the forest marks the southern boundary between the [Alabast
 **^Type:^** ^Coastal^ ^&^ ^Mountain^
 
 The Salted Bluffs are tall, seaside cliffs that run along the northern tip of the [Alabaster Peninsula](alabaster-sierras) where the [Alabaster Sierras](alabaster-sierra-range) meet the Frigid Depths. The cliffs are littered with caves and hidden coves and often used by pirates and smugglers. 
-
-The cliffs are also home to a number of dangerous beasts and creatures including the [Ashwing Harpies](ashwing-harpies) and [wyverns](/monster/wyvern).
 
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^48)^* {.screen-only}
 
@@ -212,7 +209,6 @@ The Upper Mooren River Run is barely navigable. There are numerous falls and int
 
 
 
-![Whitestone](assets/img/geography-whitestone.jpg){.size-cover .screen-only}
 ### Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
 
