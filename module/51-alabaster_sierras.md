@@ -85,8 +85,6 @@ The western shore of the bay is rocky and cold. The [Alabaster Sierras](alabaste
 
 The icy waters of the Alabaster Bay are home to large colonies of seals and is a favorite hunting ground for sea lions and [killer whales](/monster/killer-whale). While most of the marine life keeps to itself, there are tales of [Chuul](/monster/chull) attacking seal hunters and fishers working the bay.
 
-
-
 ### Alabaster Sierra Range
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
 
@@ -94,16 +92,15 @@ The icy waters of the Alabaster Bay are home to large colonies of seals and is a
 
 Named for their chalk-white color, the mountains of the [Alabaster Sierras](alabaster-sierra-range) stretch over three hundred miles along the eastern edge of the [Alabaster Peninsula](alabaster-sierras). They emerge from the [Parchwood Timberland](parchwood-timberland) in the south and run along the western shore of the [Alabaster Bay](alabaster-bay) before coming to an abrupt end at the towering [Salted Bluffs](salted-bluffs). 
 
-While not nearly as large as the massive [Cliffkeeps](cliffkeep-mountain-range) to the west, the [Alabaster Sierras](alabaster-sierras) are tall, jagged peaks crawling with monsters. [Behirs](/monster/behir), [harpies](/monster/harpy), and [wyverns](/monster/wyvern) all call the mountains home, as do some [stone giant](/monster/stone-giant) clans.
-
 Infused with magical energy, the white stone from which the mountains get their name is a hot commodity in arcane circles. While the raw stone has some magical properties, it's arcane power is greatly enhanced once it has been refined into a green glass-like substance called [residuum](/item/residuum). It is a lucrative export for the city of [Whitestone](whitestone) and numerous quarries dot the northern end of the Alabaster Sierras.
+
+While not nearly as large as the massive [Cliffkeeps](cliffkeep-mountain-range) to the west, the [Alabaster Sierras](alabaster-sierras) are tall, jagged peaks crawling with monsters. [Behirs](/monster/behir), [harpies](/monster/harpy), and [wyverns](/monster/wyvern) all call the mountains home, as do some [stone giant](/monster/stone-giant) clans.
 
 
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
 
 
 (print-column)
-
 
 ### Alabaster Trail
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
@@ -123,7 +120,6 @@ The Trail is a dangerous road. The northern and southern ends are well patroled 
 <!-- {table: .gray} -->
 
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
-
 
 
 ### Dawnmist Bay
@@ -180,9 +176,11 @@ The Salted Bluffs are tall, seaside cliffs that run along the northern tip of th
 
 The cliffs are also home to a number of dangerous beasts and creatures including the [Ashwing Harpies](ashwing-harpies) and [wyverns](/monster/wyvern).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^48)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^48)^* {.screen-only}
 
-(print-page)
+
+
+(print-column)
 
 
 
@@ -212,18 +210,17 @@ The Upper Mooren River Run is barely navigable. There are numerous falls and int
 
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
 
+
+
+![Whitestone](assets/img/geography-whitestone.jpg){.size-cover .screen-only}
+### Whitestone
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+
+
+
 > While technically the same river, the portions of the Mooren River Run above and below [Mooren Lake](mooren-lake) could not be more different. As such, I have created separate entries for the [Upper Mooren River Run](upper-mooren-river-run) and the [Lower Mooren River Run](lower-mooren-river-run).
 > 
 > \- *Farland* {.text-right}
 >
 > ![Wax Stamp F](assets/img/wax-stamp-f.png =90x90){.center}
 <!-- {blockquote:.flavortext} -->
-
-
-
-### Whitestone
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
-
-
-
-(print-page)
