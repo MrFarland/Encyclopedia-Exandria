@@ -308,7 +308,7 @@ The settlements in the region are:
 
 
 ### Bladeshimmer Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
@@ -330,7 +330,7 @@ While the bay is well-patroled and relatively safe, [sahuagin](/monster/sahuagin
 
 
 ### Crystalfen Caverns
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Underdark^
 
@@ -343,7 +343,7 @@ Throughout the caverns are veins of blue crystal called azuremite. This blue cry
 
 
 ### Daggerbay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
@@ -358,7 +358,7 @@ Over time, the bay became a haven for pirates and [sahuagin](/monster/sahuagin) 
 
 
 ### Daggerbay Mountains
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Mountain^ ^&^ ^Hill^
 
@@ -374,11 +374,11 @@ Clans of [stone](/monster/stone-giant) and [hill](/monster/hill-giant) giants re
 (print-page)
 
 ### Emerald Outpost
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 
 ### Emerald Path
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Coastal^ ^&^ ^Grassland^
 
@@ -397,7 +397,7 @@ The Emerald Path is well patrolled by both the [Arms of Emon](arms-of-emon) and 
 
 
 ### Emerald River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Grassland^
 
@@ -418,10 +418,10 @@ The [Emerald Path](emerald-path) follows the river for most of its course before
 <!-- {blockquote:.flavortext} -->
 
 ### Emon
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 ### Flamereach Grove
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Forest^ ^&^ ^Elemental^
 
@@ -436,10 +436,10 @@ The forest sits on the edge of the [Snowember Fields](snowember-fields) and a sq
 (print-page)
 
 #### Flamereach Outpost
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 ### Ivyheart Run
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Forest^ ^&^ ^Grassland^
 
@@ -460,7 +460,7 @@ Shortly before it's arrival at the sea, the Run joins with the [Emerald River](e
 
 
 ### Nightwash Tide
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Coastal^ ^&^ ^Mountain^
 
@@ -474,7 +474,7 @@ Fishing the Nightwash is not without risks. The same tide that brings in fish, o
 
 
 ### Othendin Trail
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Grassland^ ^&^ ^Mountain^
 
@@ -495,10 +495,10 @@ The trail is heavily patrolled by the [Arms of Emon](arms-of-emon) near the city
 (print-page)
 
 ### Ruins of O'Noa
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 ### Ruins of Salar
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Underdark^
 
@@ -511,7 +511,7 @@ The architecture of Salar is completely alien to the [races](races) of Exandria.
 
 
 ### Ruins of Vos'Sykriss
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Jungle^
 
@@ -528,7 +528,7 @@ In the early 800s, an expedition from the [Alabaster Lyceum](alabaster-lyceum) e
 
 
 ### Scar of the Cinder King
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Forest,^ ^Grassland,^ ^&^ ^Elemental^
 
@@ -541,7 +541,7 @@ The area is heavily scarred and cursed by elemental magic. Creatures from the [E
 
 
 ### Seashale Mountains
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Mountain^ ^&^ ^Coastal^
 
@@ -552,14 +552,14 @@ On the southwestern base of the mountains is the [Nightwash Tide](nightwash-tide
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 ### Shalesteps
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 
 #### Puddlefoot
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 ### Shivergreen Grove
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Forest^
 
@@ -574,7 +574,7 @@ In 815 PD, the forest was destroyed by Thordak the Cinder King and transformed i
 
 
 ### Slumber Reef
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
@@ -585,7 +585,7 @@ Safely navigating through the reef takes skill and many a captain confident in t
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 ### Snowember Fields
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Grassland^ ^&^ ^Elemental^
 
@@ -607,7 +607,7 @@ Creatures from the [Elemental Plane of Fire](elemental-plane-of-fire) live benea
 
 
 ### Visa Isle
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
 
 **^Type:^** ^Jungle^ ^&^ ^Coastal^
 
@@ -665,7 +665,7 @@ The following settlements can be found in this region:
 
 
 ### Black Valley
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Hill^ ^&^ ^Mountain^
 
@@ -679,7 +679,7 @@ Prior to the [Scattered War](history), the hills at the northern end of the vall
 
 
 ### Black Valley Path
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Hill^ ^&^ ^Mountain^
 
@@ -700,7 +700,7 @@ The Black Valley Path is not patrolled by any guard. The [Shadewatch](shadewatch
 
 
 ### Cliffkeep Mountain Range
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Mountain^
 
@@ -737,7 +737,7 @@ The western range of the Cliffkeeps is located in the nortwestern corner of the 
 
 
 ### Elvenpeaks
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Mountain^ ^&^ ^Arctic^
 
@@ -749,10 +749,10 @@ While the mountain and surrounding area are cold and inhospitable, a warm, tempe
 
 
 ### Emberhold
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 ### Emerald Highlands
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Hill^ ^&^ ^Mountain^
 
@@ -762,10 +762,10 @@ The Emerald Highlands refers to what is now known as the [Black Valley](black-va
 
 
 ### Fort Daxio
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 ### Gatshadow
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Mountain^
 
@@ -777,7 +777,7 @@ Small mining operations have exploited the neighboring hills and base, but few w
 
 
 ### Grey Valley
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Forest^ ^&^ ^Mountain^
 
@@ -791,18 +791,18 @@ During the Scattered War, [Graz'zt](grazzt-the-demon-prince-of-indulgence) was r
 
 
 ### Jorenn Village
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 ### Kraghammer
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 
 ### Lyrengorn
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 
 ### Neverfields
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Arctic^
 
@@ -817,7 +817,7 @@ Despite the savage conditions, the Neverfields are not lifeless. The frozen wast
 
 
 ### Othendin Pass
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Hill^ ^&^ ^Mountain^
 
@@ -828,7 +828,7 @@ The area was once home to a number of [stone giant](/monster/stone-giant) clans 
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 ### Othendin River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Hill^ ^&^ ^Mountain^
 
@@ -839,7 +839,7 @@ The Othendin River is a long, broad river that begins high in the central [Cliff
 
 
 ### Pools of Wittebak
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Hill^ ^&^ ^Mountain^
 
@@ -853,7 +853,7 @@ The survivors relocated to [Kraghammer](kraghammer) and the [giants](/monster/hi
 
 
 ### Ruins of Wittebak
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Mountain^ ^&^ ^Underdark^
 
@@ -876,7 +876,7 @@ Local [hill giants](/monster/hill-giant) have adapted to the gas and move about 
 
 
 ### Serpent's Head
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Mountain,^ ^Forest,^ ^&^ ^Elemental^
 
@@ -888,11 +888,11 @@ The village predominantly consisted of [dwarves](dwarves) and [humans](humans) a
 
 
 ### Terrah
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 
 ### Umbra Hills
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Hill^ ^&^ ^Mountain^
 
@@ -904,7 +904,7 @@ In the [Battle of the Umbra Hills](history), the combined forces of [Syngorn](sy
 
 
 ### Wildwood
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 **^Type:^** ^Forest^
 
@@ -915,7 +915,7 @@ The Wildwood forest is a small and peaceful wood located east of the [dwarven](d
 
 
 ### Yug'Voril
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Cliffkeep^ ^Mountains^](cliffkeep-mountains) {.screen-only}
 
 (print-page)
 
@@ -931,7 +931,7 @@ The Wildwood forest is a small and peaceful wood located east of the [dwarven](d
 
 
 ### Blazing Foundry
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Forest^ ^&^ ^Elemental^
 
@@ -943,7 +943,7 @@ Very little is known about these ruins, but archaeologists from the [Alabaster L
 
 
 ### Bramblewood
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Forest^
 
@@ -955,7 +955,7 @@ Aptly named, the Bramblewood is a tangled mess of oak-like trees with long, razo
 
 
 ### Byhills River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Mountain^ ^&^ ^Grassland^
 
@@ -976,7 +976,7 @@ The upper branches of the river are small, rocky, and forceful. The river widens
 
 
 ### Dawnmist Pines
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Forest^
 
@@ -988,10 +988,10 @@ Dawnmist Pines is a small evergreen forest located in eastern [Tal'Dorei](taldor
 (print-page)
 
 ### Foramere
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 ### Foramere Basin
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Coastal^ ^&^ ^Grassland^
 
@@ -1005,7 +1005,7 @@ The Foramere is an important source of fresh fish to central [Tal'Dorei](taldore
 
 
 ### Foramere Waterway
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Grassland^ ^&^ ^Coastal^
 
@@ -1015,7 +1015,7 @@ The Foramere Waterway is a large, but short river that exits the east side of th
 
 
 ### Ironseat Ridge
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Hill^ ^&^ ^Mountain^
 
@@ -1029,7 +1029,7 @@ The residents of [Kymal](kymal) can often hear the wind howling through the old 
 
 
 ### Ivyheart Thicket
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Forest^
 
@@ -1043,13 +1043,13 @@ On the western edge of the forest, ruins of an ancient, pre-[Calamity](history) 
 
 
 ### Kymal
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 (print-page)
 
 
 ### Parchwood Way
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Grassland^
 
@@ -1068,7 +1068,7 @@ While no road is completely safe, the Parchwood Way is heavily patrolled by the 
 
 
 ### Ruins of Torthil
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Forest^
 
@@ -1083,7 +1083,7 @@ All that remains of Torthil are broken stone buildings and an obsidian monument 
 
 
 ### Shadebarrow
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Grassland^
 
@@ -1093,7 +1093,7 @@ The Shadebarrow is an ancient ritual site of a tribe of druids known as the [Daw
 
 
 ### Silvercut Crossroads
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Grassland^
 
@@ -1108,7 +1108,7 @@ In the years leading up to and during the [Scattered War](history), the crossroa
 
 
 ### Silvercut Roadway
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Grassland^
 
@@ -1128,7 +1128,7 @@ The road is vital to the [Republic](council-of-taldorei) and heavily patrolled b
 
 
 ### Throne of the Arch Heart
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Grassland^
 
@@ -1141,7 +1141,7 @@ According to both [centaur](centaurs) and [orc](orcs) legends, the Throne of the
 (print-column)
 
 ### Torian Forest
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Forest^
 
@@ -1155,7 +1155,7 @@ The northern end of the forest transitions to damp fens and is home to the [Rive
 
 
 ### Tundrun River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Mountain^ ^&^ ^Grassland^
 
@@ -1166,13 +1166,13 @@ The Tundrun River is a small, but mighty river that descends rapidly from the no
 (print-page)
 
 ### Turst Fields
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 ### Westruun
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 ### Wildwood Byway
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
 
 **^Type:^** ^Grassland,^ ^Hill^ ^&^ ^Forest^
 
@@ -1205,15 +1205,15 @@ Following the [Scattered War](history), earned the nickname, the "Traitor's Stai
 (print-page)
 
 ### Drynna
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 
 ### Dunghill
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 
 ### Knifemouth River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 **^Type:^** ^Swamp^
 
@@ -1230,7 +1230,7 @@ The Knifemouth is one of many rivers that flow through the [K'Tawl Swamp](ktawl-
 
 
 ### K'Tawl Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 **^Type:^** ^Coastal^ ^&^ ^Swamp^
 
@@ -1243,7 +1243,7 @@ The bay does not provide much in the way of protection from the open ocean, but 
 (print-column)
 
 ### K'Tawl Creek
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 **^Type:^** ^Swamp^
 
@@ -1262,7 +1262,7 @@ The K'Tawl is navigable, but it's winding route and the swamp's dangerous denize
 
 
 ### K'Tawl Swamp
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 **^Type:^** ^Swamp^
 
@@ -1279,7 +1279,7 @@ The K'Tawl is an extremely dangerous place teeming with dangerous creatures and 
 
 
 ### Lower Mooren River Run
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 **^Type:^** ^Coastal^
 
@@ -1303,7 +1303,7 @@ Trips up and down the lower Mooren are slow going and typically require extra se
 
 
 ### Mooren Lake
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 **^Type:^** ^Coastal^
 
@@ -1317,7 +1317,7 @@ Beneath the crystal clear surface, lies centuries of magically-infused [whitesto
 
 
 ### Owlset Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 **^Type:^** ^Coastal^
 
@@ -1330,7 +1330,7 @@ Owlset Bay is a small bay off of the [Lucidian Ocean](lucidian-ocean) in eastern
 
 
 ### Rootgarden Marsh
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 **^Type:^** ^Swamp^
 
@@ -1343,11 +1343,11 @@ In addition to the normal creatures found in a swamp, the Rootgarden is home to 
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^43)^*
 
 ### Stilben
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 
 ### Summit Peaks
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 **^Type:^** ^Mountain^
 
@@ -1360,7 +1360,7 @@ High in the Summit Peaks, lies the rift to the [Elemental Plane of Air](elementa
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^44)^*
 
 ### Zephrah
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
 (print-page)
 
@@ -1377,7 +1377,7 @@ High in the Summit Peaks, lies the rift to the [Elemental Plane of Air](elementa
 
 
 ### Ashen Gorge
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Mountain^ ^&^ ^Elemental^
 
@@ -1392,10 +1392,10 @@ Rumors speak of multiple hordes stashed throughout the vast network of tunnels t
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^*
 
 ### Bronbog
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 ### Cavern of Axiom
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Mountain^
 
@@ -1408,7 +1408,7 @@ The entrance to the cavern can only be found by those deemed worthy and the exac
 (print-column)
 
 ### Dreamseep Marshlands
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Swamp^
 
@@ -1423,7 +1423,7 @@ The only thing that brings visitors to the Dreamseep is the rare fungus known as
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 ### Dreamseep River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Swamp^
 
@@ -1438,7 +1438,7 @@ While the Dreamseep is wide, deep, and slow enough for small boats to make their
 
 
 ### Everflame Crevasse
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Mountain^ ^&^ ^Elemental^
 
@@ -1448,7 +1448,7 @@ Located in the heart of [Thordak's](thordak) ancient lair in the [Ashen Gorge](a
 
 
 ### Frostweald
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Forest^ ^&^ ^Arctic^
 
@@ -1460,7 +1460,7 @@ A very dangerous forest, the Frostweald's frigid weather is only one of the fore
 
 
 ### Kirmont Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
@@ -1473,7 +1473,7 @@ Located due west of the pirate enlcave of [Darktow](darktow), the Kirmont Bay is
 (print-column)
 
 ### Kirmont Valley
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Grassland^ ^&^ ^Swamp^
 
@@ -1487,7 +1487,7 @@ Very few people call the Kirmont Valley home. The village of [Bronbog](bronbog) 
 
 
 ### Obsidian Geode
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Mountain^ ^&^ ^Underdark^
 
@@ -1498,7 +1498,7 @@ One of [Thordak's](thordak) treasure vaults in the [Ashen Gorge](ashen-gorge), t
 (print-page)
 
 ### Shrine of the Ruiner
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Swamp^
 
@@ -1506,7 +1506,7 @@ The Shrine of the Ruiner is the oldest and most revered of shrines to the [Betra
 
 
 ### Tomb of Udah
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Swamp^ ^&^ ^Underdark^
 
@@ -1518,7 +1518,7 @@ The tomb was built by the powerful [lich](/monster/lich) [Udah the Undying](udah
 
 
 ### Wrettis
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
 
 **^Type:^** ^Hill^
 
@@ -1542,7 +1542,7 @@ Wrettis is a ruined mage's tower located in the eastern foothills of the [Stormp
 
 
 ### Beynsfal Plateau
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 **^Type:^** ^Hill^ ^&^ ^Coastal^
 
@@ -1555,16 +1555,16 @@ The combined might of the city-states of [Rybad-Kol](rybad-kol), [Hdar-Fye](hdar
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^76)^*
 
 ### Byroden
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 ### Ezordam-Haar
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 ### Hdar-Fye
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 ### Mornset Countryside
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 **^Type:^** ^Grassland^
 
@@ -1587,7 +1587,7 @@ A number of small settlements dot the countryside, but the city of [Port U'daa](
 
 
 ### Orroyen River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 **^Type:^** ^Jungle^
 
@@ -1605,15 +1605,15 @@ There are no permanent settlements in the Orroyen River basin, but it is home to
 <!-- {blockquote:.flavortext} -->
 
 ### Ortem-Vellak
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 (print-page)
 
 ### Port U'daa
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 ### Rifenmist Jungle
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 **^Type:^** ^Jungle^
 
@@ -1633,7 +1633,7 @@ While there are no permanent settlements in the jungle, the Rifenmist is home to
 (print-column)
 
 ### Rifenmist River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 **^Type:^** ^Jungle^
 
@@ -1651,10 +1651,10 @@ The largest of the Rifenmist's tributaries is the one most commonly referred to 
 <!-- {blockquote:.flavortext .screen-only} -->
 
 ### Rybad-Kol
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 ### Stormpoint Mountains
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 **^Type:^** ^Mountain^
 
@@ -1667,7 +1667,7 @@ Rumored to be the home of [Raishan the Diseased Deceiver](raishan-the-diseased-d
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^79)^*
 
 ### Tz'Arrm
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
 
 (print-page)
 
@@ -1683,7 +1683,7 @@ Rumored to be the home of [Raishan the Diseased Deceiver](raishan-the-diseased-d
 
 
 ### Feshun Narrows
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 **^Type:^** ^Coastal,^ ^Underwater^ ^&^ ^Forest^
 
@@ -1695,7 +1695,7 @@ While the narrows are a good place to ride out a storm, local clans of [Sahuagin
 
 
 ### Feshun River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 **^Type:^** ^Forest^
 
@@ -1714,7 +1714,7 @@ After the [falls](tormor-falls), the Feshun is joined by the [Vues'dal River](vu
 
 
 ### Gladepools
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 **^Type:^** ^Forest^ ^&^ ^Coastal^
 
@@ -1726,7 +1726,7 @@ It is rumored that an oracle's spirit lives in the lakes of the Gladepools and w
 
 
 ### Mirescar
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 **^Type:^** ^Forest^
 
@@ -1738,7 +1738,7 @@ The Mirescar is a dark corner of the [Verdant Expanse](verdant-expanse). Located
 
 
 ### Orencleft
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 **^Type:^** ^Mountain^
 
@@ -1749,13 +1749,13 @@ Behind the falls, a number of caves dive deep into the [Stormcrests](stormcrest-
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^85)^*
 
 ### Shifting Keep
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 ### Syngorn
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 ### Tormor Falls
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 **^Type:^** ^Mountain^ ^&^ ^Underdark^
 
@@ -1766,10 +1766,10 @@ Not far from the city of [Syngorn](syngorn), the base of the falls are patrolled
 *^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^85)^*
 
 ### Vues'dal
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 ### Vues'dal River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 **^Type:^** ^Forest^
 
@@ -1790,7 +1790,7 @@ The portion of the river that connects the [Vues'dal Waters](vuesdal-waters) to 
 
 
 ### Vues'dal Waters
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
 
 **^Type:^** ^Coastal^ ^&^ ^Forest^
 
