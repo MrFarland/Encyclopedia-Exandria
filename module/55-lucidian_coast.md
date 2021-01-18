@@ -19,7 +19,8 @@ page-parent: taldorei
 
 (print-page)
 
-
+### Drynna
+### Dunghill
 ### Knifemouth River
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Lucidian^ ^Coast^](lucidian-coast) {.screen-only}
 
@@ -27,7 +28,10 @@ page-parent: taldorei
 
 The Knifemouth is one of many rivers that flow through the [K'Tawl Swamp](ktawl-swamp) on the [Lucidian Coast](lucidian-coast) of [Tal'Dorei](taldorei). It begins on the eastern slope of the [Summit Peaks](summit-peaks) and winds its way through the [K'Tawl](ktawl-swamp) before emptying into the [Lucidian](lucidian-ocean) in the [K'Tawl Bay](ktawl-bay) about 100 miles north of [Stilben](stilben).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^* {.screen-only}
+
+
+
 
 > There are many rivers in the [K'Tawl](ktawl-swamp) and most are not named in any of our sources. The many [Lizardfolk](lizardfolk), [Grung](grung), and [Orcs](orcs) that live within the swamp have their own names for them and I've done my best to learn those names and document them for this Encyclopedia. 
 >
@@ -46,7 +50,10 @@ The K'Tawl Bay is a large bay on the [Lucidian Coast](lucidian-coast) of [Tal'Do
 
 The bay does not provide much in the way of protection from the open ocean, but the mangroves and inlets along the coast provide plenty of hiding places for pirates and smugglers. 
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^43)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^43)^* {.screen-only}
+
+
+
 
 (print-column)
 
@@ -59,7 +66,10 @@ The K'Tawl Creek is a long, slow moving river that decends from the [Summit Peak
 
 The K'Tawl is navigable, but it's winding route and the swamp's dangerous denizens make it impractical for travel. The [Silvercut Roadway](silvercut-roadway) follows the river for a bit, but is straighter and drier.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^* {.screen-only}
+
+
+
 
 > There are a lot of rivers in the [K'Tawl](ktawl-swamp) and most of them are not named in any of our sources. The many [Lizardfolk](lizardfolk), [Grung](grung), and [Orcs](orcs) tribes that live within the swamp have their own names for them and I've done my best to learn those names and document them for this Encyclopedia. 
 >
@@ -80,7 +90,10 @@ Runoff from the [Summit Peaks](summit-peaks) to the west feeds the swamp through
 
 The K'Tawl is an extremely dangerous place teeming with dangerous creatures and tribes of [orcs](orcs), [lizardfolk](lizardfolk), [bullywugs](/monster/bullywug), [grung](/monster/grung), and [sahuagin](/monster/sahuagin). Most of the tribes are content to live in peace, but they tend to be fiercely territorial and do not tolerate trespassers.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^* {.screen-only}
+
+
+
 
 
 (print-page)
@@ -97,7 +110,10 @@ The lower Mooren River Run is a little over 100 miles long and is deep and wide 
 
 Trips up and down the lower Mooren are slow going and typically require extra security to keep pirates and opportunistic [gnolls](/monster/gnolls) or [lizardfolk](lizardfolk) from raiding the ships as they make the trip upriver.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
+
+
+
 
 > While technically the same river, the portions of the Mooren River Run above and below [Mooren Lake](mooren-lake) could not be more different. As such, I have created separate entries for the [Upper Mooren River Run](upper-mooren-river-run) and the [Lower Mooren River Run](lower-mooren-river-run).
 > 
@@ -121,7 +137,10 @@ On the western banks of the lake are the rich farmlands of the eastern [Dividing
 
 Beneath the crystal clear surface, lies centuries of magically-infused [whitestone](/item/whitestone) that has washed down the [upper Mooren River Run](upper-mooren-river-run) from the [Alabaster Sierras](alabaster-sierra-range) far to the north. Rumors tell of strange things happening to the lake bed as a result. 
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^* {.screen-only}
+
+
+
 
 
 ### Owlset Bay
@@ -131,7 +150,10 @@ Beneath the crystal clear surface, lies centuries of magically-infused [whitesto
 
 Owlset Bay is a small bay off of the [Lucidian Ocean](lucidian-ocean) in eastern [Tal'Dorei](taldorei). It is located southwest of [Stilben](stilben) and northeast of the [Stormcrest Mountains](stormcrest-mountains). The [Foramere Waterway](foramere-waterway) empties into the bay on the western side.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^* {.screen-only}
+
+
+
 
 
 (print-page)
@@ -148,8 +170,11 @@ The Rootgarden Marsh is home to a number of humanoid tribes, but most keep to th
 
 In addition to the normal creatures found in a swamp, the Rootgarden is home to Manawort, a sentient fungus used in some powerful potions.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^43)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^43)^* {.screen-only}
 
+
+
+### Stilben
 
 
 ### Summit Peaks
@@ -163,6 +188,9 @@ While the range is much smaller than the [Cliffkeeps](cliffkeep-mountain-range),
 
 High in the Summit Peaks, lies the rift to the [Elemental Plane of Air](elemental-plane-of-air) and the [Ashari](ashari) village of [Zephrah](zephrah).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^44)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^44)^* {.screen-only}
+
+
+### Zephrah
 
 

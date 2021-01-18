@@ -29,7 +29,10 @@ Located on the western edge of the [Ivyheart Thicket](ivyheart-thicket), the Bla
 
 Very little is known about these ruins, but archaeologists from the [Alabaster Lyceum](alabaster-lyceum) are investigating the ruins.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^* {.screen-only}
+
+
+
 
 
 ### Bramblewood
@@ -41,7 +44,10 @@ The Bramblewood is a large forest that stretches along most of the eastern slope
 
 Aptly named, the Bramblewood is a tangled mess of oak-like trees with long, razor-sharp thorns protruding from the tree's bark. The combination of a thick undergrowth, tangled roots, and dagger-like thorns makes a simple stroll in the forest a dangerous affair. Add in the various monstrosities and beasts that call the Bramblewood home and it is easy to understand why the locals stick to the edges.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^58)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^58)^* {.screen-only}
+
+
+
 
 
 ### Byhills River
@@ -55,7 +61,10 @@ Formed by a number of smaller streams beginning in the southern [Cliffkeeps](cli
 
 The upper branches of the river are small, rocky, and forceful. The river widens and calms some as it enters the plains, but is still swift. It is roughly 360 miles from either of it's sources to the [Foramere Basin](foramere-basin).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^* {.screen-only}
+
+
+
 
 > The upper branches of the river are not named on any previous maps, but local [Toppers](toppers) refer to them by the forest from which they originate. It seemed like a logical conclusion, so I've added them to my maps and this encyclopedia.
 > 
@@ -72,11 +81,14 @@ The upper branches of the river are small, rocky, and forceful. The river widens
 
 Dawnmist Pines is a small evergreen forest located in eastern [Tal'Dorei](taldorei), northwest of the town of [Turst Fields](turst-fields). It sits at the southern end of the [Dawnmist Bay](dawnmist-bay) and is often blanketed in fog that drifts down from the [East Range](cliffkeep-mountain-range) of the [Cliffkeep Mountains](cliffkeep-mountain-range).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^57)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^57)^* {.screen-only}
+
+
+
 
 
 (print-page)
-
+### Foramere
 
 ### Foramere Basin
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Dividing^ ^Plains^](dividing-plains) {.screen-only}
@@ -89,7 +101,10 @@ The lake is replenished by snowmelt from the [Cliffkeep Mountains](cliffkeep-mou
 
 The Foramere is an important source of fresh fish to central [Tal'Dorei](taldorei) and a number of small fishing villages dot the western shore. The largest is the village of [Foramere](foramere).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^* {.screen-only}
+
+
+
 
 
 ### Foramere Waterway
@@ -99,7 +114,10 @@ The Foramere is an important source of fresh fish to central [Tal'Dorei](taldore
 
 The Foramere Waterway is a large, but short river that exits the east side of the [Foramere Basin](foramere-basin) and heads east to the [Owlset Bay](owlset-bay) and the [Lucidian Ocean](lucidian-ocean). The river is a little under 200 miles from the [Basin](foramere-basin) to the [Bay](owlset-bay).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^* {.screen-only}
+
+
+
 
 
 ### Ironseat Ridge
@@ -113,7 +131,10 @@ Once home to a number of prosperous mines, the Ironseat has been largely pilfere
 
 The residents of [Kymal](kymal) can often hear the wind howling through the old tunnels and what was once a symbol of the city's prosperity is now a constant reminder of days gone by.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^* {.screen-only}
+
+
+
 
 
 ### Ivyheart Thicket
@@ -127,7 +148,10 @@ After the destruction of [Torthil](ruins-of-torthil), the forest quickly grew wi
 
 On the western edge of the forest, ruins of an ancient, pre-[Calamity](history) civilization was recently discovered by arcane-archaeologists from the [Alabaster Lyceum](alabaster-lyceum). Little is known about the people that once lived there and it is unlikely anyone will ever uncover it's secrets. During the time of the [Chroma Conclave](chroma-conclave), [Thordak](thordak-the-cinder-king) attacked the ruin and left a fiery ruin now called the [Blazing Foundry](blazing-foundry).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^* {.screen-only}
+
+
+### Kymal
 
 
 (print-page)
@@ -161,7 +185,10 @@ The village of Torthil was a small village located south of [Kymal](kymal) on th
 
 All that remains of Torthil are broken stone buildings and an obsidian monument to the death of [Warren Drassig](drassig-warren). The village was the sight of a well-executed ambush of Drassig's forces during the [Scattered War](history) and a subsequent massacre at the hands of Warren's son, [Neminar](drassig-neminar).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^55)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^55)^* {.screen-only}
+
+
+
 
 
 (print-column)
@@ -174,7 +201,10 @@ All that remains of Torthil are broken stone buildings and an obsidian monument 
 
 The Shadebarrow is an ancient ritual site of a tribe of druids known as the [Dawn Circle](dawn-circle). Exterminated by the [Drassigs](house-of-drassig) in the lead up to the [Scattered War](scattered-war, the land would eventually be acquired by a wealthy noble, [Baron Sevil Howthess](howthess-sevil), from [Westruun](westruun). Obsessed with the barrow, [Howthess](howthess-sevil) is rumored to be entombed there with many of his personal treasures and wealth.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^55)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^55)^* {.screen-only}
+
+
+
 
 
 ### Silvercut Crossroads
@@ -186,7 +216,10 @@ The Silvercut Crossroads is the intersection of the east-west transcontinental [
 
 In the years leading up to and during the [Scattered War](history), the crossroads were used to hold mass executions. Mass graves are scattered throughout the area, holding the remains of disidents and critics of the [Drassigs](house-of-drassig).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^* {.screen-only}
+
+
+
 
 
 (print-page)
@@ -209,7 +242,10 @@ The road is vital to the [Republic](council-of-taldorei) and heavily patrolled b
 |[Westruun](westruun) |[Stilben](stilben)                           | Land |  360  |  18  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^* {.screen-only}
+
+
+
 
 
 ### Throne of the Arch Heart
@@ -221,7 +257,10 @@ The Throne of the Arch Heart is a small rise located on the southwestern side of
 
 According to both [centaur](centaurs) and [orc](orcs) legends, the Throne of the Arch Heart is the birthplace of both races. It marks the final battle between [Corellon](corellon) and [Gruumsh](gruumsh) during the [Calamity](history) and the [Herdsmeet](centaurs) is a source of tension, and often violence between the two races.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^* {.screen-only}
+
+
+
 
 (print-column)
 
@@ -236,7 +275,10 @@ Despite it's reputation, the Torian is still a wild and unforgiving place. It is
 
 The northern end of the forest transitions to damp fens and is home to the [Rivermaw Tribe](rivermaw-tribe), a nomadic tribe of disparate people who have shunned life in the more populous areas of [Tal'Dorei](taldorei).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^57)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^57)^* {.screen-only}
+
+
+
 
 
 ### Tundrun River
@@ -246,7 +288,11 @@ The northern end of the forest transitions to damp fens and is home to the [Rive
 
 The Tundrun River is a small, but mighty river that descends rapidly from the north slope of the [Stormcrest Mountains](stormcrest-mountains), along the western edge of the [Frostweald](frostweald) and into the [Foramere Basin](foramere-basin) in the [Dividing Plains](dividing-plains). The river is very fast and rocky and is not navigable.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^* {.screen-only}
+
+### Turst Fields
+### Westruun
+
 
 (print-page)
 
@@ -268,6 +314,9 @@ Following the [Scattered War](history), earned the nickname, the "Traitor's Stai
 |[Emerald Path](emerald-path) | [Syngorn](syngorn)                    | Land |  180  |   9  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^61)^*
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^61)^* {.screen-only}
+
+
+
 
 
