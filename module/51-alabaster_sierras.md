@@ -2,7 +2,7 @@
 name: Alabaster Sierras
 slug: alabaster-sierras
 order: 51
-module-pagebreaks: h1, h2, h3
+module-pagebreaks: h1, h2, h3, h4
 page-parent: taldorei
 ---
 ![Alabaster Sierras](assets/img/MrFarland-Exandria_800-2_region-alabaster_sierras-3300x2550-rotated.jpg){.size-full .print-only}
@@ -111,7 +111,7 @@ While not nearly as large as the massive [Cliffkeeps](cliffkeep-mountain-range) 
 
 The [Alabaster Trail](alabaster-trail) is small road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
 
-Travel on the trail is extremely dangerous. While the northern and southern ends are well patrolled by the [Paleguard](paleguard) and [Shields of the Plains](shields-of-the-plains) respectively, travelers attempting the journey are advised to join a caravan or hire escorts. 
+Travel on the trail is extremely dangerous. While the northern and southern ends are well patrolled by the Pale Guard and Shields of the Plains respectively, travelers attempting the journey are advised to join a caravan or hire escorts. 
 
 [Bandits](/monster/bandit), [gnolls](/monster/gnoll) and [orcs](/monster/orcs) are a constant threat on the southern end, but even they avoid the stretch through the forest. Lycans, dire beasts, and undead creatures roam the [Timberland](parchwood-timberland) and it is not uncommon for them to attack travelers on the road and in their camps.
 
@@ -213,6 +213,8 @@ The Upper Mooren River Run is barely navigable. There are numerous falls and int
 > ![Wax Stamp F](assets/img/wax-stamp-f.png =90x90){.center}
 <!-- {blockquote:.flavortext} -->
 
+
+
 (print-page)
 
 
@@ -220,148 +222,88 @@ The Upper Mooren River Run is barely navigable. There are numerous falls and int
 ### Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
 
-**^Population:^** ^4,230^ ^-^ **^Area:^** ^28^ ^Hectares^ ^/^ ^69^ ^Acres^
+**^Population:^** ^4,230^ ^-^ **^Area:^** ^69^ ^Acres^
 
-The city of [Whitestone](whitestone) is located in the far northeastern corner of [Tal'Dorei](taldorei) at the northern end of the [Alabaster Peninsula](alabaster-sierras). The city lies at the base of the [Alabaster Sierras](alabaster-sierra-range) where the mountains wrap around the northern tip of the peninsula. The massive [Parchwood Timberland](parchwood-timberland) completely surrounds the city and it is connected to the rest of [Tal'Dorei](taldorei) by the [Alabaster Trail](alabaster-trail).
+The city of [Whitestone](whitestone) is located in the far northeastern corner of [Tal'Dorei](taldorei) at the northern end of the [Alabaster Peninsula](alabaster-sierras). The city lies at the base of the [Alabaster Sierras](alabaster-sierra-range) in a wide valley where the mountains wrap around the northern tip of the peninsula. The massive [Parchwood Timberland](parchwood-timberland) completely surrounds the city and it is connected to the rest of [Tal'Dorei](taldorei) by the [Alabaster Trail](alabaster-trail).
 
-#### Defenses
-Given the city's location in the dangerous [Parchwood Timberland](parchwood-timberland) and at the base of the [Alabaster Sierras](alabaster-sierra-range), the defense of the city is a high priority. The city is protected by a large, stone wall that completely envelops the city and heavy gates protect the many entrances into the city from the surrounding communities and to the [Alabaster Trail](alabaster-trail).
+##### Administration
+The city-state of [Whitestone](whitestone) is governed by a ruling council called the Chamber of Whitestone. The council is led by the head of the de Rolo family and six remaining members are chosen from local nobility and community leaders.
 
-**Pale Guard (42)**. The [Pale Guard](pale-guard) are the chief protectors of the city and the surrounding villages. They stand post on the city's walls, patrol northern end of the [Alabaster Trail](alabaster-trail) and serve as the city's police force.
+The Chamber of Whitestone meets in [Castle Whitestone](castle-whitestone).
 
-**Whitestone Riflemen (20)**. The [Whitestone Riflemen](whitestone-riflemen) are an elite unit, equipped with firearms and tasked with the defense of [Castle Whitestone](castle-whitestone) and the [de Rolo](house-de-rolo) family.
+##### Crime
+Crime is low in the city of [Whitestone](whitestone) with the occassional 
 
-**Grey Hunt (8)**. The [Grey Hunt](grey-hunt) is a small cadre of rangers that patrol the [Parchwood](parchwood-timberland) and keep the various monsters that roam the wood away from the city and it's inhabitants.
+##### Demographics
+While the city is not particularly diverse, the people of [Whitestone](whitestone) are tolerant of most other races. They are wary of orcs, gnolls, and goblinoids but are not openly hostile.
 
-##### Illusory Barrier
-
-In addition to the traditional defenses, the city is protected by an [Illusory Barrier](illusory-barrier) that hides the city from above. The barrier is a collection of obelisks made of [white stone](/item/white-stone) and positioned around the city. When activated, they form an illusory dome of unspoiled wilderness over the entire city.
-
-The barrier is powered by the expenditure of magical energy. All five obelisks must be active at the same time for the barrier to work.
-- 2 Hours = 1 spell level x 5
-{.square}
-
-#### Demographics
-[Whitestone](whitestone) is overwhelmingly human with small, but lively dwarven and halfling communities.
-- Human (83%)
-- Halfling (7%)
-- Dwarf (6%)
-- Other (4%)
-{.square}
-
-#### Government
-The city-state of [Whitestone](whitestone) is governed by a ruling council known as the [Chamber of Whitestone](chamber-of-whitestone). Comprised of seven individuals, the leader of the council is the Guardian of Woven Stone and is held by the current head of the [de Rolo](house-de-rolo) family. The remaining members are chosen from the local nobility and from prominent leaders in the community.
-
-(print-page)
-
-![Whitestone](assets/img/MrFarland-Exandria_800-3_settlement-whitestone-3300x2550-rotated.jpg){.size-full .print-only}
-
-
-##### Architecture
-Buildings in Whitestone are mostly built from expertly cut stone and lumber. The architectural style is reminiscent of buildings from the [de Rolo's](house-of-de-rolo) native [Wildemount](wildemount).
+||||||
+|:----------|:---:|:----------|:---:|:----------|:---:|
+| Human     | 83% | Halfling  |  7% | Dwarf     |  6% |
+| -         |  -  | -         |  -  | Other     |  4% |
+{.gray}
 
 ##### Defenses
-Whitestone has a large, stone wall that completely encompasses the entire city. A number of gates allow local citizens to pass in and out of the city and each gate is well-guarded by the city's [Paleguard](paleguard).
+The city is surrounded by a large, white, stone wall with heavy gates on all roads leading into the city. A large [castle](castle-whitestone) stands on a large hill overlooking the city.
 
-On a hill overlooking the city is a large keep called [Castle Whitestone](castle-whitestone). the keep is home to the [de Rolo family](house-of-de-rolo) and [Chamber of Whitestone](chamber-of-whitestone). It is defended by an elite, firearm equipped unit called the [Whitestone Riflemen](whitestone-riflemen).
+- **Pale Guard** (42). The primary defenders and police force for the city and surrounding villages.
+- **Whitestone Rifleman** (20). The firearm-equipped guard of the de Rolos and [Castle Whitestone](castle-whitestone)
+- **Grey Hunt** (8). Rangers that patrol the [Parchwood](parchwood-timberland) and protect the city from the monsters that live there.
+{.square}
 
-While the nearby villages are patrolled by the [Paleguard](paleguard), the [Grey Hunt](grey-hunt) protect the city by hunting monstrosities and beasts in the surrounding [Parchwood Timberland](parchwood-timberland) and [Alabaster Sierra Range](alabaster-sierra-range).
+In addition to the traditional defenses, the city is protected by an [Illusory Barrier](illusory-barrier) that hides the city from above.
 
-In addition to the traditional defenses, the city of Whitestone is protected by an Illusory Barrier that was built during in 815 PD. 
-##### Demographics
+(print-column)
 
-##### Government
-The city of Whitestone is governed by the [Chamber of Whitestone](chamber-of-whitestone), a council led by the [de Rolo family](house-of-de-rolo) and includes leaders from the community.
+##### Districts
 
-##### Law & Order
-Crime is low in Whitestone. The [Clasp](clasp) and [Myriad](myriad) maintain some presence in the city, but not nearly to the extent in the other cities of [Tal'Dorei](taldorei). 
+**Castle Ward**. Home to [Castle Whitestone](castle-whitestone), this ward is located on the north side of the city atop a large hill. A road leads out the north gate and up the hill to the castle grounds.
+- [Castle Whitestone](castle-whitestone)
+{.square}
 
-##### Religion
-The dominant religion in Whitestone is that of [Pelor](pelor). The [de Rolos](house-de-rolo) are ardent supporters of the Dawn Father and their faith played a pivotal role in the city's founding.
+**Common Ward**. The largest of [Whitestone's](whitestone) wards, the Common Ward is a working class neighborhood on the south side of the city.
+- [Estate of the Mistress of the Grey Hunt](estate-of-the-mistress-of-the-grey-hunt)
+- [Lady's Chamber](ladys-chamber)
+{.square}
 
-The [Sun Tree](sun-tree) in Dawnfather Square is a constant reminder of the city's devotion to [Pelor](pelor) as is the [Zenith](zenith) in the Greyfields.
+**Dawnfather Square**. The heart of the city, Dawnfather Square is a large square filled with shops, taverns, & inns. The massive [Sun Tree](sun-tree) stands in the center of the square.
+- [Arsenal of Fear](arsenal-of-fear)*
+- [Bhevek's Whispers](bheveks-whispers)*
+- [Black Oak Inn](black-oak-inn)*
+- [Sun Tree](sun-tree)
+- [Ziggurat of Whitestone](ziggurat-of-whitestone) (Underground)
 
-While not as prevalent as [Pelor](pelor), [Erathis the Law Bearer](erathis) also has a strong presence in the city. The [Lady's Chamber](ladys-chamber) is located in the southwestern corner of the city in the Common Ward.
+**Greyfields**. The Greyfields is the cemetary and temple district of [Whitestone](whitestone) and is located outside of the city walls on the east side of the city.
+- [Alter of the Raven](alter-of-the-raven)
+- [Zenith](zenith)
 
-Worship of the [Raven Queen](raven-queen) became more common in 815 PD when the [Altar of the Raven](altar-of-the-raven) was constructed behind the [Temple of the Dawn](temple-of-the-dawn) in the Greyfields.
+**Northern Ward**. The Northern Ward of [Whitestone](whitestone) is an affluent neighborhood and home to the majority of the city's nobility and merchant class.
+- [Pale Guard Barracks](pale-guard-barracks)
+
+**Surrounding Area**. While most of the city resides inside the walls, numerous farms, lumber camps, quarries, and mines are scattered throughout the surrounding wilderness.
 
 (print-page)
 
 ##### Services
-Despite being a relatively small city, Whitestone's remote location and history of isolationism have made the city more self-sufficient than other cities of its size might be. As a result, it has a little more to offer in the way of professional services.
 
-| Service ^sv^              |  #  | Service ^sv^              |  #  |
-|:--------------------------|:---:|:--------------------------|:---:|
-| Alchemists ^3000^         | 1.5 | Leatherworkers ^2000^     | 2.1 |
-| Armorsmiths ^3000^        | 1.5 | Locksmiths ^1900^         | 2.2 |
-| Blacksmiths ^1500^        | 2.8 | Magic Shops ^5600^        | 0.8 |
-| Booksellers ^6300^        | 0.7 | Magic Supply ^2800^       | 1.5 |
-| Cart/Shipwrights ^6000^   | 0.7 | Merchant (General) ^700^  | 6.0 |
-| Enchanters ^9000^         | 0.5 | Merchant (Special) ^1400^ | 3.0 |
-| Inns / Stables ^2000^     | 2.1 | Weaponsmiths ^2300^       | 1.8 |
-<!-- {table: .gray} -->
-
-> ***Note:** Support value is the # of people needed to support a given service. This is just a helpful guide. There are always execptions. Also, a settlement too small for a dedicated service, does not mean that service is not available.*
-<!-- {blockquote: .paper} -->
+(print-column)
 
 ##### Society
-The people of Whitestone are tough folk. The city was founded by the [de Rolo family](house-of-de-rolo) in the early 600s and a frontier spirit has become central to their ethos. That combined with years of occupation under the Briarwoods in the early 800s has created a culture that prides itself on self-reliance and perserverance.
+The people of [Whitestone](whitestone) are tough. The city was founded by the de Rolo family in the early 600s and a frontier spirit has become central to their ethos. That combined with years of occupation under the Briarwoods has created a culture that prides itself on self-reliance and perserverance.
 
 ##### Trade & Industry
-The chief export of the city is a chalk-white rock called 'whitestone' that is infused with magical properties. The material can be refined into a green glass-like substance called residuum that increases its potency. It has a number of uses to arcane spellcasters and is highly desired by mages throughout [Exandria](geography). The material can be refined into a green glass-like substance called residuum that increases its potency.
+The chief export and the foundation of [Whitestone's](whitestone) economy is the magically-infused "[white stone](/item/white-stone)" and it's green, glass-like by product [residuum](residuum). Raw materials like timber, stone, and non-precious metals are also exported in large quantity.
 
-> While the majority of this page is canon, some details like the settlement's land area, number of guards, and available services are based on the guide "Medieval Demographics Made Easy". They help develop the settlement in ways that are not provided in canon sources, but do so in a believable manner.
-> - Tal'Dorei Campaign Setting Guide, p. 48
-> - [Critical Role Wiki - Whitestone](https://criticalrole.fandom.com/wiki/Whitestone) (External Link)
-> - [C1E29 "Whispers"](https://crtranscript.tumblr.com/ep029) (External Link)		
-> - [C1E64 "Frigid Doom"](https://crtranscript.tumblr.com/ep064) (External Link)	
-> - [C1E70 "Trust"](https://crtranscript.tumblr.com/ep070) (External Link)
-> - [Medieval Demographics Made Easy by S. John Ross](https://gamingballistic.com/2018/11/05/medieval-demographics-made-easy-by-s-john-ross/) (External Link)
->
-> *Canon Consistency (80%)*
-> ![Wax Stamp F](assets/img/wax-stamp-f.png =80x80){.center}
-<!-- {blockquote:.flavortext} -->
-
->  ^Learn^ ^More^
-> - Tal'Dorei Campaign Setting Guide, p. 86
-<!-- {blockquote:.read} -->
-
-|||
-|:---------------------|:-------------------------|
-| ![geography_whitestone](assets/img/geography_whitestone.jpg) ||
-| Continent            | [Tal'Dorei](taldorei)    |
-| Region               | [Alabaster Sierras](alabaster-sierras) |
-| Population           | 4,230                    |
-| Pop. Density         | Medium (150 / hectare)   |
-| Land Mass            | 28 hectares / 69 Acres   |
-| Demographics (Top 3) | [Humans](humans) (83%), [Halflings](halflings) (7%), [Dwarves](dwarves) (6%), [Other](races) (4%) |
-| Affiliation  | [Chamber of Whitestone](chamber-of-whitestone) |
-| Factions (Guard)     | [Paleguard](paleguard) (42), [Whitestone Riflemen](whitestone-riflemen) (20), [Grey Hunt](grey-hunt) (8) |
-| Founded              | ~614 PD                  |
-| Ruined               | -                        |
-{.sidebar}
-(print-page)
-
-This space intentionally left blank.
-**Castle Ward**. The Castle Ward is home to [Castle Whitestone](castle-whitestone) and its grounds. It is on the north end of the city and up on a hill that overlooks the entire city.
-- [Castle Whitestone](castle-whitestone)
-- [Whitestone Riflemen Barracks](whitestone-riflemen)
-
-**Common Ward**. The Common Ward is a working class neighborhood on the southern side of the city. It is just inside the main gate off the [Alabaster Trail](alabaster-trail).
-- [Estate of the Mistress of the Grey Hunt](grey-hunt)
-- [Lady's Chamber](ladys-chamber)
-
-**Dawnfather Square**. The heart of the city, Dawnfather Square is a large square filled with shops, market stalls, and inns. At the center of the Square stands the massive [Sun Tree](sun-tree).
-- [Sun Tree](sun-tree)
-- [Ziggurat of Whitestone](ziggurat-of-whitestone)
-
-**Greyfields**. The Greyfields is the cemetary and temple district of the city and houses temples to [Pelor](pelor) and the [Raven Queen](raven-queen).
-- [Altar of the Raven](altar-of-the-raven)
-- [Zenith](zenith)
-
-**Northern Ward**. The Northern Ward is the more affluent part of the city and sits between Dawnfather Square and the Castle Ward.
-- [Paleguard Barracks](paleguard-barracks)
-
-**Surrounding Area**. The city of Whitestone is surrounded by the [Parchwood Timberland](parchwood-timberland) and living outside the city is dangerous. Still, small farming communities, lumber and mining camps dot the landscape.
+[Whitestone](whitestone) is a major importer of food from the farming and fishing communities of [Turst Fields](turst-fields) and [Drynna](drynna) in eastern [Tal'Dorei](taldorei).
 
 (print-page)
+
+#### Altar of the Raven
+#### Castle Whitestone
+#### Estate of the Mistress of the Grey Hunt
+#### Illusory Barrier
+#### Lady's Chamber
+#### Paleguard Barracks
+#### Sun Tree
+#### Zenith
+#### Ziggurat of Whitestone
