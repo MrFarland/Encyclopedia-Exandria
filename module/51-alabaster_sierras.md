@@ -232,7 +232,7 @@ The city-state of [Whitestone](whitestone) is governed by a ruling council calle
 The Chamber of Whitestone meets in [Castle Whitestone](castle-whitestone).
 
 ##### Crime
-Crime is low in the city of [Whitestone](whitestone) with the occassional 
+The city's relatively small size and it's renewed prosperity have helped keep crime low in the city, but the city's resurgence has attracted the attention of the criminal syndicates the Clasp and Myriad. Both have begun to make inroads in the city, but neither has managed to take root.
 
 ##### Demographics
 While the city is not particularly diverse, the people of [Whitestone](whitestone) are tolerant of most other races. They are wary of orcs, gnolls, and goblinoids but are not openly hostile.
@@ -252,8 +252,6 @@ The city is surrounded by a large, white, stone wall with heavy gates on all roa
 {.square}
 
 In addition to the traditional defenses, the city is protected by an [Illusory Barrier](illusory-barrier) that hides the city from above.
-
-(print-column)
 
 ##### Districts
 
@@ -282,27 +280,49 @@ In addition to the traditional defenses, the city is protected by an [Illusory B
 
 **Surrounding Area**. While most of the city resides inside the walls, numerous farms, lumber camps, quarries, and mines are scattered throughout the surrounding wilderness.
 
-(print-page)
-
-##### Services
-
-(print-column)
-
 ##### Society
 The people of [Whitestone](whitestone) are tough. The city was founded by the de Rolo family in the early 600s and a frontier spirit has become central to their ethos. That combined with years of occupation under the Briarwoods has created a culture that prides itself on self-reliance and perserverance.
+
+
+
+(print-page)
+
+
 
 ##### Trade & Industry
 The chief export and the foundation of [Whitestone's](whitestone) economy is the magically-infused "[white stone](/item/white-stone)" and it's green, glass-like by product [residuum](residuum). Raw materials like timber, stone, and non-precious metals are also exported in large quantity.
 
 [Whitestone](whitestone) is a major importer of food from the farming and fishing communities of [Turst Fields](turst-fields) and [Drynna](drynna) in eastern [Tal'Dorei](taldorei).
 
-(print-page)
-
 #### Altar of the Raven
+
+#### Arsenal of Fear
+The [Arsenal of Fear](arsenal-of-fear) is a shop located on the south side of Dawnfather Square. The shop is owned and operated by 
+
 #### Castle Whitestone
+
 #### Estate of the Mistress of the Grey Hunt
+The [Estate of the Mistress of the Grey Hunt](estate-of-the-mistress-of-the-grey-hunt) was briefly the personal residence of Vex'halia Vessar prior to her marriage to Percival de Rolo and their moving into [Castle Whitestone](castle-whitestone). The residence is now the headquarters of the Grey Hunt, the group of rangers tasked with patrolling the surrounding [Parchwood Timberland](parchwood-timberland) and protecting the people of [Whitestone](whitestone) from the monsters that roam within.
+
+The estate is a grand manor located in the southeastern corner of the city between the city's main gate and the east gate to the Greyfields. The house originally belonged to one of [Whitestone's](whitestone) noble families prior to the Briarwood occupation. The family was executed by the Briarwoods and the estate given to one of their loyal lieutenants. After the fall of the Briarwoods, the manor was restored by the de Rolos and given to Vex'halia by Percival de Rolo.
+
 #### Illusory Barrier
+
 #### Lady's Chamber
+The [Lady's Chambers](ladys-chambers), or the House of the Lawbearer, is the temple to Erathis in the city of [Whitestone](whitestone). Located on the west side of the Common Ward near the west gate, the [Lady's Chambers](ladys-chambers) is a small temple with a large, open-air courtyard and ampitheater.
+
+The head of the temple is called the "Keeper" and they often serve as a member of the Chamber of Whitestone.
+
+#### Occupants
+| Name                   | Race            | Gender | Age | Class                     |                             |
+|:-----------------------|:----------------|:-------|:----|---------------------------|
+| Lorelei de Rolo Desnay | [Human](humans) | Female | 60s | [Priest](/monster/priest) |
+{.gray}
+
+The temple has 1 [Priest](/monster/priest), 3 [Acolytes](/monster/acolyte) and a handful of attendants and lay clergy that help out around the temple.
+
+
+
 #### Paleguard Barracks
 #### Sun Tree
 #### Zenith
