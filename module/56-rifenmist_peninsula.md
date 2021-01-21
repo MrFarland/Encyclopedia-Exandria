@@ -26,7 +26,7 @@ page-parent: taldorei
 
 
 ### Beynsfal Plateau
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
 
 **^Type:^** ^Hill^ ^&^ ^Coastal^
 
@@ -36,7 +36,7 @@ The Beynsfal Plateau is a dangerous and inhospitable wasteland. The harsh climat
 
 The combined might of the city-states of [Rybad-Kol](rybad-kol), [Hdar-Fye](hdar-fye), [Ezordam-Haar](ezordam-haar), [Ortem-Vellak](ortem-vellak) and [Tz'Arrm](tzarrm) dominate the plateau and subjugate all in their path. Trespassers are lucky if death finds them quickly, lest they find themsleves toiling in the forges and foundries that power the [Iron Authority's](iron-authority) thirst for war.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^76)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^76)^*
 
 ### Byroden
 
@@ -44,7 +44,7 @@ The combined might of the city-states of [Rybad-Kol](rybad-kol), [Hdar-Fye](hdar
 ### Hdar-Fye
 
 ### Mornset Countryside
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
 
 **^Type:^** ^Grassland^
 
@@ -52,7 +52,7 @@ The Mornset Countryside is a wide open plain that stretches for hundreds of mile
 
 A number of small settlements dot the countryside, but the city of [Port U'daa](port-udaa) and the village of [Byroden](byroden) are the largest.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^77)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^77)^*
 
 
 
@@ -61,7 +61,7 @@ A number of small settlements dot the countryside, but the city of [Port U'daa](
 > 
 > I have marked the location of on my map based on information obtained from [Allura Vysoren](vysoren-allura).
 >
-> [*^Episode^ ^40:^ ^Desperate^ ^Measures^*](https://crtranscript.tumblr.com/ep040) *^(External^ ^Link)^* {.screen-only}
+> [*^Episode^ ^40:^ ^Desperate^ ^Measures^*](https://crtranscript.tumblr.com/ep040) *^(External^ ^Link)^*
 
 
 
@@ -73,7 +73,7 @@ A number of small settlements dot the countryside, but the city of [Port U'daa](
 
 
 ### Orroyen River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Verdant^ ^Expanse^](verdant-expanse)
 
 **^Type:^** ^Jungle^
 
@@ -95,7 +95,7 @@ There are no permanent settlements in the Orroyen River basin, but it is home to
 
 
 ### Rifenmist Jungle
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
 
 **^Type:^** ^Jungle^
 
@@ -105,7 +105,7 @@ The Rifenmist is divided in two by the [Stormpoint Mountains](stormpoint-mountai
 
 While there are no permanent settlements in the jungle, the Rifenmist is home to numerous tribes of various races. The largest and most well-known being the [wood elves](elves) of the [Orroyen](orroyen-tribe). Also native to the jungle are most of [Exandria's](exandria) [tabaxi](tabaxi) clans.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^78)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^78)^*
 
 
 
@@ -118,7 +118,7 @@ While there are no permanent settlements in the jungle, the Rifenmist is home to
 (print-column)
 
 ### Rifenmist River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
 
 **^Type:^** ^Jungle^
 
@@ -138,7 +138,7 @@ The largest of the Rifenmist's tributaries is the one most commonly referred to 
 ### Rybad Kol
 
 ### Stormpoint Mountains
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Rifenmist^ ^Peninsula^](rifenmist-peninsula)
 
 **^Type:^** ^Mountain^
 
@@ -148,7 +148,7 @@ While the [Stormcrests](stormcrest-mountains) are mostly bald and rocky, the Sto
 
 Rumored to be the home of [Raishan the Diseased Deceiver](raishan-the-diseased-deceiver), treasure hunters are scouring the mountains looking for her lost hoard.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^79)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^79)^*
 
 ### Tz'Arrm
 

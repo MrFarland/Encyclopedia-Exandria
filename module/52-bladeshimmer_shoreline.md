@@ -59,21 +59,22 @@ The settlements in the region are:
 (print-page)
 
 ### Bladeshimmer Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
-**^Type:^** ^Coastal^ ^&^ ^Underwater^
+**^Type:^** ^Coastal^ ^-^ **^Danger:^** ^Medium^
 
-The Bladeshimmer Bay is a large, open bay on the west coast of [Tal'Dorei](taldorei). It stretches from the [Seashale Mountains](seashale-mountains) in the north, down the [Bladeshimmer Shoreline](bladeshimmer-shoreline) and ends at a point due west of [Daggerbay](daggerbay).
+The [Bladeshimmer Bay](bladeshimmer-bay) is a large, open bay on the west coast of [Tal'Dorei](taldorei). It stretches from the [Seashale Mountains](seashale-mountains) in the north, down the [Bladeshimmer Shoreline](bladeshimmer-shoreline) and ends at a point due west of [Daggerbay](daggerbay). The Bladeshimmer Bay is not sheltered from the open [Ozmit Sea](ozmit-sea), but the waters are relatively calm and the weather temperate. 
 
-The Bladeshimmer Bay is not sheltered from the open [Ozmit Sea](ozmit-sea), but the waters are relatively calm and the weather temperate. It is heavily travelled by merchant ships and fishers operating out of the Port of [Emon](emon).
+##### Flora & Fauna
+The [Bladeshimmer Bay](bladeshimmer-bay) is home to many species of marine mammals including seals, dolphins, and whales. The bay is a diverse ecosystem teeming with fish, mollusks, sea turtles, and shore birds. Competing with the local fishers out of [Emon](emon) are a number of predators including [hunter sharks](/monster/hunter-shark), [killer whales](/monster/killer-whale), and [sea lions](/monster/sea-lion).
 
-While the bay is well-patroled and relatively safe, [sahuagin](/monster/sahuagin) clans and pirates operating out of the [Ruins of O'Noa](ruins-of-onoa) occassionally trouble merchants bound for [Marquet](marquet) or [Wildemount](wildemount).
+A number of different varieties of kelp thrive in the bay and can grow as large as terrestial trees. Kelp forests are scattered throughout the bay.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^* 
 
 
 ### Crystalfen Caverns
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Underdark^
 
@@ -81,11 +82,11 @@ Crystalfen Caverns is a massive network of underground tunnels, caverns, and riv
 
 Throughout the caverns are veins of blue crystal called azuremite. This blue crystal can be ground and refined into a powder with powerful arcane properties called [Suude](/item/suude).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^86)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^86)^*
 
 
 ### Daggerbay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
@@ -95,11 +96,11 @@ The bay was once home to the colony of [O'noa](ruins-of-onoa), the first permane
 
 Over time, the bay became a haven for pirates and [sahuagin](/monster/sahuagin) with the occassional foolhardy treasure hunter looking to salvage treasure from the countless wrecks on the [Slumber Reef](slumber-reef).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
 
 
 ### Daggerbay Mountains
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Mountain^ ^&^ ^Hill^
 
@@ -109,7 +110,7 @@ Located on the northern end of range, the [Emerald Outpost](emerald-outpost) kee
 
 Clans of [stone](/monster/stone-giant) and [hill](/monster/hill-giant) giants regularly harass travelers and raid supply wagons, as do [bandits](/monster/bandits) operating out of the [ruins of O'Noa](ruins-of-onoa).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
 
 
 (print-page)
@@ -198,7 +199,7 @@ Despite its relatively small size, the Emerald Outpost typically has goods only 
 
 
 ### Emerald Path
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Coastal^ ^&^ ^Grassland^
 
@@ -213,14 +214,14 @@ The Emerald Path is well patrolled by both the [Arms of Emon](arms-of-emon) and 
 |[Emerald Outpost](emerald-outpost) | [Syngorn](syngorn) via [Wildwood Byway](wildwood-byway) | Land |  320  |  19  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
 
 
 (print-page)
 
 
 ### Emerald River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Grassland^
 
@@ -230,7 +231,7 @@ The Emerald River is navigable via small boats for much of its lower course. It 
 
 The [Emerald Path](emerald-path) follows the river for most of its course before diverging at the base of the mountains and heading due east to the [Emerald Outpost](emerald-outpost).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
 
 ### Emon
@@ -349,7 +350,7 @@ While there is some heavy industry outside the city, raw materials like timber, 
 
 
 ### Flamereach Grove
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Forest^ ^&^ ^Elemental^
 
@@ -359,7 +360,7 @@ After the attack the surrounding area was turned into the "Scar of the Cinder Ki
 
 The forest sits on the edge of the [Snowember Fields](snowember-fields) and a squat, stone fortress called the [Flamereach Outpost](flamereach-outpost) keeps watch over both.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^*
 
 
 ### Fort Daxio
@@ -452,7 +453,7 @@ While the fort is capable of producing basic items, refined finished goods are i
 
 
 ### Ivyheart Run
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Forest^ ^&^ ^Grassland^
 
@@ -462,11 +463,11 @@ The Ivyheart Run is not a big, deep, or fast-moving river, but it is navigable v
 
 Shortly before it's arrival at the sea, the Run joins with the [Emerald River](emerald-river) north of the ruined city of [O'Noa](ruins-of-onoa).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
 
 ### Nightwash Tide
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Coastal^ ^&^ ^Mountain^
 
@@ -476,11 +477,11 @@ The Nightwash is a seemingly endless supply of food for the villages of the [Sha
 
 Fishing the Nightwash is not without risks. The same tide that brings in fish, occassionally brings in creatures a little too dangerous for the fishers to deal with on their own.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 
 ### Othendin Trail
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Grassland^ ^&^ ^Mountain^
 
@@ -495,7 +496,7 @@ The trail is heavily patrolled by the [Arms of Emon](arms-of-emon) near the city
 |[Emon](emon) |[Shalesteps](shalesteps) via smaller side road | Land |  120  |  6  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
 
 
 (print-page)
@@ -505,7 +506,7 @@ The trail is heavily patrolled by the [Arms of Emon](arms-of-emon) near the city
 
 
 ### Ruins of Salar
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Underdark^
 
@@ -513,11 +514,11 @@ The city of Salar was once a great [aboleth](/monster/aboleth) city located deep
 
 The architecture of Salar is completely alien to the [races](races) of Exandria. Those who know of its existence call it the "Unseeable City" because those who look upon it are known to have descended into madness. The city is illuminated by a massive pearlescent disc, called the Moon Disc.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 
 ### Ruins of Vos'Sykriss
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Jungle^
 
@@ -529,11 +530,11 @@ Undead [Yuan-Ti](yuan-ti) still patrol and defend their ancestral home, while co
 
 In the early 800s, an expedition from the [Alabaster Lyceum](alabaster-lyceum) explored the ruined city and brought back many artifacts. Shortly after their departure, the [Yuan-Ti](yuan-ti) began to awaken from their slumber.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^97)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^97)^*
 
 
 ### Scar of the Cinder King
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only} {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Forest,^ ^Grassland,^ ^&^ ^Elemental^
 
@@ -541,7 +542,7 @@ The Scar of the Cinder King refers to an area east of [Emon](emon) that was rava
 
 The area is heavily scarred and cursed by elemental magic. Creatures from the [Elemental Plane of Fire](elemental-plane-of-fire) roam the area and druids from the Fire [Ashari](ashari) of [Pyrah](pyrah) and scholars from the [Alabaster Lyceum](alabaster-lyceum) are working together to monitor the area and hopefully reverse the damage.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^*
 
 ### Shalesteps
 |||
@@ -613,7 +614,7 @@ Locally, the Shalesteps has little to offer in terms of goods and services.
 
 
 ### Seashale Mountains
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Mountain^ ^&^ ^Coastal^
 
@@ -621,11 +622,11 @@ The Seashale Mountains are a small mountain range located northwest of the city 
 
 On the southwestern base of the mountains is the [Nightwash Tide](nightwash-tide) and the collection of villages known as the [Shalesteps](shalesteps).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 
 ### Shivergreen Grove
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Forest^
 
@@ -633,11 +634,11 @@ The Shivergreen Gove was a small forest about a day's walk east of the city of [
 
 In 815 PD, the forest was destroyed by Thordak the Cinder King and transformed into the ever-burning [Flamereach Grove](flamereach-grove). The surrounding farmland transformed into the [Snowember Fields](snowember-fields).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^*
 
 
 ### Slumber Reef
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
@@ -645,14 +646,14 @@ Slumber Reef is a large natural reef that guards the entrance to [Daggerbay](dag
 
 Safely navigating through the reef takes skill and many a captain confident in their abilities has found themselves swimming to shore among the many sharks and creatures that call the reef home.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 
 (print-page)
 
 
 ### Snowember Fields
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Grassland^ ^&^ ^Elemental^
 
@@ -660,7 +661,7 @@ Located within the area east of [Emon](emon) known as the [Scar of the Cinder Ki
 
 Creatures from the [Elemental Plane of Fire](elemental-plane-of-fire) live beneath the ash and travelling through the fields runs the risk of disturbing them.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 
 > In the Tal'Dorei Campaign Guide, the author indicates a [magmin](/monster/magmin) will spring from the ash for every 5 feet walked in the fields. This must be an exageration. A simple trek by a party of four a 1/2 mile into the fields would spawn 2,118 [magmin](/monster/magmin).
@@ -674,7 +675,7 @@ Creatures from the [Elemental Plane of Fire](elemental-plane-of-fire) live benea
 
 
 ### Visa Isle
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Bladeshimmer^ ^Shoreline^](bladeshimmer-shoreline)
 
 **^Type:^** ^Jungle^ ^&^ ^Coastal^
 
@@ -684,4 +685,4 @@ The islands are highly volcanic with active volcanos spewing ash into the sky. E
 
 The bigger of the two islands is home to the ruins of [Vos'Sykriss](ruins-of-vossykriss). An ancient city of a long vanished [Yuan-Ti](yuan-ti) civilization.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^97)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^97)^*

@@ -11,7 +11,7 @@ page-parent: taldorei
 
 ![Alabaster Sierras](assets/img/MrFarland-Exandria_800-2_region-alabaster_sierras-3300x2550.jpg){.size-cover .screen-only}
 ## Alabaster Sierras
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
 ^Area:^ **^137,181^ ^sq^ ^mi^** ^-^ ^Population:^ **^4,865^**
 
@@ -75,7 +75,7 @@ The following settlements are located in this region:
 
 
 ### Alabaster Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Type:^** ^Arctic,^ ^Coastal,^ ^&^ ^Underwater^
 
@@ -85,12 +85,12 @@ The western shore of the bay is rocky and cold. The [Alabaster Sierras](alabaste
 
 The icy waters of the Alabaster Bay are home to large colonies of seals and is a favorite hunting ground for [sea lions](/monster/sea-lion) and [killer whales](/monster/killer-whale). While most of the creatures in the bay give vessels a wide berth, captains that brave these frigid waters are always on the lookout for [Chuul](/monster/chull) and [harpies](/monster/harpy) from the mountains to the west.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
 
 
 ### Alabaster Sierra Range
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Type:^** ^Mountain^
 
@@ -100,12 +100,12 @@ Infused with magical energy, the [white stone](/item/white-stone) from which the
 
 While not nearly as large as the massive [Cliffkeeps](cliffkeep-mountain-range) to the west, the [Alabaster Sierras](alabaster-sierras) are every bit as dangerous. [Behirs](/monster/behir), [harpies](/monster/harpy), and [wyverns](/monster/wyvern) are a constant threat to individuals that roam too far into the jagged peaks, as are the [stone giants](/monster/stone-giant) that call the many hidden valleys of the [Sierras](alabaster-sierra-range) home. Largely content to give the people of [Whitestone](whitestone) a wide berth, conflicts are becoming more common as settlers push east and north into giant lands.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 
 ### Alabaster Trail
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Type:^** ^Forest^
 
@@ -121,12 +121,12 @@ Travel on the trail is extremely dangerous. While the northern and southern ends
 |[Whitestone](whitestone)|[Turst Fields](turst-fields)|  360  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 
 ### Dawnmist Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
@@ -134,7 +134,7 @@ Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the
 
 Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range), the [Dawnmist Bay](dawnmist-bay) and its namesake forest, the [Dawnmist Pines](dawnmist-pines) are often obscured by fog. Only during the warm months of summer does the fog burn off by midday.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
 
 
@@ -143,7 +143,7 @@ Named for the heavy banks of fog that roll off the eastern slope of the [Cliffke
 
 
 ### Parchwood Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
@@ -151,12 +151,12 @@ The [Parchwood Bay](parchwood-bay) is a large, island-choked bay located along t
 
 In addition to the environmental dangers, the [Parchwood Bay](parchwood-bay) is home to many dangerous creatures that prey on the ships that wander into the bay seeking refuge from the chaos of the channel. Even some of the braver [pirate captains](/monster/pirate-captain) operating out of [Darktow](darktow) have been known to hide in the bay and strike at the ships traversing the channel. 
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
 
 
 ### Parchwood Timberland
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Type:^** ^Forest^
 
@@ -166,11 +166,11 @@ The Parchwood Timberland is an extremely dangerous forest that teems with monstr
 
 The southern edge of the forest marks the southern boundary between the [Alabaster Sierras](alabaster-sierras) in the north and the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 ### Salted Bluffs
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Type:^** ^Coastal^ ^&^ ^Mountain^
 
@@ -178,22 +178,22 @@ The Salted Bluffs are tall, seaside cliffs that run along the northern tip of th
 
 In addition to the pirates, [harpies](/monster/harpy) and [wyverns](/monster/wyvern) have been known to make their nests in the towering bluffs and strike at passing ships. It is an extremely dangerous area to sail and most merchant captains give the bluffs a wide berth.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^48)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^48)^*
 
 
 ### Shearing Channel
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
 The [Shearing Channel](shearing-channel) is a narrow passage between the continents of [Tal'Dorei](taldorei) in the west and [Wildemount](wildemount) in the east. It connects the remote ports on the [Frigid Depths](frigid-depths) from the [Lucidian Ocean](lucidian-ocean) and the rest of [Exandria](exandria). Extreme weather and rough seas are a constant threat as our the various creatures that hide in the nearby [Parchwood Bay](parchwood-bay).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 
 ### Upper Mooren River Run
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Type:^** ^Forest^
 
@@ -203,7 +203,7 @@ As the river makes it's way south, it gains strength from countless streams and 
 
 The Upper Mooren River Run is barely navigable. There are numerous falls and intense rapids at various points along the river. It is most certainly a one-way trip with travel up-river impossible by non-magical means.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 > While technically the same river, the portions of the Mooren River Run above and below [Mooren Lake](mooren-lake) could not be more different. As such, I have created a seperate entry for the [Lower Mooren River Run](lower-mooren-river-run) in the [Lucidian Coast](lucidian-coast) region.
@@ -220,7 +220,7 @@ The Upper Mooren River Run is barely navigable. There are numerous falls and int
 
 
 ### Whitestone
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Population:^** ^4,230^ ^-^ **^Area:^** ^69^ ^Acres^
 

@@ -22,7 +22,7 @@ page-parent: taldorei
 
 
 ### Ashen Gorge
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Mountain^ ^&^ ^Elemental^
 
@@ -34,13 +34,13 @@ The gorge is a harsh environment full of ash, streams of magma, noxious gases an
 
 Rumors speak of multiple hordes stashed throughout the vast network of tunnels that twist and wind through the heart of the mountain. Among them are the [Obsidian Geode](obsidian-geode) and the [Everflame Crevasse](everflame-crevasse), two of the richest and those the tribes fight over constantly.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^*
 
 
 ### Bronbog
 
 ### Cavern of Axiom
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Mountain^
 
@@ -48,7 +48,7 @@ Located on the northern slope of the [Stormcrest Mountains](stormcrest-mountains
 
 The entrance to the cavern can only be found by those deemed worthy and the exact location and appearance varies based on the seeker. A series of trials are designed to challenge those that seek an audience with [Kamaljiori](kamaljiori) and failure results in immediate banishment from the cavern.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 
 
@@ -56,7 +56,7 @@ The entrance to the cavern can only be found by those deemed worthy and the exac
 (print-column)
 
 ### Dreamseep Marshlands
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Swamp^
 
@@ -68,13 +68,13 @@ The Dreamseep is plagued by undeath. Locals believe the marshland is cursed and 
 
 The only thing that brings visitors to the Dreamseep is the rare fungus known as "Queenscap". Used to create [Potions of Superior Healing](/item/potion-of-superior-healing), the Queenscap is nearly extinct in other swamps of [Tal'Dorei](taldorei).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 
 
 
 ### Dreamseep River
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Swamp^
 
@@ -82,7 +82,7 @@ The Dreamseep river is a slow moving river that begins in countless creeks and s
 
 While the Dreamseep is wide, deep, and slow enough for small boats to make their way upriver to the village of [Bronbog](bronbog), the course of the river is difficult to follow through the maze that is the [Dreamseep Marshlands](dreamseep-marshlands). It is not uncommon for boats to become lost and stuck in vegetation choked channels that criss-cross the swamp.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 
 
@@ -92,20 +92,20 @@ While the Dreamseep is wide, deep, and slow enough for small boats to make their
 
 
 ### Everflame Crevasse
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Mountain^ ^&^ ^Elemental^
 
 Located in the heart of [Thordak's](thordak) ancient lair in the [Ashen Gorge](ashen-gorge) lies one of his deepest and most extensive hoards, called the Everflame Crevasse. Few outside of the [Tinysoot](tinysoot) [kobold](kobolds) tribe have ever seen it lived to reveal it's exact location.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^*
 
 
 
 
 
 ### Frostweald
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Forest^ ^&^ ^Arctic^
 
@@ -113,14 +113,14 @@ Despite being located on the southern end of the [Dividing Plains](dividing-plai
 
 A very dangerous forest, the Frostweald's frigid weather is only one of the forest's many dangers. [Basilisks](/monster/basilisk) are common in the Frostweald and it is also home to the dangerous [Shivergut Tribe](shivergut-tribe). The Frostweald is also known for it's many gateways to the [Feywild](feywild) and fey creatures like [pixies](/monster/pixie), [dryads](/monster/dryad), and [nymphs](/monster/nymph) call the Frostweald home.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 
 
 
 
 ### Kirmont Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
@@ -128,7 +128,7 @@ Kirmont Bay is a large bay on the [Lucidian](lucidian-ocean) coast of [Tal'Dorei
 
 Located due west of the pirate enlcave of [Darktow](darktow), the Kirmont Bay is a popular place to launch raids against the shipping lanes that run down the east coast of [Tal'Dorei](taldorei) and west to [Marquet](marquet).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^*
 
 
 
@@ -136,7 +136,7 @@ Located due west of the pirate enlcave of [Darktow](darktow), the Kirmont Bay is
 (print-column)
 
 ### Kirmont Valley
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Grassland^ ^&^ ^Swamp^
 
@@ -146,20 +146,20 @@ While the [Dreamseep](dreamseep-marshlands) dominates much of the valley, it isn
 
 Very few people call the Kirmont Valley home. The village of [Bronbog](bronbog) is the only permanent settlement in the valley, but numerous tribes call the valley home. A start contrast of what was once a heavily settled region during the [Age of Arcanum](history). Many ruins litter the valley including the tower of [Wrettis](wrettis) in the foothills of the [Stormpoints](stormpoint-mountains) and the lost [Tomb of Udah](tomb-of-udah) in the heart of the marshlands.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^*
 
 
 
 
 
 ### Obsidian Geode
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Mountain^ ^&^ ^Underdark^
 
 One of [Thordak's](thordak) treasure vaults in the [Ashen Gorge](ashen-gorge), the Obsidian Geode contains many of [Thordak's](thordak) prized possessions. The vault is wel guarded by elementals, golems, and the [Black Snow Tribe](black-snow-tribe).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^*
 
 
 
@@ -167,7 +167,7 @@ One of [Thordak's](thordak) treasure vaults in the [Ashen Gorge](ashen-gorge), t
 (print-page)
 
 ### Shrine of the Ruiner
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Swamp^
 
@@ -175,7 +175,7 @@ The Shrine of the Ruiner is the oldest and most revered of shrines to the [Betra
 
 
 ### Tomb of Udah
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Swamp^ ^&^ ^Underdark^
 
@@ -183,19 +183,19 @@ Somewhere in the [Dreamseep](dreamseep) lies the Tomb of Udah, a cursed necropol
 
 The tomb was built by the powerful [lich](/monster/lich) [Udah the Undying](udah-the-undying).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 
 
 
 ### Wrettis
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains) {.screen-only}
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Stormcrest^ ^Mountains^](stormcrest-mountains)
 
 **^Type:^** ^Hill^
 
 Wrettis is a ruined mage's tower located in the eastern foothills of the [Stormpoint Mountains](stormpoint-mountains) in the western [Kirmont Valley](kirmont-valley). Built by the [archmage](/monster/archmage), [Clemain Astural](astural-clemain) during the [Age of Arcanum](age-of-arcanum). After dabbling in magics beyond him, [Astural](astural-clemain) went mad and terrorized the countryside. He was utlimately defeated by [Atz Yuminor](yuminor-atz) and his tower brought down upon him.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^75)^* {.screen-only}
+*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^75)^*
 
 
 
