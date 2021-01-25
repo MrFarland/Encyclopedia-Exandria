@@ -29,7 +29,7 @@ The Feshun Narrows is small, narrow inlet off the [Ozmit Sea](ozmit-sea) that op
 
 While the narrows are a good place to ride out a storm, local clans of [Sahuagin](/monster/sahuagin) claim the narrows as their home and do not tolerate trespassers.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^81)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^81)^*
 
 
 
@@ -44,7 +44,7 @@ The Feshun River begins it's journey to the [Ozmit Sea](ozmit-sea) high in the n
 
 After the [falls](tormor-falls), the Feshun is joined by the [Vues'dal River](vuesdal-river) for the remainer of it's course through the [Expanse](verdant-expanse). The river is navigable by small boats through the forest, but is not a major trade route for the [elves](elves) of [Syngorn](syngorn).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^81)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^81)^*
 
 
 
@@ -66,7 +66,7 @@ The Gladepools are a collection of ponds and lakes that make up the southern bor
 
 It is rumored that an oracle's spirit lives in the lakes of the Gladepools and will share information on one's future in exchange for an offering.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
 
 
 
@@ -79,7 +79,7 @@ It is rumored that an oracle's spirit lives in the lakes of the Gladepools and w
 
 The Mirescar is a dark corner of the [Verdant Expanse](verdant-expanse). Located on the western side of the forest, the Mirescar is one of the few places in the [Expanse](verdant-expanse) even the [elves](elves) of [Syngorn](syngorn) are reluctant to go. The entire area is corrupted by some unknown power and dire beasts, corrupted plant-life, and fey abominations call the Mirescar home.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
 
 
 
@@ -96,7 +96,7 @@ Orencleft is a rocky mountain located to the south of the city of [Syngorn](syng
 
 Behind the falls, a number of caves dive deep into the [Stormcrests](stormcrest-mountains) and some say the entrances shift and move each day. The outside is patrolled by the [Verdant Guard](verdant-guard) and it is not uncommon for creatures to wander out from time to time.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^85)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^85)^*
 
 ### Shifting Keep
 ### Syngorn
@@ -113,7 +113,7 @@ Tormor Falls is a series of waterfalls where the [Feshun River](feshun-river) ca
 
 Not far from the city of [Syngorn](syngorn), the base of the falls are patrolled by the [Verdant Guard](verdant-guard). While the surrounding area is relatively safe, plenty of explorers have entered the caves beneath the falls and were never heard from again.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^85)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^85)^*
 
 
 
@@ -128,7 +128,7 @@ The Vues'dal River begins on the western slope of the [Stormpoint Mountains](sto
 
 The portion of the river that connects the [Vues'dal Waters](vuesdal-waters) to the [Feshun River](feshun-river) is navigable and is used to ship food upriver, as far as the [Tormor Falls](tormor-falls) to [Syngorn](syngorn).
 
-*^Canon^ ^Consistency:^ **^Medium^**
+*^Canon^ ^Consistency:^ ^Medium^
 
 > According to the Tal'Dorei Campaign Guide the [Feshun River](feshun-river) flows into the [Vues'dal Waters](vuesdal-waters), but this would mean the river flows north and south at the same time. Having visited the lake myself, the [Feshun River](feshun-river) does not enter the lake. The small [Vues'dal River](vuesdal-river) flows out of the lake and meets the [Feshun](feshun-river) to the north.
 >
@@ -151,7 +151,7 @@ The lake was formed when the Vues'dal volcano erupted during the [Age of Arcanum
 
 The land surrounding the lake is extremely fertile and farming villages have sprung up around it's banks. The largest is the town of [Vues'dal](vuesdal) on the eastern shore of the lake with roughly 1,000 people. In addition to the [elven](elves) settlements, a large [lizardfolk](lizardfolk) tribe lives in the nearby marshes and conflict between the two is not uncommon.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^84)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^84)^*
 
 
 

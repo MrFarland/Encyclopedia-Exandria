@@ -36,7 +36,7 @@ The Beynsfal Plateau is a dangerous and inhospitable wasteland. The harsh climat
 
 The combined might of the city-states of [Rybad-Kol](rybad-kol), [Hdar-Fye](hdar-fye), [Ezordam-Haar](ezordam-haar), [Ortem-Vellak](ortem-vellak) and [Tz'Arrm](tzarrm) dominate the plateau and subjugate all in their path. Trespassers are lucky if death finds them quickly, lest they find themsleves toiling in the forges and foundries that power the [Iron Authority's](iron-authority) thirst for war.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^76)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^76)^*
 
 ### Byroden
 
@@ -52,7 +52,7 @@ The Mornset Countryside is a wide open plain that stretches for hundreds of mile
 
 A number of small settlements dot the countryside, but the city of [Port U'daa](port-udaa) and the village of [Byroden](byroden) are the largest.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^77)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^77)^*
 
 
 
@@ -81,7 +81,7 @@ The Orroyen River is long river that winds through the eastern [Rifenmist Jungle
 
 There are no permanent settlements in the Orroyen River basin, but it is home to many nomadic [Tabaxi](tabaxi) tribes and the semi-nomadic [Orroyen Tribe](orroyen-tribe).
 
-*^Canon^ ^Consistency:^ **^Medium^**
+*^Canon^ ^Consistency:^ ^Medium^
 
 > While unmarked on most modern maps of [Tal'Dorei](taldorei), the river is widely known by this name to the indigenous people of the eastern [Rifenmist](rifenmist-jungle). If another, official, name is discovered, I will update the Encyclopedia accordingly. 
 >
@@ -105,7 +105,7 @@ The Rifenmist is divided in two by the [Stormpoint Mountains](stormpoint-mountai
 
 While there are no permanent settlements in the jungle, the Rifenmist is home to numerous tribes of various races. The largest and most well-known being the [wood elves](elves) of the [Orroyen](orroyen-tribe). Also native to the jungle are most of [Exandria's](exandria) [tabaxi](tabaxi) clans.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^78)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^78)^*
 
 
 
@@ -126,7 +126,7 @@ The Rifenmist River basin is the central artery that brings life to the western 
 
 The largest of the Rifenmist's tributaries is the one most commonly referred to as the lower branch. The branch's source lies near the [hobgoblin](hobgoblins) city of [Ezordam-Haar](ezordam-haar) and heads northward into the heart of the jungle. The Rifenmist expands greatly at the confluence of the two branches and pushes westward for another hundred miles to the [Ozmit Sea](ozmit-sea).
 
-*^Canon^ ^Consistency:^ **^Medium^**
+*^Canon^ ^Consistency:^ ^Medium^
 
 > While unmarked on most modern maps of [Tal'Dorei](taldorei), the river is widely known by this name to the indigenous people of the western [Rifenmist](rifenmist-jungle). If another, official, name is discovered, I will update the Encyclopedia accordingly.
 >
@@ -148,7 +148,7 @@ While the [Stormcrests](stormcrest-mountains) are mostly bald and rocky, the Sto
 
 Rumored to be the home of [Raishan the Diseased Deceiver](raishan-the-diseased-deceiver), treasure hunters are scouring the mountains looking for her lost hoard.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^79)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^79)^*
 
 ### Tz'Arrm
 

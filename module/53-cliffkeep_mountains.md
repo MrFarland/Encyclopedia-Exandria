@@ -66,7 +66,7 @@ The valley begins at the the north end of the [Bramblewood](bramblewood) and ext
 
 Prior to the [Scattered War](history), the hills at the northern end of the valley were known as the Emerald Highlands. After the Battle of the [Umbra Hills](umbra-hills) the hills were corrupted and the name changed.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
 
 
 
@@ -90,7 +90,7 @@ The Black Valley Path is not patrolled by any guard. The [Shadewatch](shadewatch
 |[Parchwood Way](parchwood-way) |[Westruun](westruun)| Land |  120  |  6  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
 
 
 
@@ -120,7 +120,7 @@ The southern range of the Cliffkeeps begins at the [Othendin Pass](othendin-pass
 ##### Western Range
 The western range of the Cliffkeeps is located in the nortwestern corner of the region. It includes the small chain west of the [Othendin Pass](othendin-pass), breaks north of [Fort Daxio](fort-daxio) and continues north along the northwest coast of [Tal'Dorei](taldorei).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
 
 
 
@@ -145,7 +145,7 @@ Despite it's name, the Elvenpeaks is a single mountain that has been split in th
 
 While the mountain and surrounding area are cold and inhospitable, a warm, temperate forest thrives beneath the ice sheet suspended between the peaks. Inside, lies the elven city of [Lyrengorn](lyrengorn), a bastion of elven culture far removed from the influence of [Syngorn](syngorn).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^68)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^68)^*
 
 ### Emberhold
 |||
@@ -222,7 +222,7 @@ As a xenophobic, insular society, the [duergar](duergar) of Emberhold are largel
 
 The Emerald Highlands refers to what is now known as the [Black Valley](black-valley) and [Umbra Hills](umbra-hills). The name was changed following the [Battle of the Umbra Hills](history). The name is out of use and can only be found in ancient texts.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
 
 
 
@@ -237,7 +237,7 @@ Gatshadow is massive mountain located at the southern end of the [Gatshadow Spur
 
 Small mining operations have exploited the neighboring hills and base, but few willingly venture into the mountain's many caverns and tunnels. A massive complex of passages, chambers, traps and monsters are rumored to lay deep within the heart of the mountain and that [Tharizdun the Chained Oblivion](tharizdun-the-chained-oblivion) may be imprisoned within or kept at bay by some form of shackle or seals.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^63)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^63)^*
 
 
 
@@ -254,7 +254,7 @@ After the Calamity, [Graz'zt the Demon Prince of Indulgence](grazzt-the-demon-pr
 
 During the Scattered War, [Graz'zt](grazzt-the-demon-prince-of-indulgence) was recruited to the forces of Trist Drassig and despite the Demon Prince's help, they were defeated by the combined forces of Zan Tal'Dorei and [Syngorn](syngorn) at the Battle of the [Umbra Hills](umbra-hills). In the aftermath, both the [Umbra Hills](umbra-hills) and Grey Valley were left corrupted and lifeless.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^64)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^64)^*
 
 
 ### Jorenn Village
@@ -585,7 +585,7 @@ The Neverfields is a massive arctic plain that lies to the north of the seemingl
 
 Despite the savage conditions, the Neverfields are not lifeless. The frozen wastes are home to many dangerous creatures and a few tribes, like the [Icewalkers](icewalkers), that venture in to the Neverfields to hunt them.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 
 
@@ -603,7 +603,7 @@ Othendin Pass is a large valley that divides the southern and western ranges of 
 
 The area was once home to a number of [stone giant](/monster/stone-giant) clans that have since been pushed deeper into the mountains. Conflicts between the giants and the settlers are common and usually violent.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 
 
@@ -615,7 +615,7 @@ The area was once home to a number of [stone giant](/monster/stone-giant) clans 
 
 The Othendin River is a long, broad river that begins high in the central [Cliffkeeps](cliffkeep-mountain-range) and runs along the northern slop of the southern range and down through the [Othendin Pass](othendin-pass). The river then turns west and makes for the northern [Ozmit Sea](ozmit-sea). The river is swift and rocky and while small boats can navigate most of it's 300 mile journey, moving upstream is easiest done on foot.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 
 
@@ -633,7 +633,7 @@ The pools are a favorite of local [hill giants](/monster/hill-giant) and it was 
 
 The survivors relocated to [Kraghammer](kraghammer) and the [giants](/monster/hill-giant) now claim dominion over the pools and view it as their ancestral home.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 
 
@@ -656,7 +656,7 @@ Local [hill giants](/monster/hill-giant) have adapted to the gas and move about 
 
 **Engine Core**. The lowest level is full of complex gearworks and industrial wonders, but it is flooded and crawling with [merrow](/monster/merrow) and is home to a [sea hag](/monster/sea-hag) named Mauvlettir and her lair.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 
 
@@ -674,7 +674,7 @@ Serpent's Head was a small, village located on a squat mountain of the same name
 
 The village predominantly consisted of [dwarves](dwarves) and [humans](humans) and while most of the inhabitants fled to [Kraghammer](kraghammer) some stayed and perished in the ancient red dragon's assault. What little remains of the village is now a smoking volcano surrounded by fields of ash and cinders. Numerous dangerous creatures of the fire plane now call the nearby mines and caverns home.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
 
 |||
 |:---------------------|:-------------------------|
@@ -759,7 +759,7 @@ The Umbra Hills were once a lush and verdant landscape known as the Emerald High
 
 In the [Battle of the Umbra Hills](history), the combined forces of [Syngorn](syngorn) and [Zan Tal'Dorei](taldorei-zan) defeated the forces of [King Trist Drassig](drassig-trist) and [Graz'zt](grazzt-the-demon-prince-of-indulgence) to end the [Scattered War](history). In the aftermath, the hills were permanently scarred and nothing except the shadegrass, for which the hills are now famous will grow there.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
 
 
 
@@ -772,7 +772,7 @@ In the [Battle of the Umbra Hills](history), the combined forces of [Syngorn](sy
 
 The Wildwood forest is a small and peaceful wood located east of the [dwarven](dwarves) city of [Kraghammer](kraghammer). It is an important source of timber and game for the city and many [Toppers](toppers) live in small villages on the western edge of the forest.
 
-*^Canon^ ^Consistency:^ **^Medium^**
+*^Canon^ ^Consistency:^ ^Medium^
 
 ### Yug'Voril
 

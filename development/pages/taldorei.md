@@ -95,7 +95,7 @@ Alabaster Bay is a large bay located on the eastern side of the [Alabaster Penin
 
 The western shore is rocky and cold. The [Sierras](alabaster-sierra-range) rise out of the water and flat land is hard to find. The southern shore, on the other hand, is relatively flat with the [Parchwood Timberland](parchwood-timberland) coming right to the water's edge.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
 
 
@@ -118,7 +118,7 @@ The entirety of the [Alabaster Peninsula](alabaster-sierras) is wild, untamed wi
 
 Infused with magical energy, the white stone from which the mountains get their name is a hot commodity in arcane circles. While the raw stone has some magical properties, it's arcane power is greatly enhanced once it has been refined into a green glass-like substance called [residuum](/item/residuum). It is a lucrative export for the city of [Whitestone](whitestone) and numerous quarries dot the northern end of the Alabaster Sierras.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 
@@ -139,7 +139,7 @@ The Trail is a dangerous road. The northern and southern ends are well patroled 
 |[Whitestone](whitestone)|[Turst Fields](turst-fields)| Land |  350  |  14  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 
@@ -156,7 +156,7 @@ Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the
 
 Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range), the [Dawnmist Bay](dawnmist-bay) and [Dawnmist Pines](dawnmist-pines) are often obscured by light fog. Only during the exceptionally warm months of summer does the fog burn off by midday.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
 
 
@@ -179,7 +179,7 @@ Parchwood Bay is a large bay choked with tree covered islands and rocky shoals. 
 
 Unfortunately for many a captain, ships can easily become lost in the maze of islands and wreck on any of the numerous rocky shoals that hide beneath the surface of the deceptively calm waters of the bay.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
 
 
@@ -204,7 +204,7 @@ The Parchwood Timberland is an extremely dangerous forest that teems with monstr
 
 The southern edge of the forest marks the southern boundary between the [Alabaster Sierras](alabaster-sierras) in the north and the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 
@@ -219,7 +219,7 @@ The Salted Bluffs are tall, seaside cliffs that run along the northern tip of th
 
 The cliffs are also home to a number of dangerous beasts and creatures including the [Ashwing Harpies](ashwing-harpies) and [wyverns](/monster/wyvern).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^48)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^48)^*
 
 
 
@@ -237,7 +237,7 @@ The Shearing Channel is a narrow passage between the continents of [Tal'Dorei](t
 
 Passage through the Shearing Channel is extremely dangerous. Extreme weather and rough seas are the norm, rather than the exception. The channel and nearby [Parchwood Bay](parchwood-bay) are full of shipwrecks and the monsters that feed on them.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 
@@ -254,7 +254,7 @@ As the river makes it's way south, it gains strength from countless streams and 
 
 The Upper Mooren River Run is barely navigable. There are numerous falls and intense rapids at various points along the river. It is most certainly a one-way trip with travel up-river impossible by non-magical means.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 
@@ -340,7 +340,7 @@ The Bladeshimmer Bay is not sheltered from the open [Ozmit Sea](ozmit-sea), but 
 
 While the bay is well-patroled and relatively safe, [sahuagin](/monster/sahuagin) clans and pirates operating out of the [Ruins of O'Noa](ruins-of-onoa) occassionally trouble merchants bound for [Marquet](marquet) or [Wildemount](wildemount).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
 
 
@@ -363,7 +363,7 @@ Crystalfen Caverns is a massive network of underground tunnels, caverns, and riv
 
 Throughout the caverns are veins of blue crystal called azuremite. This blue crystal can be ground and refined into a powder with powerful arcane properties called [Suude](/item/suude).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^86)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^86)^*
 
 
 
@@ -381,7 +381,7 @@ The bay was once home to the colony of [O'noa](ruins-of-onoa), the first permane
 
 Over time, the bay became a haven for pirates and [sahuagin](/monster/sahuagin) with the occassional foolhardy treasure hunter looking to salvage treasure from the countless wrecks on the [Slumber Reef](slumber-reef).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
 
 
 
@@ -399,7 +399,7 @@ Located on the northern end of range, the [Emerald Outpost](emerald-outpost) kee
 
 Clans of [stone](/monster/stone-giant) and [hill](/monster/hill-giant) giants regularly harass travelers and raid supply wagons, as do [bandits](/monster/bandits) operating out of the [ruins of O'Noa](ruins-of-onoa).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
 
 
 
@@ -427,7 +427,7 @@ The Emerald Path is well patrolled by both the [Arms of Emon](arms-of-emon) and 
 |[Emerald Outpost](emerald-outpost) | [Syngorn](syngorn) via [Wildwood Byway](wildwood-byway) | Land |  320  |  19  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
 
 
 
@@ -444,7 +444,7 @@ The Emerald River is navigable via small boats for much of its lower course. It 
 
 The [Emerald Path](emerald-path) follows the river for most of its course before diverging at the base of the mountains and heading due east to the [Emerald Outpost](emerald-outpost).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
 
 
 
@@ -471,7 +471,7 @@ After the attack the surrounding area was turned into the "Scar of the Cinder Ki
 
 The forest sits on the edge of the [Snowember Fields](snowember-fields) and a squat, stone fortress called the [Flamereach Outpost](flamereach-outpost) keeps watch over both.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^*
 
 
 
@@ -492,7 +492,7 @@ The Ivyheart Run is not a big, deep, or fast-moving river, but it is navigable v
 
 Shortly before it's arrival at the sea, the Run joins with the [Emerald River](emerald-river) north of the ruined city of [O'Noa](ruins-of-onoa).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
 
 
@@ -516,7 +516,7 @@ The Nightwash is a seemingly endless supply of food for the villages of the [Sha
 
 Fishing the Nightwash is not without risks. The same tide that brings in fish, occassionally brings in creatures a little too dangerous for the fishers to deal with on their own.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 
 
@@ -538,7 +538,7 @@ The trail is heavily patrolled by the [Arms of Emon](arms-of-emon) near the city
 |[Emon](emon) |[Shalesteps](shalesteps) via smaller side road | Land |  120  |  6  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^87)^*
 
 
 
@@ -558,7 +558,7 @@ The city of Salar was once a great [aboleth](/monster/aboleth) city located deep
 
 The architecture of Salar is completely alien to the [races](races) of Exandria. Those who know of its existence call it the "Unseeable City" because those who look upon it are known to have descended into madness. The city is illuminated by a massive pearlescent disc, called the Moon Disc.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 
 
@@ -578,7 +578,7 @@ Undead [Yuan-Ti](yuan-ti) still patrol and defend their ancestral home, while co
 
 In the early 800s, an expedition from the [Alabaster Lyceum](alabaster-lyceum) explored the ruined city and brought back many artifacts. Shortly after their departure, the [Yuan-Ti](yuan-ti) began to awaken from their slumber.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^97)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^97)^*
 
 
 
@@ -594,7 +594,7 @@ The Scar of the Cinder King refers to an area east of [Emon](emon) that was rava
 
 The area is heavily scarred and cursed by elemental magic. Creatures from the [Elemental Plane of Fire](elemental-plane-of-fire) roam the area and druids from the Fire [Ashari](ashari) of [Pyrah](pyrah) and scholars from the [Alabaster Lyceum](alabaster-lyceum) are working together to monitor the area and hopefully reverse the damage.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^*
 
 
 
@@ -610,7 +610,7 @@ The Seashale Mountains are a small mountain range located northwest of the city 
 
 On the southwestern base of the mountains is the [Nightwash Tide](nightwash-tide) and the collection of villages known as the [Shalesteps](shalesteps).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 
 
@@ -631,7 +631,7 @@ The Shivergreen Gove was a small forest about a day's walk east of the city of [
 
 In 815 PD, the forest was destroyed by Thordak the Cinder King and transformed into the ever-burning [Flamereach Grove](flamereach-grove). The surrounding farmland transformed into the [Snowember Fields](snowember-fields).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^95)^*
 
 
 
@@ -649,7 +649,7 @@ Slumber Reef is a large natural reef that guards the entrance to [Daggerbay](dag
 
 Safely navigating through the reef takes skill and many a captain confident in their abilities has found themselves swimming to shore among the many sharks and creatures that call the reef home.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 
 
@@ -663,7 +663,7 @@ Located within the area east of [Emon](emon) known as the [Scar of the Cinder Ki
 
 Creatures from the [Elemental Plane of Fire](elemental-plane-of-fire) live beneath the ash and travelling through the fields runs the risk of disturbing them.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^96)^*
 
 
 
@@ -690,7 +690,7 @@ The islands are highly volcanic with active volcanos spewing ash into the sky. E
 
 The bigger of the two islands is home to the ruins of [Vos'Sykriss](ruins-of-vossykriss). An ancient city of a long vanished [Yuan-Ti](yuan-ti) civilization.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^97)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^97)^*
 
 
 
@@ -751,7 +751,7 @@ The valley begins at the the north end of the [Bramblewood](bramblewood) and ext
 
 Prior to the [Scattered War](history), the hills at the northern end of the valley were known as the Emerald Highlands. After the Battle of the [Umbra Hills](umbra-hills) the hills were corrupted and the name changed.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
 
 
 
@@ -775,7 +775,7 @@ The Black Valley Path is not patrolled by any guard. The [Shadewatch](shadewatch
 |[Parchwood Way](parchwood-way) |[Westruun](westruun)| Land |  120  |  6  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
 
 
 
@@ -805,7 +805,7 @@ The southern range of the Cliffkeeps begins at the [Othendin Pass](othendin-pass
 ##### Western Range
 The western range of the Cliffkeeps is located in the nortwestern corner of the region. It includes the small chain west of the [Othendin Pass](othendin-pass), breaks north of [Fort Daxio](fort-daxio) and continues north along the northwest coast of [Tal'Dorei](taldorei).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
 
 
 
@@ -830,7 +830,7 @@ Despite it's name, the Elvenpeaks is a single mountain that has been split in th
 
 While the mountain and surrounding area are cold and inhospitable, a warm, temperate forest thrives beneath the ice sheet suspended between the peaks. Inside, lies the elven city of [Lyrengorn](lyrengorn), a bastion of elven culture far removed from the influence of [Syngorn](syngorn).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^68)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^68)^*
 
 
 
@@ -846,7 +846,7 @@ While the mountain and surrounding area are cold and inhospitable, a warm, tempe
 
 The Emerald Highlands refers to what is now known as the [Black Valley](black-valley) and [Umbra Hills](umbra-hills). The name was changed following the [Battle of the Umbra Hills](history). The name is out of use and can only be found in ancient texts.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
 
 
 
@@ -864,7 +864,7 @@ Gatshadow is massive mountain located at the southern end of the [Gatshadow Spur
 
 Small mining operations have exploited the neighboring hills and base, but few willingly venture into the mountain's many caverns and tunnels. A massive complex of passages, chambers, traps and monsters are rumored to lay deep within the heart of the mountain and that [Tharizdun the Chained Oblivion](tharizdun-the-chained-oblivion) may be imprisoned within or kept at bay by some form of shackle or seals.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^63)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^63)^*
 
 
 
@@ -881,7 +881,7 @@ After the Calamity, [Graz'zt the Demon Prince of Indulgence](grazzt-the-demon-pr
 
 During the Scattered War, [Graz'zt](grazzt-the-demon-prince-of-indulgence) was recruited to the forces of Trist Drassig and despite the Demon Prince's help, they were defeated by the combined forces of Zan Tal'Dorei and [Syngorn](syngorn) at the Battle of the [Umbra Hills](umbra-hills). In the aftermath, both the [Umbra Hills](umbra-hills) and Grey Valley were left corrupted and lifeless.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^64)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^64)^*
 
 
 
@@ -907,7 +907,7 @@ The Neverfields is a massive arctic plain that lies to the north of the seemingl
 
 Despite the savage conditions, the Neverfields are not lifeless. The frozen wastes are home to many dangerous creatures and a few tribes, like the [Icewalkers](icewalkers), that venture in to the Neverfields to hunt them.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 
 
@@ -925,7 +925,7 @@ Othendin Pass is a large valley that divides the southern and western ranges of 
 
 The area was once home to a number of [stone giant](/monster/stone-giant) clans that have since been pushed deeper into the mountains. Conflicts between the giants and the settlers are common and usually violent.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 
 
@@ -937,7 +937,7 @@ The area was once home to a number of [stone giant](/monster/stone-giant) clans 
 
 The Othendin River is a long, broad river that begins high in the central [Cliffkeeps](cliffkeep-mountain-range) and runs along the northern slop of the southern range and down through the [Othendin Pass](othendin-pass). The river then turns west and makes for the northern [Ozmit Sea](ozmit-sea). The river is swift and rocky and while small boats can navigate most of it's 300 mile journey, moving upstream is easiest done on foot.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 
 
@@ -955,7 +955,7 @@ The pools are a favorite of local [hill giants](/monster/hill-giant) and it was 
 
 The survivors relocated to [Kraghammer](kraghammer) and the [giants](/monster/hill-giant) now claim dominion over the pools and view it as their ancestral home.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 
 
@@ -978,7 +978,7 @@ Local [hill giants](/monster/hill-giant) have adapted to the gas and move about 
 
 **Engine Core**. The lowest level is full of complex gearworks and industrial wonders, but it is flooded and crawling with [merrow](/monster/merrow) and is home to a [sea hag](/monster/sea-hag) named Mauvlettir and her lair.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^69)^*
 
 
 
@@ -996,7 +996,7 @@ Serpent's Head was a small, village located on a squat mountain of the same name
 
 The village predominantly consisted of [dwarves](dwarves) and [humans](humans) and while most of the inhabitants fled to [Kraghammer](kraghammer) some stayed and perished in the ancient red dragon's assault. What little remains of the village is now a smoking volcano surrounded by fields of ash and cinders. Numerous dangerous creatures of the fire plane now call the nearby mines and caverns home.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
 
 
 
@@ -1015,7 +1015,7 @@ The Umbra Hills were once a lush and verdant landscape known as the Emerald High
 
 In the [Battle of the Umbra Hills](history), the combined forces of [Syngorn](syngorn) and [Zan Tal'Dorei](taldorei-zan) defeated the forces of [King Trist Drassig](drassig-trist) and [Graz'zt](grazzt-the-demon-prince-of-indulgence) to end the [Scattered War](history). In the aftermath, the hills were permanently scarred and nothing except the shadegrass, for which the hills are now famous will grow there.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^70)^*
 
 
 
@@ -1028,7 +1028,7 @@ In the [Battle of the Umbra Hills](history), the combined forces of [Syngorn](sy
 
 The Wildwood forest is a small and peaceful wood located east of the [dwarven](dwarves) city of [Kraghammer](kraghammer). It is an important source of timber and game for the city and many [Toppers](toppers) live in small villages on the western edge of the forest.
 
-*^Canon^ ^Consistency:^ **^Medium^**
+*^Canon^ ^Consistency:^ ^Medium^
 
 
 
@@ -1057,7 +1057,7 @@ Located on the western edge of the [Ivyheart Thicket](ivyheart-thicket), the Bla
 
 Very little is known about these ruins, but archaeologists from the [Alabaster Lyceum](alabaster-lyceum) are investigating the ruins.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^*
 
 
 
@@ -1072,7 +1072,7 @@ The Bramblewood is a large forest that stretches along most of the eastern slope
 
 Aptly named, the Bramblewood is a tangled mess of oak-like trees with long, razor-sharp thorns protruding from the tree's bark. The combination of a thick undergrowth, tangled roots, and dagger-like thorns makes a simple stroll in the forest a dangerous affair. Add in the various monstrosities and beasts that call the Bramblewood home and it is easy to understand why the locals stick to the edges.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^58)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^58)^*
 
 
 
@@ -1089,7 +1089,7 @@ Formed by a number of smaller streams beginning in the southern [Cliffkeeps](cli
 
 The upper branches of the river are small, rocky, and forceful. The river widens and calms some as it enters the plains, but is still swift. It is roughly 360 miles from either of it's sources to the [Foramere Basin](foramere-basin).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
 
 
 
@@ -1109,7 +1109,7 @@ The upper branches of the river are small, rocky, and forceful. The river widens
 
 Dawnmist Pines is a small evergreen forest located in eastern [Tal'Dorei](taldorei), northwest of the town of [Turst Fields](turst-fields). It sits at the southern end of the [Dawnmist Bay](dawnmist-bay) and is often blanketed in fog that drifts down from the [East Range](cliffkeep-mountain-range) of the [Cliffkeep Mountains](cliffkeep-mountain-range).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^57)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^57)^*
 
 
 
@@ -1131,7 +1131,7 @@ The lake is replenished by snowmelt from the [Cliffkeep Mountains](cliffkeep-mou
 
 The Foramere is an important source of fresh fish to central [Tal'Dorei](taldorei) and a number of small fishing villages dot the western shore. The largest is the village of [Foramere](foramere).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^*
 
 
 
@@ -1144,7 +1144,7 @@ The Foramere is an important source of fresh fish to central [Tal'Dorei](taldore
 
 The Foramere Waterway is a large, but short river that exits the east side of the [Foramere Basin](foramere-basin) and heads east to the [Owlset Bay](owlset-bay) and the [Lucidian Ocean](lucidian-ocean). The river is a little under 200 miles from the [Basin](foramere-basin) to the [Bay](owlset-bay).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^*
 
 
 
@@ -1161,7 +1161,7 @@ Once home to a number of prosperous mines, the Ironseat has been largely pilfere
 
 The residents of [Kymal](kymal) can often hear the wind howling through the old tunnels and what was once a symbol of the city's prosperity is now a constant reminder of days gone by.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^*
 
 
 
@@ -1178,7 +1178,7 @@ After the destruction of [Torthil](ruins-of-torthil), the forest quickly grew wi
 
 On the western edge of the forest, ruins of an ancient, pre-[Calamity](history) civilization was recently discovered by arcane-archaeologists from the [Alabaster Lyceum](alabaster-lyceum). Little is known about the people that once lived there and it is unlikely anyone will ever uncover it's secrets. During the time of the [Chroma Conclave](chroma-conclave), [Thordak](thordak-the-cinder-king) attacked the ruin and left a fiery ruin now called the [Blazing Foundry](blazing-foundry).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^54)^*
 
 
 
@@ -1206,7 +1206,7 @@ While no road is completely safe, the Parchwood Way is heavily patrolled by the 
 |[Turst Fields](turst-fields) |[Drynna](drynna)             | Land |  200  |  10  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^**
+*^Canon^ ^Consistency:^ ^High^
 
 
 ### Ruins of Torthil
@@ -1218,7 +1218,7 @@ The village of Torthil was a small village located south of [Kymal](kymal) on th
 
 All that remains of Torthil are broken stone buildings and an obsidian monument to the death of [Warren Drassig](drassig-warren). The village was the sight of a well-executed ambush of Drassig's forces during the [Scattered War](history) and a subsequent massacre at the hands of Warren's son, [Neminar](drassig-neminar).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^55)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^55)^*
 
 
 
@@ -1234,7 +1234,7 @@ All that remains of Torthil are broken stone buildings and an obsidian monument 
 
 The Shadebarrow is an ancient ritual site of a tribe of druids known as the [Dawn Circle](dawn-circle). Exterminated by the [Drassigs](house-of-drassig) in the lead up to the [Scattered War](scattered-war, the land would eventually be acquired by a wealthy noble, [Baron Sevil Howthess](howthess-sevil), from [Westruun](westruun). Obsessed with the barrow, [Howthess](howthess-sevil) is rumored to be entombed there with many of his personal treasures and wealth.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^55)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^55)^*
 
 
 
@@ -1249,7 +1249,7 @@ The Silvercut Crossroads is the intersection of the east-west transcontinental [
 
 In the years leading up to and during the [Scattered War](history), the crossroads were used to hold mass executions. Mass graves are scattered throughout the area, holding the remains of disidents and critics of the [Drassigs](house-of-drassig).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^*
 
 
 
@@ -1275,7 +1275,7 @@ The road is vital to the [Republic](council-of-taldorei) and heavily patrolled b
 |[Westruun](westruun) |[Stilben](stilben)                           | Land |  360  |  18  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^*
 
 
 
@@ -1290,7 +1290,7 @@ The Throne of the Arch Heart is a small rise located on the southwestern side of
 
 According to both [centaur](centaurs) and [orc](orcs) legends, the Throne of the Arch Heart is the birthplace of both races. It marks the final battle between [Corellon](corellon) and [Gruumsh](gruumsh) during the [Calamity](history) and the [Herdsmeet](centaurs) is a source of tension, and often violence between the two races.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^56)^*
 
 
 
@@ -1308,7 +1308,7 @@ Despite it's reputation, the Torian is still a wild and unforgiving place. It is
 
 The northern end of the forest transitions to damp fens and is home to the [Rivermaw Tribe](rivermaw-tribe), a nomadic tribe of disparate people who have shunned life in the more populous areas of [Tal'Dorei](taldorei).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^57)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^57)^*
 
 
 
@@ -1321,7 +1321,7 @@ The northern end of the forest transitions to damp fens and is home to the [Rive
 
 The Tundrun River is a small, but mighty river that descends rapidly from the north slope of the [Stormcrest Mountains](stormcrest-mountains), along the western edge of the [Frostweald](frostweald) and into the [Foramere Basin](foramere-basin) in the [Dividing Plains](dividing-plains). The river is very fast and rocky and is not navigable.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^53)^*
 
 
 
@@ -1352,7 +1352,7 @@ Following the [Scattered War](history), earned the nickname, the "Traitor's Stai
 |[Emerald Path](emerald-path) | [Syngorn](syngorn)                    | Land |  180  |   9  |
 <!-- {table: .gray} -->
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^61)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^61)^*
 
 
 
@@ -1385,7 +1385,7 @@ Following the [Scattered War](history), earned the nickname, the "Traitor's Stai
 
 The Knifemouth is one of many rivers that flow through the [K'Tawl Swamp](ktawl-swamp) on the [Lucidian Coast](lucidian-coast) of [Tal'Dorei](taldorei). It begins on the eastern slope of the [Summit Peaks](summit-peaks) and winds its way through the [K'Tawl](ktawl-swamp) before emptying into the [Lucidian](lucidian-ocean) in the [K'Tawl Bay](ktawl-bay) about 100 miles north of [Stilben](stilben).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
 
 
 
@@ -1407,7 +1407,7 @@ The K'Tawl Bay is a large bay on the [Lucidian Coast](lucidian-coast) of [Tal'Do
 
 The bay does not provide much in the way of protection from the open ocean, but the mangroves and inlets along the coast provide plenty of hiding places for pirates and smugglers. 
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^43)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^43)^*
 
 
 
@@ -1423,7 +1423,7 @@ The K'Tawl Creek is a long, slow moving river that decends from the [Summit Peak
 
 The K'Tawl is navigable, but it's winding route and the swamp's dangerous denizens make it impractical for travel. The [Silvercut Roadway](silvercut-roadway) follows the river for a bit, but is straighter and drier.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
 
 
 
@@ -1447,7 +1447,7 @@ Runoff from the [Summit Peaks](summit-peaks) to the west feeds the swamp through
 
 The K'Tawl is an extremely dangerous place teeming with dangerous creatures and tribes of [orcs](orcs), [lizardfolk](lizardfolk), [bullywugs](/monster/bullywug), [grung](/monster/grung), and [sahuagin](/monster/sahuagin). Most of the tribes are content to live in peace, but they tend to be fiercely territorial and do not tolerate trespassers.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
 
 
 
@@ -1467,7 +1467,7 @@ The lower Mooren River Run is a little over 100 miles long and is deep and wide 
 
 Trips up and down the lower Mooren are slow going and typically require extra security to keep pirates and opportunistic [gnolls](/monster/gnolls) or [lizardfolk](lizardfolk) from raiding the ships as they make the trip upriver.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
 
 
@@ -1493,7 +1493,7 @@ On the western banks of the lake are the rich farmlands of the eastern [Dividing
 
 Beneath the crystal clear surface, lies centuries of magically-infused [whitestone](/item/whitestone) that has washed down the [upper Mooren River Run](upper-mooren-river-run) from the [Alabaster Sierras](alabaster-sierra-range) far to the north. Rumors tell of strange things happening to the lake bed as a result. 
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^42)^*
 
 
 
@@ -1506,7 +1506,7 @@ Beneath the crystal clear surface, lies centuries of magically-infused [whitesto
 
 Owlset Bay is a small bay off of the [Lucidian Ocean](lucidian-ocean) in eastern [Tal'Dorei](taldorei). It is located southwest of [Stilben](stilben) and northeast of the [Stormcrest Mountains](stormcrest-mountains). The [Foramere Waterway](foramere-waterway) empties into the bay on the western side.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^*
 
 
 
@@ -1526,7 +1526,7 @@ The Rootgarden Marsh is home to a number of humanoid tribes, but most keep to th
 
 In addition to the normal creatures found in a swamp, the Rootgarden is home to Manawort, a sentient fungus used in some powerful potions.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^43)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^43)^*
 
 
 
@@ -1546,7 +1546,7 @@ While the range is much smaller than the [Cliffkeeps](cliffkeep-mountain-range),
 
 High in the Summit Peaks, lies the rift to the [Elemental Plane of Air](elemental-plane-of-air) and the [Ashari](ashari) village of [Zephrah](zephrah).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^44)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^44)^*
 
 
 
@@ -1581,7 +1581,7 @@ The gorge is a harsh environment full of ash, streams of magma, noxious gases an
 
 Rumors speak of multiple hordes stashed throughout the vast network of tunnels that twist and wind through the heart of the mountain. Among them are the [Obsidian Geode](obsidian-geode) and the [Everflame Crevasse](everflame-crevasse), two of the richest and those the tribes fight over constantly.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^*
 
 
 
@@ -1598,7 +1598,7 @@ Located on the northern slope of the [Stormcrest Mountains](stormcrest-mountains
 
 The entrance to the cavern can only be found by those deemed worthy and the exact location and appearance varies based on the seeker. A series of trials are designed to challenge those that seek an audience with [Kamaljiori](kamaljiori) and failure results in immediate banishment from the cavern.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 
 
@@ -1618,7 +1618,7 @@ The Dreamseep is plagued by undeath. Locals believe the marshland is cursed and 
 
 The only thing that brings visitors to the Dreamseep is the rare fungus known as "Queenscap". Used to create [Potions of Superior Healing](/item/potion-of-superior-healing), the Queenscap is nearly extinct in other swamps of [Tal'Dorei](taldorei).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 
 
@@ -1632,7 +1632,7 @@ The Dreamseep river is a slow moving river that begins in countless creeks and s
 
 While the Dreamseep is wide, deep, and slow enough for small boats to make their way upriver to the village of [Bronbog](bronbog), the course of the river is difficult to follow through the maze that is the [Dreamseep Marshlands](dreamseep-marshlands). It is not uncommon for boats to become lost and stuck in vegetation choked channels that criss-cross the swamp.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 
 
@@ -1648,7 +1648,7 @@ While the Dreamseep is wide, deep, and slow enough for small boats to make their
 
 Located in the heart of [Thordak's](thordak) ancient lair in the [Ashen Gorge](ashen-gorge) lies one of his deepest and most extensive hoards, called the Everflame Crevasse. Few outside of the [Tinysoot](tinysoot) [kobold](kobolds) tribe have ever seen it lived to reveal it's exact location.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^*
 
 
 
@@ -1663,7 +1663,7 @@ Despite being located on the southern end of the [Dividing Plains](dividing-plai
 
 A very dangerous forest, the Frostweald's frigid weather is only one of the forest's many dangers. [Basilisks](/monster/basilisk) are common in the Frostweald and it is also home to the dangerous [Shivergut Tribe](shivergut-tribe). The Frostweald is also known for it's many gateways to the [Feywild](feywild) and fey creatures like [pixies](/monster/pixie), [dryads](/monster/dryad), and [nymphs](/monster/nymph) call the Frostweald home.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 
 
@@ -1678,7 +1678,7 @@ Kirmont Bay is a large bay on the [Lucidian](lucidian-ocean) coast of [Tal'Dorei
 
 Located due west of the pirate enlcave of [Darktow](darktow), the Kirmont Bay is a popular place to launch raids against the shipping lanes that run down the east coast of [Tal'Dorei](taldorei) and west to [Marquet](marquet).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^*
 
 
 
@@ -1696,7 +1696,7 @@ While the [Dreamseep](dreamseep-marshlands) dominates much of the valley, it isn
 
 Very few people call the Kirmont Valley home. The village of [Bronbog](bronbog) is the only permanent settlement in the valley, but numerous tribes call the valley home. A start contrast of what was once a heavily settled region during the [Age of Arcanum](history). Many ruins litter the valley including the tower of [Wrettis](wrettis) in the foothills of the [Stormpoints](stormpoint-mountains) and the lost [Tomb of Udah](tomb-of-udah) in the heart of the marshlands.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^72)^*
 
 
 
@@ -1709,7 +1709,7 @@ Very few people call the Kirmont Valley home. The village of [Bronbog](bronbog) 
 
 One of [Thordak's](thordak) treasure vaults in the [Ashen Gorge](ashen-gorge), the Obsidian Geode contains many of [Thordak's](thordak) prized possessions. The vault is wel guarded by elementals, golems, and the [Black Snow Tribe](black-snow-tribe).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^73)^*
 
 
 
@@ -1733,7 +1733,7 @@ Somewhere in the [Dreamseep](dreamseep) lies the Tomb of Udah, a cursed necropol
 
 The tomb was built by the powerful [lich](/monster/lich) [Udah the Undying](udah-the-undying).
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^74)^*
 
 
 
@@ -1746,7 +1746,7 @@ The tomb was built by the powerful [lich](/monster/lich) [Udah the Undying](udah
 
 Wrettis is a ruined mage's tower located in the eastern foothills of the [Stormpoint Mountains](stormpoint-mountains) in the western [Kirmont Valley](kirmont-valley). Built by the [archmage](/monster/archmage), [Clemain Astural](astural-clemain) during the [Age of Arcanum](age-of-arcanum). After dabbling in magics beyond him, [Astural](astural-clemain) went mad and terrorized the countryside. He was utlimately defeated by [Atz Yuminor](yuminor-atz) and his tower brought down upon him.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^75)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^75)^*
 
 
 
@@ -1777,7 +1777,7 @@ The Beynsfal Plateau is a dangerous and inhospitable wasteland. The harsh climat
 
 The combined might of the city-states of [Rybad-Kol](rybad-kol), [Hdar-Fye](hdar-fye), [Ezordam-Haar](ezordam-haar), [Ortem-Vellak](ortem-vellak) and [Tz'Arrm](tzarrm) dominate the plateau and subjugate all in their path. Trespassers are lucky if death finds them quickly, lest they find themsleves toiling in the forges and foundries that power the [Iron Authority's](iron-authority) thirst for war.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^76)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^76)^*
 
 
 
@@ -1800,7 +1800,7 @@ The Mornset Countryside is a wide open plain that stretches for hundreds of mile
 
 A number of small settlements dot the countryside, but the city of [Port U'daa](port-udaa) and the village of [Byroden](byroden) are the largest.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^77)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^77)^*
 
 
 
@@ -1829,7 +1829,7 @@ The Orroyen River is long river that winds through the eastern [Rifenmist Jungle
 
 There are no permanent settlements in the Orroyen River basin, but it is home to many nomadic [Tabaxi](tabaxi) tribes and the semi-nomadic [Orroyen Tribe](orroyen-tribe).
 
-*^Canon^ ^Consistency:^ **^Medium^**
+*^Canon^ ^Consistency:^ ^Medium^
 
 > While unmarked on most modern maps of [Tal'Dorei](taldorei), the river is widely known by this name to the indigenous people of the eastern [Rifenmist](rifenmist-jungle). If another, official, name is discovered, I will update the Encyclopedia accordingly. 
 >
@@ -1857,7 +1857,7 @@ The Rifenmist is divided in two by the [Stormpoint Mountains](stormpoint-mountai
 
 While there are no permanent settlements in the jungle, the Rifenmist is home to numerous tribes of various races. The largest and most well-known being the [wood elves](elves) of the [Orroyen](orroyen-tribe). Also native to the jungle are most of [Exandria's](exandria) [tabaxi](tabaxi) clans.
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^78)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^78)^*
 
 
 
@@ -1878,7 +1878,7 @@ The Rifenmist River basin is the central artery that brings life to the western 
 
 The largest of the Rifenmist's tributaries is the one most commonly referred to as the lower branch. The branch's source lies near the [hobgoblin](hobgoblins) city of [Ezordam-Haar](ezordam-haar) and heads northward into the heart of the jungle. The Rifenmist expands greatly at the confluence of the two branches and pushes westward for another hundred miles to the [Ozmit Sea](ozmit-sea).
 
-*^Canon^ ^Consistency:^ **^Medium^**
+*^Canon^ ^Consistency:^ ^Medium^
 
 > While unmarked on most modern maps of [Tal'Dorei](taldorei), the river is widely known by this name to the indigenous people of the western [Rifenmist](rifenmist-jungle). If another, official, name is discovered, I will update the Encyclopedia accordingly.
 >
@@ -1901,7 +1901,7 @@ While the [Stormcrests](stormcrest-mountains) are mostly bald and rocky, the Sto
 
 Rumored to be the home of [Raishan the Diseased Deceiver](raishan-the-diseased-deceiver), treasure hunters are scouring the mountains looking for her lost hoard.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^79)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^79)^*
 
 
 
@@ -1931,7 +1931,7 @@ The Feshun Narrows is small, narrow inlet off the [Ozmit Sea](ozmit-sea) that op
 
 While the narrows are a good place to ride out a storm, local clans of [Sahuagin](/monster/sahuagin) claim the narrows as their home and do not tolerate trespassers.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^81)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^81)^*
 
 
 
@@ -1946,7 +1946,7 @@ The Feshun River begins it's journey to the [Ozmit Sea](ozmit-sea) high in the n
 
 After the [falls](tormor-falls), the Feshun is joined by the [Vues'dal River](vuesdal-river) for the remainer of it's course through the [Expanse](verdant-expanse). The river is navigable by small boats through the forest, but is not a major trade route for the [elves](elves) of [Syngorn](syngorn).
 
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^81)^*
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^81)^*
 
 
 
@@ -1968,7 +1968,7 @@ The Gladepools are a collection of ponds and lakes that make up the southern bor
 
 It is rumored that an oracle's spirit lives in the lakes of the Gladepools and will share information on one's future in exchange for an offering.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
 
 
 
@@ -1981,7 +1981,7 @@ It is rumored that an oracle's spirit lives in the lakes of the Gladepools and w
 
 The Mirescar is a dark corner of the [Verdant Expanse](verdant-expanse). Located on the western side of the forest, the Mirescar is one of the few places in the [Expanse](verdant-expanse) even the [elves](elves) of [Syngorn](syngorn) are reluctant to go. The entire area is corrupted by some unknown power and dire beasts, corrupted plant-life, and fey abominations call the Mirescar home.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^80)^*
 
 
 
@@ -1998,7 +1998,7 @@ Orencleft is a rocky mountain located to the south of the city of [Syngorn](syng
 
 Behind the falls, a number of caves dive deep into the [Stormcrests](stormcrest-mountains) and some say the entrances shift and move each day. The outside is patrolled by the [Verdant Guard](verdant-guard) and it is not uncommon for creatures to wander out from time to time.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^85)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^85)^*
 
 
 
@@ -2018,7 +2018,7 @@ Tormor Falls is a series of waterfalls where the [Feshun River](feshun-river) ca
 
 Not far from the city of [Syngorn](syngorn), the base of the falls are patrolled by the [Verdant Guard](verdant-guard). While the surrounding area is relatively safe, plenty of explorers have entered the caves beneath the falls and were never heard from again.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^85)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^85)^*
 
 
 
@@ -2035,7 +2035,7 @@ The Vues'dal River begins on the western slope of the [Stormpoint Mountains](sto
 
 The portion of the river that connects the [Vues'dal Waters](vuesdal-waters) to the [Feshun River](feshun-river) is navigable and is used to ship food upriver, as far as the [Tormor Falls](tormor-falls) to [Syngorn](syngorn).
 
-*^Canon^ ^Consistency:^ **^Medium^**
+*^Canon^ ^Consistency:^ ^Medium^
 
 > According to the Tal'Dorei Campaign Guide the [Feshun River](feshun-river) flows into the [Vues'dal Waters](vuesdal-waters), but this would mean the river flows north and south at the same time. Having visited the lake myself, the [Feshun River](feshun-river) does not enter the lake. The small [Vues'dal River](vuesdal-river) flows out of the lake and meets the [Feshun](feshun-river) to the north.
 >
@@ -2058,4 +2058,4 @@ The lake was formed when the Vues'dal volcano erupted during the [Age of Arcanum
 
 The land surrounding the lake is extremely fertile and farming villages have sprung up around it's banks. The largest is the town of [Vues'dal](vuesdal) on the eastern shore of the lake with roughly 1,000 people. In addition to the [elven](elves) settlements, a large [lizardfolk](lizardfolk) tribe lives in the nearby marshes and conflict between the two is not uncommon.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^84)^*
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^84)^*

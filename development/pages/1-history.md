@@ -10,7 +10,7 @@ module-pagebreaks: h1, h2, h3
 
 While there is much we do not know about the origins of [Exandria](geography) and the events leading up to present day, it is widely accepted that [Exandria](geography) has passed through three tumultuos ages called the [Founding](founding), the [Age of Arcanum](age-of-arcanum), and the [Calamity](calamity) before entering the fourth and current age known as [Post Divergence](post-divergence). 
 
-*^Canon^ ^Consistency:^ **^High^***{.screen-only}
+*^Canon^ ^Consistency:^ ^High^*{.screen-only}
 
 ## Founding
 The exact origins of [Exandria](geography) remain a mystery, but it is believed the world was discovered by the [Gods](pantheon) thousands of years ago. Enamored with [Exandria](geography) they began to shape and mold the world and give it life.
