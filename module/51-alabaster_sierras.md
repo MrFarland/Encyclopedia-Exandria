@@ -15,41 +15,44 @@ page-parent: taldorei
 
 ^Area:^ **^137,181^ ^sq^ ^mi^** ^-^ ^Population:^ **^4,865^**
 
-The Alabaster Sierras are a wild, untamed wilderness tucked into the northeast corner of the continent of [Tal'Dorei](taldorei). While the region is named for the chalk-white [mountains](alabaster-sierra-range) that run through the heart of the region, it is dominated by the massive forest known as the [Parchwood Timberland](parchwood-timberland).
+The Alabaster Sierras are a wild, untamed wilderness tucked into the northeast corner of the continent of [Tal'Dorei](taldorei). While the region is named for the chalk-white [mountains](alabaster-sierra-range) that form the region's spine, it is the massive [Parchwood Timberland](parchwood-timberland) that dominates the region.
 
 #### Climate
-The [Alabaster Sierras](alabaster-sierras) have a **humid continental climate (Dfb)**. The winter is long and cold, and snowfall is common from late fall to early spring. The summers are warm, but relatively short with a fair amount of rain.
+The Alabaster Sierras have a **humid continental climate (Dfb)**. The winter is long and cold, and snowfall is common from late fall to early spring. The summers are warm, but relatively short with a fair amount of rain.
 
-|                 |Spring|Summer| Fall |Winter|
-|:----------------|:----:|:----:|:----:|:----:|
-| Avg High (F)    | 52°  | 76°  | 58°  | 34°  |
-| Avg Low (F)     | 34°  | 56°  | 39°  | 16°  |
-| Avg Hum (%)     | 70%  | 75%  | 73%  | 67%  |
-| Avg Precip (in) | 4.0" | 3.5" | 4.5" | 3.5" |
-| Avg Snow (in)   | 5.1" | 0.0" | 0.6" |14.8" | 
+| |~Spring~|~Summer~|~Fall~|~Winter~|
+|:-----|:----:|:----:|:----:|:----:|
+| High | 52°  | 76°  | 58°  | 34°  |
+| Low  | 34°  | 56°  | 39°  | 16°  |
+| Rain | 4.0" | 3.5" | 4.5" | 3.5" |
+| Snow | 5.1" | 0.0" | 0.6" |14.8" | 
 {.gray}
-
 
 #### Demographics
-| Race       |  % | Race      |  % |
-|:-----------|:--:|:----------|:--:|
-| Human      | 68 | Elf       |  6 |
-| Halfling   |  7 | -         |    |
-| Dwarf      |  7 | Other     |    |
+The Alabaster Sierras are sparsely populated with most of its people residing in the city of [Whitestone](whitestone). Giants, goblins, gnolls, orcs, and centaurs also call the region home, but their numbers are unknown.
+
+|||||||
+|:---|:---:|:---|:---:|:---|:---:|
+| Human    | 68% | Dwarf    |  6% | -        |  -  | 
+| Halfling |  7% | -        |  -  | Other    | 19% |
 {.gray}
 
-The numbers above represent the region's only permanent settlement of [Whitestone](whitestone) and it's surrounding villages. They do not account for the many indigenous tribes that live deep within the [Parchwood Timberland](parchwood-timberland).
-
 #### Economy
-While rich in natural resources like stone and timber, the economy of the [Alabaster Sierras](alabaster-sierras) reolves around the magically infused "whitestone" that gives the [Alabaster Sierras](alabaster-sierra-range) their distinctive color.
+While rich in natural resources like stone and timber, the economy of the [Alabaster Sierras](alabaster-sierras) revolves around the magically infused "white stone" that gives the [Alabaster Sierras](alabaster-sierra-range) their distinctive color.
 
 
 (print-column)
 
+#### Factions
+The dominant factions in the region are:
+- **Chamber of Whitestone**: Governs the city of [Whitestone](whitestone) and the surrounding countryside.
+- **House de Rolo**: The ruling family of [Whitestone](whitestone) and head of the Chamber of Whitestone.
+- **Pale Guard**: The city watch of [Whitestone](whitestone) responsible for the city & surrounding area.
+- **Shields of the Plains**: The Republic of Tal'Dorei's watch for [Turst Fields](turst-fields) & the [Dividing Plains](dividing-plains).
+- **Whitestone Riflemen**: Defenders of [Castle Whitestone](castle-whitestone) and the Chamber of Whitestone.
 
 #### Geography
-The following features are located in this region:
-
+The dominant geographical features of the region are:
 - [Alabaster Bay](alabaster-bay)
 - [Alabaster Sierras](alabaster-sierra-range)
 - [Alabaster Trail](alabaster-trail)
@@ -59,22 +62,16 @@ The following features are located in this region:
 - [Salted Bluffs](salted-bluffs)
 - [Shearing Channel](shearing-channel)
 - [Upper Mooren River Run](upper-mooren-river-run)
-
-#### Government
-While much of the [Alabaster Sierras](alabaster-sierras) is untamed wilderness, the city of [Whitestone](whitestone) and surrounding settlements fall under the protection of the **House of de Rolo** and the **Chamber of Whitestone**. 
-
-[Whitestone](whitestone) maintains a cordial relationship with the **House of Tal'Dorei** in [Emon](emon), the city is largely isolated from the rest of the continent geographically and politically.
-
-#### Religion
-The dominant relgions in the region are the Prime Deities of **Pelor** and **Erathis**, but worshippers of **Avandra**, **Moradin**, **Melora** and **Corellon** are common as well.
-
-Many of the indigenous Gnoll and Orc tribes in the southern [Parchwood](parchwood) are adherent followers of **Yeenoghu** and **Gruumsh** respectively and should be given a wide berth.
-
-#### Settlements
-The following settlements are located in this region:
-
 - [Whitestone](whitestone)
 {.square}
+
+
+
+#### Travel
+| ~Trip~ | ~Route~ | ~Miles~ | ~Days~ |
+|:---|:---|:--:|:--|
+| [Whitestone](whitestone) <br/> to [Turst Fields](turst-fields) | [Alabaster Trail](alabaster-trail) | 360 | 12 |
+{.gray}
 
 
 
