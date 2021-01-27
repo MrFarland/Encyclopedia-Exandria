@@ -87,15 +87,19 @@ Most travel in the region uses one of the following routes:
 ### Alabaster Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
-**^Type:^** ^Coastal^ ^&^ ^Mountain^ ^-^ **^Danger:^** ^Medium^
+^Area:^ **^xx,xxx^ ^sq.mi.^** ^-^ ^Type:^ **^Coastal^** ^-^ ^Danger:^ **^Medium^**
 
-The Alabaster Bay is a large, open extension of the [Frigid Depths](frigid-depths) on the eastern side of the [Alabaster Peninsula](alabaster-sierras) and on the northern end of the [Shearing Channel](shearing-channel). While not as rough as the waters inside the channel, the bay does not provide much in the way of shelter from the brutal storms that plague [Exandria's](exandria) northern ocean.
+The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay is offers very little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
-The western shore of the bay is rocky and cold. The [Alabaster Sierras](alabaster-sierra-range) rise out of the water and shoot upward forming the eastern slope of the jagged peaks that stretch the entirety of the [Alabaster Peninsula](alabaster-peninsula). The southern shore, on the other hand, is relatively flat and heavily wooded with the [Parchwood Timberland](parchwood-timberland) coming right up to the water's edge.
+The Bay's western shore is rocky and barren with the [Alabaster Sierras](alabaster-sierra-range) rising out of the water and forming the range's eastern slope. To the south, the [Parchwood Timberland](parchwood-timberland) grows up to the water's edge.
 
-Most vessels that traverse the [channel](shearing-channel) only skirt the northeastern corner of the bay before they turn east along the northern coast of [Wildemount](wildemount) bound for [Icehaven](icehaven) or [Balenpost](balenpost). 
+##### Flora & Fauna
+The icy waters of the Alabaster Bay are home to large colonies of seals and is a favorite hunting ground for [sea lions](/monster/sea-lion) and [killer whales](/monster/killer-whale). 
 
-The icy waters of the Alabaster Bay are home to large colonies of seals and is a favorite hunting ground for [sea lions](/monster/sea-lion) and [killer whales](/monster/killer-whale). While most of the creatures in the bay give vessels a wide berth, captains that brave these frigid waters are always on the lookout for [Chuul](/monster/chull) and [harpies](/monster/harpy) from the mountains to the west.
+Beneath the surface, [giant crabs](/monster/giant-crab) and their smaller cousins are plentiful and in high demand in other parts of [Exandria](exandria).
+
+##### Travel
+Very few ships enter the Alabaster Bay. Most ships exiting the [Shearing Channel](shearing-channel) turn east for [Icehaven](icehaven) or [Balenpost](balenpost). Seal hunters and
 
 *^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
@@ -104,7 +108,7 @@ The icy waters of the Alabaster Bay are home to large colonies of seals and is a
 ### Alabaster Sierra Range
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
-**^Type:^** ^Mountain^ ^-^ **^Danger:^** ^High^
+^Area:^ **^xx,xxx^ ^sq.mi.^** ^-^ ^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^**
 
 Named for their chalk-white color, the mountains of the Alabaster Sierras stretch over three hundred miles along the eastern edge of the [Alabaster Peninsula](alabaster-sierras). The mountains rise out of the [Parchwood Timberland](parchwood-timberland) in the south, run along the western shore of the [Alabaster Bay](alabaster-bay), and wrap around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
 
@@ -132,14 +136,8 @@ Travel on the trail is extremely dangerous. While the northern and southern ends
 ##### Travel
 Most travel into and out of the region is by land along the [Alabaster Trail](alabaster-trail). Traveling cross-country is very dangerous and rarely beneficial.
 
-###### Land
 - [Whitestone](whitestone) to [Turst Fields](turst-fields) - 360 mi., 12 days
 {.square}
-
-| ~Trip~ | ~Route~ | ~Miles~ | ~Days~ |
-|:---|:---|:--:|:--|
-| [Whitestone](whitestone) to [Turst Fields](turst-fields) | [Alabaster Trail](alabaster-trail) | 360 | 12 |
-{.gray}
 
 *^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
@@ -259,7 +257,7 @@ The Upper Mooren River Run is barely navigable. There are numerous falls and int
 
 **^Population:^** ^4,230^ ^-^ **^Area:^** ^69^ ^Acres^
 
-The city of [Whitestone](whitestone) is located in the far northeastern corner of [Tal'Dorei](taldorei) on the [Alabaster Peninsula](alabaster-sierras). The city lies at the base of the [Alabaster Sierras](alabaster-sierra-range) in a wide valley where the mountains wrap around the northern tip of the peninsula. The massive [Parchwood Timberland](parchwood-timberland) completely surrounds the city and is connected to the rest of [Tal'Dorei](taldorei) by the [Alabaster Trail](alabaster-trail).
+The city of [Whitestone](whitestone) is located in the far northeastern corner of [Tal'Dorei](taldorei) on the [Alabaster Peninsula](alabaster-sierras). The city lies at the base of the [Alabaster Sierras](alabaster-sierra-range) in a wide valley where the mountains wrap around the northern tip of the peninsula. The massive [Parchwood Timberland](parchwood-timberland) completely surrounds the city and it is connected to the rest of [Tal'Dorei](taldorei) by the [Alabaster Trail](alabaster-trail).
 
 ##### Administration
 The city-state of [Whitestone](whitestone) is governed by a ruling council called the Chamber of Whitestone. The council is led by the head of the de Rolo family and the six remaining members are chosen from local nobility and community leaders.
@@ -281,10 +279,10 @@ While not particularly diverse, the people of [Whitestone](whitestone) are toler
 
 They are wary of orcs, gnolls, and goblinoids but are not openly hostile.
 
-||||||
-|:----------|:---:|:----------|:---:|:----------|:---:|
-| Human     | 83% | Halfling  |  7% | Dwarf     |  6% |
-| -         |  -  | -         |  -  | Other     |  4% |
+|||||||
+|:---|:---:|:---|:---:|:---|:---:|
+| Human    | 68% | Dwarf    |  6% | -        |  -  | 
+| Halfling |  7% | -        |  -  | Other    | 19% |
 {.gray}
 
 ##### Defenses
