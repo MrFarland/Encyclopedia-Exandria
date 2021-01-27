@@ -87,19 +87,23 @@ Most travel in the region uses one of the following routes:
 ### Alabaster Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
-^Area:^ **^xx,xxx^ ^sq.mi.^** ^-^ ^Type:^ **^Coastal^** ^-^ ^Danger:^ **^Medium^**
+^Area:^ **^xx,xxx^ ^sq.mi.^** ^-^ ^Type:^ **^Coastal^** ^-^ ^Danger:^ **^Medium^** ^(20)^
 
 The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay is offers very little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
-The Bay's western shore is rocky and barren with the [Alabaster Sierras](alabaster-sierra-range) rising out of the water and forming the range's eastern slope. To the south, the [Parchwood Timberland](parchwood-timberland) grows up to the water's edge.
+With most shipping traffic turning east for [Icehaven](icehaven) or [Balenpost](balenpost), very few ships bother to turn west into the Alabaster Bay. 
 
-##### Flora & Fauna
-The icy waters of the Alabaster Bay are home to large colonies of seals and is a favorite hunting ground for [sea lions](/monster/sea-lion) and [killer whales](/monster/killer-whale). 
+##### Encounters
+| [~d6~](/roll/1d6) | ~Description~ |
+|:--|:--|
+| 1 | A seal pup climbs aboard the party's ship to escape from [sea lions](/monster/sea-lions) or [killer whales](/monster/killer-whale). |
+| 2 | The tables are turned on some fishers when their hold full of [giant crabs](/monster/giant-crab) escape. |
+| 3 | A fierce arctic storm blows into the bay bringing high seas, strong winds and freezing ice. |
+| 4 | A heavy fog rolls in as chunks of ice bounce off the hull, each one larger than the last. |
+| 5 | A group of [Chuul](/monster/chuul) climb aboard in the dead of night, looking for an easy meal. |
+| 6 | The party's ship is spotted by a hunting party of [harpies](/monster/harpy) or [wyverns](/monster/wyverns) from the [Alabaster Sierras](alabaster-sierra-range). |
+{.gray}
 
-Beneath the surface, [giant crabs](/monster/giant-crab) and their smaller cousins are plentiful and in high demand in other parts of [Exandria](exandria).
-
-##### Travel
-Very few ships enter the Alabaster Bay. Most ships exiting the [Shearing Channel](shearing-channel) turn east for [Icehaven](icehaven) or [Balenpost](balenpost). Seal hunters and
 
 *^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
