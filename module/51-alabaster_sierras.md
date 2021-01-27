@@ -17,42 +17,11 @@ page-parent: taldorei
 
 The Alabaster Sierras are a wild, untamed wilderness tucked into the northeast corner of the continent of [Tal'Dorei](taldorei). While the region is named for the chalk-white [mountains](alabaster-sierra-range) that form the region's spine, it is the massive [Parchwood Timberland](parchwood-timberland) that dominates the region.
 
-#### Climate
-The Alabaster Sierras have a **humid continental climate (Dfb)**. The winter is long and cold, and snowfall is common from late fall to early spring. The summers are warm, but relatively short with a fair amount of rain.
+The region is bordered by the [Dividing Plains](dividing-plains) to the south and the icy [Frigid Depths](frigid-depths) to the east and north. Across the [Dawnmist Bay](dawnmist-bay) to the west are the [Cliffkeep Mountains](cliffkeep-mountains).
 
-| |~Spring~|~Summer~|~Fall~|~Winter~|
-|:-----|:----:|:----:|:----:|:----:|
-| High | 52°  | 76°  | 58°  | 34°  |
-| Low  | 34°  | 56°  | 39°  | 16°  |
-| Rain | 4.0" | 3.5" | 4.5" | 3.5" |
-| Snow | 5.1" | 0.0" | 0.6" |14.8" | 
-{.gray}
+The city-state of [Whitestone](whitestone) at the northern tip of the Alabaster Peninsula is the only permanent settlement in the region and the dominant power politically, economically, and culturally.
 
-#### Demographics
-The Alabaster Sierras are sparsely populated with most of its people residing in the city of [Whitestone](whitestone). Giants, goblins, gnolls, orcs, and centaurs also call the region home, but their numbers are unknown.
-
-|||||||
-|:---|:---:|:---|:---:|:---|:---:|
-| Human    | 68% | Dwarf    |  6% | -        |  -  | 
-| Halfling |  7% | -        |  -  | Other    | 19% |
-{.gray}
-
-#### Economy
-While rich in natural resources like stone and timber, the economy of the [Alabaster Sierras](alabaster-sierras) revolves around the magically infused "white stone" that gives the [Alabaster Sierras](alabaster-sierra-range) their distinctive color.
-
-
-(print-column)
-
-#### Factions
-The dominant factions in the region are:
-- **Chamber of Whitestone**: Governs the city of [Whitestone](whitestone) and the surrounding countryside.
-- **House de Rolo**: The ruling family of [Whitestone](whitestone) and head of the Chamber of Whitestone.
-- **Pale Guard**: The city watch of [Whitestone](whitestone) responsible for the city & surrounding area.
-- **Shields of the Plains**: The Republic of Tal'Dorei's watch for [Turst Fields](turst-fields) & the [Dividing Plains](dividing-plains).
-- **Whitestone Riflemen**: Defenders of [Castle Whitestone](castle-whitestone) and the Chamber of Whitestone.
-
-#### Geography
-The dominant geographical features of the region are:
+The prominent features of the region are the:
 - [Alabaster Bay](alabaster-bay)
 - [Alabaster Sierras](alabaster-sierra-range)
 - [Alabaster Trail](alabaster-trail)
@@ -65,13 +34,49 @@ The dominant geographical features of the region are:
 - [Whitestone](whitestone)
 {.square}
 
-
-
-#### Travel
-| ~Trip~ | ~Route~ | ~Miles~ | ~Days~ |
-|:---|:---|:--:|:--|
-| [Whitestone](whitestone) <br/> to [Turst Fields](turst-fields) | [Alabaster Trail](alabaster-trail) | 360 | 12 |
+##### Climate
+The region has a **humid continental climate (Dfb)**. Winters are long and cold with snowfall common from late fall to early spring. Summers are warm, but short with a fair amount of rain.
+| |~Spring~|~Summer~|~Fall~|~Winter~|
+|:-----|:----:|:----:|:----:|:----:|
+| High | 52°  | 76°  | 58°  | 34°  |
+| Low  | 34°  | 56°  | 39°  | 16°  |
+| Rain | 4.0" | 3.5" | 4.5" | 3.5" |
+| Snow | 5.1" | 0.0" | 0.6" |14.8" | 
 {.gray}
+
+##### Demographics
+The majority of the region's people reside in the city of [Whitestone](whitestone), but there are substantial populations of giants, goblins, gnolls, orcs, and centaurs residing in the wilds of the [Alabaster Sierras](alabaster-sierra-range) and [Parchwood Timberland](parchwood-timberland).
+
+|||||||
+|:---|:---:|:---|:---:|:---|:---:|
+| Human    | 68% | Dwarf    |  6% | -        |  -  | 
+| Halfling |  7% | -        |  -  | Other    | 19% |
+{.gray}
+
+
+##### Factions
+The dominant factions in the region are:
+- **Chamber of Whitestone**: Governs the city of [Whitestone](whitestone) and the surrounding countryside.
+- **House de Rolo**: The ruling family of [Whitestone](whitestone) and head of the Chamber of Whitestone.
+- **Pale Guard**: The city watch of [Whitestone](whitestone) responsible for the city & surrounding area.
+- **Whitestone Riflemen**: Defenders of [Castle Whitestone](castle-whitestone) and the Chamber of Whitestone.
+{.square}
+
+##### Religion
+The dominant religions in the region are:
+- **Pelor**: The dominant faith in [Whitestone](whitestone), the Dawn Father is major influence in the region.
+- **Erathis**: Has a strong following in [Whitestone](whitestone), but very little followers outside the city.
+- **Raven Queen**: Her following is small, but her beliefs resonate with the people of [Whitestone](whitestone).
+{.square}
+
+Avandra, Moradin, and Melora are not uncommon and shrines can often be found in the homes of their followers.
+
+##### Travel
+Most travel in the region uses one of the following routes:
+
+###### [Alabaster Trail](alabaster-trail)
+- [Whitestone](whitestone) to [Turst Fields](turst-fields) - 360 mi., 12 days
+{.square}
 
 
 
@@ -125,10 +130,16 @@ Travel on the trail is extremely dangerous. While the northern and southern ends
 [Bandits](/monster/bandit), [gnolls](/monster/gnoll) and [orcs](/monster/orcs) are a constant threat on the southern end of the trail, but even they avoid the stretch through the forest. Lycans, dire beasts, and undead creatures are an ever-present threat on the road through the [Parchwood](parchwood-timberland).
 
 ##### Travel
-| Origin                 | Destination                | Miles |
-|:-----------------------|:---------------------------|:-----:|
-|[Whitestone](whitestone)|[Turst Fields](turst-fields)|  360  |
-<!-- {table: .gray} -->
+Most travel into and out of the region is by land along the [Alabaster Trail](alabaster-trail). Traveling cross-country is very dangerous and rarely beneficial.
+
+###### Land
+- [Whitestone](whitestone) to [Turst Fields](turst-fields) - 360 mi., 12 days
+{.square}
+
+| ~Trip~ | ~Route~ | ~Miles~ | ~Days~ |
+|:---|:---|:--:|:--|
+| [Whitestone](whitestone) to [Turst Fields](turst-fields) | [Alabaster Trail](alabaster-trail) | 360 | 12 |
+{.gray}
 
 *^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
