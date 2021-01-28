@@ -93,16 +93,7 @@ The Alabaster Bay is a large bay located on the east side of the [Alabaster Peni
 
 With most shipping traffic turning east for [Icehaven](icehaven) or [Balenpost](balenpost), very few ships bother to turn west into the Alabaster Bay. 
 
-##### Encounters
-| [~d6~](/roll/1d6) | ~Description~ |
-|:--|:--|
-| 1 | A seal pup climbs aboard the party's ship to escape from [sea lions](/monster/sea-lions) or [killer whales](/monster/killer-whale). |
-| 2 | The tables are turned on some fishers when their hold full of [giant crabs](/monster/giant-crab) escape. |
-| 3 | A fierce arctic storm blows into the bay bringing high seas, strong winds and freezing ice. |
-| 4 | A heavy fog rolls in as chunks of ice bounce off the hull, each one larger than the last. |
-| 5 | A group of [Chuul](/monster/chuul) climb aboard in the dead of night, looking for an easy meal. |
-| 6 | The party's ship is spotted by a hunting party of [harpies](/monster/harpy) or [wyverns](/monster/wyverns) from the [Alabaster Sierras](alabaster-sierra-range). |
-{.gray}
+
 
 
 *^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
