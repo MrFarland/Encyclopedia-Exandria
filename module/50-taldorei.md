@@ -197,12 +197,10 @@ While the bay seems like a great place to ride out one of the many storms that p
 
 Like the surrounding [Parchwood Timberland](parchwood-timberland), the Parchwood Bay is teeming with life. The majority of the islands in the bay are heavily forested with a mixture of evergreen and deciduous trees. 
 
-Beneath the surface, the bay is home to a wide range of marine life including [giant crabs](/monster/giant-crab) and [octopuses](/monster/giant-octopus).
-
 Like the nearby Parchwood, the bay is also cursed with lycanthropy and undeath. Crew unlucky enough to survive a shipwreck are often beset and turned by the inhabitants of the forest.
 
 ##### Settlements
-While there are no known, permanent settlements in the bay, it is believed there are tribes of [Lizardfolk](/monster/lizardfolk) and [Orcs](/monster/orc) that live on some of the more remote islands in the bay.
+While there are no known, permanent settlements in the area many tribes of [lizardfolk](/monster/lizardfolk), [orcs](/monster/orc) and [gnolls](/monster/gnoll) live along it's shores and on some of the more remote islands in the bay.
 
 *^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
 
@@ -213,22 +211,22 @@ While there are no known, permanent settlements in the bay, it is believed there
 
 **^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
 
-Dominating the northeastern corner of [Tal'Dorei](taldorei) is the dark and dense Parchwood Timberland. A massive forest, wild and untamed, few that venture into the wood are ever heard from again. Travelers are warned to travel by caravan and not to stray from the [Alabaster Trail](alabaster-trail) while travelling between [Whitestone](whitestone) and [Turst Fields](turst-fields).
+While named for the chalk-white mountains, the Parchwood Timberland dominates the [Alabaster Sierra region](alabaster-sierras) and most of northeast [Tal'Dorei](tal'dorei). It stretches from the [Dawnmist Bay](dawnmist-bay) in the west to the [Shearing Channel](shearing-channel) and [Lucidian Ocean](lucidian-ocean) in the east. To the south, the Parchwood marks the border between the wilderness of the [Alabaster Sierras](alabaster-sierras) and the more "civilized" [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) of eastern [Tal'Dorei](taldorei.)
 
-The Parchwood Timberland is an extremely dangerous forest that teems with monstrosities, undead, lycans, and corrupted plant-life. Even the [gnolls](gnolls) of eastern [Tal'Dorei](taldorei), like the Dustpaw, Moonsteeth and Priest-Eaters stick to the southern edge of the forest.
-
-The southern edge of the forest marks the southern boundary between the [Alabaster Sierras](alabaster-sierras) in the north and the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south.
-
+(page-column)
 
 ##### Flora & Fauna
 ^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
 
+The Parchwood Timberland is a large, boreal coniferous forest with massive pines, spruces, and redwoods mixed with deciduous oaks, maples and birches. The underbrush is thick, tangled, and comprised of hardy bushes and plants that have adapted to the harsh winters of northeast [Tal'Dorei](taldorei).
 
+An extremely dangerous forest, the Parchwood is crawling with dire beasts, lycans, corrupted plant-life and undead. 
 
 ##### Resources
-
+Wild game and timber are harvested heavily along the forest's southern border by the people of [Turst Fields](turst-fields) and [Drynna](drynna); and by the people of [Whitestone](whitestone) far to the north.
 
 ##### Settlements
+While the city of [Whitestone](whitestone) and it's surrounding villages are the largest settlements in the Parchwood, numerous tribes of [orcs](/monster/orc), [gnolls](/monster/gnoll), and [centaurs](/monster/centaur) have camps and semi-permanent settlements throughout the southern Parchwood.
 
 *^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
 
