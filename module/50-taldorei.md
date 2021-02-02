@@ -126,7 +126,7 @@ The Sierras are tall, jagged peaks that are capped with snow year-round. The low
 In addition to the typical beasts found in higher elevations, the Sierras are native to a number of dangerous monsters including [behirs](/monster/behir), [harpies](/monster/harpy), and [wyverns](/monster/wyvern).
 
 ##### Resources
-Infused with magical energy, the [white stone](/item/white-stone) from which the mountains get their name is a hot commodity in arcane circles. While the raw stone has some magical properties, it's arcane power is greatly enhanced once it has been refined into a green, glass-like substance called [residuum](/item/residuum). Both are lucrative exports and an important source of income for the entire region.
+While the Alabaster Sierras are a good source of mineral deposits, it the [white stone](/item/white-stone) from which the mountains get their name is their most valuable resource. Infused with arcane energy, "white stone" and the green, glass-like [residuum](/item/residuum) it can be refined into are lucrative exports and an important source of income for the entire region.
 
 ##### Settlements
 While largely untamed wilderness, minor settlements and camps are scattered throughout the mountain range. The people of [Whitestone](whitestone) do not venture to far into the mountains to establish mines and quarries, but they occassionally encroach on the lands of various [giant](/monster/stone-giant), [goblin](/monster/goblin) and [kobold](/monster/kobold) tribes in the upper Sierras.
@@ -167,6 +167,68 @@ Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the
 Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range) to the west, the Dawnmist Bay, like the nearby [forest](dawnmist-pine) of the same name, is often obscured by a thick fog well into midday.
 
 ##### Flora & Fauna
-Life on and under the surface of the Dawnmist Bay is relatively quiet. The waters are too isolated and cold for sharks and piracy is unheard of given the bay's complete lack of any ports or shipping. While attacks are rare, local fishers are occassionaly harrassed by [killer whales](/monster/killer-whale) and some have reported seeing a large, sea monster they've nicknamed, "[Misty](/monster/plesiosaurus)."
+^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
+
+The Dawnmist Bay has a thriving marine ecosystem. Numerous species of seaweed and fish thrive in the isolated bay. To cold for sharks and very litte boat traffic has made the bay an ideal breeding ground for various types of whales.
+
+##### Settlements
+There are number of small fishing villages along the eastern shore of the Dawnmist Bay and they've become an important source of food for the city of [Whitestone](whitestone) and [Turst Fields](turst-fields).
 
 *^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+
+
+
+(print-page)
+
+
+
+### Parchwood Bay
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+**^Type:^** ^Coastal^ ^&^ ^Forest^ ^-^ **^Danger:^** ^High^
+
+The Parchwood Bay is a large, island-choked bay that forms the western side of the perilous [Shearing Channel](shearing-channel) that separates the continents of [Tal'Dorei](tal'dorei) and [Wildemount](wildemount).
+
+While the bay seems like a great place to ride out one of the many storms that plague the [channel](shearing-channel), it is not without it's dangers. The bay is a maze of heavily [forested](parchwood-timberland) islands and rocky shoals that make navigating difficult in even the best of conditions. 
+
+
+##### Flora & Fauna
+^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
+
+Like the surrounding [Parchwood Timberland](parchwood-timberland), the Parchwood Bay is teeming with life. The majority of the islands in the bay are heavily forested with a mixture of evergreen and deciduous trees. 
+
+Beneath the surface, the bay is home to a wide range of marine life including [giant crabs](/monster/giant-crab) and [octopuses](/monster/giant-octopus).
+
+Like the nearby Parchwood, the bay is also cursed with lycanthropy and undeath. Crew unlucky enough to survive a shipwreck are often beset and turned by the inhabitants of the forest.
+
+##### Settlements
+While there are no known, permanent settlements in the bay, it is believed there are tribes of [Lizardfolk](/monster/lizardfolk) and [Orcs](/monster/orc) that live on some of the more remote islands in the bay.
+
+*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+
+
+
+### Parchwood Timberland
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+**^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
+
+Dominating the northeastern corner of [Tal'Dorei](taldorei) is the dark and dense Parchwood Timberland. A massive forest, wild and untamed, few that venture into the wood are ever heard from again. Travelers are warned to travel by caravan and not to stray from the [Alabaster Trail](alabaster-trail) while travelling between [Whitestone](whitestone) and [Turst Fields](turst-fields).
+
+The Parchwood Timberland is an extremely dangerous forest that teems with monstrosities, undead, lycans, and corrupted plant-life. Even the [gnolls](gnolls) of eastern [Tal'Dorei](taldorei), like the Dustpaw, Moonsteeth and Priest-Eaters stick to the southern edge of the forest.
+
+The southern edge of the forest marks the southern boundary between the [Alabaster Sierras](alabaster-sierras) in the north and the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south.
+
+
+##### Flora & Fauna
+^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
+
+
+
+##### Resources
+
+
+##### Settlements
+
+*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+
