@@ -1,10 +1,3 @@
----
-name: Alabaster Sierras
-slug: alabaster-sierras
-order: 51
-module-pagebreaks: h1, h2, h3, h4
-page-parent: taldorei
----
 ![Alabaster Sierras](assets/img/MrFarland-Exandria_800-2_region-alabaster_sierras-3300x2550-rotated.jpg){.size-full .print-only}
 
 (print-page)
