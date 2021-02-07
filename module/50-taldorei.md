@@ -4,6 +4,7 @@ slug: taldorei
 order: 50
 module-pagebreaks: h1, h2, h3, h4
 ---
+
 ![Tal'Dorei](assets/img/MrFarland-Exandria_800-1_continent-taldorei-2550x3300.jpg) {.size-full .print-only}
 
 (print-page)
@@ -83,150 +84,182 @@ The following are the dominant factions in this region.
 - **Whitestone Riflemen**. Defenders of [Castle Whitestone](castle-whitestone) and the Chamber of Whitestone.
 {.square}
 
-### Alabaster Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
-
-^Area:^ **^xx,xxx^ ^sq.mi.^** ^-^ ^Type:^ **^Coastal^** ^-^ ^Danger:^ **^Medium^**
-
-The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers very little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
-
-##### Flora & Fauna
-^Food:^ **^Abundant^** ^-^ ^Water:^ **^Limited^**
-
-The Alabaster Bay is a rich ecosystem both above and below the waterline. Numerous types of seaweed line the bottom of the bay and provide excellent refuge for the numerous species of fish that call the bay home.
-
-A number of marine mammals also reside in the bay. Colonies of seals can be found all along the western shore, as can the [sea lions](/monster/sea-lion) and [killer whales](/monster/killer-whale) that hunt them. Beneath the surface, [giant crabs](/monster/giant-crab) and [chuul](/monster/chuul) that prowl the bay's floor.
-
-##### Resources
-While rich in fish and crabs, the bay's location makes it impractical for fishers out of [Whitestone](whitestone) or the [Menagerie Coast](menagerie-coast) to work.
-
-##### Settlements
-There are no known settlements on the bay.
-
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
-
 
 
 (print-page)
 
 
 
-### Alabaster Sierra Range
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+![Bladeshimmer Shoreline - North](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline_north-3300x2550-rotated.jpg){.size-full .print-only}
 
-^Area:^ **^xx,xxx^ ^sq.mi.^** ^-^ ^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^**
+(print-page)
 
-Named for their chalk-white color, the mountains of the Alabaster Sierras stretch over three hundred miles along the eastern edge of the [Alabaster Peninsula](alabaster-sierras). The mountains rise out of the [Parchwood Timberland](parchwood-timberland) in the south, run along the western shore of the [Alabaster Bay](alabaster-bay), and wrap around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
+![Bladeshimmer Shoreline - South](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline_south-3300x2550-rotated.jpg){.size-full .print-only}
 
-##### Flora & Fauna
-^Food:^ **^Limited^** ^-^ ^Water:^ **^Abundant^**
+(print-page)
 
-The Sierras are tall, jagged peaks that are capped with snow year-round. The lower elevations overlap with the lush [Parchwood Timberland](parchwood-timberland), while the upper elevations become increasingly more barren.
+![Bladeshimmer Shoreline](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline-3300x5100.jpg){.size-cover .screen-only}
 
-In addition to the typical beasts found in higher elevations, the Sierras are native to a number of dangerous monsters including [behirs](/monster/behir), [harpies](/monster/harpy), and [wyverns](/monster/wyvern).
+## Bladeshimmer Shoreline
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-##### Resources
-While the Alabaster Sierras are a good source of mineral deposits, it the [white stone](/item/white-stone) from which the mountains get their name is their most valuable resource. Infused with arcane energy, "white stone" and the green, glass-like [residuum](/item/residuum) it can be refined into are lucrative exports and an important source of income for the entire region.
+^Area:^ **^137,181^ ^sq^ ^mi^** ^-^ ^Population:^ **^333,268^**
 
-##### Settlements
-While largely untamed wilderness, minor settlements and camps are scattered throughout the mountain range. The people of [Whitestone](whitestone) do not venture to far into the mountains to establish mines and quarries, but they occassionally encroach on the lands of various [giant](/monster/stone-giant), [goblin](/monster/goblin) and [kobold](/monster/kobold) tribes in the upper Sierras.
+The Bladeshimmer Shoreline is located on the central, western coast of [Tal'Dorei](taldorei). It stretches from the southern base of the [Daggerbay Mountains](daggerbay-mountains) to the northern edge of the [Seashale Mountains](seashale-mountains) and as far east as the [Ivyheart Thicket](ivyheart-thicket) and [Ironseat Ridge](ironseat-ridge). It is a rocky coastline with rolling hills and plains further inland.
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+##### Climate
+The Bladeshimmer Shoreline has a **warm temperate oceanic (Cfb)** climate. It has cool, wet winters, and mild summers with a fair amount of precipitation. 
 
-### Alabaster Trail
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+##### Demographics
+The following common races in this region are:
 
-^Distance:^ **^360^ ^mi.^** ^-^ **^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
+[Human](humans) (68%), [Dwarves](dwarves) (7%), [Elves](elves)(6%), [Other](races) (19%)
 
-The Alabaster Trail is the only road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
 
 (print-column)
 
-##### Security
-Travel on the trail is extremely dangerous. While the northern and southern ends are well patrolled by the Pale Guard and Shields of the Plains respectively, travelers attempting the journey are advised to travel by caravan. 
 
-[Bandits](/monster/bandit), [gnolls](/monster/gnoll) and [orcs](/monster/orcs) are a constant threat on the southern end of the trail, but even they avoid the stretch through the forest. Lycans, dire beasts, and undead are an ever-present threat on the road through the [Parchwood](parchwood-timberland).
+##### Factions
+The dominant factions in this region are the:
 
-##### Travel
-| ~Source~                | ~Destination~                | ~Miles~ |~Days~|
-|:------------------------|:-----------------------------|:-----:|:----:|
-|[Whitestone](whitestone) | [Turst Fields](turst-fields) |   360 |   12 |
-{.gray}
+[Arms of Emon](arms-of-emon), [Clasp](clasp), [Council of Tal'Dorei](council-of-taldorei), [Verdant Guard](verdant-guard)
 
-*^Canon^ ^Consistency:^ **^High^** ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+##### Geography
+The following features can be found in this region:
 
+[Bladeshimmer Bay](bladeshimmer-bay)\*, [Scar of the Cinder King](scar-of-the-cinder-king), [Crystalfen Caverns](crystalfen-caverns), [Daggerbay](daggerbay), [Daggerbay Mountains](daggerbay-mountains), [Emerald Path](emerald-path), [Emerald River](emerald-river)\*, [Flamereach Grove](flamereach-grove), [Ivyheart Run](ivyheart-run)\*, [Ivyheart Thicket](ivyheart-thicket), [Nightwash Tide](nightwash-tide), [Othendin Trail](othendin-trail), [Ruins of Salar](ruins-of-salar), [Ruins of Vos'Sykriss](ruins-of-vosykriss), [Seashale Mountains](seashale-mountains), [Shivergreen Grove](shivergreen-grove), [Slumber Reef](slumber-reef), [Snowember Fields](snowember-fields), [Visa Isle](visa-isle)
 
+##### Religion
+The dominant religions in the region are:
 
-### Dawnmist Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) {.screen-only}
+[Bahamut](bahamut), [Erathis](erathis), [Sehanine](sehanine), [Raven Queen](raven-queen), [Pelor](pelor)
 
-**^Type:^** ^Coastal^ ^&^ ^Forest^ ^-^ **^Danger:^** ^Low^
+##### Settlemetnts
+The settlements in the region are:
 
-Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While the bay is an extension of the [Frigid Depths](frigid-depths), the Dawnmist is warmer and calmer than it's sister, the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
-
-Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range) to the west, the Dawnmist Bay, like the nearby [forest](dawnmist-pine) of the same name, is often obscured by a thick fog well into midday.
-
-##### Flora & Fauna
-^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
-
-The Dawnmist Bay has a thriving marine ecosystem. Numerous species of seaweed and fish thrive in the isolated bay. To cold for sharks and very litte boat traffic has made the bay an ideal breeding ground for various types of whales.
-
-##### Settlements
-There are number of small fishing villages along the eastern shore of the Dawnmist Bay and they've become an important source of food for the city of [Whitestone](whitestone) and [Turst Fields](turst-fields).
-
-*^Canon^ ^Consistency:^ **^Medium^** ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
-
-
+[Emerald Outpost](emerald-outpost), [Emon](emon), [Ruins of O'Noa](ruins-of-onoa), [Shalesteps](shalesteps)
 
 (print-page)
 
 
+![Cliffkeep Mountains](assets/img/MrFarland-Exandria_800-2_region-cliffkeep_mountains_west-2550x3300.jpg){.size-full .print-only}
 
-### Parchwood Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+(print-page)
 
-**^Type:^** ^Coastal^ ^&^ ^Forest^ ^-^ **^Danger:^** ^High^
+![Cliffkeep Mountains](assets/img/MrFarland-Exandria_800-2_region-cliffkeep_mountains_east-2550x3300.jpg){.size-full .print-only}
 
-The Parchwood Bay is a large, island-choked bay that forms the western side of the perilous [Shearing Channel](shearing-channel) that separates the continents of [Tal'Dorei](tal'dorei) and [Wildemount](wildemount).
+(print-page)
 
-While the bay seems like a great place to ride out one of the many storms that plague the [channel](shearing-channel), it is not without it's dangers. The bay is a maze of heavily [forested](parchwood-timberland) islands and rocky shoals that make navigating difficult in even the best of conditions. 
+![Cliffkeep Mountains](assets/img/MrFarland-Exandria_800-2_region-cliffkeep_mountains-5100x3300.jpg){.size-cover .screen-only}
+
+## Cliffkeep Mountains
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
+
+^Area:^ **^461,427^ ^sq^ ^mi^** ^-^ ^Population:^ **^59,247^**
+
+Located in the northern third of [Tal'Dorei](taldorei), the [Cliffkeep Mountains](cliffkeep-mountain-range) dominate the region. The range stretches from the [Ozmit Sea](ozmit-sea) in the west to the [Dawnmist Bay](dawnmist-bay) in the east and from the [Dividing Plains](dividing-plains) in the south to the icy Frigid Depths in the north.
+
+##### Climate
+The Cliffkeep Mountains is a large region with a ***humid continental climate (Dwb)*** with warm summers and cold, dry winters in the south, while the northern half has a ***subarctic climate (Dfc)*** with long, cold winters and brief, warm summers.
+
+##### Demographics
+The following are the dominant races in the region:
+
+[Dwarves](dwarves) (65%), [Elves](elves) (10%), [Humans](humans) (9%), [Gnomes](gnomes) (8%), [Other](races) (8%)
+
+##### Factions
+The dominant factions in the region are:
+
+[Carvers](carvers), [Houses of Kraghammer](houses-of-kraghammer)
 
 
-##### Flora & Fauna
-^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
-
-Like the surrounding [Parchwood Timberland](parchwood-timberland), the Parchwood Bay is teeming with life. The majority of the islands in the bay are heavily forested with a mixture of evergreen and deciduous trees. 
-
-Like the nearby Parchwood, the bay is also cursed with lycanthropy and undeath. Crew unlucky enough to survive a shipwreck are often beset and turned by the inhabitants of the forest.
-
-##### Settlements
-While there are no known, permanent settlements in the area many tribes of [lizardfolk](/monster/lizardfolk), [orcs](/monster/orc) and [gnolls](/monster/gnoll) live along it's shores and on some of the more remote islands in the bay.
-
-*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+(print-column)
 
 
+##### Geography
+The following features can be found in this region:
 
-### Parchwood Timberland
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+[Black Valley](black-valley), [Black Valley Path](black-valley-path), [Cliffkeep Mountain Range](cliffkeep-mountain-range), [East Wood](east-wood)\*, [Elvenpeaks](elvenpeaks), [Emerald Highlands](emerald-highlands), [Gatshadow](gatshadow), [Grey Valley](grey-valley), [Neverfields](neverfields), [Othendin Pass](othendin-pass), [Othendin Trail](othendin-trail), [Pools of Wittebak](pools-of-wittebak), [Serpent's Head](serpents-head), [Torian Forest](torian-forest), [Umbra Hills](umbra-hills), [West Wood](west-wood)\*, [Wildwood](wildwood), [Wildwood Byway](wildwood-byway)
 
-**^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
-
-While named for the chalk-white mountains, the Parchwood Timberland dominates the [Alabaster Sierra region](alabaster-sierras) and most of northeast [Tal'Dorei](tal'dorei). It stretches from the [Dawnmist Bay](dawnmist-bay) in the west to the [Shearing Channel](shearing-channel) and [Lucidian Ocean](lucidian-ocean) in the east. To the south, the Parchwood marks the border between the wilderness of the [Alabaster Sierras](alabaster-sierras) and the more "civilized" [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) of eastern [Tal'Dorei](taldorei.)
-
-(page-column)
-
-##### Flora & Fauna
-^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
-
-The Parchwood Timberland is a large, boreal coniferous forest with massive pines, spruces, and redwoods mixed with deciduous oaks, maples and birches. The underbrush is thick, tangled, and comprised of hardy bushes and plants that have adapted to the harsh winters of northeast [Tal'Dorei](taldorei).
-
-An extremely dangerous forest, the Parchwood is crawling with dire beasts, lycans, corrupted plant-life and undead. 
-
-##### Resources
-Wild game and timber are harvested heavily along the forest's southern border by the people of [Turst Fields](turst-fields) and [Drynna](drynna); and by the people of [Whitestone](whitestone) far to the north.
+^*^ ^These^ ^prominent^ ^features^ ^are^ ^unnamed^ ^in^ ^official^ ^sources.^
 
 ##### Settlements
-While the city of [Whitestone](whitestone) and it's surrounding villages are the largest settlements in the Parchwood, numerous tribes of [orcs](/monster/orc), [gnolls](/monster/gnoll), and [centaurs](/monster/centaur) have camps and semi-permanent settlements throughout the southern Parchwood.
+The following settlements can be found in this region:
 
-*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+[Emberhold](emberhold), [Fort Daxio](fort-daxio), [Jorenn Village](jorenn-village), [Kraghammer](kraghammer), [Terrah](terrah), [Yug'Voril](yugvoril)
 
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-dividing_plains-3300x2550-rotated.jpg){.size-full .print-only}
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-dividing_plains-3300x2550.jpg){.size-cover .screen-only}
+
+## Dividing Plains
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
+
+^Area:^ **^261,891^ ^sq^ ^mi^** ^-^ ^Population:^ **^27,365^**
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-lucidian_coast-2550x3300.jpg){.size-full .print-only}
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-lucidian_coast-2550x3300.jpg){.size-cover .screen-only}
+
+## Lucidian Coast
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
+
+^Area:^ **^174,594^ ^sq^ ^mi^** ^-^ ^Population:^ **^12,821^**
+
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-rifenmist_peninsula_west-2550x3300.jpg){.size-full .print-only}
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-rifenmist_peninsula_east-2550x3300.jpg){.size-full .print-only}
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-rifenmist_peninsula-5100x3300.jpg){.size-cover .screen-only}
+
+## Rifenmist Peninsula
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
+
+^Area:^ **^311,775^ ^sq^ ^mi^** ^-^ ^Population:^ **^162,855^**
+
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-stormcrest_mountains-3300x2550-rotated.jpg){.size-full .print-only}
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-stormcrest_mountains-3300x2550.jpg){.size-cover .screen-only}
+
+## Stormcrest Mountains
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
+
+^Area:^ **^112,239^ ^sq^ ^mi^** ^-^ ^Population:^ **^777^**
+
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-verdant_expanse-3300x2550-rotated.jpg){.size-full .print-only}
+
+(print-page)
+
+![?](assets/img/MrFarland-Exandria_800-2_region-verdant_expanse-3300x2550.jpg){.size-cover .screen-only}
+
+## Verdant Expanse
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
+
+^Area:^ **^162,123^ ^sq^ ^mi^** ^-^ ^Population:^ **^40,410^**
+
+
+(print-page)
