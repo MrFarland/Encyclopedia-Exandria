@@ -27,18 +27,18 @@ The material plane of [Exandria](exandria) is relatively young. While nobody kno
 
 #### Continents
 The continents of [Exandria](exandria) are:
-- Issylra - (Included in a future release.)
-- Marquet - (Included in a future release.)
-- Shattered Teeth - (Included in a future release.)
+- [Issylra](issylra)
+- [Marquet](marquet)
+- [Shattered Teeth](shattered-teeth)
 - [Tal'Dorei](taldorei)
 - [Wildemount](wildemount)
 {.square}
 
 #### Oceans
 The oceans of [Exandria](exandria) are:
-- Frigid Depths - (Included in a future release.)
-- Lucidian Ocean - (Included in a future release.)
-- Ozmit Sea - (Included in a future release.)
+- [Frigid Depths](frigid-depths)
+- [Lucidian Ocean](lucidian-ocean)
+- [Ozmit Sea](ozmit-sea)
 {.square}
 
 (print-page)
