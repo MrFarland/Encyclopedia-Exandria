@@ -44,6 +44,7 @@ The continent of Tal'Dorei is divided into the following eight regions:
 The Alabaster Sierras are a wild, untamed wilderness tucked into the northeast corner of the continent of [Tal'Dorei](taldorei). While the region is named for the chalk-white [mountains](alabaster-sierra-range) that form the region's spine, it is the massive [Parchwood Timberland](parchwood-timberland) that dominates the region.
 
 The region is bordered by the [Dividing Plains](dividing-plains) to the south and the icy [Frigid Depths](frigid-depths) to the east and north. Across the [Dawnmist Bay](dawnmist-bay) to the west are the [Cliffkeep Mountains](cliffkeep-mountains).
+*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
 
 ##### Demographics
 The demographics below reflect the people of [Whitestone](whitestone) and the surrounding villages only. While the region appears largely human, there are sizable populations of giants, goblins, kobolds, orcs, and centaurs residing throughout the [Alabaster Sierras](alabaster-sierra-range) and [Parchwood Timberland](parchwood-timberland). An accurate count for everyone simply is not possible.
@@ -133,6 +134,8 @@ The Bladeshimmer Shoreline has a **warm temperate oceanic (Cfb)** climate. It ha
 | Snow | 0.0" | 0.0" | 0.0" | 0.2" | 
 {.gray}
 
+*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
+
 ##### Demographics
 While predominantly human, the Bladeshimmer Shoreline is becoming increasingly more diverse. As the region has grown in both economic and political power, peoples of all shapes, sizes, and colors have flocked to the [City of Fellowship](emon) on the shores of the [Bladeshimmer Bay](bladeshimmer-bay). 
 
@@ -176,13 +179,12 @@ The prominent geographical features in the region are:
 ##### Religion
 People of all faiths can be found throughout the region, but **Erathis** and **Bahamut** are the most widely worshipped. Within the walls of [Emon](emon) temples and shrines can be found for all of the Prime Deities and even some of the Betrayer Gods. In the countryside, followers of **Pelor**, **Avandra**, and **Melora** are quite common.
 
-Rarely anyone's primary deity, the **Raven Queen** is held in high esteem in the city of [Emon](emon). Her holy day, the Night of Ascension on the 13th of Cuersar, is a day of rememberance in the city and celebrated by nearly all of it's citizens. 
-
 ##### Settlemetnts
 The major settlements in the region are:
-- [Emerald Outpost](emerald-outpost) ()
-- [Ruins of O'Noa](ruins-of-onoa) ()
-- [Shalesteps](shalesteps) ()
+- [Emerald Outpost](emerald-outpost) (1,456)
+- [Emon](emon) (287,550)
+- [Ruins of O'Noa](ruins-of-onoa) (336)
+- [Shalesteps](shalesteps) (456)
 
 
 
@@ -221,6 +223,8 @@ The Cliffkeep Mountains is a large region with a ***humid continental climate (D
 | Rain | 2.3" | 0.9" | 3.3" | 4.9" |
 | Snow | 0.0" | 0.0" | 0.0" | 0.2" | 
 {.gray}
+
+*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
 
 ##### Demographics
 An incredibly large region, the Cliffkeep Mountains are home to many different races and cultures. Dwarves and gnomes are most common near the dwarven stronghold of [Kraghammer](kraghammer), elves in the northern city of [Lyrengorn](lyrengorn), and humans at [Fort Daxio](fort-daxio) and [Jorenn Village](jorenn-village). Largely uncounted are millions of goliaths, goblinoids, orcs, kobolds, and giants that live in scattered settlements throughout the region.
@@ -297,7 +301,7 @@ The major settlements in the region are:
 
 ^Area:^ **^261,891^ ^sq^ ^mi^** ^-^ ^Population:^ **^44,483^**
 
-Located in the heart of [Tal'Dorei](taldorei), the Dividing Plains is a wide open grassland that stretches from the [Bladeshimmer Shoreline](bladeshimmer-shoreline) in the west to the [Lucidian Coast](lucidian-coast) in the east. The rolling pastoral hills and plains a sharp contrast to the towering peaks of the [Cliffkeep Mountains](cliffkeep-mountains) to the north and the lush forest of the [Verdant Expanse](verdant-expanse) to the south.
+Located in the heart of [Tal'Dorei](taldorei), the Dividing Plains is a wide open grassland that stretches from the [Bladeshimmer Shoreline](bladeshimmer-shoreline) in the west to the [Lucidian Coast](lucidian-coast) in the east. The rolling pastoral hills and plains are a sharp contrast to the towering peaks of the [Cliffkeep Mountains](cliffkeep-mountains) to the north and the lush forest of the [Verdant Expanse](verdant-expanse) to the south.
 
 ##### Climate
 Located in the central, temperate region of [Tal'Dorei](taldorei), the Dividing Plains has a ***humid continental climate (Dfa)*** with hot summers and cold winters. Precipitation is consistent year-round and snowfall substantial in the winter months.
@@ -309,6 +313,8 @@ Located in the central, temperate region of [Tal'Dorei](taldorei), the Dividing 
 | Rain | 2.1" | 3.0" | 1.4" | 0.7" |
 | Snow | 2.0" | 0.0" | 0.6" | 4.3" | 
 {.gray}
+
+*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
 
 ##### Demographics
 Like the other regions in central [Tal'Dorei](taldorei), humans are an overwhelming majority in the major settlements in the region. Still, the Dividing Plains is surprisingly diverse out in the countryside. Small farmsteads and hamlets are scattered throughout the region and many of these small settlements are non-human. Likewise, tribes of centaurs, gnolls, goliaths, and orcs wander the plains, never staying in one place too long.
@@ -389,6 +395,8 @@ The eastern coast of [Tal'Dorei](tal'dorei) has a **Humid subtropical climate (C
 | Snow | 0.0" | 0.0" | 0.0" | 1.0" | 
 {.gray}
 
+*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
+
 ##### Demographics
 The Lucidian Coast is a much more diverse region than the streets of [Drynna](drynna) or [Stilben](stilben) might indicate. There are countless numbers of orcs, gnolls, and lizardfolk living in remote corners of the [K'Tawl](ktawl-swamp) and [Rootgarden Marsh](rootgarden-marsh).
 
@@ -465,6 +473,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
 
+*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
+
 ##### Demographics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -531,6 +541,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
 
+*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
+
 ##### Demographics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -590,6 +602,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 | Rain | 0.0" | 0.0" | 0.0" | 0.0" |
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
+
+*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
 
 ##### Demographics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
