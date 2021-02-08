@@ -95,7 +95,7 @@ In the southern reaches of the [Parchwood](parchwood-timberland), followers of *
 
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - [Whitestone](whitestone) (4,230)
 {.gray}
 
@@ -179,7 +179,7 @@ People of all faiths can be found throughout the region, but **Erathis** and **B
 Rarely anyone's primary deity, the **Raven Queen** is held in high esteem in the city of [Emon](emon). Her holy day, the Night of Ascension on the 13th of Cuersar, is a day of rememberance in the city and celebrated by nearly all of it's citizens. 
 
 ##### Settlemetnts
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - [Emerald Outpost](emerald-outpost) ()
 - [Ruins of O'Noa](ruins-of-onoa) ()
 - [Shalesteps](shalesteps) ()
@@ -267,7 +267,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - [Emberhold](emberhold) (Unknown)
 - [Fort Daxio](fort-daxio) ()
 - [Jorenn Village](jorenn-village) ()
@@ -351,7 +351,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - [Kymal](kymal)
 - [Turst Fields](turst-fields)
 - [Westruun](westruun)
@@ -420,7 +420,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - [Drynna](drynna)
 - [Dunghill](dunghill)
 - [Stilben](stilben)
@@ -489,7 +489,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}
 
@@ -555,7 +555,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}
 
@@ -615,6 +615,6 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}

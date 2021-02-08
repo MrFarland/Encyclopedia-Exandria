@@ -74,7 +74,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}
 
@@ -142,7 +142,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}
 
@@ -210,7 +210,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}
 
@@ -275,7 +275,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}
 
@@ -337,7 +337,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}
 
@@ -400,7 +400,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}
 
@@ -462,7 +462,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}
 
@@ -524,7 +524,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Settlements
-The major, permanent settlements in the region are:
+The major settlements in the region are:
 - Settlement
 {.square}
 
