@@ -245,7 +245,7 @@ The dominant factions in the region are:
 - **Houses of Kraghammer**. The five noble houses of [Kraghammer](kraghammer) that rule the dwarven city.
 - **Icewalkers**. A nomadic tribe of orcs that live in the nearly inhospitable [Neverfields](neverfields).
 - **Shadewatch**. The informal and largely corrupt guard for the town of [Jorenn Village](jorenn-village).
-- **Skyswimmers**. The wyvern-riding protectors of [Lyrengorn](lyrengorn) are largely ceremonial performers.
+- **Skyswimmers**. The wyvern-riders of [Lyrengorn](lyrengorn) are performers and quasi-defenders of the [Elvenpeaks](elvenpeaks).
 {.square}
 
 ##### Geography
@@ -324,6 +324,8 @@ Like the other regions in central [Tal'Dorei](taldorei), humans are an overwhelm
 | Human      | 66% | Dwarf      |  3% | Gnoll      |  1% |
 | Gnome      |  8% | Halfling   |  2% | Other      | 20% |
 {.gray}
+
+(print-page)
 
 ##### Factions
 The dominant factions in the region are:
@@ -408,8 +410,8 @@ The Lucidian Coast is a much more diverse region than the streets of [Drynna](dr
 
 ##### Factions
 The dominant factions in the region are:
-- **Clasp, The**. The dominant criminal syndicate in western [Tal'Dorei](taldorei), the Clasp's power and influece in [Stilben](stilben) is waning.
-- **Knifemouth Orcs**. A large tribe of orcs that reside in the [K'Tawl Swamp](ktawl-swamp) and occassionally raid caravans on the [Silvercut Roadway](silvercut-roadway).
+- **Clasp, The**. The dominant criminal syndicate in [Tal'Dorei's](taldorei) power and influece in [Stilben](stilben) is waning.
+- **Knifemouth Orcs**. A large, aggressive tribe of orcs in the [K'Tawl](ktawl-swamp) that occassionally raid caravans on the [Silvercut Roadway](silvercut-roadway).
 - **Myriad, The**. A growing criminal syndicate out of [Wildemount](wildemount) with a firm foothold in the city of [Stilben](stilben).
 - **Waterwatch**. The guard of [Stilben](stilben), the Waterwatch is heavily infiltrated by the Clasp and Myriad.
 {.square}
@@ -460,7 +462,7 @@ The major settlements in the region are:
 
 ^Area:^ **^311,775^ ^sq^ ^mi^** ^-^ ^Population:^ **^162,855^**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+Located at the extreme southern tip of [Tal'Dorei](taldorei), the Rifenmist Peninsula is the dividing line between [Exandria's](exandria) two great oceans, the [Lucidian Ocean](lucidian-ocean) and the [Ozmit Sea](ozmit-sea). Dominated by the massive [Rifenmist Jungle](rifenmist-jungle) and split down the center by the [Stormpoint Mountains](stormpoint-mountains), the peninsula is an
 
 ##### Climate
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
