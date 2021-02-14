@@ -371,6 +371,10 @@ The major settlements in the region are:
 
 
 
+(print-page)
+
+
+
 ![?](assets/img/MrFarland-Exandria_800-2_region-lucidian_coast-2550x3300.jpg){.size-full .print-only}
 
 (print-page)
@@ -462,10 +466,13 @@ The major settlements in the region are:
 
 ^Area:^ **^311,775^ ^sq^ ^mi^** ^-^ ^Population:^ **^162,855^**
 
-Located at the extreme southern tip of [Tal'Dorei](taldorei), the Rifenmist Peninsula is the dividing line between [Exandria's](exandria) two great oceans, the [Lucidian Ocean](lucidian-ocean) and the [Ozmit Sea](ozmit-sea). Dominated by the massive [Rifenmist Jungle](rifenmist-jungle) and split down the center by the [Stormpoint Mountains](stormpoint-mountains), the peninsula is an
+Located at the far southern tip of [Tal'Dorei](taldorei) is the region known as the [Rifenmist Peninsula](rifenmist-peninsula). Named for the massive [tropical rainforest](rifenmist-peninsula) that covers nearly two-thirds of the region. To the north lies the rolling grasslands of the [Mornset Countryside](mornset-countryside) and the souther boundaries of the [Verdant Expanse](verdant-expanse).
+
+Pushing southward through the [jungle](rifenmist-jungle) the ground rises steadily until it reaches the high, arid [Beynsfal Plateau](beynsdal-plateau). Home to the militaristic city-states of the hobgoblin empire, known as the Iron Authority.
 
 ##### Climate
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+The 
+
 
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
