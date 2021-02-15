@@ -506,7 +506,7 @@ To the north, the peoples of the [Rifenmist Jungle](rifenmist-jungle) are more d
 
 ##### Factions
 The dominant factions in the region are:
-- **Iron Authority**. A militaristic, goblin empire that controls the [Beynsfal Plateau](beynsfal-plateau) and the waters around the horn of [Tal'Dorei](taldorei). 
+- **Iron Authority**. A militaristic, goblin empire that controls the [Beynsfal Plateau](beynsfal-plateau) and horn of [Tal'Dorei](taldorei). 
 - **Orroyen Tribes**. A loose confederation of semi-nomadic tribes that live deep in the wilds of the [Rifenmist Jungle](rifenmist-jungle).
 {.square}
 
