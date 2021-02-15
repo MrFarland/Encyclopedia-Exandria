@@ -325,7 +325,7 @@ Like the other regions in central [Tal'Dorei](taldorei), humans are an overwhelm
 | Gnome      |  8% | Halfling   |  2% | Other      | 20% |
 {.gray}
 
-(print-page)
+(print-column)
 
 ##### Factions
 The dominant factions in the region are:
@@ -471,16 +471,29 @@ Located at the far southern tip of [Tal'Dorei](taldorei) is the region known as 
 Pushing southward through the [jungle](rifenmist-jungle) the ground rises steadily until it reaches the high, arid [Beynsfal Plateau](beynsdal-plateau). Home to the militaristic city-states of the hobgoblin empire, known as the Iron Authority.
 
 ##### Climate
-The 
+The climate of the Rifenmist Peninsula varies widely across the region. While the [Beynsfal Plateau](beynsfal-plateau) is hot and arid with very little rainfall, the [Rifenmist Jungle](rifenmist-jungle) is hot and humid with an over abundance of precipitation. To the north of the jungle, the [Mornset Countryside](mornset-countryside) is cooler than the rest of the region, with weather more comparable to the [Verdant Expanse](verdant-expanse) to the north.
 
+*Note: The majority of the Rifenmist Peninsula lies in the southern hemisphere. The summer months are Duscar, Horisal, and Misuthar.*
 
+###### Beynsfal Plateau
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
-| High | 00°  | 00°  | 00°  | 00°  |
-| Low  | 00°  | 00°  | 00°  | 00°  |
+| High | 71°  | 88°  | 78°  | 63°  |
+| Low  | 50°  | 66°  | 58°  | 43°  |
+| Rain | 0.7" | 0.1" | 0.8" | 1.4" |
+| Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
+{.gray}
+*^Based^ ^on^ ^Algiers,^ ^Algeria^*
+
+###### Rifenmist Jungle
+| |~Spring~|~Summer~|~Fall~|~Winter~|
+|:-----|:----:|:----:|:----:|:----:|
+| High | 88°  | 00°  | 00°  | 00°  |
+| Low  | 72°  | 00°  | 00°  | 00°  |
 | Rain | 0.0" | 0.0" | 0.0" | 0.0" |
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
+*^Based^ ^on^ ^Kinshasa,^ ^Democratic^ ^Republic^ ^of^ ^Congo^*
 
 *^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
 
