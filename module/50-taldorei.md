@@ -371,8 +371,6 @@ The major settlements in the region are:
 
 
 
-(print-page)
-
 
 
 ![?](assets/img/MrFarland-Exandria_800-2_region-lucidian_coast-2550x3300.jpg){.size-full .print-only}
@@ -411,6 +409,10 @@ The Lucidian Coast is a much more diverse region than the streets of [Drynna](dr
 | Human      | 68% | Elf        |  8% | Gnome      |  2% |
 | Halfling   |  9% | Half Elf   |  6% | Other      |  7% |
 {.gray}
+
+
+(print-column)
+
 
 ##### Factions
 The dominant factions in the region are:
@@ -464,65 +466,70 @@ The major settlements in the region are:
 ## Rifenmist Peninsula
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-^Area:^ **^311,775^ ^sq^ ^mi^** ^-^ ^Population:^ **^162,855^**
+^Area:^ **^311,775^ ^sq^ ^mi^** ^-^ ^Population:^ **^168,343^**
 
 Located at the far southern tip of [Tal'Dorei](taldorei) is the region known as the [Rifenmist Peninsula](rifenmist-peninsula). Named for the massive [tropical rainforest](rifenmist-peninsula) that covers nearly two-thirds of the region. To the north lies the rolling grasslands of the [Mornset Countryside](mornset-countryside) and the souther boundaries of the [Verdant Expanse](verdant-expanse).
 
 Pushing southward through the [jungle](rifenmist-jungle) the ground rises steadily until it reaches the high, arid [Beynsfal Plateau](beynsdal-plateau). Home to the militaristic city-states of the hobgoblin empire, known as the Iron Authority.
 
 ##### Climate
-The climate of the Rifenmist Peninsula varies widely across the region. While the [Beynsfal Plateau](beynsfal-plateau) is hot and arid with very little rainfall, the [Rifenmist Jungle](rifenmist-jungle) is hot and humid with an over abundance of precipitation. To the north of the jungle, the [Mornset Countryside](mornset-countryside) is cooler than the rest of the region, with weather more comparable to the [Verdant Expanse](verdant-expanse) to the north.
-
-*Note: The majority of the Rifenmist Peninsula lies in the southern hemisphere. The summer months are Duscar, Horisal, and Misuthar.*
+The Rifenmist Peninsula is a complex region with multiple climates. The [jungle](rifenmist-jungle) is a **tropical rainforest (Af)** that is hot, humid and has an over-abundance of rain year-round. In the north, the [Mornset Countryside](mornset-countryside) is a **tropical savanna (As)** with moderately cooler temperatures and significantly less rainfall in the summer months. While to the south, the [Beynsfal Plateau](beynsfal-plateau) has a **hot-summer mediterranean (Csa)** that is hotter and drier than the rest of the region.
 
 ###### Beynsfal Plateau
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
-| High | 71°  | 88°  | 78°  | 63°  |
-| Low  | 50°  | 66°  | 58°  | 43°  |
-| Rain | 0.7" | 0.1" | 0.8" | 1.4" |
-| Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
+| High | 70°  | 88°  | 76°  | 62°  |
+| Low  | 52°  | 68°  | 60°  | 46°  |
+| Rain | 2.9" | 0.2" | 2.4" | 3.2" |
 {.gray}
-*^Based^ ^on^ ^Algiers,^ ^Algeria^*
 
 ###### Rifenmist Jungle
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
-| High | 88°  | 00°  | 00°  | 00°  |
-| Low  | 72°  | 00°  | 00°  | 00°  |
-| Rain | 0.0" | 0.0" | 0.0" | 0.0" |
-| Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
+| High | 82°  | 85°  | 84°  | 83°  |
+| Low  | 69°  | 70°  | 70°  | 68°  |
+| Rain | 9.3" | 5.9" | 7.2" | 5.1" |
 {.gray}
-*^Based^ ^on^ ^Kinshasa,^ ^Democratic^ ^Republic^ ^of^ ^Congo^*
 
 *^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
 
 ##### Demographics
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+Despite being one of the more populous regions in [Tal'Dorei](taldorei), the region is sparsely populated with the vast majority of its people packed into the southern city-states of the Iron Authority. These urban centers are overwhelmingly goblinoid, with hobgoblins holding nearly exclusive control over all other races through a rigid caste-based society, indentured servitude, and even slavery.
+
+To the north, the peoples of the [Rifenmist Jungle](rifenmist-jungle) are more diverse and open. While the predominantly elven and tabaxi tribes of the [Rifenmist](rifenmist-jungle) are wary of outsiders, their wariness is based more on caution than ancestry. The same is true for the many small villages and hamlets that dot the [Mornset Countryside](mornset-countryside). 
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| -          | -   | -          | -   | -          | -   |
-| -          | -   | -          | -   | Other      | -   |
+| Hobgoblin  | 64% | Elf        |  5% | Human      |  1% |
+| Goblinoid  | 18% | Half-Elf   |  1% | Other      | 11% |
 {.gray}
 
 ##### Factions
 The dominant factions in the region are:
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
+- **Iron Authority**. A militaristic, goblin empire that controls the [Beynsfal Plateau](beynsfal-plateau) and the waters around the horn of [Tal'Dorei](taldorei). 
+- **Orroyen Tribes**. A loose confederation of semi-nomadic tribes that live deep in the wilds of the [Rifenmist Jungle](rifenmist-jungle).
 {.square}
 
 ##### Geography
 The prominent geographical features in the region are:
-- Geography
+- [Beynsfal Plateau](beynsfal-plateau)
+- [Horn of Tal'Dorei](horn-of-taldorei)
+- [Mornset Countryside](mornset-countryside)
+- [Orroyen River](orroyen-river)
+- [Rifenmist Jungle](rifenmist-jungle)
+- [Rifenmist River](rifenmist-river)
+- [Stormpoint Mountains](stormpoint-mountains)
 {.square}
 
 ##### Settlements
 The major settlements in the region are:
-- Settlement
+- [Byroden](byroden)
+- [Ezordam-Haar](ezordam-haar)
+- [Hdar-Fye](hdar-fye)
+- [Ortem-Vellak](ortem-vellak)
+- [Port U'Daa](port-udaa)
+- [Rybad-Kol](rybad-kol)
+- [Tz'Arrm](tzarrm)
 {.square}
 
 
