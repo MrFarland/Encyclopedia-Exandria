@@ -1,5 +1,6 @@
 # Specify filepatterns you want git to ignore.
 *.module
+*.pdf
 *.wonderdraft_map
 *.zip
 .DS_Store
