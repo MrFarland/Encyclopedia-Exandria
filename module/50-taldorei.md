@@ -555,49 +555,52 @@ The major settlements in the region are:
 ## Stormcrest Mountains
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-^Area:^ **^112,239^ ^sq^ ^mi^** ^-^ ^Population:^ **^777^**
+^Area:^ **^112,239^ ^sq^ ^mi^** ^-^ ^Population:^ **^3,848^**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+The Stormcrest Mountains is the smallest region on the continent of [Tal'Dorei](taldorei) and also the least populated. Located on the eastern shore of the continent, the region is tucked into a small pocket of land between the [Lucidian Coast](lucidian-coast) to the north, the [Rifenmist Peninsula](rifenmist-peninsula) to the south, and the [Verdant Expanse](verdant-expanse) to the west.
 
 ##### Climate
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+While the climate in the mountains is considerably cooler than it is down in the [Kirmont Valley](kirmont-valley), the region is most widely known for the **humid subtropical (Cfa)** climate of the expansive [Dreamseep Marshlands](dreamseep-marshlands). The region is also well-known for the violent storms that rage across the peaks and drop a significant amount of water down the southern slope.
 
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
-| High | 00°  | 00°  | 00°  | 00°  |
-| Low  | 00°  | 00°  | 00°  | 00°  |
-| Rain | 0.0" | 0.0" | 0.0" | 0.0" |
-| Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
+| High | 77°  | 86°  | 78°  | 64°  |
+| Low  | 64°  | 77°  | 66°  | 51°  |
+| Rain | 4.0" | 5.8" | 3.9" | 4.3" |
 {.gray}
 
 *^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
 
 ##### Demographics
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+While the settlement of [Bronbog](bronbog) is the only settlement reflected in the numbers below, there are considerable numbers of indigenous tribes that call the region home. Kobolds, lizardfolk, orcs, goblins, giants, and grung all call the region home and likely outnumber the people of [Bronbog](bronbog) four to one.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| -          | -   | -          | -   | -          | -   |
-| -          | -   | -          | -   | Other      | -   |
+| Human      | 64% | Halfling   |  9% | -          | -   |
+| Half-Elf   | 18% | -          | -   | Other      |  9% |
 {.gray}
 
 ##### Factions
 The dominant factions in the region are:
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
+- **Black Snow Tribe**. A tribe of Goliath, Half-Dragon revenants created from the blood of the ancient black dragon, Umbrasyl.
+- **Scions of Flame**. 
+- **Shivergut Tribe**. 
 {.square}
 
 ##### Geography
 The prominent geographical features in the region are:
-- Geography
+- [Ashen Gorge](ashen-gorge)
+- [Dreamseep Marshlands](dreamseep-marshlands)
+- [Dreamseep River](dreamseep-river)
+- [Frostweald](frostweald)
+- [Kirmont Bay](kirmont-bay)
+- [Kirmont Valley](kirmont-valley)
+- [Stormcrest Mountains](stormcrest-mountain-range)
 {.square}
 
 ##### Settlements
 The major settlements in the region are:
-- Settlement
+- [Bronbog](bronbog)
 {.square}
 
 
