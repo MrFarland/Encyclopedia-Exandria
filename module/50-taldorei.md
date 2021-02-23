@@ -41,10 +41,9 @@ The continent of Tal'Dorei is divided into the following eight regions:
 
 ^Area:^ **^137,181^ ^sq^ ^mi^** ^-^ ^Population:^ **^333,268^**
 
-The Alabaster Sierras are a wild, untamed wilderness tucked into the northeast corner of the continent of [Tal'Dorei](taldorei). While the region is named for the chalk-white [mountains](alabaster-sierra-range) that form the region's spine, it is the massive [Parchwood Timberland](parchwood-timberland) that dominates the region.
+Located in the northeast corner of the continent, the Alabaster Sierras are named for the chalk-white [mountains](alabaster-sierra-range) that run the length of the Alabaster Peninsula. While named for the [Alabaster Sierra range](alabaster-sierra-range), it is the massive [Parchwood Timberland](parchwood-timberland) that truly dominates the region.
 
-The region is bordered by the [Dividing Plains](dividing-plains) to the south and the icy [Frigid Depths](frigid-depths) to the east and north. Across the [Dawnmist Bay](dawnmist-bay) to the west are the [Cliffkeep Mountains](cliffkeep-mountains).
-*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
+While the region is bordered to the south by the [Dividing Plains](dividing-plains) and the [Lucidian Coast](lucidian-coast), the region is largely surrounded by water. The [Alabaster Bay](alabaster-bay) and [Dawnmist Bay](dawnmist-bay) frame the main peninsula, while the [Shearing Channel](shearing-channel) and [Lucidian Ocean](lucidian-ocean) cut the region off from the continent of [Wildemount](wildemount) to the east.
 
 ##### Demographics
 The demographics below reflect the people of [Whitestone](whitestone) and the surrounding villages only. While the region appears largely human, there are sizable populations of giants, goblins, kobolds, orcs, and centaurs residing throughout the [Alabaster Sierras](alabaster-sierra-range) and [Parchwood Timberland](parchwood-timberland). An accurate count for everyone simply is not possible.
@@ -121,7 +120,9 @@ The major settlements in the region are:
 
 ^Area:^ **^137,181^ ^sq^ ^mi^** ^-^ ^Population:^ **^333,268^**
 
-The Bladeshimmer Shoreline is located on the central, western coast of [Tal'Dorei](taldorei). It stretches from the southern base of the [Daggerbay Mountains](daggerbay-mountains) to the northern edge of the [Seashale Mountains](seashale-mountains) and as far east as the [Ivyheart Thicket](ivyheart-thicket) and [Ironseat Ridge](ironseat-ridge). It is a rocky coastline with rolling hills and plains further inland.
+The Bladeshimmer Shoreline is located on the central, western coast of [Tal'Dorei](taldorei) and stretches some one thousand miles from the [Seashale Mountains](seashale-mountains) in the north to the [Daggerbay Mountains](daggerbay-mountains) and [Visa Isles](visa-isle) in the south. With the [Ozmit Sea](ozmit-sea) to its west, the Bladeshimmer extends inland as far as the [Ironseat Ridge](ironseat-ridge) before giving way to the [Dividing Plains](dividing-plains) of central [Tal'Dorei](taldorei).
+
+While the Bladeshimmer Shoreline is one of the smaller regions on the continent, it is by far the most powerful both politically and economically. Home to the city of [Emon](emon), the region's success is almost entirely dependent on the success of the city and the stewardship of the Council of Tal'Dorei.
 
 ##### Climate
 The Bladeshimmer Shoreline has a **warm temperate oceanic (Cfb)** climate. It has cool, wet winters, and mild summers with a fair amount of precipitation. 
@@ -211,7 +212,9 @@ The major settlements in the region are:
 
 ^Area:^ **^461,427^ ^sq^ ^mi^** ^-^ ^Population:^ **^59,247^**
 
-Located in the northern third of [Tal'Dorei](taldorei), the [Cliffkeep Mountains](cliffkeep-mountain-range) dominate the region. The range stretches from the [Ozmit Sea](ozmit-sea) in the west to the [Dawnmist Bay](dawnmist-bay) in the east and from the [Dividing Plains](dividing-plains) in the south to the icy Frigid Depths in the north.
+The Cliffkeep Mountains is the largest region in all of [Tal'Dorei](taldorei) and occupies the northern third of the continent. Virtually all of which is dominated by various mountain ranges that make up the [mountain range](cliffkeep-mountain-range) of the same name. 
+
+The region stretches from the [Ozmit Sea](ozmit-sea) on [Tal'Dorei's](taldorei) northwestern shores to the [Dawnmist Bay](dawnmist-bay) that separates it from the [Alabaster Sierras](alabaster-sierras) to the east. To the north lies the frozen waters of the [Frigid Depths](frigid-depths) while the temperate [Bladeshimmer Shoreline](bladeshimmer-shoreline) and [Dividing Plains](dividing-plains) of central [Tal'Dorei](taldorei) to the south.
 
 ##### Climate
 The Cliffkeep Mountains is a large region with a ***humid continental climate (Dwb)*** with warm summers and cold, dry winters in the south, and a ***subarctic climate (Dfc)*** with long, cold winters and brief, warm summers in the north. The following numbers are from the more populous southern half.
@@ -303,6 +306,8 @@ The major settlements in the region are:
 
 Located in the heart of [Tal'Dorei](taldorei), the Dividing Plains is a wide open grassland that stretches from the [Bladeshimmer Shoreline](bladeshimmer-shoreline) in the west to the [Lucidian Coast](lucidian-coast) in the east. The rolling pastoral hills and plains are a sharp contrast to the towering peaks of the [Cliffkeep Mountains](cliffkeep-mountains) to the north and the lush forest of the [Verdant Expanse](verdant-expanse) to the south.
 
+In addition to being the bread basket of the continent, the Dividing Plains serves as the economic backbone of the three dominant civilizations on [Tal'Dorei](taldorei). The dwarven stronghold of [Kraghammer](kraghammer), elven kingdom of [Syngorn](syngorn) and the human Republic of Tal'Dorei depend on the region's network of roads for trade.
+
 ##### Climate
 Located in the central, temperate region of [Tal'Dorei](taldorei), the Dividing Plains has a ***humid continental climate (Dfa)*** with hot summers and cold winters. Precipitation is consistent year-round and snowfall substantial in the winter months.
  
@@ -386,7 +391,9 @@ The major settlements in the region are:
 
 ^Area:^ **^174,594^ ^sq^ ^mi^** ^-^ ^Population:^ **^14,831^**
 
-Located on the east coast of [Tal'Dorei](tal'dorei), the Lucidian Coast stretches from the base of the [Parchwood Timberland](parchwood-timberland) in the north, down the the coast past the port city of [Stilben](stilben) and ends where the [Stormcrest Mountains](stormcrest-mountains) meet the [Owlset Bay](owlset-bay).
+Located on the east coast of [Tal'Dorei](tal'dorei), the Lucidian Coast stretches from the base of the [Parchwood Timberland](parchwood-timberland) in the north to the [Owlset Bay](owlset-bay) at the eastern end of the [Stormcrest Mountains](stormcrest-mountains) in the south. Inland, the region extends as far as the western slope of the [Summit Peaks](summit-peaks) where it meets the central [Dividing Plains](dividing-plains).
+
+Home to the port cities of [Stilben](stilben) and [Drynna](drynna), the [Lucidian Coast](lucidian-coast) is an important source of trade with the eastern continent of [Wildemount](wildemount) and the lucrative ports of its [Menagerie Coast](menagerie-coast).
 
 ##### Climate
 The eastern coast of [Tal'Dorei](tal'dorei) has a **Humid subtropical climate (Cfa)** characterized by hot, humid summers and cold to mild winters. The region receives a great deal of rain year round.
@@ -468,9 +475,9 @@ The major settlements in the region are:
 
 ^Area:^ **^311,775^ ^sq^ ^mi^** ^-^ ^Population:^ **^168,343^**
 
-Located at the far southern tip of [Tal'Dorei](taldorei) is the region known as the [Rifenmist Peninsula](rifenmist-peninsula). Named for the massive [tropical rainforest](rifenmist-peninsula) that covers nearly two-thirds of the region. To the north lies the rolling grasslands of the [Mornset Countryside](mornset-countryside) and the souther boundaries of the [Verdant Expanse](verdant-expanse).
+Named for the massive [tropical rainforest](rifenmist-peninsula) that covers nearly two-thirds of the region, the Rifenmist Peninsula holds much more than its namesake. To the north of the jungle lies the rolling plains of the [Mornset Countryside](mornset-countryside), a wide-open buffer between the temperate [Verdant Expanse](verdant-expanse) and the tropical [Rifenmist Jungle](rifenmist-jungle).
 
-Pushing southward through the [jungle](rifenmist-jungle) the ground rises steadily until it reaches the high, arid [Beynsfal Plateau](beynsdal-plateau). Home to the militaristic city-states of the hobgoblin empire, known as the Iron Authority.
+To the south of the [jungle](rifenmist-jungle), the land rises steadily until it reaches the dry and rocky [Beynsfal Plateau](beynsfal-plateau). A harsh, unforgiving land, the plateau is home to equally harsh and militaristic city-states of the hobgoblin empire, the Iron Authority.
 
 ##### Climate
 The Rifenmist Peninsula is a complex region with multiple climates. The [jungle](rifenmist-jungle) is a **tropical rainforest (Af)** that is hot, humid and has an over-abundance of rain year-round. In the north, the [Mornset Countryside](mornset-countryside) is a **tropical savanna (As)** with moderately cooler temperatures and significantly less rainfall in the summer months. While to the south, the [Beynsfal Plateau](beynsfal-plateau) has a **hot-summer mediterranean (Csa)** that is hotter and drier than the rest of the region.
@@ -559,6 +566,8 @@ The major settlements in the region are:
 
 The Stormcrest Mountains is the smallest region on the continent of [Tal'Dorei](taldorei) and also the least populated. Located on the eastern shore of the continent, the region is tucked into a small pocket of land between the [Lucidian Coast](lucidian-coast) to the north, the [Rifenmist Peninsula](rifenmist-peninsula) to the south, and the [Verdant Expanse](verdant-expanse) to the west.
 
+Named for the storm-plagued [mountains](stormcrest-mountains) of the same name, the region is arguably better known for the massive [Dreamseep Marshlands](dreamseep-marshlands) that collect the runoff from the [Stormcrests](stormcrest-mountains) and slowly drains southward into the [Kirmont Bay](kirmont-bay).
+
 ##### Climate
 While the climate in the mountains is considerably cooler than it is down in the [Kirmont Valley](kirmont-valley), the region is most widely known for the **humid subtropical (Cfa)** climate of the expansive [Dreamseep Marshlands](dreamseep-marshlands). The region is also well-known for the violent storms that rage across the peaks and drop a significant amount of water down the southern slope.
 
@@ -622,7 +631,9 @@ The major settlements in the region are:
 
 ^Area:^ **^162,123^ ^sq^ ^mi^** ^-^ ^Population:^ **^40,410^**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+Home to the elven kingdom of [Syngorn](syngorn), the Verdant Expanse is a large, temperate forest that stretches from the [Stormcrest](stormcrest-mountains) and [Stormpoint](stormpoint-mountains) mountains in the east to the [Ozmit Sea](ozmit-sea) in the east. 
+
+While the elves of [Syngorn] have enjoyed centuries of peace with the human Republic of Tal'Dorei, the Verdant Guard watch their northern borders with the [Bladeshimmer Shoreline](bladeshimmer-shoreline) and [Dividing Plains](dividing-plains) as closely as their southern border with the lawless [Rifenmist Peninsula](rifenmist-peninsula).
 
 ##### Climate
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
