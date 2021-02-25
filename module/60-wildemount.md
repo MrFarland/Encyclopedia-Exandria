@@ -50,8 +50,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
 
-*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
-
 ##### Demographics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -119,8 +117,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 | Rain | 0.0" | 0.0" | 0.0" | 0.0" |
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
-
-*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
 
 ##### Demographics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
@@ -190,8 +186,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
 
-*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
-
 ##### Demographics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -257,8 +251,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
 
-*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
-
 ##### Demographics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -320,8 +312,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 | Rain | 0.0" | 0.0" | 0.0" | 0.0" |
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
-
-*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
 
 ##### Demographics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
@@ -386,8 +376,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
 
-*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
-
 ##### Demographics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -449,8 +437,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 | Rain | 0.0" | 0.0" | 0.0" | 0.0" |
 | Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
 {.gray}
-
-*^All^ ^numbers^ ^are^ ^monthly^ ^averages^ ^for^ ^the^ ^season.^*
 
 ##### Demographics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
