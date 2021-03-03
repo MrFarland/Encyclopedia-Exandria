@@ -46,12 +46,12 @@ Located in the northeast corner of the continent, the Alabaster Sierras are name
 While the region is bordered to the south by the [Dividing Plains](dividing-plains) and the [Lucidian Coast](lucidian-coast), the region is largely surrounded by water. The [Alabaster Bay](alabaster-bay) and [Dawnmist Bay](dawnmist-bay) frame the main peninsula, while the [Shearing Channel](shearing-channel) and [Lucidian Ocean](lucidian-ocean) cut the region off from the continent of [Wildemount](wildemount) to the east.
 
 ##### Demographics
-While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, sizable numbers of giants, goblins, orcs, and centaurs call the more remote corners of the region home.
+While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, the remote corners of the [Parchwood](parchwood-timberland) are home to a number of gnoll, orc, and centaur tribes while the [Sierras](alabaster-sierra-range) are home to a number of goblin, kobold, and stone giant clans.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Human      | 67% | Dwarf      | 6%  | -          |     |
-| Halfling   |  7% | -          | -   | Other      | 19% |
+| Human      | 68% | Dwarf      | 6%  | Kobold     |  3% |
+| Halfling   |  6% | Goblin     | 4%  | Other      |  9% |
 {.gray}
 
 ##### Climate
@@ -89,14 +89,19 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-For nearly two hundred years, **Pelor** and **Erathis** have been the dominant religions in the city of [Whitestone](whitestone) and surrounding area. After the exodus from [Emon](emon) and the sudden influx of refugees, followers of the other Prime Deities have become more commone. Chief among these is the **Raven Queen** who has a small shrine in the Greyfields of [Whitestone](whitestone). 
+The dominant religions in the region are:
+- **Pelor**. The Dawn Father is deeply ingrained in the region's culture and has a strong following.
+- **Erathis**. While not as dominant as Pelor, the Law Bearer has a strong following in [Whitestone](whitestone).
+- **Melora**. The Wild Mother is popular outside the city and with the centaurs of the [Parchwood](parchwood-timberland).
 
-In the southern reaches of the [Parchwood](parchwood-timberland), followers of **Gruumsh** and **Yeenoghu** are common among the more aggressive orc and gnoll tribes of the eastern [Dividing Plains](dividing-plains), while some tribes have turned to worshipping the **Melora the Wild Mother**.
-
+Other prominent religions in the region are:
+- **Raven Queen**. Her following has grown in recent years, but she is rarely someone's primary deity.
+- **Gruumsh**. While some orc tribes have embraced the Wild Mother, most remain devoted to the Ruiner.
+- **Yeenoghu**. Most of the [Parchwood's](parchwood-timberland) gnolls serve the Demon Lord of Gnolls.
 
 ##### Settlements
 The major settlements in the region are:
-- [Whitestone](whitestone) (4,230)
+- [Whitestone](whitestone)
 {.gray}
 
 
