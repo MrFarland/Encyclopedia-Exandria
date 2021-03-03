@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Blightshore
 [^Exandria^](geography) ^>^ [^Wildemount^](wildemount)
 
-^Area:^ **^000,000^ ^sq^ ^mi^** ^-^ ^Population:^ **^00,000^**
+^Area:^ **^74,822^ ^sq^ ^mi^** ^-^ ^Population:^ **^10,930^**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -103,7 +103,7 @@ The major settlements in the region are:
 ## Eiselcross
 [^Exandria^](geography) ^>^ [^Wildemount^](wildemount)
 
-^Area:^ **^000,000^ ^sq^ ^mi^** ^-^ ^Population:^ **^00,000^**
+^Area:^ **^1,335^ ^sq^ ^mi^** ^-^ ^Population:^ **^62,352^**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -171,7 +171,7 @@ This page intentionally left blank ... for now.
 ## Greying Wildlands
 [^Exandria^](geography) ^>^ [^Wildemount^](wildemount)
 
-^Area:^ **^000,000^ ^sq^ ^mi^** ^-^ ^Population:^ **^00,000^**
+^Area:^ **^162,115^ ^sq^ ^mi^** ^-^ ^Population:^ **^57,880^**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -236,7 +236,7 @@ This page intentionally left blank ... for now.
 ## Marrow Valley
 [^Exandria^](geography) ^>^ [^Wildemount^](wildemount)
 
-^Area:^ **^000,000^ ^sq^ ^mi^** ^-^ ^Population:^ **^00,000^**
+^Area:^ **^186,420^ ^sq^ ^mi^** ^-^ ^Population:^ **^318,984^**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -298,7 +298,7 @@ This page intentionally left blank ... for now.
 ## Menagerie Coast (North)
 [^Exandria^](geography) ^>^ [^Wildemount^](wildemount)
 
-^Area:^ **^000,000^ ^sq^ ^mi^** ^-^ ^Population:^ **^00,000^**
+^Area:^ **^163,674^ ^sq^ ^mi^** ^-^ ^Population:^ **^260,404^**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -361,7 +361,7 @@ This page intentionally left blank ... for now.
 ## Menagerie Coast (South)
 [^Exandria^](geography) ^>^ [^Wildemount^](wildemount)
 
-^Area:^ **^000,000^ ^sq^ ^mi^** ^-^ ^Population:^ **^00,000^**
+^Area:^ **^163,674^ ^sq^ ^mi^** ^-^ ^Population:^ **^260,404^**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -423,7 +423,7 @@ This page intentionally left blank ... for now.
 ## Xhorhas
 [^Exandria^](geography) ^>^ [^Wildemount^](wildemount)
 
-^Area:^ **^000,000^ ^sq^ ^mi^** ^-^ ^Population:^ **^00,000^**
+^Area:^ **^201,865^ ^sq^ ^mi^** ^-^ ^Population:^ **^454,452^**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
@@ -485,7 +485,7 @@ This page intentionally left blank ... for now.
 ## Zemni Fields
 [^Exandria^](geography) ^>^ [^Wildemount^](wildemount)
 
-^Area:^ **^000,000^ ^sq^ ^mi^** ^-^ ^Population:^ **^00,000^**
+^Area:^ **^221,350^ ^sq^ ^mi^** ^-^ ^Population:^ **^397,216^**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 

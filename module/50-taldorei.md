@@ -39,7 +39,7 @@ The continent of Tal'Dorei is divided into the following eight regions:
 ## Alabaster Sierras
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-^Area:^ **^137,181^ ^sq^ ^mi^** ^-^ ^Population:^ **^333,268^**
+^Area:^ **^63,911^ ^sq^ ^mi^** ^-^ ^Population:^ **^5,288^**
 
 Located in the northeast corner of the continent, the Alabaster Sierras are named for the chalk-white [mountains](alabaster-sierra-range) that run the length of the Alabaster Peninsula. While named for the [Alabaster Sierra range](alabaster-sierra-range), it is the massive [Parchwood Timberland](parchwood-timberland) that truly dominates the region.
 
@@ -123,7 +123,7 @@ The major settlements in the region are:
 ## Bladeshimmer Shoreline
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-^Area:^ **^137,181^ ^sq^ ^mi^** ^-^ ^Population:^ **^333,268^**
+^Area:^ **^98,204^ ^sq^ ^mi^** ^-^ ^Population:^ **^433,593^**
 
 The Bladeshimmer Shoreline is located on the central, western coast of [Tal'Dorei](taldorei) and stretches some one thousand miles from the [Seashale Mountains](seashale-mountains) in the north to the [Daggerbay Mountains](daggerbay-mountains) and [Visa Isles](visa-isle) in the south. With the [Ozmit Sea](ozmit-sea) to its west, the Bladeshimmer extends inland as far as the [Ironseat Ridge](ironseat-ridge) before giving way to the [Dividing Plains](dividing-plains) of central [Tal'Dorei](taldorei).
 
@@ -213,7 +213,7 @@ The major settlements in the region are:
 ## Cliffkeep Mountains
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-^Area:^ **^461,427^ ^sq^ ^mi^** ^-^ ^Population:^ **^59,247^**
+^Area:^ **^255,643^ ^sq^ ^mi^** ^-^ ^Population:^ **^152,359^**
 
 The Cliffkeep Mountains is the largest region in all of [Tal'Dorei](taldorei) and occupies the northern third of the continent. Virtually all of which is dominated by various mountain ranges that make up the [mountain range](cliffkeep-mountain-range) of the same name. 
 
@@ -311,7 +311,7 @@ The major settlements in the region are:
 ## Dividing Plains
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-^Area:^ **^261,891^ ^sq^ ^mi^** ^-^ ^Population:^ **^44,483^**
+^Area:^ **^158,218^ ^sq^ ^mi^** ^-^ ^Population:^ **^114,201^**
 
 Located in the heart of [Tal'Dorei](taldorei), the Dividing Plains is a wide open grassland that stretches from the [Bladeshimmer Shoreline](bladeshimmer-shoreline) in the west to the [Lucidian Coast](lucidian-coast) in the east. The rolling pastoral hills and plains are a sharp contrast to the towering peaks of the [Cliffkeep Mountains](cliffkeep-mountains) to the north and the lush forest of the [Verdant Expanse](verdant-expanse) to the south.
 
@@ -394,7 +394,7 @@ The major settlements in the region are:
 ## Lucidian Coast
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-^Area:^ **^174,594^ ^sq^ ^mi^** ^-^ ^Population:^ **^14,831^**
+^Area:^ **^85,734^ ^sq^ ^mi^** ^-^ ^Population:^ **^16,383^**
 
 Located on the east coast of [Tal'Dorei](tal'dorei), the Lucidian Coast stretches from the base of the [Parchwood Timberland](parchwood-timberland) in the north to the [Owlset Bay](owlset-bay) at the eastern end of the [Stormcrest Mountains](stormcrest-mountains) in the south. Inland, the region extends as far as the western slope of the [Summit Peaks](summit-peaks) where it meets the central [Dividing Plains](dividing-plains).
 
@@ -476,7 +476,7 @@ The major settlements in the region are:
 ## Rifenmist Peninsula
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-^Area:^ **^311,775^ ^sq^ ^mi^** ^-^ ^Population:^ **^168,343^**
+^Area:^ **^136,395^ ^sq^ ^mi^** ^-^ ^Population:^ **^235,290^**
 
 Named for the massive [tropical rainforest](rifenmist-peninsula) that covers nearly two-thirds of the region, the Rifenmist Peninsula holds much more than its namesake. To the north of the jungle lies the rolling plains of the [Mornset Countryside](mornset-countryside), a wide-open buffer between the temperate [Verdant Expanse](verdant-expanse) and the tropical [Rifenmist Jungle](rifenmist-jungle).
 
@@ -563,7 +563,7 @@ The major settlements in the region are:
 ## Stormcrest Mountains
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-^Area:^ **^112,239^ ^sq^ ^mi^** ^-^ ^Population:^ **^3,848^**
+^Area:^ **^70,146^ ^sq^ ^mi^** ^-^ ^Population:^ **^8,890^**
 
 The Stormcrest Mountains is the smallest region on the continent of [Tal'Dorei](taldorei) and also the least populated. Located on the eastern shore of the continent, the region is tucked into a small pocket of land between the [Lucidian Coast](lucidian-coast) to the north, the [Rifenmist Peninsula](rifenmist-peninsula) to the south, and the [Verdant Expanse](verdant-expanse) to the west.
 
@@ -628,7 +628,7 @@ The major settlements in the region are:
 ## Verdant Expanse
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
 
-^Area:^ **^162,123^ ^sq^ ^mi^** ^-^ ^Population:^ **^40,410^**
+^Area:^ **^101,322^ ^sq^ ^mi^** ^-^ ^Population:^ **^57,649^**
 
 Home to the elven kingdom of [Syngorn](syngorn), the Verdant Expanse is a large, temperate forest that stretches from the [Stormcrest](stormcrest-mountains) and [Stormpoint](stormpoint-mountains) mountains in the east and follows the [Feshun River](feshun-river) to the [Ozmit Sea](ozmit-sea) in the west. 
 
