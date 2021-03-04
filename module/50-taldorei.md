@@ -89,6 +89,12 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
+**Pelor** and **Erathis** are the dominant religions in the region, with the Dawn Father's faith deeply ingrained in the culture of [Whitestone](whitestone). Outside the city, 
+
+Within the city of [Whitestone](whitestone) and sur
+
+**Pelor the Dawn Father** is deeply ingrained in the culture of [Whitestone](whitestone) and is his faith is the dominant religion in the region. While her followers are not as many, **Erathis** and 
+
 The dominant religions in the region are:
 - **Pelor**. The Dawn Father is deeply ingrained in the region's culture and has a strong following.
 - **Erathis**. While not as dominant as Pelor, the Law Bearer has a strong following in [Whitestone](whitestone).
@@ -141,12 +147,12 @@ The Bladeshimmer Shoreline has a **warm temperate oceanic (Cfb)** climate. It ha
 {.gray}
 
 ##### Demographics
-Predominantly human for the first few centuries following the Calamity, the Bladeshimmer Shoreline and its crown-jewel, the city of [Emon](emon) have become increasingly more diverse. The economic growth of the region has drawn people from all over [Exandria](exandria) to the [City of Fellowship](emon) on the shores of the [Bladeshimmer Bay](bladeshimmer-bay). 
+First settled by humans following the Calamity, the Bladeshimmer Shoreline is still predominantly human, but has grown more diverse over the last few centuries. Immigration, fueled by political and economic stability has drawn people from all over [Exandria](exandria) to the region and its crown-jewel,  [City of Fellowship, Emon](emon).
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Human      | 68% | Elf        |  6% | -          | -   |
-| Dwarf      |  7% | Halfling   |  1% | Other      | 18% |
+| Human      | 60% | Halfling   |  6% | Half=Elf   |  5% |
+| Dwarf      |  6% | Elf        |  5% | Other      | 18% |
 {.gray}
 
 ##### Factions
@@ -181,14 +187,14 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-People of all faiths can be found throughout the region, but **Erathis** and **Bahamut** are the most widely worshipped. Within the walls of [Emon](emon) temples and shrines can be found for all of the Prime Deities and even some of the Betrayer Gods. In the countryside, followers of **Pelor**, **Avandra**, and **Melora** are quite common.
+The worship of **Erathis** and **Bahamut** is greatest in the city of [Emon](emon), while **Pelor**, **Melora**, and **Avandra** are more common in the rural farming communities throughout the region. The **Raven Queen** has a special place in the region with many adherents of other faiths paying their respects to the Matron of Ravens on her holy day and during Winter's Crest.
 
 ##### Settlemetnts
 The major settlements in the region are:
-- [Emerald Outpost](emerald-outpost) (1,456)
-- [Emon](emon) (287,550)
-- [Ruins of O'Noa](ruins-of-onoa) (336)
-- [Shalesteps](shalesteps) (456)
+- [Emerald Outpost](emerald-outpost)
+- [Emon](emon)
+- [Ruins of O'Noa](ruins-of-onoa)
+- [Shalesteps](shalesteps)
 
 
 
@@ -245,8 +251,8 @@ An incredibly large region, the Cliffkeep Mountains are home to many different r
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Dwarves    | 65% | Humans     |  9% | -          | -   |
-| Elves      | 10% | Gnomes     |  8% | Other      |  8% |
+| Dwarf      | 43% | Gnome      |  9% | Elf        |  5% |
+| Human      | 10% | Goblin     |  8% | Other      | 25% |
 {.gray}
 
 ##### Factions
@@ -282,14 +288,17 @@ The prominent geographical features in the region are:
 - [Wildwood Byway](wildwood-byway)
 {.square}
 
+#### Religion
+
+
 ##### Settlements
 The major settlements in the region are:
-- [Emberhold](emberhold) (Unknown)
-- [Fort Daxio](fort-daxio) ()
-- [Jorenn Village](jorenn-village) ()
-- [Kraghammer](kraghammer) ()
-- [Terrah](terrah) ()
-- [Yug'Voril](yugvoril) (Unknown)
+- [Emberhold](emberhold)
+- [Fort Daxio](fort-daxio)
+- [Jorenn Village](jorenn-village)
+- [Kraghammer](kraghammer)
+- [Terrah](terrah)
+- [Yug'Voril](yugvoril)
 {.square}
 
 
