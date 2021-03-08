@@ -45,15 +45,6 @@ Located in the northeast corner of the continent, the Alabaster Sierras are name
 
 While the region is bordered to the south by the [Dividing Plains](dividing-plains) and the [Lucidian Coast](lucidian-coast), the region is largely surrounded by water. The [Alabaster Bay](alabaster-bay) and [Dawnmist Bay](dawnmist-bay) frame the main peninsula, while the [Shearing Channel](shearing-channel) and [Lucidian Ocean](lucidian-ocean) cut the region off from the continent of [Wildemount](wildemount) to the east.
 
-##### Demographics
-While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, the remote corners of the [Parchwood](parchwood-timberland) are home to a number of gnoll, orc, and centaur tribes while the [Sierras](alabaster-sierra-range) are home to a number of goblin, kobold, and stone giant clans.
-
-|||||||
-|:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Human      | 68% | Dwarf      | 6%  | Kobold     |  3% |
-| Halfling   |  6% | Goblin     | 4%  | Other      |  9% |
-{.gray}
-
 ##### Climate
 The region has a **humid continental climate (Dfb)**. Winters are long and cold with snowfall common from late fall to early spring. Summers are warm, but short with a fair amount of rain.
 
@@ -63,6 +54,15 @@ The region has a **humid continental climate (Dfb)**. Winters are long and cold 
 | Low  | 34°  | 56°  | 39°  | 16°  |
 | Rain | 4.0" | 3.5" | 4.5" | 3.5" |
 | Snow | 5.1" | 0.0" | 0.6" |14.8" | 
+{.gray}
+
+##### Demographics
+While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, the remote corners of the [Parchwood](parchwood-timberland) are home to a number of gnoll, orc, and centaur tribes while the [Sierras](alabaster-sierra-range) are home to many goblin, kobold, and stone giant clans.
+
+|||||||
+|:-----------|:---:|:-----------|:---:|:-----------|:---:|
+| Human      | 68% | Dwarf      | 6%  | Kobold     |  3% |
+| Halfling   |  6% | Goblin     | 4%  | Other      |  9% |
 {.gray}
 
 (print-column)
@@ -89,20 +89,12 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-The dominant religions in the region are:
-- **Pelor**. The Dawn Father is deeply ingrained in the region's culture and has a strong following.
-- **Erathis**. While not as dominant as Pelor, the Law Bearer has a strong following in [Whitestone](whitestone).
-- **Melora**. The Wild Mother is popular outside the city and with the centaurs of the [Parchwood](parchwood-timberland).
-
-Other prominent religions in the region are:
-- **Raven Queen**. Her following has grown in recent years, but she is rarely someone's primary deity.
-- **Gruumsh**. While some orc tribes have embraced the Wild Mother, most remain devoted to the Ruiner.
-- **Yeenoghu**. Most of the [Parchwood's](parchwood-timberland) gnolls serve the Demon Lord of Gnolls.
+**Pelor**, is deeply ingrained in the culture of [Whitestone](whitestone) and his is the dominant faith in the city and surrounding area. While less popular, **Erathis** also has a strong following in the city and support for the **Raven Queen** has been growing. Outside the city, **Melora** is most common and is even drawing some orc and gnoll tribes away from **Gruumsh** and **Yeenoghu**.
 
 ##### Settlements
 The major settlements in the region are:
 - [Whitestone](whitestone)
-{.gray}
+{.square}
 
 
 
@@ -149,13 +141,14 @@ Predominantly human for the first few centuries following the Calamity, the Blad
 | Dwarf      |  7% | Halfling   |  1% | Other      | 18% |
 {.gray}
 
+(print-column)
+
 ##### Factions
 The dominant factions in the region are:
 - **Arms of Emon**. The city watch and defense force for the city of [Emon](emon) and surrounding countryside.
 - **Clasp, The**. A powerful crime syndicate that has extensive influence throughout the region.
 - **Council of Tal'Dorei**. The ruling council for [Emon](emon) and the greater Republic of Tal'Dorei.
 - **House of Tal'Dorei**. The former ruling family of Tal'Dorei and still a powerful noble family.
-- **Verdant Guard**. The elvish guard and military of the [Emerald Outpost](emerald-outpost).
 {.square}
 
 ##### Geography
@@ -181,15 +174,15 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-People of all faiths can be found throughout the region, but **Erathis** and **Bahamut** are the most widely worshipped. Within the walls of [Emon](emon) temples and shrines can be found for all of the Prime Deities and even some of the Betrayer Gods. In the countryside, followers of **Pelor**, **Avandra**, and **Melora** are quite common.
+Within the walls of [Emon](emon), **Erathis** and **Bahamut** have the largest followings, but **Pelor** and **Avandra** are more common among the rural populace in the region. While these four are the largest, all of the Prime Deities have sizable congregations in the region.
 
 ##### Settlemetnts
 The major settlements in the region are:
-- [Emerald Outpost](emerald-outpost) (1,456)
-- [Emon](emon) (287,550)
-- [Ruins of O'Noa](ruins-of-onoa) (336)
-- [Shalesteps](shalesteps) (456)
-
+- [Emerald Outpost](emerald-outpost)
+- [Emon](emon)
+- [Ruins of O'Noa](ruins-of-onoa)
+- [Shalesteps](shalesteps)
+{.square}
 
 
 (print-page)
@@ -222,16 +215,6 @@ The region stretches from the [Ozmit Sea](ozmit-sea) on [Tal'Dorei's](taldorei) 
 ##### Climate
 The Cliffkeep Mountains is a large region with a ***humid continental climate (Dwb)*** with warm summers and cold, dry winters in the south, and a ***subarctic climate (Dfc)*** with long, cold winters and brief, warm summers in the north. The following numbers are from the more populous southern half.
 
-###### Northern Cliffkeeps
-| |~Spring~|~Summer~|~Fall~|~Winter~|
-|:-----|:----:|:----:|:----:|:----:|
-| High | 43°  | 70°  | 33°  |  5°  |
-| Low  | 19°  | 49°  | 15°  | -14° |
-| Rain | 0.4" | 1.8" | 0.9" | 0.5" |
-| Snow | 3.0" | 0.0" | 8.7" |  10" | 
-{.gray}
-
-###### Southern Cliffkeeps
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
 | High | 56°  | 79°  | 58°  | 35°  |
@@ -240,13 +223,15 @@ The Cliffkeep Mountains is a large region with a ***humid continental climate (D
 | Snow | 4.3" | 0.0" | 3.6" | 8.7" | 
 {.gray}
 
+*^Climate^ ^for^ ^the^ ^southern^ ^Cliffkeeps^ ^near^ ^Kraghammer^.*
+
 ##### Demographics
-An incredibly large region, the Cliffkeep Mountains are home to many different races and cultures. Dwarves and gnomes are most common near the dwarven stronghold of [Kraghammer](kraghammer), elves in the northern city of [Lyrengorn](lyrengorn), and humans at [Fort Daxio](fort-daxio) and [Jorenn Village](jorenn-village). Largely uncounted are millions of goliaths, goblinoids, orcs, kobolds, and giants that live in scattered settlements throughout the region.
+An large region, the Cliffkeeps are home to many different races and cultures. While dwarves, gnomes, and humans are the most common in the major population centers, large numbers of goblins, orcs, kobolds, and giants can be found in nearly throughout the region.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Dwarves    | 65% | Humans     |  9% | -          | -   |
-| Elves      | 10% | Gnomes     |  8% | Other      |  8% |
+| Dwarf      | 40% | Human      |  9% | Kobold     |  5% |
+| Goblin     |  9% | Gnomes     |  6% | Other      | 23% |
 {.gray}
 
 ##### Factions
@@ -255,9 +240,6 @@ The dominant factions in the region are:
 - **Ashari (Terrah)**. A druidic tribe that guard the elemental rifts to the elemental plane of Earth.
 - **Carvers**. The police and military protectors of the dwarven stronghold of [Kraghammer](kraghammer).
 - **Houses of Kraghammer**. The five noble houses of [Kraghammer](kraghammer) that rule the dwarven city.
-- **Icewalkers**. A nomadic tribe of orcs that live in the nearly inhospitable [Neverfields](neverfields).
-- **Shadewatch**. The informal and largely corrupt guard for the town of [Jorenn Village](jorenn-village).
-- **Skyswimmers**. The wyvern-riders of [Lyrengorn](lyrengorn) are performers and quasi-defenders of the [Elvenpeaks](elvenpeaks).
 {.square}
 
 ##### Geography
@@ -282,14 +264,17 @@ The prominent geographical features in the region are:
 - [Wildwood Byway](wildwood-byway)
 {.square}
 
+##### Religion
+The dominant religion in the region depends heavily on where you are. **Moradin** is the dominant religion in the dwarven stronghold of [Kraghammer](kraghammer), while **Sehanine** is more prevalent in [Lyrengorn](lyrengorn). Outside of these population centers, no one religion has greater influence than any other.
+
 ##### Settlements
 The major settlements in the region are:
-- [Emberhold](emberhold) (Unknown)
-- [Fort Daxio](fort-daxio) ()
-- [Jorenn Village](jorenn-village) ()
-- [Kraghammer](kraghammer) ()
-- [Terrah](terrah) ()
-- [Yug'Voril](yugvoril) (Unknown)
+- [Emberhold](emberhold)
+- [Fort Daxio](fort-daxio)
+- [Jorenn Village](jorenn-village)
+- [Kraghammer](kraghammer)
+- [Terrah](terrah)
+- [Yug'Voril](yugvoril)
 {.square}
 
 
@@ -329,19 +314,19 @@ Located in the central, temperate region of [Tal'Dorei](taldorei), the Dividing 
 {.gray}
 
 ##### Demographics
-Like the other regions in central [Tal'Dorei](taldorei), humans are an overwhelming majority in the major settlements in the region. Still, the Dividing Plains is surprisingly diverse out in the countryside. Small farmsteads and hamlets are scattered throughout the region and many of these small settlements are non-human. Likewise, tribes of centaurs, gnolls, goliaths, and orcs wander the plains, never staying in one place too long.
+While the major settlements of the Dividing Plains are overwhelmingly human, the countryside is more diverse with sizable dwarf, elf, and halflings populations among the many farming communities that dot the landscape. The plains are also home to nomadic tribes of orcs, gnolls, goliaths, and centaurs. 
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Human      | 66% | Dwarf      |  3% | Gnoll      |  1% |
-| Gnome      |  8% | Halfling   |  2% | Other      | 20% |
+| Human      | 49% | Dwarf      |  8% | Gnome      |  4% |
+| Halfling   | 14% | Elf        |  4% | Other      | 21% |
 {.gray}
 
 ##### Factions
 The dominant factions in the region are:
 - **Clasp, The**. A powerful crime syndicate that has extensive influence throughout the region.
 - **Dustpaw Gnolls**. A large tribe of gnolls that live among and protect the town of [Turst Fields](turst-fields).
-- **Myriad, The**. A rival criminal syndicate to the Clasp from [Wildemount](wildemount).
+- **Myriad, The**. A rival to the Clasp, the Myriad has made significant inroads in the region.
 - **Ravagers**. An tribe of orcs that are strict adherents of Gruumsh and terrorize the region.
 - **Rivermaw Tribe**. A large, nomadic tribe of various peoples that reside in the [Torian Forest](torian-forest).
 - **Shields of the Plains**. The military and police for the Republic's settlements in the plains.
@@ -367,6 +352,9 @@ The prominent geographical features in the region are:
 - [Tundrun River](tundrun-river)
 - [Wildwood Byway](wildwood-byway)
 {.square}
+
+##### Religion
+While the Dividing Plains are one of the most theologically diverse regions in [Tal'Dorei](taldorei), faith is a private affair and religion is not a topic discussed lightly. All of the Prime Deities are equally represented in the region, but an accurate accounting is difficult, if not impossible. 
 
 ##### Settlements
 The major settlements in the region are:

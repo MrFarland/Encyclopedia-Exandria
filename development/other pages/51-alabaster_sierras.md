@@ -1,86 +1,7 @@
-![Alabaster Sierras](assets/img/MrFarland-Exandria_800-2_region-alabaster_sierras-3300x2550-rotated.jpg){.size-full .print-only}
-
-(print-page)
-
-![Alabaster Sierras](assets/img/MrFarland-Exandria_800-2_region-alabaster_sierras-3300x2550.jpg){.size-cover .screen-only}
-## Alabaster Sierras
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
-
-^Area:^ **^137,181^ ^sq^ ^mi^** ^-^ ^Population:^ **^4,865^**
-
-The Alabaster Sierras are a wild, untamed wilderness tucked into the northeast corner of the continent of [Tal'Dorei](taldorei). While the region is named for the chalk-white [mountains](alabaster-sierra-range) that form the region's spine, it is the massive [Parchwood Timberland](parchwood-timberland) that dominates the region.
-
-The region is bordered by the [Dividing Plains](dividing-plains) to the south and the icy [Frigid Depths](frigid-depths) to the east and north. Across the [Dawnmist Bay](dawnmist-bay) to the west are the [Cliffkeep Mountains](cliffkeep-mountains).
-
-The city-state of [Whitestone](whitestone) at the northern tip of the Alabaster Peninsula is the only permanent settlement in the region and the dominant power politically, economically, and culturally.
-
-The prominent features of the region are the:
-- [Alabaster Bay](alabaster-bay)
-- [Alabaster Sierras](alabaster-sierra-range)
-- [Alabaster Trail](alabaster-trail)
-- [Dawnmist Bay](dawnmist-bay)
-- [Parchwood Bay](parchwood-bay)
-- [Parchwood Timberland](parchwood-timberland)
-- [Salted Bluffs](salted-bluffs)
-- [Shearing Channel](shearing-channel)
-- [Upper Mooren River Run](upper-mooren-river-run)
-- [Whitestone](whitestone)
-{.square}
-
-##### Climate
-The region has a **humid continental climate (Dfb)**. Winters are long and cold with snowfall common from late fall to early spring. Summers are warm, but short with a fair amount of rain.
-| |~Spring~|~Summer~|~Fall~|~Winter~|
-|:-----|:----:|:----:|:----:|:----:|
-| High | 52°  | 76°  | 58°  | 34°  |
-| Low  | 34°  | 56°  | 39°  | 16°  |
-| Rain | 4.0" | 3.5" | 4.5" | 3.5" |
-| Snow | 5.1" | 0.0" | 0.6" |14.8" | 
-{.gray}
-
-##### Demographics
-The majority of the region's people reside in the city of [Whitestone](whitestone), but there are substantial populations of giants, goblins, gnolls, orcs, and centaurs residing in the wilds of the [Alabaster Sierras](alabaster-sierra-range) and [Parchwood Timberland](parchwood-timberland).
-
-|||||||
-|:---|:---:|:---|:---:|:---|:---:|
-| Human    | 68% | Dwarf    |  6% | -        |  -  | 
-| Halfling |  7% | -        |  -  | Other    | 19% |
-{.gray}
-
-
-##### Factions
-The dominant factions in the region are:
-- **Chamber of Whitestone**: Governs the city of [Whitestone](whitestone) and the surrounding countryside.
-- **House de Rolo**: The ruling family of [Whitestone](whitestone) and head of the Chamber of Whitestone.
-- **Pale Guard**: The city watch of [Whitestone](whitestone) responsible for the city & surrounding area.
-- **Whitestone Riflemen**: Defenders of [Castle Whitestone](castle-whitestone) and the Chamber of Whitestone.
-{.square}
-
-##### Religion
-The dominant religions in the region are:
-- **Pelor**: The dominant faith in [Whitestone](whitestone), the Dawn Father is major influence in the region.
-- **Erathis**: Has a strong following in [Whitestone](whitestone), but very little followers outside the city.
-- **Raven Queen**: Her following is small, but her beliefs resonate with the people of [Whitestone](whitestone).
-{.square}
-
-Avandra, Moradin, and Melora are not uncommon and shrines can often be found in the homes of their followers.
-
-##### Travel
-Most travel in the region uses one of the following routes:
-
-###### [Alabaster Trail](alabaster-trail)
-- [Whitestone](whitestone) to [Turst Fields](turst-fields) - 360 mi., 12 days
-{.square}
-
-
-
-(print-page)
-
-
-
 ### Alabaster Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
-^Area:^ **^xx,xxx^ ^sq.mi.^** ^-^ ^Type:^ **^Coastal^** ^-^ ^Danger:^ **^Medium^** ^(20)^
+^Type:^ **^Coastal^** ^-^ ^Danger:^ **^Medium^**
 
 The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay is offers very little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
@@ -88,25 +9,20 @@ With most shipping traffic turning east for [Icehaven](icehaven) or [Balenpost](
 
 
 
-
-*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
-
-
-
 ### Alabaster Sierra Range
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
-^Area:^ **^xx,xxx^ ^sq.mi.^** ^-^ ^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^**
+^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^**
 
 Named for their chalk-white color, the mountains of the Alabaster Sierras stretch over three hundred miles along the eastern edge of the [Alabaster Peninsula](alabaster-sierras). The mountains rise out of the [Parchwood Timberland](parchwood-timberland) in the south, run along the western shore of the [Alabaster Bay](alabaster-bay), and wrap around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
-
-(print-column)
 
 Infused with magical energy, the [white stone](/item/white-stone) from which the mountains get their name is a hot commodity in arcane circles. While the raw stone has some magical properties, it's arcane power is greatly enhanced once it has been refined into a green, glass-like substance called [residuum](/item/residuum). Both are lucrative exports and an important source of income for the entire region.
 
 While not nearly as large as the massive [Cliffkeeps](cliffkeep-mountain-range) to the west, the Alabaster Sierras are every bit as dangerous. [Behirs](/monster/behir), [harpies](/monster/harpy), and [wyverns](/monster/wyvern) are a constant threat to individuals that roam too far into the jagged peaks, as are the [stone giants](/monster/stone-giant) that call the many hidden valleys of the Sierras home. Largely content to give the people of [Whitestone](whitestone) a wide berth, conflicts are becoming more common as settlers push east and north into giant lands.
 
-*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+
+
+(print-column)
 
 
 
@@ -127,12 +43,6 @@ Most travel into and out of the region is by land along the [Alabaster Trail](al
 - [Whitestone](whitestone) to [Turst Fields](turst-fields) - 360 mi., 12 days
 {.square}
 
-*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
-
-
-
-(print-page)
-
 
 
 ### Dawnmist Bay
@@ -140,13 +50,15 @@ Most travel into and out of the region is by land along the [Alabaster Trail](al
 
 **^Type:^** ^Coastal^ ^&^ ^Forest^ ^-^ **^Danger:^** ^Low^
 
-Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While the bay is an extension of the [Frigid Depths](frigid-depths), the Dawnmist is warmer and calmer than it's sister, the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
+Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
 
 Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range) to the west, the Dawnmist Bay, like the nearby [forest](dawnmist-pine) of the same name, is often obscured by a thick fog well into midday.
 
 Life on and under the surface of the Dawnmist Bay is relatively quiet. The waters are too isolated and cold for sharks and piracy is unheard of given the bay's complete lack of any ports or shipping. While attacks are rare, local fishers are occassionaly harrassed by [killer whales](/monster/killer-whale) and some have reported seeing a large, sea monster they've nicknamed, "[Misty](/monster/plesiosaurus)."
 
-*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
+
+
+(print-page)
 
 
 
@@ -161,12 +73,6 @@ While the bay seems like a great place to ride out one of the many storms that p
 
 Like the surrounding [Parchwood Timberland](parchwood-timberland), the bay is seemingly cursed with lycanthropy and undeath. Crew unlucky enough to survive a shipwreck are often beset and turned by the inhabitants of the forest. Combined with the natural dangers, few captains will risk sailing more than a few hundred yards off the main channel.
 
-*^Canon^ ^Consistency:^ ^Medium^ ^-^ ^(Unnamed^ ^in^ ^official^ ^sources.)^*
-
-
-
-(print-column)
-
 
 
 ### Parchwood Timberland
@@ -180,7 +86,10 @@ The Parchwood Timberland is an extremely dangerous forest that teems with monstr
 
 The southern edge of the forest marks the southern boundary between the [Alabaster Sierras](alabaster-sierras) in the north and the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south.
 
-*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+
+
+(print-column)
+
 
 
 ### Salted Bluffs
@@ -194,12 +103,6 @@ Rounding the [peninsula](alabaster-peninsula) is dangerous. Rough seas, strong w
 
 Also lending to the danger of sailing too close to the bluffs are the [harpies](/monster/harpy), [griffins](/monster/griffin) and [wyverns](/monster/wyvern) that make their nests in the high cliff faces.
 
-*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^48)^*
-
-
-
-(print-page)
-
 
 
 ### Shearing Channel
@@ -211,7 +114,9 @@ The Shearing Channel is a narrow, tumultous channel that seperates the continent
 
 While the traversing the channel should take no more than three days, ships can spend as much as a week fighting violent storms and shifting currents before emerging on the other side. While few captains are willing to brave the channel, there is a lot of coin to be earned shipping raw materials and finished goods to the ports of [Balenpost](balenpost) and [Syrinla](syrinla) in [Eiselcross](eiselcross).
 
-*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
+
+
+(print-page)
 
 
 
@@ -227,9 +132,6 @@ The river forms high in the [Alabaster Sierras](alabaster-sierra-range) where a 
 It eventually slows as the land levels and the river widens when it emerges from the [Parchwood](parchwood-timberland) in the [Dividing Plain](dividing-plains) east of [Turst Fields](turst-fields). From there, the river turns east and empties into [Mooren Lake](mooren-lake) in the town of [Drynna](drynna).
 
 The Upper Mooren River Run is barely navigable. There are numerous falls and intense rapids at various points along the river and few are brave enough to attempt the trip. It is most certainly a one-way trip with travel up-river impossible by non-magical means.
-
-*^Canon^ ^Consistency:^ ^High^ ^-^ ^(Tal'Dorei^ ^Campaign^ ^Guide,^ ^p.^ ^46)^*
-
 
 > The portions of the Mooren River Run above & below [Mooren Lake](mooren-lake) are very different. I have created a seperate entry for the [Lower section](lower-mooren-river-run) under the [Lucidian Coast](lucidian-coast).
 > 
@@ -357,3 +259,5 @@ The temple has 1 [Priest](/monster/priest), 3 [Acolytes](/monster/acolyte) and a
 #### Sun Tree
 #### Zenith
 #### Ziggurat of Whitestone
+(print-page)
+
