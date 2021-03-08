@@ -133,12 +133,12 @@ The Bladeshimmer Shoreline has a **warm temperate oceanic (Cfb)** climate. It ha
 {.gray}
 
 ##### Demographics
-Predominantly human for the first few centuries following the Calamity, the Bladeshimmer Shoreline and its crown-jewel, the city of [Emon](emon) have become increasingly more diverse. The economic growth of the region has drawn people from all over [Exandria](exandria) to the [City of Fellowship](emon) on the shores of the [Bladeshimmer Bay](bladeshimmer-bay). 
+First settled by humans following the Calamity, the Bladeshimmer Shoreline is still predominantly human, but has grown more diverse over the last few centuries. Immigration, fueled by political and economic stability has drawn people from all over [Exandria](exandria) to the region and its crown-jewel,  [City of Fellowship, Emon](emon).
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Human      | 68% | Elf        |  6% | -          | -   |
-| Dwarf      |  7% | Halfling   |  1% | Other      | 18% |
+| Human      | 60% | Halfling   |  6% | Half=Elf   |  5% |
+| Dwarf      |  6% | Elf        |  5% | Other      | 18% |
 {.gray}
 
 (print-column)
