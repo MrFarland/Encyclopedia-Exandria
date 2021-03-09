@@ -89,25 +89,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-<<<<<<< HEAD
 **Pelor**, is deeply ingrained in the culture of [Whitestone](whitestone) and his is the dominant faith in the city and surrounding area. While less popular, **Erathis** also has a strong following in the city and support for the **Raven Queen** has been growing. Outside the city, **Melora** is most common and is even drawing some orc and gnoll tribes away from **Gruumsh** and **Yeenoghu**.
-=======
-**Pelor** and **Erathis** are the dominant religions in the region, with the Dawn Father's faith deeply ingrained in the culture of [Whitestone](whitestone). Outside the city, 
-
-Within the city of [Whitestone](whitestone) and sur
-
-**Pelor the Dawn Father** is deeply ingrained in the culture of [Whitestone](whitestone) and is his faith is the dominant religion in the region. While her followers are not as many, **Erathis** and 
-
-The dominant religions in the region are:
-- **Pelor**. The Dawn Father is deeply ingrained in the region's culture and has a strong following.
-- **Erathis**. While not as dominant as Pelor, the Law Bearer has a strong following in [Whitestone](whitestone).
-- **Melora**. The Wild Mother is popular outside the city and with the centaurs of the [Parchwood](parchwood-timberland).
-
-Other prominent religions in the region are:
-- **Raven Queen**. Her following has grown in recent years, but she is rarely someone's primary deity.
-- **Gruumsh**. While some orc tribes have embraced the Wild Mother, most remain devoted to the Ruiner.
-- **Yeenoghu**. Most of the [Parchwood's](parchwood-timberland) gnolls serve the Demon Lord of Gnolls.
->>>>>>> 6a5b140bc799a3b08fffc32ef14d22a490ef662f
 
 ##### Settlements
 The major settlements in the region are:
@@ -192,11 +174,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-<<<<<<< HEAD
 Within the walls of [Emon](emon), **Erathis** and **Bahamut** have the largest followings, but **Pelor** and **Avandra** are more common among the rural populace in the region. While these four are the largest, all of the Prime Deities have sizable congregations in the region.
-=======
-The worship of **Erathis** and **Bahamut** is greatest in the city of [Emon](emon), while **Pelor**, **Melora**, and **Avandra** are more common in the rural farming communities throughout the region. The **Raven Queen** has a special place in the region with many adherents of other faiths paying their respects to the Matron of Ravens on her holy day and during Winter's Crest.
->>>>>>> 6a5b140bc799a3b08fffc32ef14d22a490ef662f
 
 ##### Settlemetnts
 The major settlements in the region are:
@@ -204,11 +182,7 @@ The major settlements in the region are:
 - [Emon](emon)
 - [Ruins of O'Noa](ruins-of-onoa)
 - [Shalesteps](shalesteps)
-<<<<<<< HEAD
 {.square}
-=======
-
->>>>>>> 6a5b140bc799a3b08fffc32ef14d22a490ef662f
 
 
 (print-page)
@@ -256,13 +230,8 @@ An large region, the Cliffkeeps are home to many different races and cultures. W
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-<<<<<<< HEAD
 | Dwarf      | 40% | Human      |  9% | Kobold     |  5% |
 | Goblin     |  9% | Gnomes     |  6% | Other      | 23% |
-=======
-| Dwarf      | 43% | Gnome      |  9% | Elf        |  5% |
-| Human      | 10% | Goblin     |  8% | Other      | 25% |
->>>>>>> 6a5b140bc799a3b08fffc32ef14d22a490ef662f
 {.gray}
 
 ##### Factions
@@ -295,13 +264,8 @@ The prominent geographical features in the region are:
 - [Wildwood Byway](wildwood-byway)
 {.square}
 
-<<<<<<< HEAD
 ##### Religion
 The dominant religion in the region depends heavily on where you are. **Moradin** is the dominant religion in the dwarven stronghold of [Kraghammer](kraghammer), while **Sehanine** is more prevalent in [Lyrengorn](lyrengorn). Outside of these population centers, no one religion has greater influence than any other.
-=======
-#### Religion
-
->>>>>>> 6a5b140bc799a3b08fffc32ef14d22a490ef662f
 
 ##### Settlements
 The major settlements in the region are:
