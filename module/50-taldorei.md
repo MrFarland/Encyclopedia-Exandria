@@ -185,6 +185,7 @@ The major settlements in the region are:
 {.square}
 
 
+
 (print-page)
 
 
@@ -265,7 +266,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-The dominant religion in the region depends heavily on where you are. **Moradin** is the dominant religion in the dwarven stronghold of [Kraghammer](kraghammer), while **Sehanine** is more prevalent in [Lyrengorn](lyrengorn). Outside of these population centers, no one religion has greater influence than any other.
+**Moradin** is the dominant religion in the southern Cliffkeeps with the dwarven stronghold of [Kraghammer](kraghammer) functioning as the spiritual center of the faith in [Tal'Dorei](taldorei). In the north, **Sehanine** is the patron of [Lyrengorn](lyrengorn), while **Melora**, **Gruumsh**, and **Bane** are the most common deities among the many nomadic tribes in the region,
 
 ##### Settlements
 The major settlements in the region are:
@@ -314,21 +315,19 @@ Located in the central, temperate region of [Tal'Dorei](taldorei), the Dividing 
 {.gray}
 
 ##### Demographics
-While the major settlements of the Dividing Plains are overwhelmingly human, the countryside is more diverse with sizable dwarf, elf, and halflings populations among the many farming communities that dot the landscape. The plains are also home to nomadic tribes of orcs, gnolls, goliaths, and centaurs. 
+While the major settlements of the Dividing Plains are overwhelmingly human, the countryside is more diverse with sizable dwarf, elf, and halflings populations among the many farming communities that dot the landscape. The plains are also home to large, nomadic tribes of orcs, gnolls, goliaths, and centaurs. 
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Human      | 49% | Dwarf      |  8% | Gnome      |  4% |
-| Halfling   | 14% | Elf        |  4% | Other      | 21% |
+| Human      | 49% | Dwarf      |  8% | Elf        |  4% |
+| Halfling   | 14% | Gnome      |  5% | Other      | 21% |
 {.gray}
 
 ##### Factions
 The dominant factions in the region are:
 - **Clasp, The**. A powerful crime syndicate that has extensive influence throughout the region.
-- **Dustpaw Gnolls**. A large tribe of gnolls that live among and protect the town of [Turst Fields](turst-fields).
 - **Myriad, The**. A rival to the Clasp, the Myriad has made significant inroads in the region.
 - **Ravagers**. An tribe of orcs that are strict adherents of Gruumsh and terrorize the region.
-- **Rivermaw Tribe**. A large, nomadic tribe of various peoples that reside in the [Torian Forest](torian-forest).
 - **Shields of the Plains**. The military and police for the Republic's settlements in the plains.
 {.square}
 
@@ -354,7 +353,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-While the Dividing Plains are one of the most theologically diverse regions in [Tal'Dorei](taldorei), faith is a private affair and religion is not a topic discussed lightly. All of the Prime Deities are equally represented in the region, but an accurate accounting is difficult, if not impossible. 
+While the Dividing Plains are the most theologically diverse region in [Tal'Dorei](taldorei), faith is a private affair and religion is not discussed lightly. While all of the Prime Deities are equally represented in the region an accurate accounting is difficult. In [Kymal](kymal), however, the worship of **Avandra** is both open and widespread with many shrines to the god of luck located outside the city's many casinos.
 
 ##### Settlements
 The major settlements in the region are:
@@ -369,15 +368,11 @@ The major settlements in the region are:
 
 
 
-
-
 ![?](assets/img/MrFarland-Exandria_800-2_region-lucidian_coast-2550x3300.jpg){.size-full .print-only}
 
 (print-page)
 
 ![?](assets/img/MrFarland-Exandria_800-2_region-lucidian_coast-2550x3300.jpg){.size-cover .screen-only}
-
-
 
 ## Lucidian Coast
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei)
@@ -400,17 +395,15 @@ The eastern coast of [Tal'Dorei](tal'dorei) has a **Humid subtropical climate (C
 {.gray}
 
 ##### Demographics
-The Lucidian Coast is a much more diverse region than the streets of [Drynna](drynna) or [Stilben](stilben) might indicate. There are countless numbers of orcs, gnolls, and lizardfolk living in remote corners of the [K'Tawl](ktawl-swamp) and [Rootgarden Marsh](rootgarden-marsh).
+The Lucidian Coast is a much more diverse region than the streets of [Drynna](drynna) or [Stilben](stilben) might indicate. Orcs, gnolls, lizardfolk, and tortles are scattered throughout the [K'Tawl Swamp](ktawl-swamp) and [Rootgarden Marsh](rootgarden-marsh).
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Human      | 68% | Elf        |  8% | Gnome      |  2% |
-| Halfling   |  9% | Half Elf   |  6% | Other      |  7% |
+| Human      | 56% | Elf        |  6% | Orc        |  3% |
+| Halfling   |  7% | Half Elf   |  5% | Other      | 23% |
 {.gray}
 
-
 (print-column)
-
 
 ##### Factions
 The dominant factions in the region are:
@@ -433,6 +426,9 @@ The prominent geographical features in the region are:
 - [Summit Peaks](summit-peaks)
 {.square}
 
+##### Religion
+Like much of central [Tal'Dorei](taldorei), faith is evenly distributed amongst the Prime Deities, but **Avandra**, **Kord**, and **Melora** are very popular with the sailors and fishers that call the region home. Deep in the [K'Tawl'](ktawl-swamp) and [Rootgarden](rootgarden-marsh), **Melora** is gaining some influence among the various tribes of lizardfolk, gnolls, and orcs, but followers of **Gruumsh** and **Yeenoghu** are still more common among them.
+
 ##### Settlements
 The major settlements in the region are:
 - [Drynna](drynna)
@@ -453,11 +449,7 @@ The major settlements in the region are:
 
 ![?](assets/img/MrFarland-Exandria_800-2_region-rifenmist_peninsula_east-2550x3300.jpg){.size-full .print-only}
 
-
-
 (print-page)
-
-
 
 ![?](assets/img/MrFarland-Exandria_800-2_region-rifenmist_peninsula-5100x3300.jpg){.size-cover .screen-only}
 
@@ -473,7 +465,6 @@ To the south of the [jungle](rifenmist-jungle), the land rises steadily until it
 ##### Climate
 The Rifenmist Peninsula is a complex region with multiple climates. The [jungle](rifenmist-jungle) is a **tropical rainforest (Af)** that is hot, humid and has an over-abundance of rain year-round. In the north, the [Mornset Countryside](mornset-countryside) is a **tropical savanna (As)** with moderately cooler temperatures and significantly less rainfall in the summer months. While to the south, the [Beynsfal Plateau](beynsfal-plateau) has a **hot-summer mediterranean (Csa)** climate that is hotter and drier than the rest of the region.
 
-###### Beynsfal Plateau
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
 | High | 70°  | 88°  | 76°  | 62°  |
@@ -481,30 +472,25 @@ The Rifenmist Peninsula is a complex region with multiple climates. The [jungle]
 | Rain | 2.9" | 0.2" | 2.4" | 3.2" |
 {.gray}
 
-###### Rifenmist Jungle
-| |~Spring~|~Summer~|~Fall~|~Winter~|
-|:-----|:----:|:----:|:----:|:----:|
-| High | 82°  | 85°  | 84°  | 83°  |
-| Low  | 69°  | 70°  | 70°  | 68°  |
-| Rain | 9.3" | 5.9" | 7.2" | 5.1" |
-{.gray}
+*^Climate^ ^for^ ^the^ ^Beyndfal^ ^Plateau^ ^near^ ^Tz'Arrm^.*
 
 ##### Demographics
-Despite being one of the more populous regions in [Tal'Dorei](taldorei), the region is sparsely populated with the vast majority of its people packed into the southern city-states of the Iron Authority. These urban centers are overwhelmingly goblinoid, with hobgoblins holding nearly exclusive control over all other races through a rigid caste-based society, indentured servitude, and even slavery.
-
-To the north, the peoples of the [Rifenmist Jungle](rifenmist-jungle) are more diverse and open. While the predominantly elven and tabaxi tribes of the [Rifenmist](rifenmist-jungle) are wary of outsiders, their wariness is based more on caution than ancestry. The same is true for the many small villages and hamlets that dot the [Mornset Countryside](mornset-countryside). 
+While the Rifenmist Peninsula is heavily popultaed, the majority of the people in the region live in the city-states of the Iron Authority on the [Beynsfal Plateau](beynsfal-plateau). The city-states are predominantly goblinoid, with hobgoblins exercising almost total control over all other peoples. The rest of the region is much more open and diverse, but the various tribes and communities of the [Rifenmist Jungle](rifenmist-jungle) and [Mornset Countryside](mornset-countryside) are wary of outsiders.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Hobgoblin  | 64% | Elf        |  5% | Human      |  1% |
-| Goblinoid  | 18% | Half-Elf   |  1% | Other      | 11% |
+| Hobgoblin  | 48% | Goblin     |  8% | Tabaxi     |  4% |
+| Human      | 12% | Half-Elf   |  6% | Other      | 22% |
 {.gray}
 
 ##### Factions
 The dominant factions in the region are:
-- **Iron Authority**. A militaristic, goblin empire that controls the [Beynsfal Plateau](beynsfal-plateau) and horn of [Tal'Dorei](taldorei). 
+- **Iron Authority**. A militaristic, goblin empire that controls the [Beynsfal Plateau](beynsfal-plateau) and the horn of [Tal'Dorei](taldorei). 
 - **Orroyen Tribes**. A loose confederation of semi-nomadic tribes that live deep in the wilds of the [Rifenmist Jungle](rifenmist-jungle).
 {.square}
+
+##### Religion
+In the militaristic city-states of the [Beynsfal Plateau](beynsfal-plateau), **Bane** is the official religion of the oppressive Iron Authority. The worship of other lawful, non-good aligned Gods, such as **Asmodeus**, **Tiamat**, and even **Erathis** are tolerated, but the worship of all others deities is not. In the rest of the region, **Melora** is most common.
 
 ##### Geography
 The prominent geographical features in the region are:
@@ -540,11 +526,7 @@ The major settlements in the region are:
 
 ![?](assets/img/MrFarland-Exandria_800-2_region-stormcrest_mountains-3300x2550-rotated.jpg){.size-full .print-only}
 
-
-
 (print-page)
-
-
 
 ![?](assets/img/MrFarland-Exandria_800-2_region-stormcrest_mountains-3300x2550.jpg){.size-cover .screen-only}
 
@@ -568,19 +550,22 @@ While the climate in the mountains is considerably cooler than it is down in the
 {.gray}
 
 ##### Demographics
-While the settlement of [Bronbog](bronbog) is the only settlement reflected in the numbers below, there are considerable numbers of indigenous tribes that call the region home. Kobolds, lizardfolk, orcs, goblins, giants, and grung all call the region home and likely outnumber the people of [Bronbog](bronbog) four to one.
+Above ground, the region is largely rural and very sparsely populated. The village of [Bronbog](bronbog) is predominantly human, but the wilds of the [Dreamseep](dreamseep-marshlands) and [mountains](stormcrest-mountains) are home to a number of kobold, lizardfolk, and orc tribes. Beneath the surface, the city of [Ruhn-Shak](ruhn-shak) is almost exclusively drow.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Human      | 64% | Halfling   |  9% | -          | -   |
-| Half-Elf   | 18% | -          | -   | Other      |  9% |
+| Drow       | 69% | Gnome      |  4% | Orc        |  2% |
+| Human      | 10% | Half Elf   |  3% | Other      | 12% |
 {.gray}
+
+(print-page)
 
 ##### Factions
 The dominant factions in the region are:
-- **Black Snow Tribe**. A tribe of Goliath, Half-Dragon revenants created from the blood of the ancient black dragon, Umbrasyl.
-- **Scions of Flame**. 
-- **Shivergut Tribe**. 
+- **Black Snow Tribe**. A tribe of goliath, half-dragon revenants created from the blood of an ancient black dragon, guard the [Obsidian Geode](obsidian-geode).
+- **Scions of Flame**. One of three tribes fighting for control of the [Ashen Gorge](ashen-gorge) high in the [Stormcrest Mountains](stormcrest-mountains).
+- **Shivergut Tribe**. The Shivergut are a traditional orc tribe that holds fast to the destructive teachings of **Gruumsh the Ruiner**.
+- **Tinysoot Tribe**. A large kobold tribe that guards the [Everflame Crevasse](everflame-crevasse) in the [Ashen Gorge](ashen-gorge).
 {.square}
 
 ##### Geography
@@ -593,6 +578,9 @@ The prominent geographical features in the region are:
 - [Kirmont Valley](kirmont-valley)
 - [Stormcrest Mountains](stormcrest-mountain-range)
 {.square}
+
+##### Religion
+While **Pelor** is the dominant faith in the village of [Bronbog](bronbog), it is the betrayers **Lolth** and **Gruumsh** that are the dominant religions in the region. The Spider Queen is the cornerstone on which the drow city of [Ruhn-Shak](ruhn-shak) was founded and **Gruumsh** still holds sway over the orcs of the region.
 
 ##### Settlements
 The major settlements in the region are:
@@ -608,8 +596,6 @@ The major settlements in the region are:
 ![?](assets/img/MrFarland-Exandria_800-2_region-verdant_expanse-3300x2550-rotated.jpg){.size-full .print-only}
 
 (print-page)
-
-
 
 ![?](assets/img/MrFarland-Exandria_800-2_region-verdant_expanse-3300x2550.jpg){.size-cover .screen-only}
 
@@ -634,21 +620,18 @@ The Verdant Expanse has a **Humid subtropical (Cfa)** climate with hot, humid su
 {.gray}
 
 ##### Demographics
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+The dominant culture in the region, the elves of [Syngorn](syngorn) represent the overwhelming majority of the region's people. There are small minority communities throughout the region, but humans and half-elves represent the largest among them.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| -          | -   | -          | -   | -          | -   |
-| -          | -   | -          | -   | Other      | -   |
+| Elf        | 78% | Human      |  6% | Halfling   |  2% |
+| Half Elf   |  8% | Gnome      |  2% | Other      |  4% |
 {.gray}
 
 ##### Factions
 The dominant factions in the region are:
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
+- **Verdant Guard**. The military and guard for the elven kingdom can be found throughout the region.
+- **Wardens of Syngorn**. A council of three elders, the Wardens govern the city of [Syngorn](syngorn) and nearly all of the region. 
 {.square}
 
 ##### Geography
@@ -656,7 +639,12 @@ The prominent geographical features in the region are:
 - Geography
 {.square}
 
+##### Religion
+**Corellon** is the patron of elvenkind and they are the dominant faith in the region. **Melora** and **Sehanine** each have sizable congregations, but even combined they fall short of the Arch Heart's following.
+
 ##### Settlements
 The major settlements in the region are:
-- Settlement
+- [Shifting Keep](shifting-keep)
+- [Syngorn](syngorn)
+- [Vues'dal](vues'dal)
 {.square}
