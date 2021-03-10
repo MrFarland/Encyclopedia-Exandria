@@ -2,6 +2,7 @@
 name: Exandria
 slug: exandria
 order: 12
+include-in: all
 ---
 ![west](assets/img/MrFarland-Exandria_800-0_world-exandria_west-2550x3300.jpg){.size-full .print-only}
 

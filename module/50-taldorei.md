@@ -3,6 +3,7 @@ name: Tal'Dorei
 slug: taldorei
 order: 50
 module-pagebreaks: h1, h2, h3, h4
+include-in: all
 ---
 
 ![Tal'Dorei](assets/img/MrFarland-Exandria_800-1_continent-taldorei-2550x3300.jpg) {.size-full .print-only}
@@ -43,10 +44,10 @@ The continent of Tal'Dorei is divided into the following eight regions:
 
 Located in the northeast corner of the continent, the Alabaster Sierras are named for the chalk-white [mountains](alabaster-sierra-range) that run the length of the Alabaster Peninsula. While named for the [Alabaster Sierra range](alabaster-sierra-range), it is the massive [Parchwood Timberland](parchwood-timberland) that truly dominates the region.
 
-While the region is bordered to the south by the [Dividing Plains](dividing-plains) and the [Lucidian Coast](lucidian-coast), the region is largely surrounded by water. The [Alabaster Bay](alabaster-bay) and [Dawnmist Bay](dawnmist-bay) frame the main peninsula, while the [Shearing Channel](shearing-channel) and [Lucidian Ocean](lucidian-ocean) cut the region off from the continent of [Wildemount](wildemount) to the east.
+While the region is bordered to the south by the [Dividing Plains](dividing-plains) and the [Lucidian Coast](lucidian-coast), the rest of the region is surrounded by water. The [Alabaster Bay](alabaster-bay) and [Dawnmist Bay](dawnmist-bay) frame the main peninsula, while the [Shearing Channel](shearing-channel) and [Lucidian Ocean](lucidian-ocean) cut the region off from the continent of [Wildemount](wildemount) to the east.
 
 ##### Climate
-The region has a **humid continental climate (Dfb)**. Winters are long and cold with snowfall common from late fall to early spring. Summers are warm, but short with a fair amount of rain.
+The region has a **humid continental climate (Dfb)** with long, cold winters with plenty of snowfall. Summers are warm, but short with a fair amount of rain.
 
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
@@ -57,7 +58,7 @@ The region has a **humid continental climate (Dfb)**. Winters are long and cold 
 {.gray}
 
 ##### Demographics
-While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, the remote corners of the [Parchwood](parchwood-timberland) are home to a number of gnoll, orc, and centaur tribes while the [Sierras](alabaster-sierra-range) are home to many goblin, kobold, and stone giant clans.
+While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, the remote corners of the [Parchwood](parchwood-timberland) are home to a number of gnoll, orc, and centaur tribes while the [Sierras](alabaster-sierra-range) are home to goblin, kobold, and stone giant clans.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
@@ -70,9 +71,8 @@ While the city of [Whitestone](whitestone) and surrounding villages are predomin
 ##### Factions
 The dominant factions in the region are:
 - **Chamber of Whitestone**. Governs the city of [Whitestone](whitestone) and the surrounding countryside.
-- **House de Rolo**. The ruling family of [Whitestone](whitestone) and head of the Chamber of Whitestone.
-- **Pale Guard**. The guard responsible for the city of [Whitestone](whitestone) & surrounding area.
-- **Whitestone Riflemen**. Defenders of [Castle Whitestone](castle-whitestone) and the Chamber of Whitestone.
+- **Pale Guard**. Guard the city of [Whitestone](whitestone), the surrounding area and northern [Alabaster Trail](alabaster-trail).
+- **Whitestone Riflemen**. Firearm equipped guards that protect [Castle Whitestone](castle-whitestone) & the de Rolo family.
 {.square}
 
 ##### Geography
@@ -89,7 +89,11 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-**Pelor**, is deeply ingrained in the culture of [Whitestone](whitestone) and his is the dominant faith in the city and surrounding area. While less popular, **Erathis** also has a strong following in the city and support for the **Raven Queen** has been growing. Outside the city, **Melora** is most common and is even drawing some orc and gnoll tribes away from **Gruumsh** and **Yeenoghu**.
+The dominant religions in the region are:
+- **Pelor**. Pelor is deeply ingrained in the culture of [Whitestone](whitestone) and is the dominant faith in the city.
+- **Erathis**. While less popular than Pelor, the Law Bearer has a sizable following in the city.
+- **Melora**. Melora's is popular in the wilds and is gaining influence among some orc & gnoll tribes.
+{.square}
 
 ##### Settlements
 The major settlements in the region are:
@@ -174,7 +178,11 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-Within the walls of [Emon](emon), **Erathis** and **Bahamut** have the largest followings, but **Pelor** and **Avandra** are more common among the rural populace in the region. While these four are the largest, all of the Prime Deities have sizable congregations in the region.
+The dominant religions in the region are:
+- **Erathis** & **Bahamut**. The dominant religions in the city of [Emon](emon) with large, influential congregations.
+- **Pelor** & **Avandra**. Worshipped mostly in the rural countryside among the farmers of the region.
+{.square}
+
 
 ##### Settlemetnts
 The major settlements in the region are:
@@ -238,7 +246,6 @@ An large region, the Cliffkeeps are home to many different races and cultures. W
 ##### Factions
 The dominant factions in the region are:
 - **Army of Tal'Dorei**. The military of the Republic of Tal'Dorei, stationed at [Fort Daxio](fort-daxio).
-- **Ashari (Terrah)**. A druidic tribe that guard the elemental rifts to the elemental plane of Earth.
 - **Carvers**. The police and military protectors of the dwarven stronghold of [Kraghammer](kraghammer).
 - **Houses of Kraghammer**. The five noble houses of [Kraghammer](kraghammer) that rule the dwarven city.
 {.square}
@@ -266,7 +273,11 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-**Moradin** is the dominant religion in the southern Cliffkeeps with the dwarven stronghold of [Kraghammer](kraghammer) functioning as the spiritual center of the faith in [Tal'Dorei](taldorei). In the north, **Sehanine** is the patron of [Lyrengorn](lyrengorn), while **Melora**, **Gruumsh**, and **Bane** are the most common deities among the many nomadic tribes in the region,
+The dominant religions in the region are:
+- **Moradin**. The dominant religion in the southern Cliffkeeps in and around [Kraghammer](kraghammer).
+- **Sehanine**. The Moon Weaver is the patron deity of the elves and drow of [Lyrengorn](lyrengorn).
+- **Gruumsh**. While Melora is gaining influence among some orcs, the Ruiner still holds sway over most. 
+{.square}
 
 ##### Settlements
 The major settlements in the region are:
@@ -353,7 +364,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-While the Dividing Plains are the most theologically diverse region in [Tal'Dorei](taldorei), faith is a private affair and religion is not discussed lightly. While all of the Prime Deities are equally represented in the region an accurate accounting is difficult. In [Kymal](kymal), however, the worship of **Avandra** is both open and widespread with many shrines to the god of luck located outside the city's many casinos.
+The region is theologically diverse, but most people are very private in their worship. All of the Prime Deities are equally represented throughout the region, but .
 
 ##### Settlements
 The major settlements in the region are:
@@ -408,8 +419,8 @@ The Lucidian Coast is a much more diverse region than the streets of [Drynna](dr
 ##### Factions
 The dominant factions in the region are:
 - **Clasp, The**. The dominant criminal syndicate in [Tal'Dorei's](taldorei) power and influece in [Stilben](stilben) is waning.
-- **Knifemouth Orcs**. A large, aggressive tribe of orcs in the [K'Tawl](ktawl-swamp) that occassionally raid caravans on the [Silvercut Roadway](silvercut-roadway).
-- **Myriad, The**. A growing criminal syndicate out of [Wildemount](wildemount) with a firm foothold in the city of [Stilben](stilben).
+- **Knifemouth Orcs**. A large, aggressive tribe in the [K'Tawl](ktawl-swamp) that raid caravans on the [Silvercut Roadway](silvercut-roadway).
+- **Myriad, The**. A criminal syndicate out of [Wildemount](wildemount) with a foothold in the city of [Stilben](stilben).
 - **Waterwatch**. The guard of [Stilben](stilben), the Waterwatch is heavily infiltrated by the Clasp and Myriad.
 {.square}
 
@@ -427,7 +438,11 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-Like much of central [Tal'Dorei](taldorei), faith is evenly distributed amongst the Prime Deities, but **Avandra**, **Kord**, and **Melora** are very popular with the sailors and fishers that call the region home. Deep in the [K'Tawl'](ktawl-swamp) and [Rootgarden](rootgarden-marsh), **Melora** is gaining some influence among the various tribes of lizardfolk, gnolls, and orcs, but followers of **Gruumsh** and **Yeenoghu** are still more common among them.
+The dominant religions in the region are:
+- **Avandra** & **Kord**. Popular among the sailors that operate out of the Port of [Stilben](stilben) and [Drynna](drynna).
+- **Melora**. A number of gnoll & orc tribes have broken from Gruumsh & Yeenoghu for the the Wild Mother.
+{.square}
+
 
 ##### Settlements
 The major settlements in the region are:
@@ -485,12 +500,9 @@ While the Rifenmist Peninsula is heavily popultaed, the majority of the people i
 
 ##### Factions
 The dominant factions in the region are:
-- **Iron Authority**. A militaristic, goblin empire that controls the [Beynsfal Plateau](beynsfal-plateau) and the horn of [Tal'Dorei](taldorei). 
-- **Orroyen Tribes**. A loose confederation of semi-nomadic tribes that live deep in the wilds of the [Rifenmist Jungle](rifenmist-jungle).
+- **Iron Authority**. A militaristic, goblin empire that controls the [Beynsfal Plateau](beynsfal-plateau). 
+- **Orroyen Tribes**. A loose confederation of tribes that live deep in the wilds of the [Rifenmist Jungle](rifenmist-jungle).
 {.square}
-
-##### Religion
-In the militaristic city-states of the [Beynsfal Plateau](beynsfal-plateau), **Bane** is the official religion of the oppressive Iron Authority. The worship of other lawful, non-good aligned Gods, such as **Asmodeus**, **Tiamat**, and even **Erathis** are tolerated, but the worship of all others deities is not. In the rest of the region, **Melora** is most common.
 
 ##### Geography
 The prominent geographical features in the region are:
@@ -502,6 +514,11 @@ The prominent geographical features in the region are:
 - [Rifenmist River](rifenmist-river)
 - [Stormpoint Mountains](stormpoint-mountains)
 {.square}
+
+##### Religion
+The dominant religions in the region are:
+- **Bane**. The official religion of the militaristic and oppressive Iron Authority on the [Beynsfal Plateau](beynsfal-plateau).
+- **Melora**. Popular among the Orroyen and tabaxi tribes of the [Rifenmist Jungle](rifenmist-jungle).
 
 ##### Settlements
 The major settlements in the region are:
@@ -558,14 +575,14 @@ Above ground, the region is largely rural and very sparsely populated. The villa
 | Human      | 10% | Half Elf   |  3% | Other      | 12% |
 {.gray}
 
-(print-page)
+(print-column)
 
 ##### Factions
 The dominant factions in the region are:
-- **Black Snow Tribe**. A tribe of goliath, half-dragon revenants created from the blood of an ancient black dragon, guard the [Obsidian Geode](obsidian-geode).
-- **Scions of Flame**. One of three tribes fighting for control of the [Ashen Gorge](ashen-gorge) high in the [Stormcrest Mountains](stormcrest-mountains).
-- **Shivergut Tribe**. The Shivergut are a traditional orc tribe that holds fast to the destructive teachings of **Gruumsh the Ruiner**.
-- **Tinysoot Tribe**. A large kobold tribe that guards the [Everflame Crevasse](everflame-crevasse) in the [Ashen Gorge](ashen-gorge).
+- **Black Snow Tribe**. A tribe of goliath, half-dragon revenants that live deep in the [Ashen Gorge](ashen-gorge).
+- **Scions of Flame**. A tribe of black lizardfolk that are vying for control of the [Ashen Gorge](ashen-gorge).
+- **Shivergut Tribe**. A large, violent orc tribe that strike out in the [Dividing Plains](dividing-plains) from the [Frostweald](frostweald).
+- **Tinysoot Tribe**. A kobold tribe that guards the [Everflame Crevasse](everflame-crevasse) in the [Ashen Gorge](ashen-gorge).
 {.square}
 
 ##### Geography
@@ -580,7 +597,11 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-While **Pelor** is the dominant faith in the village of [Bronbog](bronbog), it is the betrayers **Lolth** and **Gruumsh** that are the dominant religions in the region. The Spider Queen is the cornerstone on which the drow city of [Ruhn-Shak](ruhn-shak) was founded and **Gruumsh** still holds sway over the orcs of the region.
+The dominant religions in the region are:
+- **Lolth**. The Spider Queen has a firm hold on the drow city of [Ruhn Shak](ruhn-shak) beneath the mountains.
+- **Gruumsh**. The [Tomb of Udah](tomb-of-udah) in the [Dreamseep](dreamseep-marshland) is a holy site to orcs who remain loyal to the Ruiner.
+- **Pelor**. The Dawn Father is popular among the people of [Bronbog](bronbog).
+{.square}
 
 ##### Settlements
 The major settlements in the region are:
@@ -628,10 +649,12 @@ The dominant culture in the region, the elves of [Syngorn](syngorn) represent th
 | Half Elf   |  8% | Gnome      |  2% | Other      |  4% |
 {.gray}
 
+(print-column)
+
 ##### Factions
 The dominant factions in the region are:
-- **Verdant Guard**. The military and guard for the elven kingdom can be found throughout the region.
-- **Wardens of Syngorn**. A council of three elders, the Wardens govern the city of [Syngorn](syngorn) and nearly all of the region. 
+- **Verdant Guard**. The defenders of the elven city of [Syngorn](syngorn) and the wider [Verdant Expanse](verdant-expanse-forest).
+- **Wardens of Syngorn**. The ruling council that governs the elven city of [Syngorn](syngorn). 
 {.square}
 
 ##### Geography
@@ -640,7 +663,9 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-**Corellon** is the patron of elvenkind and they are the dominant faith in the region. **Melora** and **Sehanine** each have sizable congregations, but even combined they fall short of the Arch Heart's following.
+The dominant religions in the region are:
+- **Corellon**. The Arch Heart is the dominant religion among the elves of [Syngorn](syngorn).
+- **Melora**. While less popular than Corellon, the Wild Mother has a sizable following outside the city.
 
 ##### Settlements
 The major settlements in the region are:

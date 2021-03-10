@@ -3,6 +3,7 @@ name: Wildemount
 slug: wildemount
 order: 60
 module-pagebreaks: h1, h2, h3, h4
+include-in: all
 ---
 ![Wildemount](assets/img/MrFarland-Exandria_800-1_continent-wildemount-3300x2550-rotated.jpg){.size-full .print-only}
 
