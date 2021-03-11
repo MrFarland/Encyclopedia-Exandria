@@ -111,27 +111,22 @@ The major settlements in the region are:
 
 The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
-##### Factions
-- None
-{.square}
-
-##### Flora & Fauna
-
-##### Landmarks
-- None
-{.square}
-
-##### Settlements
-- None
-{.square}
-
-##### Structures
-- None
-{.square}
-
 The Alabaster Bay is largely untouched by commercial fishing and has a rich ecosystem. Colonies of seals can be found all along the western shore and the bay is a popular hunting ground for [killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion). 
 
 Beneath the surface, a large kelp forest is home to one of [Exandria's](exandria) largest species of [crabs](/monster/giant-crab).
+
+##### Climate
+##### Factions
+##### Fauna
+##### Flora
+##### Hazards
+##### Landmarks
+##### Languages
+##### Religion
+##### Settlements
+##### Structures
+##### Travel
+
 
 
 
