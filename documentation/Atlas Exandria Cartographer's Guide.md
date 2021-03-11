@@ -4,25 +4,14 @@ slug: atlas-exandria-cartographers-guide
 order: 0
 pdf-page-style: single-column
 ---
-# Atlas Exandria {.text-center}
-#### Cartographer's Guide {.text-center}
+# Atlas Exandria Catrographer's Guide
+Atlas Exandria is an ambitious project to create a comprehensive, canon-consistent set of maps for the entire world of Exandria. While the current release only covers the continents of Tal'Dorei and Wildemount, the plan is to one day include maps of Issylra, Marquet, and the Shattered Teeth. Eventually, I hope to even include settlement maps and more. To help in the development of those future maps, I thought it wise to create this document to capture all of the settings and aesthetic choices used to create these maps.
 
-
-(print-page)
-
-# Introduction
-Atlas Exandria is an ambitiou ambitious project to create a comprehensive, canon-consistent set of maps for the entire world of Exandria. The current release of the Atlas contains numerous maps of the world, continents, and disparate regions of Exandria. Maintaining consistency across all of the atlas' many maps has been a challenge, but one that was made easier by this document. Contained within this, Cartographer's Guide, are all of the settings and aesthetic choices used to create all of these maps.
-
-#### Tools
-
-
-(print-page)
-
-Created using the cartography application [Wonderdraft](https://wonderdraft.net), maintaining consistency across multiple maps requires a great deal of effort. This document was created to help me achieve that goals while simultaneously helping others recreate the look & feel of these maps and create their own companion maps. 
+All of the maps in the Atlas were created using the cartography application [Wonderdraft](https://wonderdraft.net). An amazing map-making tool, Wonderdraft has a large number of settings and design choices that can make maintaining consistency across multiple maps difficult. In addition to helping me create consistent maps, I wanted to help other recreate the look & feel of these maps so that they can make their own maps or conversions with the same look and feel. 
 
 The maps in Atlas Exandria were created with [Wonderdraft](https://wonderdraft.net) 1.1.4.
 
-# Appearance
+## Appearance
 While the land depicted in a map is the most important element of any map, the general look & feel of the map is the first thing viewers see and recognize. It sets the tone for the map and is nearly as important to the usability of the map as it's accuracy. This chapter documents the various settings used to create these maps.
 
 ### General Settings
@@ -45,10 +34,15 @@ The following settings are universal and used on all maps. They define the gener
 | **Symbol Color 3**      | r(76) g(71) b(63) a (255) |
 {.gray}
 
+
+
+(print-page)
+
+
+
 ### Color
 For the Atlas Exandria maps, I opted to use a realistic, colorized look partly inspired by the old cloth maps of CRPGs from my youth. 
 
-#### Land
 | Use      | Color   | Uses                         |
 |:---------|:--------|:-----------------------------|
 | Forest 1 | #5c6341 | Evergreen Forest             |
@@ -71,10 +65,15 @@ For the Atlas Exandria maps, I opted to use a realistic, colorized look partly i
 | Snow 1   | #ffffff | Snow and Ice |
 | Snow 2   | #d8d8d8 | Dark Snow |
 | Snow 3   | #d2d2d2 | Darker Snow and Mountains |
-| Black 1  | #000000 | Only ever used with high transparency |
-| Black 2  | #282828 | Only ever used with high transparency |
+| Black    | #282828 | Only ever used with high transparency |
 | Reef     | #2186bbb6 | Reefs under the water painting section. |
 {.gray}
+
+
+
+(print-page)
+
+
 
 ##### Technique
 When painting, use the grunge brush and lower the opacity, but keep the brush large. Multiple passes blend areas better than high opacity or a small brush. If you must decrease the brush size to fit into a smaller area, lower the opacity even more and make small light strokes.
@@ -105,38 +104,54 @@ The color palette for the Custom Colors symbols are:
 - Color 2: #9524221e
 - Color 3: #4b463e
 
+
+
+(print-page)
+
+
+
 ### Labels
 The following are the starting points for all of the labels used on the world map. These colors and sizes are only a starting point. Labels are made bigger or smaller depending on the size and scale of the area to be labeled. I tend to stick to multiples of 8 (habit mostly) and rarely increase or decrease by more than 8-16 points. I also adjust colors slightly depending on the area surrounding the subject area. Typically to improve readability while maintaining the same look and feel.
 
 *All labels use the **IM Fell English Italic** font.*
 
-| Preset             |Text Color |Outline|Outline Color|World|Cont.| Reg.| 
-|:-------------------|:---------:|:-----:|:-----------:|:---:|:---:|:---:|
-| Bay, Channel, Etc  | #32ffffff |   -   |   -         |  24 | | |
-| Capital            | #c8ffffff |   1   |   #c8000000 |  24 | | |
-| City               | #c8ffffff |   1   |   #c8000000 |  20 | | |
-| Continent          | #9c000000 |   -   |   -         | 128 | | |
-| Desert             | #7d000000 |   3   |   #7dab9262 |  24 | | |
-| Forest (Broadleaf) | #c8000000 |   3   |   #c8ccbe99 |  18 | | |
-| Forest (Dark/Dead) | #c8000000 |   3   |   #c85f5543 |  18 | | |
-| Forest (Evergreen) | #c8000000 |   3   |   #c8505633 |  18 | | |
-| Island             | #9c000000 |   -   |   -         |  18 | | | 
-| Island Chain       | #9c000000 |   -   |   -         |  36 | | |
-| Lake / Pond        | #32ffffff |   -   |   -         |  16 | | |
-| Mountain           | #c8000000 |   2   |   #c8918775 |  16 | | |
-| Mountain (Snow)    | #c8000000 |   2   |   #c8e2e1e1 |  16 | | |
-| Mountains          | #c8000000 |   3   |   #c8918775 |  24 | | |
-| Mountains (Snow)   | #c8000000 |   3   |   #c8e2e1e1 |  24 | | |
-| Ocean, Sea         | #32ffffff |   -   |   -         | 128 | | |
-| Plain              | #c84c4a21 |   3   |   #c8989367 |  18 | | |
-| Plain (Snow)       | #c8000000 |   3   |   #c8e0dad6 |  18 | | |
-| Point of Interest  | #000000   |   -   |   -         |  16 | | | 
-| River, Creek, Etc  | #96ffffff |   -   |   -         |  -  | | |
-| Roads              | #000000   |   -   |   -         |  -  | | |
-| Swamp              | #c8483010 |   3   |   #c87a6e46 |  16 | | |
-| Swamp 2            | #7a6e46   |   3   |   #665e3e   |  16 | | |
-| Town               | #c8ffffff |   1   |   #c8000000 |  18 | | |
-| Village            | #c8ffffff |   1   |   #c8000000 |  16 | | |
+#### Geography
+| Preset             |Text Color |Outline|Outline Color|Size |
+|:-------------------|:---------:|:-----:|:-----------:|:---:|
+| Bay, Channel, Etc  | #32ffffff |   -   |   -         |  24 |
+| Continent          | #9c000000 |   -   |   -         | 128 |
+| Desert             | #7d000000 |   3   |   #7dab9262 |  24 |
+| Forest (Broadleaf) | #c8000000 |   3   |   #c8ccbe99 |  18 |
+| Forest (Dark/Dead) | #c8000000 |   3   |   #c85f5543 |  18 |
+| Forest (Evergreen) | #c8000000 |   3   |   #c8505633 |  18 |
+| Island             | #9c000000 |   -   |   -         |  18 |
+| Island Chain       | #9c000000 |   -   |   -         |  36 |
+| Lake / Pond        | #32ffffff |   -   |   -         |  16 |
+| Mountains          | #c8000000 |   3   |   #c8918775 |  24 |
+| Mountains (Snow)   | #c8000000 |   3   |   #c8e2e1e1 |  24 |
+| Ocean, Sea         | #32ffffff |   -   |   -         | 128 |
+| Plain              | #c84c4a21 |   3   |   #c8989367 |  18 |
+| Plain (Snow)       | #c8000000 |   3   |   #c8e0dad6 |  18 |
+| Point of Interest  | #000000   |   -   |   -         |  16 |
+| River, Creek, Etc  | #96ffffff |   -   |   -         |  -  |
+| Roads              | #000000   |   -   |   -         |  -  |
+| Swamp              | #c8483010 |   3   |   #c87a6e46 |  16 |
+| Swamp 2            | #7a6e46   |   3   |   #665e3e   |  16 |
+{.gray}
+
+
+
+(print-page)
+
+
+
+#### Settlements
+| Preset             |Text Color |Outline|Outline Color|Size |
+|:-------------------|:---------:|:-----:|:-----------:|:---:|
+| Capital            | #c8ffffff |   1   |   #c8000000 |  24 |
+| City               | #c8ffffff |   1   |   #c8000000 |  20 |
+| Town               | #c8ffffff |   1   |   #c8000000 |  18 |
+| Village            | #c8ffffff |   1   |   #c8000000 |  16 |
 {.gray}
 
 ***Note:** Font sizes scale when creating detail maps based on the scale factor. Keep this in mind and adjust detail map fonts to match the new scale.*
@@ -154,7 +169,11 @@ Paths are used to denote the major roads and trails in the world. I use the path
 #### Tracing
 In addition to drawing roads using the above settings, I trace each road with the dirt color to help blend them into the countryside. The brush size is relatively small, a little wider than the path, and the opacity is set very low. The trace should be barely perceptible. I will make the trace a little darker for main roads and very light for trails and less-travelled paths. I also add a good deal of this trace around settlements, crossroads, and river crossings.
 
+
+
 (print-page)
+
+
 
 ## Overlays
 The use and style of overlays is a highly personal choice. The following settings are what I have used, but can just as easily be changed to suit your personal tastes. They are included for the purpose of replicating what I have done if you're creating your own versions or companion maps.
@@ -191,6 +210,12 @@ The numbers are approximate distances for the various dimensions of a hexagon. T
 
 ***Note:** The scale of the Wildemount map in the Explorer's Guide to Wildemount is different than the scale of the Tal'Dorei map used in this atlas. I started working on my maps years before the EGtW map came out and I'm sticking with the original map from the Tal'Dorei Campaign Setting Guide as my reference. The differences are minor and should not affect gameplay in any way.*
 
+
+
+(print-page)
+
+
+
 ### Title Blocks
 The title blocks for all maps use the **IM Fell English Italic** font with a base color of **#282828** and a highlight color of **#732828**. The boxes use a background color of **#919191** and the style **Double Line Opaque**.
 
@@ -210,6 +235,12 @@ The font sizes for the different elements in my title blocks are:
 #### Highlighting
 Wonderdraft does not support different font colors or sizes in the same label. In order to create the initial capital highlight you must put a label over a label. You simply create the word you want in the base color and then create another label in the highlight color. You then need to position the new label over the base label. It takes some work, but it is not difficult. You cannot control the layer the label is on, but Wonderdraft simple puts new labels over old labels. Simply create your highlights last.
 
+
+
+(print-page)
+
+
+
 ## Maps
 All of the maps in this map pack were created to match real-world dimensions for the purpose of printing. The supported dimensions are:
 
@@ -228,6 +259,12 @@ The sizes of the included maps vary depending on the area being depicted. While 
 - **Digital**: The dimensions of the base digital image created from a 2x export of the Wonderdraft file.
 - **Wonderdraft**: The working resolution of the map used in the Wonderdraft application. 
 {.square}
+
+
+
+(print-page)
+
+
 
 ### Map Sizes
 The following table includes the settings used to create the detail maps from the master world map and the resulting dimensions for each map. 
@@ -254,17 +291,3 @@ The following table includes the settings used to create the detail maps from th
 | -- Xhorhas                |   6x  | 4450x870  | 550x850 | 3300x5100 |  6600x10200 |
 | -- Zemni Fields           |   6x  | 3600x550  | 850x550 | 5100x3300 | 10200x6600  |
 {.gray}
-
-##### Draft Complete
-- Exandria
-- Taldorei
-- Wildemount
-- Alabaster Sierras
-- Bladeshimmer Shoreline
-
-##### Final Complete
-
-
-
-
-
