@@ -1,144 +1,6 @@
-### Alabaster Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
-^Type:^ **^Coastal^** ^-^ ^Danger:^ **^Medium^**
 
-The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay is offers very little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
-With most shipping traffic turning east for [Icehaven](icehaven) or [Balenpost](balenpost), very few ships bother to turn west into the Alabaster Bay. 
-
-
-
-### Alabaster Sierra Range
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-
-^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^**
-
-Named for their chalk-white color, the mountains of the Alabaster Sierras stretch over three hundred miles along the eastern edge of the [Alabaster Peninsula](alabaster-sierras). The mountains rise out of the [Parchwood Timberland](parchwood-timberland) in the south, run along the western shore of the [Alabaster Bay](alabaster-bay), and wrap around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
-
-Infused with magical energy, the [white stone](/item/white-stone) from which the mountains get their name is a hot commodity in arcane circles. While the raw stone has some magical properties, it's arcane power is greatly enhanced once it has been refined into a green, glass-like substance called [residuum](/item/residuum). Both are lucrative exports and an important source of income for the entire region.
-
-While not nearly as large as the massive [Cliffkeeps](cliffkeep-mountain-range) to the west, the Alabaster Sierras are every bit as dangerous. [Behirs](/monster/behir), [harpies](/monster/harpy), and [wyverns](/monster/wyvern) are a constant threat to individuals that roam too far into the jagged peaks, as are the [stone giants](/monster/stone-giant) that call the many hidden valleys of the Sierras home. Largely content to give the people of [Whitestone](whitestone) a wide berth, conflicts are becoming more common as settlers push east and north into giant lands.
-
-
-
-(print-column)
-
-
-
-### Alabaster Trail
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-
-**^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
-
-The Alabaster Trail is small road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
-
-Travel on the trail is extremely dangerous. While the northern and southern ends are well patrolled by the Pale Guard and Shields of the Plains respectively, travelers attempting the journey are advised to travel by caravan. 
-
-[Bandits](/monster/bandit), [gnolls](/monster/gnoll) and [orcs](/monster/orcs) are a constant threat on the southern end of the trail, but even they avoid the stretch through the forest. Lycans, dire beasts, and undead creatures are an ever-present threat on the road through the [Parchwood](parchwood-timberland).
-
-##### Travel
-Most travel into and out of the region is by land along the [Alabaster Trail](alabaster-trail). Traveling cross-country is very dangerous and rarely beneficial.
-
-- [Whitestone](whitestone) to [Turst Fields](turst-fields) - 360 mi., 12 days
-{.square}
-
-
-
-### Dawnmist Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-
-**^Type:^** ^Coastal^ ^&^ ^Forest^ ^-^ **^Danger:^** ^Low^
-
-Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
-
-Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range) to the west, the Dawnmist Bay, like the nearby [forest](dawnmist-pine) of the same name, is often obscured by a thick fog well into midday.
-
-Life on and under the surface of the Dawnmist Bay is relatively quiet. The waters are too isolated and cold for sharks and piracy is unheard of given the bay's complete lack of any ports or shipping. While attacks are rare, local fishers are occassionaly harrassed by [killer whales](/monster/killer-whale) and some have reported seeing a large, sea monster they've nicknamed, "[Misty](/monster/plesiosaurus)."
-
-
-
-(print-page)
-
-
-
-### Parchwood Bay
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-
-**^Type:^** ^Coastal^ ^&^ ^Forest^ ^-^ **^Danger:^** ^High^
-
-The Parchwood Bay is a large, island-choked bay that forms the western side of the perilous [Shearing Channel](shearing-channel) that separates the continents of [Tal'Dorei](tal'dorei) and [Wildemount](wildemount).
-
-While the bay seems like a great place to ride out one of the many storms that plague the [channel](shearing-channel), it is not without it's dangers. The bay is a maze of heavily [forested](parchwood-timberland) islands and rocky shoals that make navigating difficult in even the best of conditions. 
-
-Like the surrounding [Parchwood Timberland](parchwood-timberland), the bay is seemingly cursed with lycanthropy and undeath. Crew unlucky enough to survive a shipwreck are often beset and turned by the inhabitants of the forest. Combined with the natural dangers, few captains will risk sailing more than a few hundred yards off the main channel.
-
-
-
-### Parchwood Timberland
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-
-**^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
-
-Dominating the northeastern corner of [Tal'Dorei](taldorei) is the dark and dense Parchwood Timberland. A massive forest, wild and untamed, few that venture into the wood are ever heard from again. Travelers are warned to travel by caravan and not to stray from the [Alabaster Trail](alabaster-trail) while travelling between [Whitestone](whitestone) and [Turst Fields](turst-fields).
-
-The Parchwood Timberland is an extremely dangerous forest that teems with monstrosities, undead, lycans, and corrupted plant-life. Even the [gnolls](gnolls) of eastern [Tal'Dorei](taldorei), like the Dustpaw, Moonsteeth and Priest-Eaters stick to the southern edge of the forest.
-
-The southern edge of the forest marks the southern boundary between the [Alabaster Sierras](alabaster-sierras) in the north and the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south.
-
-
-
-(print-column)
-
-
-
-### Salted Bluffs
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-
-**^Type:^** ^Coastal^ ^&^ ^Mountain^ ^-^ **^Danger:^** ^High^
-
-The Salted Bluffs are towering, white cliffs that form the northern shore of the [Alabaster Peninsula](alabaster-peninsula). Stretching from the [Alabaster Bay](alabaster-bay) in the east to the [Dawnmist Bay](dawnmist-bay) in the west, the Salted Bluffs are a rough, network of towering spires, hidden coves, and caves.
-
-Rounding the [peninsula](alabaster-peninsula) is dangerous. Rough seas, strong winds, and the occassional pirate, brave enough to work the [Frigid Depths](frigid-depths) and hide amongst the countless caves have taught most captains to give the bluffs a wide berth and to be ready for anything.
-
-Also lending to the danger of sailing too close to the bluffs are the [harpies](/monster/harpy), [griffins](/monster/griffin) and [wyverns](/monster/wyvern) that make their nests in the high cliff faces.
-
-
-
-### Shearing Channel
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-
-**^Type:^** ^Coastal^ ^&^ ^Underwater^ ^-^ **^Danger:^** ^High^
-
-The Shearing Channel is a narrow, tumultous channel that seperates the continents of [Tal'Dorei](taldorei) and [Wildemount](wildemount). The channel is less than 60 miles wide at it's narrowest point and roughly 300 miles from the temperate [Lucidian Ocean](lucidian-ocean) to the icy [Frigid Depths](frigid-depths).
-
-While the traversing the channel should take no more than three days, ships can spend as much as a week fighting violent storms and shifting currents before emerging on the other side. While few captains are willing to brave the channel, there is a lot of coin to be earned shipping raw materials and finished goods to the ports of [Balenpost](balenpost) and [Syrinla](syrinla) in [Eiselcross](eiselcross).
-
-
-
-(print-page)
-
-
-
-### Upper Mooren River Run
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-
-**^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
-
-The Upper Mooren River Run is a long, fast-moving river that stretches over 600 miles from the northern tip of the [Alabaster Peninsula](alabaster-sierras) to [Mooren Lake](mooren-lake) on the [Lucidian Coast](lucidian-coast). 
-
-The river forms high in the [Alabaster Sierras](alabaster-sierra-range) where a number of smaller streams coalesce and head southward past the city of [Whitestone](whitestone) and into the [Parchwood Timberland](parchwood-timberland). As the river heads south through the forest, it is joined by more streams descending from the [Sierras](alabaster-sierra-range) to the east until the river becomes a frothing torrent of water. 
-
-It eventually slows as the land levels and the river widens when it emerges from the [Parchwood](parchwood-timberland) in the [Dividing Plain](dividing-plains) east of [Turst Fields](turst-fields). From there, the river turns east and empties into [Mooren Lake](mooren-lake) in the town of [Drynna](drynna).
-
-The Upper Mooren River Run is barely navigable. There are numerous falls and intense rapids at various points along the river and few are brave enough to attempt the trip. It is most certainly a one-way trip with travel up-river impossible by non-magical means.
-
-> The portions of the Mooren River Run above & below [Mooren Lake](mooren-lake) are very different. I have created a seperate entry for the [Lower section](lower-mooren-river-run) under the [Lucidian Coast](lucidian-coast).
-> 
-> \- *Farland* {.text-right}
->
-> ![Wax Stamp F](assets/img/wax-stamp-f.png =90x90){.center}
-<!-- {blockquote:.flavortext} -->
 
 
 
@@ -160,6 +22,264 @@ The city's relatively small size and renewed prosperity have helped keep crime l
 
 
 (print-page)
+
+
+
+### Alabaster Bay
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+^Type:^ **^Coastal^** ^-^ ^Danger:^ **^Medium^**
+
+The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
+
+With most shipping traffic turning east for [Icehaven](icehaven) or [Balenpost](balenpost), very few ships bother to turn west into the Alabaster Bay. 
+
+##### Encounters {.screen-only}
+| ([d8](/roll/1d8)) |||
+|:---|:---|
+| 1 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 2 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 3 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 4 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 5 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 6 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 8 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+{.gray .screen-only}
+
+
+
+### Alabaster Sierra Range
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^**
+
+Named for their chalk-white color, the mountains of the Alabaster Sierras stretch over three hundred miles along the eastern edge of the [Alabaster Peninsula](alabaster-sierras). The mountains rise out of the [Parchwood Timberland](parchwood-timberland) in the south, run along the western shore of the [Alabaster Bay](alabaster-bay), and wrap around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
+
+While not nearly as large as the massive [Cliffkeeps](cliffkeep-mountain-range) to the west, the Alabaster Sierras are every bit as dangerous. [Behirs](/monster/behir), [harpies](/monster/harpy), and [wyverns](/monster/wyvern) are a constant threat to individuals that roam too far into the jagged peaks, as are the [stone giants](/monster/stone-giant) that call the many hidden valleys of the Sierras home. Largely content to give the people of [Whitestone](whitestone) a wide berth, conflicts are becoming more common as settlers push east and north into giant lands.
+
+##### Encounters {.screen-only}
+| ([d8](/roll/1d8)) |||
+|:---|:---|
+| 1 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 2 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 3 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 4 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 5 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 6 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 8 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+{.gray .screen-only}
+
+
+
+### Alabaster Trail
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+**^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
+
+The Alabaster Trail is small road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
+
+Travel on the trail is extremely dangerous. While the northern and southern ends are well patrolled by the Pale Guard and Shields of the Plains respectively, travelers attempting the journey are advised to travel by caravan. 
+
+[Bandits](/monster/bandit), [gnolls](/monster/gnoll) and [orcs](/monster/orcs) are a constant threat on the southern end of the trail, but even they avoid the stretch through the forest. Lycans, dire beasts, and undead creatures are an ever-present threat on the road through the [Parchwood](parchwood-timberland).
+
+| ~Route~ | ~Miles~ | ~Days~ |
+|:---------------------------------------------------------|:---:|:--:|
+| [Whitestone](whitestone) to [Turst Fields](turst-fields) | 360 | 12 |
+{.gray}
+
+##### Encounters {.screen-only}
+| ([d8](/roll/1d8)) |||
+|:---|:---|
+| 1 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 2 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 3 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 4 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 5 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 6 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 8 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+{.gray .screen-only}
+
+
+
+### Dawnmist Bay
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+**^Type:^** ^Coastal^ ^&^ ^Forest^ ^-^ **^Danger:^** ^Low^
+
+Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
+
+Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range) to the west, the Dawnmist Bay, like the nearby [forest](dawnmist-pine) of the same name, is often obscured by a thick fog well into midday.
+
+##### Encounters {.screen-only}
+| ([d8](/roll/1d8)) |||
+|:---|:---|
+| 1 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 2 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 3 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 4 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 5 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 6 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 8 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+{.gray .screen-only}
+
+
+
+### Parchwood Bay
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+**^Type:^** ^Coastal^ ^&^ ^Forest^ ^-^ **^Danger:^** ^High^
+
+The Parchwood Bay is a large, island-choked bay that forms the western side of the perilous [Shearing Channel](shearing-channel) that separates the continents of [Tal'Dorei](tal'dorei) and [Wildemount](wildemount).
+
+While the bay seems like a great place to ride out one of the many storms that plague the [channel](shearing-channel), it is not without it's dangers. The bay is a maze of heavily [forested](parchwood-timberland) islands and rocky shoals that make navigating difficult in even the best of conditions. 
+
+Like the surrounding [Parchwood Timberland](parchwood-timberland), the bay is seemingly cursed with lycanthropy and undeath. Crew unlucky enough to survive a shipwreck are often beset and turned by the inhabitants of the forest. Combined with the natural dangers, few captains will risk sailing more than a few hundred yards off the main channel.
+
+##### Encounters {.screen-only}
+| ([d8](/roll/1d8)) |||
+|:---|:---|
+| 1 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 2 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 3 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 4 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 5 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 6 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 8 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+{.gray .screen-only}
+
+
+
+(print-page)
+
+
+
+### Parchwood Timberland
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+**^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
+
+Dominating the northeastern corner of [Tal'Dorei](taldorei) is the dark and dense Parchwood Timberland. A massive forest, wild and untamed, few that venture into the wood are ever heard from again. Travelers are warned to travel by caravan and not to stray from the [Alabaster Trail](alabaster-trail) while travelling between [Whitestone](whitestone) and [Turst Fields](turst-fields).
+
+The southern edge of the forest marks the southern boundary between the [Alabaster Sierras](alabaster-sierras) in the north and the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south.
+
+The Parchwood Timberland is an extremely dangerous forest that teems with monstrosities, undead, lycans, and corrupted plant-life. Even the [gnolls](gnolls) of eastern [Tal'Dorei](taldorei), like the Dustpaw, Moonsteeth and Priest-Eaters stick to the southern edge and rarely venture far into the forest in search of food.
+
+##### Encounters {.screen-only}
+| ([d8](/roll/1d8)) |||
+|:---|:---|
+| 1 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 2 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 3 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 4 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 5 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 6 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 8 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+{.gray .screen-only}
+
+
+
+### Salted Bluffs
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+**^Type:^** ^Coastal^ ^&^ ^Mountain^ ^-^ **^Danger:^** ^High^
+
+The Salted Bluffs are towering, white cliffs that form the northern shore of the [Alabaster Peninsula](alabaster-peninsula). Stretching from the [Alabaster Bay](alabaster-bay) in the east to the [Dawnmist Bay](dawnmist-bay) in the west, the Salted Bluffs are a rough, network of towering spires, hidden coves, and caves.
+
+Rounding the [peninsula](alabaster-peninsula) is dangerous. Rough seas, strong winds, and the occassional pirate, brave enough to work the [Frigid Depths](frigid-depths) and hide amongst the countless caves have taught most captains to give the bluffs a wide berth and to be ready for anything.
+
+Also lending to the danger of sailing too close to the bluffs are the [harpies](/monster/harpy), [griffins](/monster/griffin) and [wyverns](/monster/wyvern) that make their nests in the high cliff faces.
+
+##### Encounters {.screen-only}
+| ([d8](/roll/1d8)) |||
+|:---|:---|
+| 1 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 2 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 3 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 4 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 5 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 6 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 8 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+{.gray .screen-only}
+
+
+
+(print-column)
+
+
+
+### Shearing Channel
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+**^Type:^** ^Coastal^ ^&^ ^Underwater^ ^-^ **^Danger:^** ^High^
+
+The Shearing Channel is a narrow, tumultous channel that seperates the continents of [Tal'Dorei](taldorei) and [Wildemount](wildemount). The channel is less than 60 miles wide at it's narrowest point and roughly 300 miles from the temperate [Lucidian Ocean](lucidian-ocean) to the icy [Frigid Depths](frigid-depths).
+
+While the traversing the channel should take no more than three days, ships can spend as much as a week fighting violent storms and shifting currents before emerging on the other side. While few captains are willing to brave the channel, there is a lot of coin to be earned shipping raw materials and finished goods to the ports of [Balenpost](balenpost) and [Syrinlya](syrinlya) in [Eiselcross](eiselcross).
+
+##### Encounters {.screen-only}
+| ([d8](/roll/1d8)) |||
+|:---|:---|
+| 1 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 2 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 3 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 4 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 5 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 6 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 8 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+{.gray .screen-only}
+
+### Upper Mooren River Run
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+**^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
+
+The Upper Mooren River Run is a long, fast-moving river that stretches over 600 miles from the northern tip of the [Alabaster Peninsula](alabaster-sierras) to [Mooren Lake](mooren-lake) on the [Lucidian Coast](lucidian-coast). 
+
+The river forms high in the [Alabaster Sierras](alabaster-sierra-range) where a number of smaller streams coalesce and head southward past the city of [Whitestone](whitestone) and into the [Parchwood Timberland](parchwood-timberland). As the river heads south through the forest, it is joined by more streams descending from the [Sierras](alabaster-sierra-range) to the east until the river becomes a frothing torrent of water. 
+
+It eventually slows as the land levels and the river widens when it emerges from the [Parchwood](parchwood-timberland) in the [Dividing Plain](dividing-plains) east of [Turst Fields](turst-fields). From there, the river turns east and empties into [Mooren Lake](mooren-lake) in the town of [Drynna](drynna).
+
+The Upper Mooren River Run is barely navigable. There are numerous falls and intense rapids at various points along the river and few are brave enough to attempt the trip. It is most certainly a one-way trip with travel up-river impossible by non-magical means.
+
+##### Encounters {.screen-only}
+| ([d8](/roll/1d8)) |||
+|:---|:---|
+| 1 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 2 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 3 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 4 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 5 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 6 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+| 8 | Lorem ipsum dolor set unum ubiquitus secunda veres decimus trajan scipius africanus vici. |
+{.gray .screen-only}
+
+> The portions of the Mooren River Run above & below [Mooren Lake](mooren-lake) are very different. I have created a seperate entry for the [Lower section](lower-mooren-river-run) under the [Lucidian Coast](lucidian-coast).
+> 
+> \- *Farland* {.text-right}
+>
+> ![Wax Stamp F](assets/img/wax-stamp-f.png =90x90){.center}
+<!-- {blockquote:.flavortext} -->
+
+
+
+(print-page)
+
+
+
+### Whitestone
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+
+**^Population:^** ^4,230^ ^-^ **^Area:^** ^69^ ^Acres^
+
+The city of [Whitestone](whitestone) is located in the far northeastern corner of [Tal'Dorei](taldorei) on the [Alabaster Peninsula](alabaster-sierras). The city lies at the base of the [Alabaster Sierras](alabaster-sierra-range) in a wide valley where the mountains wrap around the northern tip of the peninsula. The massive [Parchwood Timberland](parchwood-timberland) completely surrounds the city and it is connected to the rest of [Tal'Dorei](taldorei) by the [Alabaster Trail](alabaster-trail).
+
+##### Administration
+The city-state of [Whitestone](whitestone) is governed by a ruling council called the Chamber of Whitestone. The council is led by the head of the de Rolo family and the six remaining members are chosen from local nobility and community leaders.
+
+The Chamber of Whitestone meets in [Castle Whitestone](castle-whitestone).
+
+##### Crime
+The city's relatively small size and renewed prosperity have helped keep crime low, but the city's resurgence has attracted the attention of the Clasp and Myriad. The criminal syndicates are beginning to establish connections in the city, but neither has officially set up shop.
 
 
 
@@ -225,6 +345,9 @@ The people of [Whitestone](whitestone) are tough. The city was founded by the de
 The chief export and the foundation of [Whitestone's](whitestone) economy is the magically-infused "[white stone](/item/white-stone)" and it's green, glass-like by product [residuum](residuum). Raw materials like timber, stone, and non-precious metals are also exported in large quantity.
 
 [Whitestone](whitestone) is a major importer of food from the farming and fishing communities of [Turst Fields](turst-fields) and [Drynna](drynna) in eastern [Tal'Dorei](taldorei).
+
+
+
 
 #### Altar of the Raven
 

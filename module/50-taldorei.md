@@ -659,7 +659,15 @@ The dominant factions in the region are:
 
 ##### Geography
 The prominent geographical features in the region are:
-- Geography
+- [Feshun Narrows](feshun-narrows)
+- [Feshun River](feshun-river)
+- [Gladepools](gladepools)
+- [Lake Ywnnlas](lake-ywnnlas)
+- [Mirescar](mirescar)
+- [Orencleft](orencleft)
+- [Tormor Falls](tormor-falls)
+- [Vues'dal River](vuesdal-river)
+- [Vues'dal Waters](vuesdal-waters)
 {.square}
 
 ##### Religion
