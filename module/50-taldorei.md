@@ -58,7 +58,7 @@ The region has a **humid continental climate (Dfb)** with long, cold winters wit
 {.gray}
 
 ##### Demographics
-While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, the remote corners of the [Parchwood](parchwood-timberland) are home to a number of gnoll, orc, and centaur tribes while the [Sierras](alabaster-sierra-range) are home to goblin, kobold, and stone giant clans.
+While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, [gnolls](/monster/gnoll), [orcs](/monster/orc), [kobolds](/monster/kobold), [goblins](/monster/goblin) and [stone giants](/monster/stone-giant) are quite common throughout the region.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
@@ -110,6 +110,24 @@ The major settlements in the region are:
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
+
+##### Factions
+- None
+{.square}
+
+##### Flora & Fauna
+
+##### Landmarks
+- None
+{.square}
+
+##### Settlements
+- None
+{.square}
+
+##### Structures
+- None
+{.square}
 
 The Alabaster Bay is largely untouched by commercial fishing and has a rich ecosystem. Colonies of seals can be found all along the western shore and the bay is a popular hunting ground for [killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion). 
 
