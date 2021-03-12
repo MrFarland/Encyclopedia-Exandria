@@ -44,7 +44,7 @@ The continent of Tal'Dorei is divided into the following eight regions:
 
 Located in the northeast corner of the continent, the Alabaster Sierras are named for the chalk-white [mountains](alabaster-sierra-range) that run the length of the Alabaster Peninsula. While named for the [Alabaster Sierra range](alabaster-sierra-range), it is the massive [Parchwood Timberland](parchwood-timberland) that truly dominates the region.
 
-While the region is bordered to the south by the [Dividing Plains](dividing-plains) and the [Lucidian Coast](lucidian-coast), the rest of the region is surrounded by water. The [Alabaster Bay](alabaster-bay) and [Dawnmist Bay](dawnmist-bay) frame the main peninsula, while the [Shearing Channel](shearing-channel) and [Lucidian Ocean](lucidian-ocean) cut the region off from the continent of [Wildemount](wildemount) to the east.
+The region is bordered by the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south and by water to the east, north, and west. The [Alabaster](alabaster-bay) and [Dawnmist Bays](dawnmist-bay) frame the peninsula and the [Shearing Channel](shearing-channel) separates the region from the continent of [Wildemount](wildemount) to the east.
 
 ##### Climate
 The region has a **humid continental climate (Dfb)** with long, cold winters with plenty of snowfall. Summers are warm, but short with a fair amount of rain.
@@ -62,8 +62,8 @@ While the city of [Whitestone](whitestone) and surrounding villages are predomin
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| Human      | 68% | Dwarf      | 6%  | Kobold     |  3% |
-| Halfling   |  6% | Goblin     | 4%  | Other      |  9% |
+| Human      | 68% | Halfling   | 6%  | Kobold     |  3% |
+| Dwarf      |  6% | Goblin     | 4%  | Other      |  9% |
 {.gray}
 
 (print-column)
@@ -72,7 +72,6 @@ While the city of [Whitestone](whitestone) and surrounding villages are predomin
 The dominant factions in the region are:
 - **Chamber of Whitestone**. Governs the city of [Whitestone](whitestone) and the surrounding countryside.
 - **Pale Guard**. Guard the city of [Whitestone](whitestone), the surrounding area and northern [Alabaster Trail](alabaster-trail).
-- **Whitestone Riflemen**. Firearm equipped guards that protect [Castle Whitestone](castle-whitestone) & the de Rolo family.
 {.square}
 
 ##### Geography
@@ -109,35 +108,30 @@ The major settlements in the region are:
 ### Alabaster Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
+**^Type:^** ^Coastal^ ^&^ ^Aquatic^ ^-^ **^Danger:^** ^Normal^
+
 The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
-The Alabaster Bay is largely untouched by commercial fishing and has a rich ecosystem. Colonies of seals can be found all along the western shore and the bay is a popular hunting ground for [killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion). 
+##### Flora & Fauna
+**^Food:^** ^Abundant^ ^-^ **^Water:^** ^None^
 
-Beneath the surface, a large kelp forest is home to one of [Exandria's](exandria) largest species of [crabs](/monster/giant-crab).
+The bay is rich in marine life with lots of fish and colonies of seals can be found all along the western shore. Drawn by the seals, [killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) are a common sight in the bay. Likewise, [harpies](/monster/harpy) and [wyverns](/monster/wyvern) from the [Sierras](alabaster-sierra-range) find the seals an easy meal.
 
-##### Climate
-##### Factions
-##### Fauna
-##### Flora
-##### Hazards
-##### Landmarks
-##### Languages
-##### Religion
-##### Settlements
-##### Structures
-##### Travel
-
+Beneath the surface, [chuul](/monster/chuul) and [giant crabs](/monster/giant-crab) scavenge the sea floor, but will gladly climb aboard any ship that wanders into the bay.
 
 
 
 ### Alabaster Sierra Range
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
+**^Type:^** ^Mountain^ ^-^ **^Danger:^** ^High^
+
 Named for their chalk-white color, the mountains of the Alabaster Sierras stretch over three hundred miles along the eastern edge of the [Alabaster Peninsula](alabaster-sierras). The mountains rise out of the [Parchwood Timberland](parchwood-timberland) in the south, run along the western shore of the [Alabaster Bay](alabaster-bay), and wrap around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
 
-While the [Parchwood Timberland](parchwood-timberland) is teeming with both plant and animal life, the rocky Sierras become increasingly more barren with every step. Small herds of [goats](/monster/goat) roam the lower elevations and [mountain lions](/monster/panther) are a real threat to goats and unwary travelers. [Harpies](/monster/harpy) and [wyverns](/monster/wyvern) nest in the higher elevations and they are an ever present threat.
+##### Flora & Fauna
+**^Food:^** ^Limited^ ^-^ **^Water:^** ^Abundant^
 
-While there are no known permanent settlements in the Sierras, the mountains are home to a number of [goblin](/monster/goblin), [kobold](/monster/kobold), and [stone giant](/monster/stone-giant) clans. Most are very territorial and do not tolerate trespassers.
+While the [Parchwood Timberland](parchwood-timberland) is teeming with both plant and animal life, the rocky Sierras become increasingly more barren with every step. Small herds of [goats](/monster/goat) roam the lower elevations as do the [mountain lions](/monster/panther) that hunt them. [Harpies](/monster/harpy) and [wyverns](/monster/wyvern) nest in the higher elevations and travelers are wise to keep an eye on the sky at all times.
 
 
 
@@ -148,11 +142,12 @@ While there are no known permanent settlements in the Sierras, the mountains are
 ### Alabaster Trail
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
+**^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
+
 The Alabaster Trail is a small road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
 
+##### Travel
 Travel on the trail is extremely dangerous. While the northern and southern ends are well patrolled by the Pale Guard and Shields of the Plains respectively, travelers attempting the journey are advised to travel by caravan. 
-
-[Bandits](/monster/bandit), [gnolls](/monster/gnoll) and [orcs](/monster/orcs) are a constant threat on the southern end of the trail, but even they avoid the stretch through the forest. Lycans, dire beasts, and undead creatures are an ever-present threat on the road through the [Parchwood](parchwood-timberland).
 
 | ~Route~ | ~Miles~ | ~Days~ |
 |:---------------------------------------------------------|:---:|:--:|
