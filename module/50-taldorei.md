@@ -116,31 +116,6 @@ The major settlements in the region are:
 
 The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
-##### Encounters
-**^Type:^** ^Coastal^ ^&^ ^Aquatic^ ^-^ **^Danger:^** ^Normal^
-
-1. Tier 1
-2. Tier 1
-3. Tier 1
-4. Tier 2
-5. Tier 2
-6. Tier 2
-7. Tier 3
-8. Tier 3
-9. Tier 3
-10. Tier 4
-11. Tier 4
-12. Tier 4
-
-##### Environment
-- **Extreme Cold**. [DC10](/roll/1d20) CON / hour
-- **Frigid Water**. [DC10](/roll/1d20) CON / min after CON mins
-{.square}
-
-##### Foraging
-**^Food:^** ^Abundant^ ^-^ **^Water:^** ^Rare^
-
-The bay is rich in various species of fish, mollusks, and [crabs](/monster/crab). Fresh water is only by collecting precipitation.
 
 
 ### Alabaster Sierra Range
@@ -148,62 +123,12 @@ The bay is rich in various species of fish, mollusks, and [crabs](/monster/crab)
 
 Named for their chalk-white color, the Alabaster Sierras stretch three hundred miles along the western shore of the [Alabaster Bay](alabaster-bay) and around the northern tip where they form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
 
-##### Dangers
-**^Type:^** ^Mountain^ ^-^ **^Danger:^** ^High^
-
-The Sierras are home to monsters of all kinds, but is best known for the [harpies](/monster/harpy) and [wyverns](/monster/wyvern) that nest in the peaks.
-
-The [stone giant](/monster/stone-giant) clans give the people of [Whitestone](whitestone) a wide berth, but do not tolerate trespassers.
-
-
-(print-column)
-
-
-##### Environment
-Extreme weather is a constant threat in the Sierras with **Heavy Precipitation** and **Strong Wind** a year-round threat with **Extreme Cold** during the winter months. 
-
-##### Flora & Fauna
-**^Food:^** ^Limited^ ^-^ **^Water:^** ^Abundant^
-
-Remarkably barren 
-Only the most rugged plants and animals live in the rocky Sierras. [Goats](/monster/goat) and [elk](/monster/elk) feed on the hardy grasses and berries that grow here and [mountain lions](/monster/panther) feed on them.
-
-##### Landmarks
-The following landmarks can be found in this area:
-- [Dawnfather Peak](dawnfather-peak)
-{.square}
-
-##### Travel
-Traversing the rocky, jagged peaks of the Alabaster Sierras is not recommended without an experienced guide and climbing gear. 
-
-
-
-#### Dawnfather Peak
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Alabaster^ ^Sierra^ ^Range^](alabaster-sierra-range)
-
-While not the largest mountain in the [Alabaster Sierras](alabaster-sierras), Dawnfather Peak is a prominent landmark to the people of [Whitestone](whitestone). The bright white stone face of the mountain shines brightly as the morning sun rises above the mountains to the east of the city.
-
 
 
 ### Alabaster Trail
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 The Alabaster Trail is a small road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
-
-##### Dangers 
-**^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
-
-Aggressive tribes of [orcs](/monster/orc), [gnolls](/monster/gnoll), and [bandits](/monster/bandit) regularly prey on travelers on the southern end of the road, but even they are too afraid to venture far into the [Parchwood](parchwood-timberland) where lycans, undead and dire beasts lurk.
-
-(print-page)
-
-##### Flora & Fauna
-**^Food:^** ^Abundant^ ^-^ **^Water:^** ^Abundant^
-
-The lush [Parchwood Timberand](parchwood-timberland) threatens to overtake the trail with every turn and 
-
-##### Travel
-Travel on the trail is extremely dangerous. While the northern and southern ends are well patrolled by the Pale Guard and Shields of the Plains respectively, travelers attempting the journey are advised to travel by caravan. 
 
 | ~Route~ | ~Miles~ | ~Days~ |
 |:---------------------------------------------------------|:---:|:--:|
@@ -217,32 +142,12 @@ Travel on the trail is extremely dangerous. While the northern and southern ends
 
 Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
 
-##### Dangers 
-**^Type:^** ^Coastal^ ^&^ ^Aquatic^ ^-^ **^Danger:^** ^Normal^
-
-Sightings of a large sea creature, the locals have nicknamed "[Misty](/monster/plesiosaurus)" are becoming more common, but nobody has seen it well enough to determine what it is.
-
-##### Environment
-The bay is named for the heavy banks of **Fog** that roll in off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range) making navigation difficult.
-
-##### Flora & Fauna
-**^Food:^** ^Abundant^ ^-^ **^Water:^** ^Rare^
-
-The Dawnmist Bay is a popular breeding ground for whales and calves are a common sight in the winter months. Lush undergrown kelp forests cover much of the bay's floor.
-
-
-
-(print-column)
 
 
 ### Parchwood Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
-The Parchwood Bay is a large, island-choked bay that forms the western side of the perilous [Shearing Channel](shearing-channel) that separates the continents of [Tal'Dorei](tal'dorei) and [Wildemount](wildemount).
-
-While the bay seems like a great place to ride out one of the many storms that plague the [channel](shearing-channel), it is not without it's dangers. The bay is a maze of heavily [forested](parchwood-timberland) islands and rocky shoals that make navigating difficult in even the best of conditions. 
-
-Like the surrounding [Parchwood Timberland](parchwood-timberland), the bay is seemingly cursed with lycanthropy and undeath. Crew unlucky enough to survive a shipwreck are often beset and turned by the inhabitants of the forest. Combined with the natural dangers, few captains will risk sailing more than a few hundred yards off the main channel.
+The Parchwood Bay is an island-choked bay on the west side of the [Shearing Channel](shearing-channel) that separates [Tal'Dorei](tal'dorei) and [Wildemount](wildemount). While the bay seems like a great place to ride out a storm, the bay is a maze of heavily [forested](parchwood-timberland) islands and shoals that make navigating difficult. 
 
 
 
@@ -251,10 +156,6 @@ Like the surrounding [Parchwood Timberland](parchwood-timberland), the bay is se
 
 Dominating the northeastern corner of [Tal'Dorei](taldorei) is the dark and dense Parchwood Timberland. A massive forest, wild and untamed, few that venture into the wood are ever heard from again. Travelers are warned to travel by caravan and not to stray from the [Alabaster Trail](alabaster-trail) while travelling between [Whitestone](whitestone) and [Turst Fields](turst-fields).
 
-The southern edge of the forest marks the southern boundary between the [Alabaster Sierras](alabaster-sierras) in the north and the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south.
-
-The Parchwood Timberland is an extremely dangerous forest that teems with monstrosities, undead, lycans, and corrupted plant-life. Even the [gnolls](gnolls) of eastern [Tal'Dorei](taldorei), like the Dustpaw, Moonsteeth and Priest-Eaters stick to the southern edge and rarely venture far into the forest in search of food.
-
 
 
 ### Salted Bluffs
@@ -262,20 +163,14 @@ The Parchwood Timberland is an extremely dangerous forest that teems with monstr
 
 The Salted Bluffs are towering, white cliffs that form the northern shore of the [Alabaster Peninsula](alabaster-peninsula). Stretching from the [Alabaster Bay](alabaster-bay) in the east to the [Dawnmist Bay](dawnmist-bay) in the west, the Salted Bluffs are a rough, network of towering spires, hidden coves, and caves.
 
-Rounding the [peninsula](alabaster-peninsula) is dangerous. Rough seas, strong winds, and the occassional pirate, brave enough to work the [Frigid Depths](frigid-depths) and hide amongst the countless caves have taught most captains to give the bluffs a wide berth and to be ready for anything.
-
-Also lending to the danger of sailing too close to the bluffs are the [harpies](/monster/harpy), [griffins](/monster/griffin) and [wyverns](/monster/wyvern) that make their nests in the high cliff faces.
-
 
 
 ### Shearing Channel
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
-**^Type:^** ^Coastal^ ^&^ ^Underwater^ ^-^ **^Danger:^** ^High^
+The Shearing Channel is a narrow channel that seperates the continents of [Tal'Dorei](taldorei) and [Wildemount](wildemount). The channel is less than 60 miles wide at it's narrowest point and roughly 300 miles from the temperate [Lucidian Ocean](lucidian-ocean) to the icy [Frigid Depths](frigid-depths).
 
-The Shearing Channel is a narrow, tumultous channel that seperates the continents of [Tal'Dorei](taldorei) and [Wildemount](wildemount). The channel is less than 60 miles wide at it's narrowest point and roughly 300 miles from the temperate [Lucidian Ocean](lucidian-ocean) to the icy [Frigid Depths](frigid-depths).
-
-While the traversing the channel should take no more than three days, ships can spend as much as a week fighting violent storms and shifting currents before emerging on the other side. While few captains are willing to brave the channel, there is a lot of coin to be earned shipping raw materials and finished goods to the ports of [Balenpost](balenpost) and [Syrinlya](syrinlya) in [Eiselcross](eiselcross).
+While the traversing the channel should take no more than three days, ships can spend as much as a week fighting violent storms and shifting currents before emerging on the other side. 
 
 
 
@@ -284,17 +179,16 @@ While the traversing the channel should take no more than three days, ships can 
 
 The Upper Mooren River Run is a long, fast-moving river that stretches over 600 miles from the northern tip of the [Alabaster Peninsula](alabaster-sierras) to [Mooren Lake](mooren-lake) on the [Lucidian Coast](lucidian-coast). 
 
-The river forms high in the [Alabaster Sierras](alabaster-sierra-range) where a number of smaller streams coalesce and head southward past the city of [Whitestone](whitestone) and into the [Parchwood Timberland](parchwood-timberland). As the river heads south through the forest, it is joined by more streams descending from the [Sierras](alabaster-sierra-range) to the east until the river becomes a frothing torrent of water. 
+While the river is navigable by canoe or kayak, the travel is very dangerous with numerous rapids and falls along the way. Regardless, it is possible for those willing to undertake the trip.
 
-It eventually slows as the land levels and the river widens when it emerges from the [Parchwood](parchwood-timberland) in the [Dividing Plain](dividing-plains) east of [Turst Fields](turst-fields). From there, the river turns east and empties into [Mooren Lake](mooren-lake) in the town of [Drynna](drynna).
+| ~Route~ | ~Miles~ | ~Days~ |
+|:---------------------------------------------------------|:---:|:--:|
+| [Whitestone](whitestone) to [Drynna](Drynna) | 540 | 18 |
+{.gray}
 
 
 
 (print-page)
-
-
-
-The Upper Mooren River Run is barely navigable. There are numerous falls and intense rapids at various points along the river and few are brave enough to attempt the trip. It is most certainly a one-way trip with travel up-river impossible by non-magical means.
 
 
 
@@ -303,28 +197,22 @@ The Upper Mooren River Run is barely navigable. There are numerous falls and int
 
 **^Population:^** ^4,230^ ^-^ **^Area:^** ^69^ ^Acres^
 
-The city of [Whitestone](whitestone) is located in the far northeastern corner of [Tal'Dorei](taldorei) on the [Alabaster Peninsula](alabaster-sierras). The city lies at the base of the [Alabaster Sierras](alabaster-sierra-range) in a wide valley where the mountains wrap around the northern tip of the peninsula. The massive [Parchwood Timberland](parchwood-timberland) completely surrounds the city and it is connected to the rest of [Tal'Dorei](taldorei) by the [Alabaster Trail](alabaster-trail).
+The city of [Whitestone](whitestone) is located in northeast [Tal'Dorei](taldorei) on the [Alabaster Peninsula](alabaster-sierras). The city lies at the base of the [Alabaster Sierras](alabaster-sierra-range) where the mountains wrap around the northern tip of the peninsula.
 
 ##### Administration
-The city-state of [Whitestone](whitestone) is governed by the Chamber of Whitestone. The council is led by the head of the de Rolo family and the six remaining members are chosen from local nobility and community leaders.
+The city-state of [Whitestone](whitestone) is governed by the Chamber of Whitestone, which is led by the head of the de Rolo family and the six high-ranking members of the community.
 
 ##### Crime
 The city's relatively small size and renewed prosperity have helped keep crime low, but the city's resurgence has attracted the attention of the Clasp and Myriad. 
 
 ##### Demographics
-While not very diverse, the people of [Whitestone](whitestone) are tolerant and welcoming. The city was largely rebuilt by refugees from [Emon](emon) at a time when the city was still recovering from the oppresive reign of the Briarwoods. 
+While not diverse, the people of [Whitestone](whitestone) are tolerant and welcoming. The city was founded by refugees and rebuilt by more refugees from [Emon](emon) after the reign of the Briarwoods. 
 
 |||||||
 |:---|:---:|:---|:---:|:---|:---:|
 | Human    | 83% | Dwarf    |  6% | Gnome    |  1% | 
 | Halfling |  7% | Tiefling |  1% | Other    |  2% |
 {.gray}
-
-
-
-(print-column)
-
-
 
 ##### Defenses
 The city is surrounded by a large, stone wall with heavy gates on all roads leading into the city. [Castle Whitestone](castle-whitestone) stands on a large hill overlooking the city.
@@ -335,6 +223,22 @@ The city is surrounded by a large, stone wall with heavy gates on all roads lead
 {.square}
 
 In addition to the traditional defenses, the city is protected by an [Illusory Barrier](illusory-barrier) that hides the city from above.
+
+##### Society
+The people of Whitestone value independence and self-reliance, but have come to appreciate the value of becoming more open and interconnected with the rest of the continent.
+
+
+
+(print-column)
+
+
+
+##### Trade & Industry
+The chief export and the foundation of Whitestone's economy is the quarrying of "[white stone](/item/white-stone)" and it's green, glass-like by-product [residuum](residuum). 
+
+[Whitestone](whitestone) is a major importer of food from the farming and fishing communities of [Turst Fields](turst-fields) and [Drynna](drynna) in eastern [Tal'Dorei](taldorei).
+
+
 
 ##### Districts
 
@@ -369,31 +273,46 @@ In addition to the traditional defenses, the city is protected by an [Illusory B
 
 
 
-##### Society
-The people of Whitestone value independence and self-reliance, but have come to appreciate the value of becoming more open and interconnected with the rest of the continent.
-
-##### Trade & Industry
-The chief export and the foundation of Whitestone's economy is the quarrying of "[white stone](/item/white-stone)" and it's green, glass-like by-product [residuum](residuum). Raw materials like timber, stone, and non-precious metals are also exported in large quantity.
-
-[Whitestone](whitestone) is a major importer of food from the farming and fishing communities of [Turst Fields](turst-fields) and [Drynna](drynna) in eastern [Tal'Dorei](taldorei).
-
-
-
 #### Altar of the Raven
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+
 
 #### Arsenal of Fear
-The [Arsenal of Fear](arsenal-of-fear) is a shop located on the south side of Dawnfather Square. The shop is owned and operated by 
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+The Arsenal of Fear is a weaponsmith's shop located on the northeast corner of Dawnfather Square in the city of [Whitestone](whitestone). The shop specializes in swordsmithing, but makes other bladed weapons as well.
+
+The shop is a free-standing, two-story building with a traditional [Whitestonian](whitestone) design with a worked stone first floor and timber-framed second story. The forge is half-inside, half-outside at the back of the building to allow the smith to work in relative comfort in the cold winter months. The second floor is the proprietor's personal residence.
+
+##### Occupants
+| ~Name~          | ~Race~   |~GI~|~Age~| ~Role~          |
+|:----------------|:---------|:--:|:---:|:----------------|
+| Orianna Fear    | Tiefling |  F | 40s | Owner           |
+| Thomas Llewelyn | Human    |  M | 40s | Manager, Spouse |
+| Calianna        | Tiefling |  F | 12  | Helper, Child   |
+{.gray}
+
+
+
 
 #### Castle Whitestone
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
 #### Estate of the Mistress of the Grey Hunt
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
 The [Estate of the Mistress of the Grey Hunt](estate-of-the-mistress-of-the-grey-hunt) was briefly the personal residence of Vex'halia Vessar prior to her marriage to Percival de Rolo and their moving into [Castle Whitestone](castle-whitestone). The residence is now the headquarters of the Grey Hunt, the group of rangers tasked with patrolling the surrounding [Parchwood Timberland](parchwood-timberland) and protecting the people of [Whitestone](whitestone) from the monsters that roam within.
 
 The estate is a grand manor located in the southeastern corner of the city between the city's main gate and the east gate to the Greyfields. The house originally belonged to one of [Whitestone's](whitestone) noble families prior to the Briarwood occupation. The family was executed by the Briarwoods and the estate given to one of their loyal lieutenants. After the fall of the Briarwoods, the manor was restored by the de Rolos and given to Vex'halia by Percival de Rolo.
 
 #### Illusory Barrier
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
 
 #### Lady's Chamber
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
 The [Lady's Chambers](ladys-chambers), or the House of the Lawbearer, is the temple to Erathis in the city of [Whitestone](whitestone). Located on the west side of the Common Ward near the west gate, the [Lady's Chambers](ladys-chambers) is a small temple with a large, open-air courtyard and ampitheater.
 
 The head of the temple is called the "Keeper" and they often serve as a member of the Chamber of Whitestone.
@@ -407,9 +326,49 @@ The head of the temple is called the "Keeper" and they often serve as a member o
 The temple has 1 [Priest](/monster/priest), 3 [Acolytes](/monster/acolyte) and a handful of attendants and lay clergy that help out around the temple.
 
 #### Paleguard Barracks
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+
+
 #### Sun Tree
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+The Sun Tree is a massive oak tree located in the heart of Dawnfather Square in the city of [Whitestone](whitestone). It is a couple of stories tall and its leaves are vibrant orange, red, and yellow year-round. The tree is a major landmark in the city and an integral part of the city's identity and soul. 
+
+##### History
+The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **Tharizdun the Chained Oblivion** nearly killed **Ioun the Knowing Mistress**. The tree stands directly above a lost [temple](ziggurat-of-whitestone) to **Ioun**.
+
+
+
 #### Zenith
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+The Zenith is a temple to **Pelor the Dawn Father** in the Greyfields ward of [Whitestone](whitestone). The temple is made of stone and stained glass windows depict classic imagery of **Pelor**. A large wooden wreath of fire is carved into the heavy wooden doors at the front of the temple.
+
+Inside wooden pews line either side of the main aisle and three 10' wide stained glass windows line each side. A large stone altar stands on a small raised platform in the back. Doors lead to two small rooms on either side of the temple. 
+
+###### Occupants
+| Name | Race | Gender | Age | Class |
+|:-----|:-----|:-------|:----|:------|
+|  |  |  |  | [Priest](/monster/priest) |
+|  |  |  |  | [Acolyte](/monster/acolyte) |
+|  |  |  |  | [Acolyte](/monster/acolyte) |
+|  |  |  |  | [Acolyte](/monster/acolyte) |
+{.gray}
+
+
+
 #### Ziggurat of Whitestone
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+The Ziggurat of Whitestone is an ancient temple to **Ioun the Knowing Mistress** that was coated in [residuum](/item/residuum) and corrupted by the Briarwoods to aid in the acension of **Vecna the Whispered One** to godhood. 
+
+###### History
+The Ziggurat was once a great temple to **Ioun the Knowing Mistress**, but exactly when it was constructed is unknown. During the Calamity, the temple was the location of a terrible battle between **Tharizdun the Chained Oblivion** and **Ioun** in which she was very nearly fatally wounded. After the battle, the temple sank into the ground and was forgotten, by all but **Pelor the Dawn Father**. He planted the [Sun Tree](sun-tree) directly above the ziggurat to mark its location and honor her valor.
+ 
+
+
+
 
 (print-page)
 
