@@ -34,7 +34,11 @@ The continent of Tal'Dorei is divided into the following eight regions:
 
 ![Alabaster Sierras](assets/img/MrFarland-Exandria_800-2_region-alabaster_sierras-3300x2550-rotated.jpg){.size-full .print-only}
 
+
+
 (print-page)
+
+
 
 ![Alabaster Sierras](assets/img/MrFarland-Exandria_800-2_region-alabaster_sierras-3300x2550.jpg){.size-cover .screen-only}
 ## Alabaster Sierras
@@ -58,7 +62,7 @@ The region has a **humid continental climate (Dfb)** with long, cold winters wit
 {.gray}
 
 ##### Demographics
-While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, [gnolls](/monster/gnoll), [orcs](/monster/orc), [kobolds](/monster/kobold), [goblins](/monster/goblin) and [stone giants](/monster/stone-giant) are quite common throughout the region.
+While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, [gnolls](/monster/gnoll), [orcs](/monster/orc), [kobolds](/monster/kobold), [goblins](/monster/goblin) and [stone giants](/monster/stone-giant) are common throughout the region.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
@@ -66,7 +70,9 @@ While the city of [Whitestone](whitestone) and surrounding villages are predomin
 | Dwarf      |  6% | Goblin     | 4%  | Other      |  9% |
 {.gray}
 
+
 (print-column)
+
 
 ##### Factions
 The dominant factions in the region are:
@@ -108,43 +114,93 @@ The major settlements in the region are:
 ### Alabaster Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
-**^Type:^** ^Coastal^ ^&^ ^Aquatic^ ^-^ **^Danger:^** ^Normal^
-
 The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
-##### Flora & Fauna
-**^Food:^** ^Abundant^ ^-^ **^Water:^** ^None^
+##### Encounters
+**^Type:^** ^Coastal^ ^&^ ^Aquatic^ ^-^ **^Danger:^** ^Normal^
 
-The bay is rich in marine life with lots of fish and colonies of seals can be found all along the western shore. Drawn by the seals, [killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) are a common sight in the bay. Likewise, [harpies](/monster/harpy) and [wyverns](/monster/wyvern) from the [Sierras](alabaster-sierra-range) find the seals an easy meal.
+1. Tier 1
+2. Tier 1
+3. Tier 1
+4. Tier 2
+5. Tier 2
+6. Tier 2
+7. Tier 3
+8. Tier 3
+9. Tier 3
+10. Tier 4
+11. Tier 4
+12. Tier 4
 
-Beneath the surface, [chuul](/monster/chuul) and [giant crabs](/monster/giant-crab) scavenge the sea floor, but will gladly climb aboard any ship that wanders into the bay.
+##### Environment
+- **Extreme Cold**. [DC10](/roll/1d20) CON / hour
+- **Frigid Water**. [DC10](/roll/1d20) CON / min after CON mins
+{.square}
 
+##### Foraging
+**^Food:^** ^Abundant^ ^-^ **^Water:^** ^Rare^
+
+The bay is rich in various species of fish, mollusks, and [crabs](/monster/crab). Fresh water is only by collecting precipitation.
 
 
 ### Alabaster Sierra Range
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
+Named for their chalk-white color, the Alabaster Sierras stretch three hundred miles along the western shore of the [Alabaster Bay](alabaster-bay) and around the northern tip where they form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
+
+##### Dangers
 **^Type:^** ^Mountain^ ^-^ **^Danger:^** ^High^
 
-Named for their chalk-white color, the mountains of the Alabaster Sierras stretch over three hundred miles along the eastern edge of the [Alabaster Peninsula](alabaster-sierras). The mountains rise out of the [Parchwood Timberland](parchwood-timberland) in the south, run along the western shore of the [Alabaster Bay](alabaster-bay), and wrap around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
+The Sierras are home to monsters of all kinds, but is best known for the [harpies](/monster/harpy) and [wyverns](/monster/wyvern) that nest in the peaks.
+
+The [stone giant](/monster/stone-giant) clans give the people of [Whitestone](whitestone) a wide berth, but do not tolerate trespassers.
+
+
+(print-column)
+
+
+##### Environment
+Extreme weather is a constant threat in the Sierras with **Heavy Precipitation** and **Strong Wind** a year-round threat with **Extreme Cold** during the winter months. 
 
 ##### Flora & Fauna
 **^Food:^** ^Limited^ ^-^ **^Water:^** ^Abundant^
 
-While the [Parchwood Timberland](parchwood-timberland) is teeming with both plant and animal life, the rocky Sierras become increasingly more barren with every step. Small herds of [goats](/monster/goat) roam the lower elevations as do the [mountain lions](/monster/panther) that hunt them. [Harpies](/monster/harpy) and [wyverns](/monster/wyvern) nest in the higher elevations and travelers are wise to keep an eye on the sky at all times.
+Remarkably barren 
+Only the most rugged plants and animals live in the rocky Sierras. [Goats](/monster/goat) and [elk](/monster/elk) feed on the hardy grasses and berries that grow here and [mountain lions](/monster/panther) feed on them.
+
+##### Landmarks
+The following landmarks can be found in this area:
+- [Dawnfather Peak](dawnfather-peak)
+{.square}
+
+##### Travel
+Traversing the rocky, jagged peaks of the Alabaster Sierras is not recommended without an experienced guide and climbing gear. 
 
 
 
-(print-column)
+#### Dawnfather Peak
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Alabaster^ ^Sierra^ ^Range^](alabaster-sierra-range)
+
+While not the largest mountain in the [Alabaster Sierras](alabaster-sierras), Dawnfather Peak is a prominent landmark to the people of [Whitestone](whitestone). The bright white stone face of the mountain shines brightly as the morning sun rises above the mountains to the east of the city.
 
 
 
 ### Alabaster Trail
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
+The Alabaster Trail is a small road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
+
+##### Dangers 
 **^Type:^** ^Forest^ ^-^ **^Danger:^** ^Very^ ^High^
 
-The Alabaster Trail is a small road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
+Aggressive tribes of [orcs](/monster/orc), [gnolls](/monster/gnoll), and [bandits](/monster/bandit) regularly prey on travelers on the southern end of the road, but even they are too afraid to venture far into the [Parchwood](parchwood-timberland) where lycans, undead and dire beasts lurk.
+
+(print-page)
+
+##### Flora & Fauna
+**^Food:^** ^Abundant^ ^-^ **^Water:^** ^Abundant^
+
+The lush [Parchwood Timberand](parchwood-timberland) threatens to overtake the trail with every turn and 
 
 ##### Travel
 Travel on the trail is extremely dangerous. While the northern and southern ends are well patrolled by the Pale Guard and Shields of the Plains respectively, travelers attempting the journey are advised to travel by caravan. 
@@ -161,14 +217,22 @@ Travel on the trail is extremely dangerous. While the northern and southern ends
 
 Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
 
-Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range) to the west, the Dawnmist Bay, like the nearby [forest](dawnmist-pine) of the same name, is often obscured by a thick fog well into midday.
+##### Dangers 
+**^Type:^** ^Coastal^ ^&^ ^Aquatic^ ^-^ **^Danger:^** ^Normal^
 
-The Dawnmist Bay is a quiet, secluded body of water that serves as a warmer retreat for a wide range of marine life. It is a popular breeding ground for various whales and calves are a common sight in the winter months.
+Sightings of a large sea creature, the locals have nicknamed "[Misty](/monster/plesiosaurus)" are becoming more common, but nobody has seen it well enough to determine what it is.
+
+##### Environment
+The bay is named for the heavy banks of **Fog** that roll in off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range) making navigation difficult.
+
+##### Flora & Fauna
+**^Food:^** ^Abundant^ ^-^ **^Water:^** ^Rare^
+
+The Dawnmist Bay is a popular breeding ground for whales and calves are a common sight in the winter months. Lush undergrown kelp forests cover much of the bay's floor.
 
 
 
-(print-page)
-
+(print-column)
 
 
 ### Parchwood Bay
