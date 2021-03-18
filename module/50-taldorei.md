@@ -116,6 +116,21 @@ The major settlements in the region are:
 
 The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
+##### Dangers
+^Type:^ **^Coastal^** ^&^ **^Aquatic^** ^-^ ^Danger:^ **^Normal^**
+
+[Giant Crabs](/monster/giant-crab) and [Chuul](/monster/chuul) climb aboard ships and [harpies](/monster/harpy) and [wyverns](/monster/wyvern) attack those that pass too close to the [Sierras](alabaster-sierra-range).
+
+##### Environment
+The following environmental hazards can be encountered in this area:
+- **Extreme Cold**. [DC10](/roll/1d20) CON/hr of exposure
+- **Frigid Water**. [DC10](/roll/1d20) CON/min after CON mins
+
+##### Flora & Fauna
+^Food:^ **^Abundant^** ^-^ ^Water:^ **^Rare^**
+
+The Alabaster Bay is home to numerous species of fish and marine mammals. Colonies of seals can be found all along the western shore as can the [killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) that hunt them.
+
 
 
 ### Alabaster Sierra Range
@@ -244,6 +259,7 @@ The chief export and the foundation of Whitestone's economy is the quarrying of 
 
 **Castle Ward**. Home to [Castle Whitestone](castle-whitestone), this ward is located on the north side of the city atop a large hill.
 - [Castle Whitestone](castle-whitestone)
+- [Whitestone Riflemen Barracks](whitestone-riflemen-barracks)
 {.square}
 
 **Common Ward**. The largest of city's wards, this working class neighborhood is located on the south side of the city.
@@ -276,38 +292,110 @@ The chief export and the foundation of Whitestone's economy is the quarrying of 
 #### Altar of the Raven
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+The Altar of the Raven is a small shrine to the **Raven Queen** located behind the [Zenith](zenith) temple to **Pelor** in the Greyfields of [Whitestone](whitestone).
+
+The shrine was constructed ~815 P.D. by Lord Percival Fredrickstein von Musel Klossowski de Rolo III for Vax'ildan Vessar, champion of the Raven Queen, and brother to his future wife, Lady Vex'ahlia (Vessar) de Rolo. 
+
+##### Occupants
+The Altar of the Raven has no full-time clergy.
+
 
 
 #### Arsenal of Fear
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
-The Arsenal of Fear is a weaponsmith's shop located on the northeast corner of Dawnfather Square in the city of [Whitestone](whitestone). The shop specializes in swordsmithing, but makes other bladed weapons as well.
+The Arsenal of Fear is a weaponsmith's shop located on the southeast corner of Dawnfather Square in the city of [Whitestone](whitestone). The shop specializes in swordsmithing, but makes other bladed weapons as well.
 
 The shop is a free-standing, two-story building with a traditional [Whitestonian](whitestone) design with a worked stone first floor and timber-framed second story. The forge is half-inside, half-outside at the back of the building to allow the smith to work in relative comfort in the cold winter months. The second floor is the proprietor's personal residence.
 
 ##### Occupants
-| ~Name~          | ~Race~   |~GI~|~Age~| ~Role~          |
-|:----------------|:---------|:--:|:---:|:----------------|
-| Orianna Fear    | Tiefling |  F | 40s | Owner           |
-| Thomas Llewelyn | Human    |  M | 40s | Manager, Spouse |
-| Calianna        | Tiefling |  F | 12  | Helper, Child   |
-{.gray}
+- **Orianna Fear** (Tiefling, F, 40s) - Owner/Smith
+- **Thomas Llewelyn** (Human, M, 40s) - Manager/Spouse
+- **Calianna Fear** (Tiefling, F, 12) - Assistant/Child
+{.square}
 
+##### Services
+Coming Soon
+
+
+
+#### Bhevek's Whispers
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+Bhevek's Whispers is a magical shop and enchanter located on the west side of Dawnfather Square in the city of [Whitestone](whitestone). The shop is located on the end of a row of shops and is three stories tall. The first floor is split in half by a large counter with most of the items, safely out of reach from the customers. A heavy green curtain hides the enchanter's work space from the main shop and stairs that lead upwards.
+
+Like a mage's tower, the shop is considerably larger than the outside would indicate. Only Bhevek knows how many floors and chambers there are inside and he doesn't let just anyone behind the counter.
+
+##### Occupants
+- **Bhevek Arvanel** (Elf, M, 90s) - [Archmage](/monster/archmage)
+{.square}
+
+##### Services
+Coming Soon
+
+
+
+
+#### Black Oak Inn
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+The Black Oak Inn is a large, three-story inn located on the north side of Dawnfather Square in the city of [Whitestone](whitestone). The inn is the nicest inn in the city and is used by the de Rolo family to put up honored guests, not quite honored enough to stay at the [Castle](castle-whitestone).
+
+The inn is well-made with an expertly carved stone first floor with the second and third floor framed in dark oak timber. The common room is large with a massive stone hearth on the far wall and a large polished, dark oak bar. Guest rooms facing the square have a great view of the [Sun Tree](sun-tree) and small, balconies that overlook the square. The rooms on the back of the inn are cheaper with standard windows and have a view of the [Castle](castle-whitestone).
+
+##### Occupants
+- **James Black** (Human, M, 60s) - Owner
+- **Marion Black** (Human, F, 50s) - Owner
+- **Elias Black** (Human, M, 20s) - Barkeep
+- **Hanna Greenbough** (Halfling, F, 20s) - Waiter
+- **Earl Greenbough** (Halfling, M, Teens) - Bellhop
+- **Talia Illevial** (Elf, F, 50s) - Cook
+{.square}
+
+##### Services
+Coming Soon
 
 
 
 #### Castle Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+Castle Whitestone (or Whitestone Castle) is a large, fortified keep on a large hill overlooking the north side of the [city](whitestone). The road from the north gate winds its way up the hill to the walled courtyard protecting the keep's main entrance. 
+
+(print-page)
+
+The ground floor of the keep houses the meeting chambers for the **Chamber of Whitestone**, a dining hall, study, and various other chambers for hosting guests and administering to the business of the city. The large central keep is home to the de Rolo family and their honored guests. Attached to the castle, on the east side are the [barracks](whitestone-riflemen-barracks) for the **Whitestone Riflemen**, an elite, firearm-equipped force tasked with protecting **House de Rolo** and the **Chamber of Whitestone**.
+
+Beneath the castle are the private crypts for the de Rolo family, the dungeons, and various store rooms. It is rumored that there is a secret passage that leads out of the castle to the east side of the hill.
+
+##### Occupants
+- ?
+{.square}
+
+
+
 #### Estate of the Mistress of the Grey Hunt
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
-The [Estate of the Mistress of the Grey Hunt](estate-of-the-mistress-of-the-grey-hunt) was briefly the personal residence of Vex'halia Vessar prior to her marriage to Percival de Rolo and their moving into [Castle Whitestone](castle-whitestone). The residence is now the headquarters of the Grey Hunt, the group of rangers tasked with patrolling the surrounding [Parchwood Timberland](parchwood-timberland) and protecting the people of [Whitestone](whitestone) from the monsters that roam within.
+This estate was briefly the personal residence of Vex'ahlia Vessar prior to her marriage to Percival de Rolo and their moving into [Castle Whitestone](castle-whitestone). The residence is now the headquarters of the **Grey Hunt**, a group of rangers tasked with patrolling the surrounding [Parchwood](parchwood-timberland) and protecting the people of [Whitestone](whitestone) from the monsters that roam within.
 
-The estate is a grand manor located in the southeastern corner of the city between the city's main gate and the east gate to the Greyfields. The house originally belonged to one of [Whitestone's](whitestone) noble families prior to the Briarwood occupation. The family was executed by the Briarwoods and the estate given to one of their loyal lieutenants. After the fall of the Briarwoods, the manor was restored by the de Rolos and given to Vex'halia by Percival de Rolo.
+##### Occupants
+- ?
+{.square}
+
+
 
 #### Illusory Barrier
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+The Illusory Barrier is collection of five obelisks around the city of [Whitestone](whitestone) designed to shield the city from above. When all five obelisks are powered by arcane energy, at the same time, they create a dome-like illusion causing the city to appear as unspoiled wilderness from above.
+
+**Powering the Barrier**. An arcane spellcaster must expend 1 spell slot for 2 hours of illusion in each obelisk. Multiple casters are recommended due to the geographic dispersion and toll it takes on the casters. For every spell level sacrificed within a 24 hour period, the caster suffers 1 point of exhaustion.
+
+
+
+(print-column)
+
 
 
 #### Lady's Chamber
@@ -315,18 +403,28 @@ The estate is a grand manor located in the southeastern corner of the city betwe
 
 The [Lady's Chambers](ladys-chambers), or the House of the Lawbearer, is the temple to Erathis in the city of [Whitestone](whitestone). Located on the west side of the Common Ward near the west gate, the [Lady's Chambers](ladys-chambers) is a small temple with a large, open-air courtyard and ampitheater.
 
-The head of the temple is called the "Keeper" and they often serve as a member of the Chamber of Whitestone.
+The head of the temple is called the "Keeper" and they often serve as a member of the **Chamber of Whitestone**.
 
-#### Occupants
-| Name                   | Race            | Gender | Age | Class                     |                             |
-|:-----------------------|:----------------|:-------|:----|---------------------------|
-| Lorelei de Rolo Desnay | [Human](humans) | Female | 60s | [Priest](/monster/priest) |
-{.gray}
+##### Occupants
+- **Lorelei de Rolo Desnay** (Human, F, 60s) - [Keeper](/monster/priest)
+- ? () - [Acolyte](/monster/acolyte)
+- ? () - [Acolyte](/monster/acolyte)
+- ? () - [Acolyte](/monster/acolyte)
+{.square}
 
-The temple has 1 [Priest](/monster/priest), 3 [Acolytes](/monster/acolyte) and a handful of attendants and lay clergy that help out around the temple.
+##### Services
+Coming Soon
 
-#### Paleguard Barracks
+
+
+#### Pale Guard Barracks
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+Located in the northeast corner of the Northern Ward of [Whitestone](whitestone), the Pale Guard Barracks is the administrtive and training center for the guard force that protects the city of [Whitestone](whitestone). While called a barracks, the majority of the force reside in their own homes with a small, rotating detatchment stationed at the barracks in the event of an emergency. The barracks also contains the administrative offices, a small jail, armory, and training facilities. 
+
+##### Occupants
+- ?
+{.square}
 
 
 
@@ -335,8 +433,22 @@ The temple has 1 [Priest](/monster/priest), 3 [Acolytes](/monster/acolyte) and a
 
 The Sun Tree is a massive oak tree located in the heart of Dawnfather Square in the city of [Whitestone](whitestone). It is a couple of stories tall and its leaves are vibrant orange, red, and yellow year-round. The tree is a major landmark in the city and an integral part of the city's identity and soul. 
 
-##### History
 The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **Tharizdun the Chained Oblivion** nearly killed **Ioun the Knowing Mistress**. The tree stands directly above a lost [temple](ziggurat-of-whitestone) to **Ioun**.
+
+
+
+(print-page)
+
+
+
+#### Whitestone Riflemen Barracks
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+Located on the east side of the [Castle Whitestone](castle-whitestone) complex are the barracks for the **Whitestone Riflemen**, an elite, firearm-equipped guard tasked with the defense of the castle, the de Rolo family and the **Chamber of Whitestone**. The barracks is home to half of the Riflemen's number at any one time and all of the supplies and support staff they need to withstand a short siege.
+
+##### Occupants
+- ?
+{.square}
 
 
 
@@ -347,14 +459,12 @@ The Zenith is a temple to **Pelor the Dawn Father** in the Greyfields ward of [W
 
 Inside wooden pews line either side of the main aisle and three 10' wide stained glass windows line each side. A large stone altar stands on a small raised platform in the back. Doors lead to two small rooms on either side of the temple. 
 
-###### Occupants
-| Name | Race | Gender | Age | Class |
-|:-----|:-----|:-------|:----|:------|
-|  |  |  |  | [Priest](/monster/priest) |
-|  |  |  |  | [Acolyte](/monster/acolyte) |
-|  |  |  |  | [Acolyte](/monster/acolyte) |
-|  |  |  |  | [Acolyte](/monster/acolyte) |
-{.gray}
+##### Occupants
+- ? () - [Priest](/monster/priest)
+- ? () - [Acolyte](/monster/acolyte)
+- ? () - [Acolyte](/monster/acolyte)
+- ? () - [Acolyte](/monster/acolyte)
+{.square}
 
 
 
@@ -363,10 +473,10 @@ Inside wooden pews line either side of the main aisle and three 10' wide stained
 
 The Ziggurat of Whitestone is an ancient temple to **Ioun the Knowing Mistress** that was coated in [residuum](/item/residuum) and corrupted by the Briarwoods to aid in the acension of **Vecna the Whispered One** to godhood. 
 
-###### History
 The Ziggurat was once a great temple to **Ioun the Knowing Mistress**, but exactly when it was constructed is unknown. During the Calamity, the temple was the location of a terrible battle between **Tharizdun the Chained Oblivion** and **Ioun** in which she was very nearly fatally wounded. After the battle, the temple sank into the ground and was forgotten, by all but **Pelor the Dawn Father**. He planted the [Sun Tree](sun-tree) directly above the ziggurat to mark its location and honor her valor.
  
-
+##### Occupants
+There are no permanent occupants, but researchers from the **Arcana Pansophical**, **Alabaster Lyceum**, and **Cobalt Soul** are frequent visitors.
 
 
 
