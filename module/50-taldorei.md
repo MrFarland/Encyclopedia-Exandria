@@ -122,14 +122,20 @@ The Alabaster Bay is a large bay located on the east side of the [Alabaster Peni
 [Giant Crabs](/monster/giant-crab) and [Chuul](/monster/chuul) climb aboard ships and [harpies](/monster/harpy) and [wyverns](/monster/wyvern) attack those that pass too close to the [Sierras](alabaster-sierra-range).
 
 ##### Environment
-The following environmental hazards can be encountered in this area:
-- **Extreme Cold**. [DC10](/roll/1d20) CON/hr of exposure
-- **Frigid Water**. [DC10](/roll/1d20) CON/min after CON mins
+During the winter months, **Extreme Cold** and the **Frigid Water** of the Alabaster Bay can be fatal to the unprepared.
 
 ##### Flora & Fauna
 ^Food:^ **^Abundant^** ^-^ ^Water:^ **^Rare^**
 
-The Alabaster Bay is home to numerous species of fish and marine mammals. Colonies of seals can be found all along the western shore as can the [killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) that hunt them.
+The Bay is home to various species of fish and colonies of seals can be found all along the western shore as can the [killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) that hunt them.
+
+##### Landmarks
+The following landmarks can be found in this area:
+- None
+{.square}
+
+##### Travel
+Travel on the bay is relatively easy compared to the wide-open [Frigid Depths](frigid-depths) and tumultuous [Shearing Channel](shearing-channel). Icebergs are uncommon, but not unheard of.
 
 
 
@@ -137,6 +143,45 @@ The Alabaster Bay is home to numerous species of fish and marine mammals. Coloni
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 Named for their chalk-white color, the Alabaster Sierras stretch three hundred miles along the western shore of the [Alabaster Bay](alabaster-bay) and around the northern tip where they form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
+
+
+(print-column)
+
+
+##### Dangers
+^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^**
+
+The mountains are home to a number of territorial [stone giant](/monster/stone-giant) clans and travelers are advised to respect their lands.
+
+In the higher elevations, [harpies](/monster/harpy) and [wyverns](/monster/wyvern make their nests and swoop down on unsuspecting travelers.
+
+##### Flora & Fauna
+^Food:^ **^Limited^** ^-^ ^Water:^ **^Abundant^**
+
+Unlike the surrounding [Parchwood Timberland](parchwood-timberland), little grows beyond the mountain's foothills. [Mountain goats](/monster/goat) and [elk](/monster/elk) graze on the few hardy trees and grasses that cling to the rocky peaks and [mountain lions](/monster/panther) feed on them.
+
+##### Landmarks
+The following landmarks can be found in this area:
+- [Dawnfather Peak](dawnfather-peak)
+{.square}
+
+##### Travel
+^Type:^ **^Difficult^**
+
+The Sierras are steep, jagged peaks that are difficult to traverse to all but the most experienced climbers. Anyone venturing far is advised to bring climbing gear and an experienced guide.
+
+
+
+#### Dawnfather Peak
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Alabaster^ ^Sierra^ ^Range^](alabaster-sierra-range)
+
+While Dawnfather Peak is not the tallest mountain in the [Alabaster Sierras](alabaster-sierra-range), it is the most well-known and recognizable. The mountain is located due west of [Whitestone](whitestone) near the end of the "hook" that extends a short way down the west side of the [Alabaster Peninsula](alabaster-sierras).
+
+The mountain is a tall, bald-headed peak made almost entirely of whitestone and the "Dawn Wall" shines brightly when the sun rises over the mountains to the east of the city. 
+
+
+
+(print-page)
 
 
 
