@@ -113,71 +113,57 @@ The major settlements in the region are:
 
 ### Alabaster Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+![Alabaster Bay](assets/img/geography-alabaster-bay.jpg)
+
+^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
 The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
 ##### Dangers
-^Type:^ **^Coastal^** ^&^ **^Aquatic^** ^-^ ^Danger:^ **^Normal^**
-
-[Giant Crabs](/monster/giant-crab) and [Chuul](/monster/chuul) climb aboard ships and [harpies](/monster/harpy) and [wyverns](/monster/wyvern) attack those that pass too close to the [Sierras](alabaster-sierra-range).
+[Killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) hunt seals along the western shore and [harpies](/monster/harpy) and [wyverns](/monster/wyvern) attack ships that get too close to the [Alabaster Sierras](alabaster-sierra-range).
 
 ##### Environment
-During the winter months, **Extreme Cold** and the **Frigid Water** of the Alabaster Bay can be fatal to the unprepared.
+During the winter months, **Extreme Cold** and **Frigid Water** can prove fatal for the unprepared.
 
-##### Flora & Fauna
+##### Foraging
 ^Food:^ **^Abundant^** ^-^ ^Water:^ **^Rare^**
 
-The Bay is home to various species of fish and colonies of seals can be found all along the western shore as can the [killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) that hunt them.
-
-##### Landmarks
-The following landmarks can be found in this area:
-- None
-{.square}
+Fish and crabs are plentiful and with the proper tools easy to catch. Fresh water is scarce.
 
 ##### Travel
-Travel on the bay is relatively easy compared to the wide-open [Frigid Depths](frigid-depths) and tumultuous [Shearing Channel](shearing-channel). Icebergs are uncommon, but not unheard of.
 
+Travel is usually uneventful, but winter storms, heavy fog, and the occassional iceberg blow in from the [Frigid Depths](frigid-depths).
 
-
-### Alabaster Sierra Range
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-
-Named for their chalk-white color, the Alabaster Sierras stretch three hundred miles along the western shore of the [Alabaster Bay](alabaster-bay) and around the northern tip where they form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
 
 
 (print-column)
 
 
+
+### Alabaster Sierra Range
+
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+![Alabaster Sierras](assets/img/geography-alabaster-sierras.jpg)
+
+^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Difficult^**
+
+Named for their chalk-white color, the Alabaster Sierra range stretches three hundred miles along the western shore of the [Alabaster Bay](alabaster-bay) and hook around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
+
 ##### Dangers
-^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^**
+[Giants](/monster/stone-giant), [goblins](/monster/goblin), [kobolds](/monster/kobold), and [orcs](/monster/orc) give the people of [Whitestone](whitestone) a wide berth, but do not tolerate trespassers.
 
-The mountains are home to a number of territorial [stone giant](/monster/stone-giant) clans and travelers are advised to respect their lands.
+[Harpies](/monster/harpy) and [wyverns](/monster/wyvern) nest in the mountain peaks and travelers must keep an eye on the skies at all times.
 
-In the higher elevations, [harpies](/monster/harpy) and [wyverns](/monster/wyvern make their nests and swoop down on unsuspecting travelers.
+##### Environment
+During the winter months, **Extreme Cold**, **Frigid Water** and blinding snowstorms are a common occurence as are rock slides and avalanches.
 
-##### Flora & Fauna
+##### Foraging
 ^Food:^ **^Limited^** ^-^ ^Water:^ **^Abundant^**
 
-Unlike the surrounding [Parchwood Timberland](parchwood-timberland), little grows beyond the mountain's foothills. [Mountain goats](/monster/goat) and [elk](/monster/elk) graze on the few hardy trees and grasses that cling to the rocky peaks and [mountain lions](/monster/panther) feed on them.
-
-##### Landmarks
-The following landmarks can be found in this area:
-- [Dawnfather Peak](dawnfather-peak)
-{.square}
+Food becomes harder to find the higher one gets, but cold, clear streams can be found throughout the mountains.
 
 ##### Travel
-^Type:^ **^Difficult^**
-
-The Sierras are steep, jagged peaks that are difficult to traverse to all but the most experienced climbers. Anyone venturing far is advised to bring climbing gear and an experienced guide.
-
-
-
-#### Dawnfather Peak
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Alabaster^ ^Sierra^ ^Range^](alabaster-sierra-range)
-
-While Dawnfather Peak is not the tallest mountain in the [Alabaster Sierras](alabaster-sierra-range), it is the most well-known and recognizable. The mountain is located due west of [Whitestone](whitestone) near the end of the "hook" that extends a short way down the west side of the [Alabaster Peninsula](alabaster-sierras).
-
-The mountain is a tall, bald-headed peak made almost entirely of whitestone and the "Dawn Wall" shines brightly when the sun rises over the mountains to the east of the city. 
+The Sierras are difficult to traverse and travelers are advised to bring climbing gear and an experienced guide.
 
 
 
@@ -187,64 +173,201 @@ The mountain is a tall, bald-headed peak made almost entirely of whitestone and 
 
 ### Alabaster Trail
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+![Alabaster Trail](assets/img/geography-alabaster-trail.jpg)
+
+^Type:^ **^Forest^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Normal^**
 
 The Alabaster Trail is a small road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
 
-| ~Route~ | ~Miles~ | ~Days~ |
-|:---------------------------------------------------------|:---:|:--:|
-| [Whitestone](whitestone) to [Turst Fields](turst-fields) | 360 | 12 |
-{.gray}
+##### Dangers
+[Bandits](/monster/bandit) and the more aggressive [orc](/monster/orc) and [gnoll](/monster/gnoll) tribes in the area are a constant threat on the southern end of the road, but even they avoid the stretch through [Parchwood](parchwood-timberland).
+
+##### Environment
+While the [forest](parchwood-timberland) provides some shelter from the elements, **extreme cold** and **heavy snow** are common in winter.
+
+##### Foraging
+^Food:^ **^Abundant^** ^-^ ^Water:^ **^Limited^**
+
+For much of it's length, edible plants, berries, and game can be found without a lot of effort. Fresh water is more scarce, with most streams near the road slow-moving and murky.
+
+##### Travel
+Travel on the Alabaster Trail is very dangerous and travelers are encouraged to travel in caravans and never at night.
+- [Whitestone](whitestone) to [Turst Fields](turst-fields) - (360 mi, 12d)
+{.square}
+
+
+
+(print-column)
 
 
 
 ### Dawnmist Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+![Dawnmist Bay](assets/img/geography-dawnmist-bay.jpg)
+
+^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
 Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
+
+##### Dangers
+A breeding ground for whales from the [Frigid Depths](frigid-depths), the bay is also home to a [sea monster](/monster/plesiosaurus) nicknamed "Misty".
+
+##### Environment
+The bay is named for the thick fog that often creeps in from the [Cliffkeeps](cliffkeep-mountain-range) to the west, **heavily obscuring** the bay.
+
+##### Foraging
+^Food:^ **^Abundant^** ^-^ ^Water:^ **^Rare^**
+
+The bay is home to a variety of fish and catching them is not difficult for anyone with the proper tools.
+
+##### Travel
+While the bay is often calm, the fog makes navigating difficult by hiding dangerous shoals and islands.
+
+
+
+(print-page)
 
 
 
 ### Parchwood Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+![Parchwood Bay](assets/img/geography-parchwood-bay.jpg)
+
+^Type:^ **^Underwater^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Difficult^**
 
 The Parchwood Bay is an island-choked bay on the west side of the [Shearing Channel](shearing-channel) that separates [Tal'Dorei](tal'dorei) and [Wildemount](wildemount). While the bay seems like a great place to ride out a storm, the bay is a maze of heavily [forested](parchwood-timberland) islands and shoals that make navigating difficult. 
+
+##### Dangers
+The Parchwood Bay is crawling with terrible creatures of the deep. Sailors have reported coming across [hags](/monster/sea-hag), [giant crabs](/monster/giant-crabs), ghost ships, and even a [kraken](/monster/kraken).
+
+##### Environment
+While the bay provides some shelter from the storms that plague the [Shearing Channel](shearing-channel), they rocky islands and shoals leave little room to manuever in a bad storm.
+
+##### Foraging
+^Food:^ **^Abundant^** ^-^ ^Water:^ **^Limited^**
+
+The bay is home to a vibrant marine ecosystem and many islands are rich with edible plants and wild game. Some of the larger islands have a source of fresh water.
+
+##### Travel
+Navigating the bay is difficult. The tall, forested islands, rocky shoals, and perpetually overcast weather make it hard to find the way out, once the [channel](shearing-channel) has been lost.
+
+
+
+(print-column)
 
 
 
 ### Parchwood Timberland
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+![Parchwood Timberland](assets/img/geography-parchwood-timberland.jpg)
 
-Dominating the northeastern corner of [Tal'Dorei](taldorei) is the dark and dense Parchwood Timberland. A massive forest, wild and untamed, few that venture into the wood are ever heard from again. Travelers are warned to travel by caravan and not to stray from the [Alabaster Trail](alabaster-trail) while travelling between [Whitestone](whitestone) and [Turst Fields](turst-fields).
+^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
+
+The Parchwood Timberland is a massive evergreen forest that dominates the entire northeastern corner of [Tal'Dorei](taldorei). The forest is an unholy combination of towering trees and a thick, almost impenetrable underbrush. 
+
+##### Dangers
+While the forest is home to countless woodland beasts, the Parchwood is best known for the dire beasts, undead, corrupted plants, and lycanthropes that dwell within.
+
+##### Environment
+Winters are hard in the Parchwood Timberland. **Extreme cold** and **heavy snow** are common in the winter months and well into spring.
+
+##### Foraging
+^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
+
+Edible plants, wild game, and fresh water are readily available in the Parchwood, but so are poisonous plants, dangerous beasts, and contaminated water.
+
+##### Travel
+Travelers are warned to stick to the [Alabaster Trail](alabaster-trail) on their way to and from the city of [Whitestone](whitestone) and to never stray from the trail. Those that do are rarely seen again.
+
+
+
+(print-page)
 
 
 
 ### Salted Bluffs
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+![Salted Bluffs](assets/img/geography-salted-bluffs.jpg)
 
-The Salted Bluffs are towering, white cliffs that form the northern shore of the [Alabaster Peninsula](alabaster-peninsula). Stretching from the [Alabaster Bay](alabaster-bay) in the east to the [Dawnmist Bay](dawnmist-bay) in the west, the Salted Bluffs are a rough, network of towering spires, hidden coves, and caves.
+^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
+
+The Salted Bluffs are white cliffs that wrap around the north end of the [Alabaster Peninsula](alabaster-peninsula). The Bluffs stretch from the [Alabaster Bay](alabaster-bay) in the east to the [Dawnmist](dawnmist-bay) in the west, the Salted Bluffs are a network of towering spires, hidden coves, and caves.
+
+##### Dangers
+The greatest danger in the Salted Bluffs come not from the water, but the sky. [Harpies](/monster/harpy), [wyverns](/monster/wyvern), and [griffons](/monster/griffon) all nest in the towering spires swoop down on unsuspecting prey.
+
+##### Environment
+The Salted Bluffs are blasted by surging tides and **strong winds** year-round and **extreme cold** and **frigid water** during the long, cold winters.
+
+##### Foraging
+^Food:^ **^Limited^** ^-^ ^Water:^ **^Rare^**
+
+Food and water are hard to come by in the Salted Bluffs. There are few edible plants in the area and harvesting fish is difficult in the powerful tide.
+
+##### Travel
+Travel of any kind is difficult near the Salted Bluffs. The rough tide, uneven ground, and strong winds make it difficult to navigate the area by boat, foot, or in the air.
+
+
+
+(print-column)
 
 
 
 ### Shearing Channel
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+![Shearing Channel](assets/img/geography-shearing-channel.jpg)
+
+^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
 The Shearing Channel is a narrow channel that seperates the continents of [Tal'Dorei](taldorei) and [Wildemount](wildemount). The channel is less than 60 miles wide at it's narrowest point and roughly 300 miles from the temperate [Lucidian Ocean](lucidian-ocean) to the icy [Frigid Depths](frigid-depths).
 
-While the traversing the channel should take no more than three days, ships can spend as much as a week fighting violent storms and shifting currents before emerging on the other side. 
+
+##### Dangers
+While the Channel itself is dangerous enough on its own, sailors are always on the lookout for the many sea monsters they hear tales of in [Port Damali](port-damali) and [Stilben](stilben).
+
+##### Environment
+Powerful storms, surging tides, and strong winds are the greatest danger to any vessel attempting the narrow passage between [Tal'Dorei](taldorei) and [Wildemount](wildemount).
+
+##### Foraging
+^Food:^ **^Abundant^** ^-^ ^Water:^ **^Rare^**
+
+While there are plenty of fish in the sea, catching them in the tumultuous waters of the Shearing Channel requires some skill.
+
+##### Travel
+While the traversing the channel should take no more than three days, ships can spend a week fighting violent storms and shifting currents before emerging on the other side. 
+
+
+
+(print-page)
+
 
 
 
 ### Upper Mooren River Run
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+![Upper Mooren River Run](assets/img/geography-parchwood-timberland.jpg)
 
-The Upper Mooren River Run is a long, fast-moving river that stretches over 600 miles from the northern tip of the [Alabaster Peninsula](alabaster-sierras) to [Mooren Lake](mooren-lake) on the [Lucidian Coast](lucidian-coast). 
+^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-While the river is navigable by canoe or kayak, the travel is very dangerous with numerous rapids and falls along the way. Regardless, it is possible for those willing to undertake the trip.
+The Upper Mooren River Run is a long, fast-moving river that stretches over 600 miles from the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the city of [Drynna](drynna) on the west bank of [Mooren Lake](mooren-lake). 
 
-| ~Route~ | ~Miles~ | ~Days~ |
-|:---------------------------------------------------------|:---:|:--:|
-| [Whitestone](whitestone) to [Drynna](Drynna) | 540 | 18 |
-{.gray}
+##### Dangers
+As an important source of fresh water, the Mooren River Run is also an important source of food for many of the beasts and monstrosities that call the forest home.
+
+##### Environment
+In the spring, snowmelt from the [Alabaster Sierras](alabaster-sierra-range) cause the river to swell and the already fast-moving river becomes a torrent.
+
+In the winter, the **frigid water** rarely freezes over due to the strong current, but when it does, the ice is thin and dangerous to walk on.
+
+##### Foraging
+^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
+
+The cold, crystal clear Mooren River Run is an important source of fresh water for the entire region and is home to various species of freshwater fish.
+
+##### Travel
+While the river is navigable by canoe or kayak, the trip is dangerous with numerous rapids and falls. Few are willing to brave the river and forest to save a few days.
+- [Whitestone](whitestone) to [Drynna](Drynna) - (540 mi, 18d)
+{.square}
 
 
 
@@ -254,19 +377,18 @@ While the river is navigable by canoe or kayak, the travel is very dangerous wit
 
 ### Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
+![Whitestone](assets/img/geography-castle-whitestone.jpg)
 
-**^Population:^** ^4,230^ ^-^ **^Area:^** ^69^ ^Acres^
 
-The city of [Whitestone](whitestone) is located in northeast [Tal'Dorei](taldorei) on the [Alabaster Peninsula](alabaster-sierras). The city lies at the base of the [Alabaster Sierras](alabaster-sierra-range) where the mountains wrap around the northern tip of the peninsula.
+^Type:^ **^City^** ^-^ ^Population:^ **^4,230^** ^-^ ^Area:^ **^69^ ^Acres^** ^-^ ^Area:^ **^69^ ^Acres^**
+
+The city of Whitestone is an independent city-state located in northeast [Tal'Dorei](taldorei) at the northern tip of the [Alabaster Sierras](alabaster-sierras) and surrounded by the [Parchwood Timberland](parchwood-timberland).
 
 ##### Administration
-The city-state of [Whitestone](whitestone) is governed by the Chamber of Whitestone, which is led by the head of the de Rolo family and the six high-ranking members of the community.
-
-##### Crime
-The city's relatively small size and renewed prosperity have helped keep crime low, but the city's resurgence has attracted the attention of the Clasp and Myriad. 
+Whitestone is governed by the **Chamber of Whitestone**, which is led by **House de Rolo** and community leaders.
 
 ##### Demographics
-While not diverse, the people of [Whitestone](whitestone) are tolerant and welcoming. The city was founded by refugees and rebuilt by more refugees from [Emon](emon) after the reign of the Briarwoods. 
+While the city is mostly human, Whitestone was founded by refugees and its people are welcoming and tolerant.
 
 |||||||
 |:---|:---:|:---|:---:|:---|:---:|
@@ -275,30 +397,20 @@ While not diverse, the people of [Whitestone](whitestone) are tolerant and welco
 {.gray}
 
 ##### Defenses
-The city is surrounded by a large, stone wall with heavy gates on all roads leading into the city. [Castle Whitestone](castle-whitestone) stands on a large hill overlooking the city.
-
+Whitestone is surrounded by a large, stone wall and heavy gates protect all roads into the city. The city is defended by:
 - **Pale Guard** (42). The primary defenders and police force for the city and surrounding villages.
 - **Whitestone Rifleman** (20). The firearm-equipped guard of the de Rolos and [Castle Whitestone](castle-whitestone)
-- **Grey Hunt** (8). Rangers that patrol the [Parchwood](parchwood-timberland) and protect the city from the monsters.
+- **Grey Hunt** (8). Rangers patrol the [Parchwood](parchwood-timberland) and protect the city from the creatures that dwell there.
 {.square}
 
 In addition to the traditional defenses, the city is protected by an [Illusory Barrier](illusory-barrier) that hides the city from above.
 
-##### Society
-The people of Whitestone value independence and self-reliance, but have come to appreciate the value of becoming more open and interconnected with the rest of the continent.
-
-
-
 (print-column)
 
+##### Economy
+^Strength:^ **^Booming^** ^-^ ^Crime:^ **^Low^**^
 
-
-##### Trade & Industry
-The chief export and the foundation of Whitestone's economy is the quarrying of "[white stone](/item/white-stone)" and it's green, glass-like by-product [residuum](residuum). 
-
-[Whitestone](whitestone) is a major importer of food from the farming and fishing communities of [Turst Fields](turst-fields) and [Drynna](drynna) in eastern [Tal'Dorei](taldorei).
-
-
+Whitestone's economy is strong and booming and fueled by the city's signature exports, [white stone](/item/white-stone) and [residuum](/item/residuum).
 
 ##### Districts
 
@@ -313,20 +425,25 @@ The chief export and the foundation of Whitestone's economy is the quarrying of 
 {.square}
 
 **Dawnfather Square**. The commercial heart of the city, the [Sun Tree](sun-tree) is surrounded by shops, taverns, and artisans.
-- [Arsenal of Fear](arsenal-of-fear)*
-- [Bhevek's Whispers](bheveks-whispers)*
-- [Black Oak Inn](black-oak-inn)*
+- [Arsenal of Fear](arsenal-of-fear)
+- [Bhevek's Whispers](bheveks-whispers)
+- [Black Oak Inn](black-oak-inn)
 - [Sun Tree](sun-tree)
 - [Ziggurat of Whitestone](ziggurat-of-whitestone) (Underground)
+{.square}
 
 **Greyfields**. The cemetary and temple district of [Whitestone](whitestone) is located outside the city walls on the east side of the city.
 - [Alter of the Raven](alter-of-the-raven)
 - [Zenith](zenith)
+{.square}
 
 **Northern Ward**. An affluent neighborhood and home to the majority of the city's nobility and merchant class.
 - [Pale Guard Barracks](pale-guard-barracks)
+{.square}
 
-**Surrounding Area**. While most of the city resides inside the walls, numerous farms, lumber camps, quarries, and mines are scattered throughout the surrounding wilderness.
+**Surrounding Area**. While most live inside the city's walls, there are many farms, mines, and quarries outside as well.
+- None
+{.square}
 
 
 
@@ -355,13 +472,12 @@ The shop is a free-standing, two-story building with a traditional [Whitestonian
 
 ##### Occupants
 - **Orianna Fear** (Tiefling, F, 40s) - Owner/Smith
-- **Thomas Llewelyn** (Human, M, 40s) - Manager/Spouse
+- **Eli Davis** (Human, M, 40s) - Manager/Spouse
 - **Calianna Fear** (Tiefling, F, 12) - Assistant/Child
 {.square}
 
 ##### Services
 Coming Soon
-
 
 
 #### Bhevek's Whispers
@@ -1109,3 +1225,23 @@ The major settlements in the region are:
 - [Syngorn](syngorn)
 - [Vues'dal](vues'dal)
 {.square}
+
+
+
+
+##### Dangers
+^Type:^ **^?^** ^-^ ^Danger:^ **^?^**
+
+##### Environment
+
+##### Flora & Fauna
+
+##### Foraging
+^Food:^ **^?^** ^-^ ^Water:^ **^?^**
+
+##### Landmarks
+The following landmarks can be found in this area:
+- None
+{.square}
+
+##### Travel
