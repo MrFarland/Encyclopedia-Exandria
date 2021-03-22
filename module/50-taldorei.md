@@ -113,7 +113,7 @@ The major settlements in the region are:
 
 ### Alabaster Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Alabaster Bay](assets/img/geography-alabaster-bay.jpg)
+![Alabaster Bay](assets/img/geography-alabaster_bay.jpg)
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
@@ -143,7 +143,7 @@ Travel is usually uneventful, but winter storms, heavy fog, and the occassional 
 ### Alabaster Sierra Range
 
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Alabaster Sierras](assets/img/geography-alabaster-sierras.jpg)
+![Alabaster Sierras](assets/img/geography-alabaster_sierras.jpg)
 
 ^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -173,7 +173,7 @@ The Sierras are difficult to traverse and travelers are advised to bring climbin
 
 ### Alabaster Trail
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Alabaster Trail](assets/img/geography-alabaster-trail.jpg)
+![Alabaster Trail](assets/img/geography-alabaster_trail.jpg)
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Normal^**
 
@@ -203,7 +203,7 @@ Travel on the Alabaster Trail is very dangerous and travelers are encouraged to 
 
 ### Dawnmist Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Dawnmist Bay](assets/img/geography-dawnmist-bay.jpg)
+![Dawnmist Bay](assets/img/geography-dawnmist_bay.jpg)
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
@@ -231,7 +231,7 @@ While the bay is often calm, the fog makes navigating difficult by hiding danger
 
 ### Parchwood Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Parchwood Bay](assets/img/geography-parchwood-bay.jpg)
+![Parchwood Bay](assets/img/geography-parchwood_bay.jpg)
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -259,7 +259,7 @@ Navigating the bay is difficult. The tall, forested islands, rocky shoals, and p
 
 ### Parchwood Timberland
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Parchwood Timberland](assets/img/geography-parchwood-timberland.jpg)
+![Parchwood Timberland](assets/img/geography-parchwood_timberland.jpg)
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -287,7 +287,7 @@ Travelers are warned to stick to the [Alabaster Trail](alabaster-trail) on their
 
 ### Salted Bluffs
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Salted Bluffs](assets/img/geography-salted-bluffs.jpg)
+![Salted Bluffs](assets/img/geography-salted_bluffs.jpg)
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -315,7 +315,7 @@ Travel of any kind is difficult near the Salted Bluffs. The rough tide, uneven g
 
 ### Shearing Channel
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Shearing Channel](assets/img/geography-shearing-channel.jpg)
+![Shearing Channel](assets/img/geography-shearing_channel.jpg)
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -345,7 +345,7 @@ While the traversing the channel should take no more than three days, ships can 
 
 ### Upper Mooren River Run
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Upper Mooren River Run](assets/img/geography-parchwood-timberland.jpg)
+![Upper Mooren River Run](assets/img/geography-upper_mooren_river_run.jpg)
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -377,7 +377,7 @@ While the river is navigable by canoe or kayak, the trip is dangerous with numer
 
 ### Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Whitestone](assets/img/geography-castle-whitestone.jpg)
+![Whitestone](assets/img/geography-castle_whitestone.jpg)
 
 ^Type:^ **^City^** ^-^ ^Population:^ **^4,230^** ^-^ ^Area:^ **^69^ ^Acres^**
 
@@ -457,14 +457,14 @@ Whitestone's economy is strong and booming and fueled by the city's signature ex
 ^Type:^ **^Shrine^** ^-^ ^Staff:^ **^0^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
 
-The Altar of the Raven is a small shrine to the **Raven Queen** located behind the [Zenith](zenith) temple to **Pelor** in the Greyfields of [Whitestone](whitestone).
+The Altar of the Raven is a small shrine to the **Raven Queen** located behind the [Zenith](zenith) temple to **Pelor** in the Greyfields of [Whitestone](whitestone). About the size of a noble's mausoleum, the building is completely made of stone with intricate reliefs depicting motifs of the Raven Queen, her ascension and symbols associated with her stewardship of fate and death.
 
 The shrine was constructed ~815 P.D. by Lord Percival Fredrickstein von Musel Klossowski de Rolo III for Vax'ildan Vessar, champion of the Raven Queen, and brother to his future wife, Lady Vex'ahlia (Vessar) de Rolo. 
 
 ##### Occupants
 The Altar of the Raven has no full-time clergy.
 
-Typical guests are making an offering and prayer to the Raven Queen to guide a dying or deceased loved one to the afterlife. 
+Guests often make offerings and prayers to the Raven Queen to guide a dying loved one to the afterlife. 
 
 ##### Services
 An individual that prays to the Raven Queen at the Altar of the Raven cannot become undead should they pass within the next 7 days.
@@ -481,7 +481,7 @@ An individual that prays to the Raven Queen at the Altar of the Raven cannot bec
 
 ^Type:^ **^Weaponsmith^** ^-^ ^Staff:^ **^2^** ^-^ ^Residents:^ **^3^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
-The Arsenal of Fear is a weaponsmith located in Dawnfather Square in the city of [Whitestone](whitestone). The shop specializes in swords, but makes other bladed weapons as well. The shop is two-story building with a stone first floor and timber-framed second story. The second floor is the owner's residence.
+The Arsenal of Fear is a weaponsmith in Dawnfather Square in the city of [Whitestone](whitestone). The shop specializes in swords, but makes other bladed weapons as well. The shop is two-story building with a stone first floor and timber-framed second story. The second floor is the owner's residence.
 
 ##### Occupants
 - **Orianna Fear** (Tiefling, F, 40s) - Owner/Smith
@@ -502,7 +502,9 @@ The Arsenal of Fear is a weaponsmith located in Dawnfather Square in the city of
 {.gray}
 
 ##### Services
-Orianna is an **expert** bladesmith and charges **5gp** per day. Eli is a **skilled** smith and charges **2gp** for general repairs.
+- **Customs**. Cost + ((Cost/50=Days)*3)
+- **Repairs**. Same, but 10% to 25% of item cost
+{.square} 
 
 
 
