@@ -477,7 +477,7 @@ An individual that prays to the Raven Queen at the Altar of the Raven cannot bec
 
 #### Arsenal of Fear
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Blacksmith](assets/img/location_blacksmith.jpg)
+![Blacksmith](assets/img/location-blacksmith.jpg)
 
 ^Type:^ **^Weaponsmith^** ^-^ ^Staff:^ **^2^** ^-^ ^Residents:^ **^3^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
@@ -514,6 +514,7 @@ The Arsenal of Fear is a weaponsmith in Dawnfather Square in the city of [Whites
 
 #### Bhevek's Whispers
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+![Scholar](assets/img/location-scholar1.jpg)
 
 ^Type:^ **^Enchanter^** ^-^ ^Staff:^ **^1^** ^-^ ^Residents:^ **^1^** ^-^ ^Guests:^ [**^1d4-3^**](/roll/1d4-3)
 
@@ -539,6 +540,7 @@ Coming Soon
 
 #### Black Oak Inn
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+![Tavern](assets/img/location-tavern1.jpg)
 
 ^Type:^ **^Inn^ ^&^ ^Tavern^** ^-^ ^Staff:^ **^6^** ^-^ ^Residents:^ **^3^** ^-^ ^Guests:^ [**^1d8^**](/roll/1d8)
 
@@ -569,6 +571,7 @@ Coming Soon
 
 #### Castle Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+![Whitestone](assets/img/geography-castle_whitestone.jpg)
 
 ^Type:^ **^Administration^ ^&^ ^Residence^** ^-^ ^Staff:^ **^?^** ^-^ ^Residents:^ **^?^** ^-^ ^Guests:^ [**^1d8^**](/roll/1d8)
 
@@ -636,6 +639,7 @@ These locations do not have permanent staff or residents and are only used in ti
 
 #### Lady's Chamber
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+![Church](assets/img/location-church1.jpg)
 
 The [Lady's Chambers](ladys-chambers), or the House of the Lawbearer, is the temple to Erathis in the city of [Whitestone](whitestone). Located on the west side of the Common Ward near the west gate, the [Lady's Chambers](ladys-chambers) is a small temple with a large, open-air courtyard and ampitheater.
 
@@ -717,6 +721,7 @@ Coming Soon
 
 #### Zenith
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+![Church](assets/img/location-church1.jpg)
 
 The Zenith is a temple to **Pelor the Dawn Father** in the Greyfields ward of [Whitestone](whitestone). The temple is made of stone and stained glass windows depict classic imagery of **Pelor**. A large wooden wreath of fire is carved into the heavy wooden doors at the front of the temple.
 
