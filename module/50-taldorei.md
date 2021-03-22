@@ -463,8 +463,15 @@ The shrine was constructed ~815 P.D. by Lord Percival Fredrickstein von Musel Kl
 ##### Occupants
 The Altar of the Raven has no full-time clergy.
 
-##### Guests
 Typical guests are making an offering and prayer to the Raven Queen to guide a dying or deceased loved one to the afterlife. 
+
+##### Services
+An individual that prays to the Raven Queen at the Altar of the Raven cannot become undead should they pass within the next 7 days.
+
+
+
+(print-column)
+
 
 
 #### Arsenal of Fear
@@ -473,9 +480,7 @@ Typical guests are making an offering and prayer to the Raven Queen to guide a d
 
 ^Type:^ **^Weaponsmith^** ^-^ ^Staff:^ **^2^** ^-^ ^Residents:^ **^3^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
-The Arsenal of Fear is a weaponsmith located on the southeast corner of Dawnfather Square in the city of [Whitestone](whitestone). The shop specializes in swords, but makes other bladed weapons as well.
-
-The shop is a free-standing, two-story building with a worked stone first floor and timber-framed second story. The forge is half-inside, half-outside at the back of the building to allow the smith to work in relative comfort in the cold winter months. The second floor is the proprietor's personal residence.
+The Arsenal of Fear is a weaponsmith located in Dawnfather Square in the city of [Whitestone](whitestone). The shop specializes in swords, but makes other bladed weapons as well. The shop is two-story building with a stone first floor and timber-framed second story. The second floor is the owner's residence.
 
 ##### Occupants
 - **Orianna Fear** (Tiefling, F, 40s) - Owner/Smith
@@ -483,8 +488,25 @@ The shop is a free-standing, two-story building with a worked stone first floor 
 - **Calianna Fear** (Tiefling, F, 12) - Assistant/Child
 {.square}
 
+##### Goods
+||||
+|:-----------|:----:|:---------------------|
+| Dagger     | 2gp  | [1d4](/roll/1d4)     |
+| Greatsword | 50gp | [1d4-2](/roll/1d4-2) |
+| Handaxe    | 5gp  | [1d4-2](/roll/1d4-2) |
+| Longsword  | 15gp | [1d4-1](/roll/1d4-1) |
+| Rapier     | 25gp | [1d4-1](/roll/1d4-1) |
+| Shortsword | 10gp | [1d6](/roll/1d6)     |
+| Small Knife| 1gp  | [2d4](/roll/2d4)     |
+{.gray}
+
 ##### Services
-Coming Soon
+Orianna is an **expert** bladesmith and charges **5gp** per day. Eli is a **skilled** smith and charges **2gp** for general repairs.
+
+
+
+(print-page)
+
 
 
 #### Bhevek's Whispers
@@ -500,7 +522,7 @@ Like a mage's tower, the shop is considerably larger than the outside would indi
 - **Bhevek Arvanel** (Elf, M, 90s) - [Archmage](/monster/archmage)
 {.square}
 
-##### Services
+##### Goods & Services
 Coming Soon
 
 
@@ -524,7 +546,7 @@ The inn is well-made with an expertly carved stone first floor with the second a
 - **Talia Illevial** (Elf, F, 50s) - Cook
 {.square}
 
-##### Services
+##### Goods & Services
 Coming Soon
 
 
@@ -546,6 +568,8 @@ Beneath the castle are the private crypts for the de Rolo family, the dungeons, 
 - Name (Race, G, A) - Position/Title
 {.square}
 
+##### Goods & Services
+
 
 
 #### Estate of the Mistress of the Grey Hunt
@@ -558,6 +582,8 @@ This estate was briefly the personal residence of Vex'ahlia Vessar prior to her 
 ##### Occupants
 - Name (Race, G, A) - Position/Title
 {.square}
+
+##### Goods & Services
 
 
 
@@ -592,7 +618,7 @@ The head of the temple is called the "Keeper" and they often serve as a member o
 - ? () - [Acolyte](/monster/acolyte)
 {.square}
 
-##### Services
+##### Goods & Services
 Coming Soon
 
 
@@ -606,6 +632,7 @@ Located in the northeast corner of the Northern Ward of [Whitestone](whitestone)
 - ?
 {.square}
 
+##### Goods & Services
 
 
 #### Sun Tree
@@ -615,6 +642,7 @@ The Sun Tree is a massive oak tree located in the heart of Dawnfather Square in 
 
 The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **Tharizdun the Chained Oblivion** nearly killed **Ioun the Knowing Mistress**. The tree stands directly above a lost [temple](ziggurat-of-whitestone) to **Ioun**.
 
+##### Goods & Services
 
 
 (print-page)
@@ -630,6 +658,7 @@ Located on the east side of the [Castle Whitestone](castle-whitestone) complex a
 - ?
 {.square}
 
+##### Goods & Services
 
 
 #### Zenith
@@ -646,6 +675,7 @@ Inside wooden pews line either side of the main aisle and three 10' wide stained
 - ? () - [Acolyte](/monster/acolyte)
 {.square}
 
+##### Goods & Services
 
 
 #### Ziggurat of Whitestone
@@ -658,6 +688,7 @@ The Ziggurat was once a great temple to **Ioun the Knowing Mistress**, but exact
 ##### Occupants
 There are no permanent occupants, but researchers from the **Arcana Pansophical**, **Alabaster Lyceum**, and **Cobalt Soul** are frequent visitors.
 
+##### Goods & Services
 
 
 (print-page)
