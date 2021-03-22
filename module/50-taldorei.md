@@ -379,13 +379,12 @@ While the river is navigable by canoe or kayak, the trip is dangerous with numer
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 ![Whitestone](assets/img/geography-castle-whitestone.jpg)
 
-
-^Type:^ **^City^** ^-^ ^Population:^ **^4,230^** ^-^ ^Area:^ **^69^ ^Acres^** ^-^ ^Area:^ **^69^ ^Acres^**
+^Type:^ **^City^** ^-^ ^Population:^ **^4,230^** ^-^ ^Area:^ **^69^ ^Acres^**
 
 The city of Whitestone is an independent city-state located in northeast [Tal'Dorei](taldorei) at the northern tip of the [Alabaster Sierras](alabaster-sierras) and surrounded by the [Parchwood Timberland](parchwood-timberland).
 
 ##### Administration
-Whitestone is governed by the **Chamber of Whitestone**, which is led by **House de Rolo** and community leaders.
+Whitestone is governed by the **Chamber of Whitestone**, which is led by **House de Rolo** and local leaders in the community.
 
 ##### Demographics
 While the city is mostly human, Whitestone was founded by refugees and its people are welcoming and tolerant.
@@ -454,6 +453,9 @@ Whitestone's economy is strong and booming and fueled by the city's signature ex
 #### Altar of the Raven
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+^Type:^ **^Shrine^** ^-^ ^Staff:^ **^0^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
+
+
 The Altar of the Raven is a small shrine to the **Raven Queen** located behind the [Zenith](zenith) temple to **Pelor** in the Greyfields of [Whitestone](whitestone).
 
 The shrine was constructed ~815 P.D. by Lord Percival Fredrickstein von Musel Klossowski de Rolo III for Vax'ildan Vessar, champion of the Raven Queen, and brother to his future wife, Lady Vex'ahlia (Vessar) de Rolo. 
@@ -461,14 +463,19 @@ The shrine was constructed ~815 P.D. by Lord Percival Fredrickstein von Musel Kl
 ##### Occupants
 The Altar of the Raven has no full-time clergy.
 
+##### Guests
+Typical guests are making an offering and prayer to the Raven Queen to guide a dying or deceased loved one to the afterlife. 
 
 
 #### Arsenal of Fear
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+![Blacksmith](assets/img/location_blacksmith.jpg)
 
-The Arsenal of Fear is a weaponsmith's shop located on the southeast corner of Dawnfather Square in the city of [Whitestone](whitestone). The shop specializes in swordsmithing, but makes other bladed weapons as well.
+^Type:^ **^Weaponsmith^** ^-^ ^Staff:^ **^2^** ^-^ ^Residents:^ **^3^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
-The shop is a free-standing, two-story building with a traditional [Whitestonian](whitestone) design with a worked stone first floor and timber-framed second story. The forge is half-inside, half-outside at the back of the building to allow the smith to work in relative comfort in the cold winter months. The second floor is the proprietor's personal residence.
+The Arsenal of Fear is a weaponsmith located on the southeast corner of Dawnfather Square in the city of [Whitestone](whitestone). The shop specializes in swords, but makes other bladed weapons as well.
+
+The shop is a free-standing, two-story building with a worked stone first floor and timber-framed second story. The forge is half-inside, half-outside at the back of the building to allow the smith to work in relative comfort in the cold winter months. The second floor is the proprietor's personal residence.
 
 ##### Occupants
 - **Orianna Fear** (Tiefling, F, 40s) - Owner/Smith
@@ -482,6 +489,8 @@ Coming Soon
 
 #### Bhevek's Whispers
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+^Type:^ **^Enchanter^** ^-^ ^Staff:^ **^1^** ^-^ ^Residents:^ **^1^** ^-^ ^Guests:^ [**^1d4-3^**](/roll/1d4-3)
 
 Bhevek's Whispers is a magical shop and enchanter located on the west side of Dawnfather Square in the city of [Whitestone](whitestone). The shop is located on the end of a row of shops and is three stories tall. The first floor is split in half by a large counter with most of the items, safely out of reach from the customers. A heavy green curtain hides the enchanter's work space from the main shop and stairs that lead upwards.
 
@@ -499,6 +508,8 @@ Coming Soon
 
 #### Black Oak Inn
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+^Type:^ **^Inn^ ^&^ ^Tavern^** ^-^ ^Staff:^ **^6^** ^-^ ^Residents:^ **^3^** ^-^ ^Guests:^ [**^1d8^**](/roll/1d8)
 
 The Black Oak Inn is a large, three-story inn located on the north side of Dawnfather Square in the city of [Whitestone](whitestone). The inn is the nicest inn in the city and is used by the de Rolo family to put up honored guests, not quite honored enough to stay at the [Castle](castle-whitestone).
 
@@ -521,6 +532,8 @@ Coming Soon
 #### Castle Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+^Type:^ **^Administration^ ^&^ ^Residence^** ^-^ ^Staff:^ **^?^** ^-^ ^Residents:^ **^?^** ^-^ ^Guests:^ [**^1d8^**](/roll/1d8)
+
 Castle Whitestone (or Whitestone Castle) is a large, fortified keep on a large hill overlooking the north side of the [city](whitestone). The road from the north gate winds its way up the hill to the walled courtyard protecting the keep's main entrance. 
 
 (print-page)
@@ -530,7 +543,7 @@ The ground floor of the keep houses the meeting chambers for the **Chamber of Wh
 Beneath the castle are the private crypts for the de Rolo family, the dungeons, and various store rooms. It is rumored that there is a secret passage that leads out of the castle to the east side of the hill.
 
 ##### Occupants
-- ?
+- Name (Race, G, A) - Position/Title
 {.square}
 
 
@@ -538,10 +551,12 @@ Beneath the castle are the private crypts for the de Rolo family, the dungeons, 
 #### Estate of the Mistress of the Grey Hunt
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+^Type:^ **^Defense^** ^-^ ^Staff:^ **^?^** ^-^ ^Residents:^ **^?^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
+
 This estate was briefly the personal residence of Vex'ahlia Vessar prior to her marriage to Percival de Rolo and their moving into [Castle Whitestone](castle-whitestone). The residence is now the headquarters of the **Grey Hunt**, a group of rangers tasked with patrolling the surrounding [Parchwood](parchwood-timberland) and protecting the people of [Whitestone](whitestone) from the monsters that roam within.
 
 ##### Occupants
-- ?
+- Name (Race, G, A) - Position/Title
 {.square}
 
 
@@ -549,10 +564,14 @@ This estate was briefly the personal residence of Vex'ahlia Vessar prior to her 
 #### Illusory Barrier
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+^Type:^ **^Defense^** ^-^ ^Staff:^ **^0^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ **^0^**
+
 The Illusory Barrier is collection of five obelisks around the city of [Whitestone](whitestone) designed to shield the city from above. When all five obelisks are powered by arcane energy, at the same time, they create a dome-like illusion causing the city to appear as unspoiled wilderness from above.
 
 **Powering the Barrier**. An arcane spellcaster must expend 1 spell slot for 2 hours of illusion in each obelisk. Multiple casters are recommended due to the geographic dispersion and toll it takes on the casters. For every spell level sacrificed within a 24 hour period, the caster suffers 1 point of exhaustion.
 
+##### Occupants
+These locations do not have permanent staff or residents and are only used in times of need.
 
 
 (print-column)
