@@ -477,7 +477,7 @@ An individual that prays to the Raven Queen at the Altar of the Raven cannot bec
 
 #### Arsenal of Fear
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Blacksmith](assets/img/location-blacksmith.jpg)
+![Blacksmith](assets/img/location-blacksmith1.jpg)
 
 ^Type:^ **^Weaponsmith^** ^-^ ^Staff:^ **^2^** ^-^ ^Residents:^ **^3^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
