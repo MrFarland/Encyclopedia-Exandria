@@ -452,6 +452,7 @@ Whitestone's economy is strong and booming and fueled by the city's signature ex
 
 #### Altar of the Raven
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+![Altar of the Raven](assets/img/location-altar_of_the_raven.jpg)
 
 ^Type:^ **^Shrine^** ^-^ ^Staff:^ **^0^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
@@ -522,9 +523,15 @@ Like a mage's tower, the shop is considerably larger than the outside would indi
 - **Bhevek Arvanel** (Elf, M, 90s) - [Archmage](/monster/archmage)
 {.square}
 
-##### Goods & Services
+##### Goods
 Coming Soon
 
+##### Services
+Coming Soon
+
+
+
+(print-column)
 
 
 
@@ -535,7 +542,7 @@ Coming Soon
 
 The Black Oak Inn is a large, three-story inn located on the north side of Dawnfather Square in the city of [Whitestone](whitestone). The inn is the nicest inn in the city and is used by the de Rolo family to put up honored guests, not quite honored enough to stay at the [Castle](castle-whitestone).
 
-The inn is well-made with an expertly carved stone first floor with the second and third floor framed in dark oak timber. The common room is large with a massive stone hearth on the far wall and a large polished, dark oak bar. Guest rooms facing the square have a great view of the [Sun Tree](sun-tree) and small, balconies that overlook the square. The rooms on the back of the inn are cheaper with standard windows and have a view of the [Castle](castle-whitestone).
+The inn is well-made with a stone first floor and the second and third framed in dark oak. The common room has a large stone hearth on the far wall and a polished, dark oak bar. Guest rooms facing the square have a great view of the [Sun Tree](sun-tree) with small balconies overlooking the square. The rooms on the back of the inn are cheaper with a view of [Castle Whitestone](castle-whitestone).
 
 ##### Occupants
 - **James Black** (Human, M, 60s) - Owner
@@ -546,8 +553,15 @@ The inn is well-made with an expertly carved stone first floor with the second a
 - **Talia Illevial** (Elf, F, 50s) - Cook
 {.square}
 
-##### Goods & Services
+##### Goods
 Coming Soon
+
+##### Services
+Coming Soon
+
+
+
+(print-page)
 
 
 
@@ -558,8 +572,6 @@ Coming Soon
 
 Castle Whitestone (or Whitestone Castle) is a large, fortified keep on a large hill overlooking the north side of the [city](whitestone). The road from the north gate winds its way up the hill to the walled courtyard protecting the keep's main entrance. 
 
-(print-page)
-
 The ground floor of the keep houses the meeting chambers for the **Chamber of Whitestone**, a dining hall, study, and various other chambers for hosting guests and administering to the business of the city. The large central keep is home to the de Rolo family and their honored guests. Attached to the castle, on the east side are the [barracks](whitestone-riflemen-barracks) for the **Whitestone Riflemen**, an elite, firearm-equipped force tasked with protecting **House de Rolo** and the **Chamber of Whitestone**.
 
 Beneath the castle are the private crypts for the de Rolo family, the dungeons, and various store rooms. It is rumored that there is a secret passage that leads out of the castle to the east side of the hill.
@@ -568,7 +580,15 @@ Beneath the castle are the private crypts for the de Rolo family, the dungeons, 
 - Name (Race, G, A) - Position/Title
 {.square}
 
-##### Goods & Services
+##### Goods
+Coming Soon
+
+##### Services
+Coming Soon
+
+
+
+(print-column)
 
 
 
@@ -583,7 +603,15 @@ This estate was briefly the personal residence of Vex'ahlia Vessar prior to her 
 - Name (Race, G, A) - Position/Title
 {.square}
 
-##### Goods & Services
+##### Goods
+Coming Soon
+
+##### Services
+Coming Soon
+
+
+
+(print-page)
 
 
 
@@ -618,8 +646,15 @@ The head of the temple is called the "Keeper" and they often serve as a member o
 - ? () - [Acolyte](/monster/acolyte)
 {.square}
 
-##### Goods & Services
+##### Goods
 Coming Soon
+
+##### Services
+Coming Soon
+
+
+
+(print-page)
 
 
 
@@ -632,7 +667,16 @@ Located in the northeast corner of the Northern Ward of [Whitestone](whitestone)
 - ?
 {.square}
 
-##### Goods & Services
+##### Goods
+Coming Soon
+
+##### Services
+Coming Soon
+
+
+
+(print-column)
+
 
 
 #### Sun Tree
@@ -642,7 +686,6 @@ The Sun Tree is a massive oak tree located in the heart of Dawnfather Square in 
 
 The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **Tharizdun the Chained Oblivion** nearly killed **Ioun the Knowing Mistress**. The tree stands directly above a lost [temple](ziggurat-of-whitestone) to **Ioun**.
 
-##### Goods & Services
 
 
 (print-page)
@@ -658,7 +701,16 @@ Located on the east side of the [Castle Whitestone](castle-whitestone) complex a
 - ?
 {.square}
 
-##### Goods & Services
+##### Goods
+Coming Soon
+
+##### Services
+Coming Soon
+
+
+
+(print-column)
+
 
 
 #### Zenith
@@ -675,7 +727,16 @@ Inside wooden pews line either side of the main aisle and three 10' wide stained
 - ? () - [Acolyte](/monster/acolyte)
 {.square}
 
-##### Goods & Services
+##### Goods
+Coming Soon
+
+##### Services
+Coming Soon
+
+
+
+(print-page)
+
 
 
 #### Ziggurat of Whitestone
@@ -688,7 +749,12 @@ The Ziggurat was once a great temple to **Ioun the Knowing Mistress**, but exact
 ##### Occupants
 There are no permanent occupants, but researchers from the **Arcana Pansophical**, **Alabaster Lyceum**, and **Cobalt Soul** are frequent visitors.
 
-##### Goods & Services
+##### Goods
+Coming Soon
+
+##### Services
+Coming Soon
+
 
 
 (print-page)
