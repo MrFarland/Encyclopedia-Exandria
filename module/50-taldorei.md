@@ -503,7 +503,7 @@ The Arsenal of Fear is a weaponsmith in Dawnfather Square in the city of [Whites
 
 ##### Services
 - **Customs**. Cost + ((Cost/50=Days)*3)
-- **Repairs**. Same, but 10% to 25% of item cost
+- **Repairs**. 10% to 25% of item cost
 {.square} 
 
 
@@ -527,7 +527,15 @@ Like a mage's tower, the shop is considerably larger than the outside would indi
 {.square}
 
 ##### Goods
-Coming Soon
+||||
+|:-----------|:----:|:---------------------|
+| Mundane     | 2gp  | [1d4](/roll/1d4)     |
+| Common | 50gp | [1d4-2](/roll/1d4-2) |
+| Uncommon    | 5gp  | [1d4-2](/roll/1d4-2) |
+| Rare  | 15gp | [1d4-1](/roll/1d4-1) |
+| Very Rare     | 25gp | [1d4-1](/roll/1d4-1) |
+| Legendary | 10gp | [1d6](/roll/1d6)     |
+{.gray}
 
 ##### Services
 Coming Soon
