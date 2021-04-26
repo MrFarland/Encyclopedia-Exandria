@@ -62,7 +62,7 @@ html {
   -webkit-print-color-adjust: exact;
   font-size: 10px;
 }
-html .catalyst {
+html.catalyst {
   font-size: 13px;
 }
 p {
@@ -192,6 +192,27 @@ blockquote:before {
 blockquote:after {
   right: 0;
   background-image: linear-gradient(to bottom left, #fff0 0%, #fff0 50%, #000 50%, #000 100%), linear-gradient(to top left, #fff0 0%, #fff0 50%, #000 50%, #000 100%);
+}
+blockquote.green {
+  background: #e0e4c3;
+}
+blockquote.red {
+  background: #e4c3c3;
+}
+blockquote.blue {
+  background: #c3d3e4;
+}
+blockquote.yellow {
+  background: #e4e1c3;
+}
+blockquote.gray {
+  background: #d4d4d4;
+}
+blockquote.purple {
+  background: #cec3e4;
+}
+blockquote.neutral {
+  background: #d8d6d2;
 }
 /******** Read-Aloud Block Quote ********/
 .blockquote-read-wrap {
@@ -534,6 +555,7 @@ table.neutral tbody tr:nth-child(odd) {
 }
 td,
 th {
+  text-align: left;
   padding: 1rem;
 }
 th p,
@@ -626,7 +648,6 @@ table.sidebar td:first-child {
 }
 .statblock.two-column {
   width: 90%;
-  display: inline-block;
   max-width: 85rem;
   position: relative;
   left: 50%;
@@ -781,6 +802,16 @@ table.sidebar td:first-child {
   margin: 2rem 0 0;
   padding: 0 0 1rem;
   text-indent: 0.5rem;
+}
+.statblock .statblock-spacer {
+  width: 2.5rem;
+  min-width: 1rem;
+  display: inline-block;
+}
+.statblock img.stablock-image {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
 }
 .statblock .statblock-actions:last-child,
 .statblock .statblock-reactions:last-child,
@@ -1187,6 +1218,29 @@ table.sidebar td:first-child {
   background: #6431ab;
 }
 /******** Screen-Specific Styles ********/
+@media screen and (max-width: 45rem) {
+  /* Make the statblock single column when the screen width is too small */
+  .statblock.two-column {
+    width: 30rem;
+    max-width: unset;
+    position: unset;
+    left: unset;
+    transform: unset;
+  }
+  .statblock.two-column .statblock-section-left,
+  .statblock.two-column .statblock-section-right {
+    display: unset;
+    vertical-align: unset;
+    width: unset;
+    text-align: unset;
+  }
+  .statblock.two-column .statblock-section-left {
+    margin-right: unset;
+  }
+  .statblock.two-column .statblock-section-right {
+    margin-left: unset;
+  }
+}
 @media screen and (max-width: 40rem) {
   /* Make the sidebar not float when the screen width is too small */
   table.sidebar {
