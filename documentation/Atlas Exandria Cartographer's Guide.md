@@ -111,7 +111,7 @@ The color palette for the Custom Colors symbols are:
 
 
 ### Labels
-The following are the starting points for all of the labels used on the world map. These colors and sizes are only a starting point. Labels are made bigger or smaller depending on the size and scale of the area to be labeled. I tend to stick to multiples of 8 (habit mostly) and rarely increase or decrease by more than 8-16 points. I also adjust colors slightly depending on the area surrounding the subject area. Typically to improve readability while maintaining the same look and feel.
+The following are the starting points for all of the labels used on the continent maps. These colors and sizes are only a starting point. Labels are made bigger or smaller depending on the size and scale of the area to be labeled. I tend to stick to multiples of 8 (habit mostly) and rarely increase or decrease by more than 8-16 points. I also adjust colors slightly depending on the area surrounding the subject area. Typically to improve readability while maintaining the same look and feel.
 
 *All labels use the **IM Fell English Italic** font.*
 
@@ -121,9 +121,9 @@ The following are the starting points for all of the labels used on the world ma
 | Bay, Channel, Etc  | #32ffffff |   -   |   -         |  24 |
 | Continent          | #9c000000 |   -   |   -         | 128 |
 | Desert             | #7d000000 |   3   |   #7dab9262 |  24 |
-| Forest (Broadleaf) | #c8000000 |   3   |   #c8ccbe99 |  18 |
-| Forest (Dark/Dead) | #c8000000 |   3   |   #c85f5543 |  18 |
-| Forest (Evergreen) | #c8000000 |   3   |   #c8505633 |  18 |
+| Forest (Broadleaf) | #c8000000 |   3   |   #c8ccbe99 |  24 |
+| Forest (Dark/Dead) | #c8000000 |   3   |   #c85f5543 |  24 |
+| Forest (Evergreen) | #c8000000 |   3   |   #c8505633 |  24 |
 | Island             | #9c000000 |   -   |   -         |  18 |
 | Island Chain       | #9c000000 |   -   |   -         |  36 |
 | Lake / Pond        | #32ffffff |   -   |   -         |  16 |
@@ -132,7 +132,7 @@ The following are the starting points for all of the labels used on the world ma
 | Ocean, Sea         | #32ffffff |   -   |   -         | 128 |
 | Plain              | #c84c4a21 |   3   |   #c8989367 |  18 |
 | Plain (Snow)       | #c8000000 |   3   |   #c8e0dad6 |  18 |
-| Point of Interest  | #000000   |   -   |   -         |  16 |
+| Point of Interest  | #000000   |   -   |   -         |  18 |
 | River, Creek, Etc  | #96ffffff |   -   |   -         |  -  |
 | Roads              | #000000   |   -   |   -         |  -  |
 | Swamp              | #c8483010 |   3   |   #c87a6e46 |  16 |
