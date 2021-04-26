@@ -910,7 +910,7 @@ The Cliffkeep Mountains is a large region with a ***humid continental climate (D
 *^Climate^ ^for^ ^the^ ^southern^ ^Cliffkeeps^ ^near^ ^Kraghammer^.*
 
 ##### Demographics
-An large region, the Cliffkeeps are home to many different races and cultures. While dwarves, gnomes, and humans are the most common in the major population centers, large numbers of goblins, orcs, kobolds, and giants can be found in nearly throughout the region.
+An large region, the Cliffkeeps are home to many different races and cultures. While dwarves, gnomes, and humans are the most common in the major population centers, large numbers of goblins, orcs, kobolds, and giants can be found throughout the region.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
