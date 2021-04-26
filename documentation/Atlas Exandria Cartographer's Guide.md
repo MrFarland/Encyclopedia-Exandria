@@ -85,18 +85,20 @@ In addition to the standard coastline and freshwater edge colors in the universa
 All of the symbols used in Atlas Exandria are stock, royalty-free symbols included in Wonderdraft. While there are a some great 3rd-party symbols available, I wanted these maps to be accesible to all Wonderdraft users and devoid of any potential licensing or copyright issues.
 
 The symbols used in the maps are:
-| Symbol Set    | Symbol           | Usage                      |World|Cont.| Reg.|
-|:--------------|:-----------------|:---------------------------|:---:|:---:|:---:|
-| Custom Colors | Capital (Circle) | Capitals & Major Cities    |  30 |     |     |
-| Custom Colors | City (Circle)    | Cities (2K to 10k)         |  30 |     |     |
-| Custom Colors | Fortress         | Forts, Outposts, & Castles |  30 |     |     |
-| Custom Colors | Town (Circle)    | Towns & Villages (< 2K)    |  30 |     |     |
-| Custom Colors | City (Diamond)   | Ruins & Points of Interest |  30 |     |     |
-| Trees         | Penciled Oaks    | Broadleaf Forests & Jungles|  30 |     |     |
-| Trees         | Penciled Peins   | Evergreen Forests          |  30 |     |     |
-| Mountains     | Penciled (Large) | Large Mountains            |  30 |     |     |
-| Mountains     | Penciled (Small) | Small Mountains & Hills    |  30 |     |     |
+| Symbol Set    | Symbol           | Usage                      |Size |
+|:--------------|:-----------------|:---------------------------|:---:|
+| Custom Colors | Capital (Circle) | Capitals & Major Cities    |  30 |
+| Custom Colors | City (Circle)    | Cities (2K to 10k)         |  30 |
+| Custom Colors | Fortress         | Forts, Outposts, & Castles |  30 |
+| Custom Colors | Town (Circle)    | Towns & Villages (< 2K)    |  30 |
+| Custom Colors | City (Diamond)   | Ruins & Points of Interest |  30 |
+| Trees         | Penciled Oaks    | Broadleaf Forests & Jungles|  30 |
+| Trees         | Penciled Peins   | Evergreen Forests          |  30 |
+| Mountains     | Penciled (Large) | Large Mountains            |  30 |
+| Mountains     | Penciled (Small) | Small Mountains & Hills    |  30 |
 {.gray}
+
+***Note**: When working on the region maps, you may need to "unlock" the symbol sizes to scale the symbol to match. This setting is under preferences and advanced.*
 
 #### Custom Colors Palette
 The color palette for the Custom Colors symbols are:
