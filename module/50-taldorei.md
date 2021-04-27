@@ -111,21 +111,6 @@ The major settlements in the region are:
 
 
 
-
-(print-page)
-
-
-
-
-(print-page)
-
-
-
-
-(print-page)
-
-
-
 ![Bladeshimmer Shoreline - North](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline_north-3300x2550-rotated.jpg){.size-full .print-only}
 
 (print-page)
@@ -168,8 +153,7 @@ First settled by humans following the Calamity, the Bladeshimmer Shoreline is st
 (print-column)
 
 ##### Factions
-The dominant factions in the region are:
-- **Arms of Emon**. The city watch and defense force for the city of Emon and surrounding countryside.
+The dominant factions in this region are:
 - **Clasp, The**. A powerful crime syndicate that has extensive influence throughout the region.
 - **Council of Tal'Dorei**. The ruling council for Emon and the greater Republic of Tal'Dorei.
 - **House of Tal'Dorei**. The former ruling family of Tal'Dorei and still a powerful noble family.

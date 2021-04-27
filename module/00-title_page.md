@@ -6,11 +6,10 @@ hide-footer: true
 include-in: print
 pdf-page-style: single-column
 ---
-
 <br/>
 <br/>
 
-#### Guild of Beacons {.text-center}
+#### MrFarland's {.text-center}
 
 <br/>
 <br/>
