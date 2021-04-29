@@ -342,7 +342,6 @@ While the traversing the channel should take no more than three days, ships can 
 
 
 
-
 ### Upper Mooren River Run
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 ![Upper Mooren River Run](assets/img/geography-upper_mooren_river_run.jpg)
@@ -371,7 +370,7 @@ While the river is navigable by canoe or kayak, the trip is dangerous with numer
 
 
 
-(print-page)
+(print-column)
 
 
 
@@ -397,14 +396,18 @@ While the city is mostly human, Whitestone was founded by refugees and its peopl
 
 ##### Defenses
 Whitestone is surrounded by a large, stone wall and heavy gates protect all roads into the city. The city is defended by:
-- **Pale Guard** (42). The primary defenders and police force for the city and surrounding villages.
-- **Whitestone Rifleman** (20). The firearm-equipped guard of the de Rolos and [Castle Whitestone](castle-whitestone)
-- **Grey Hunt** (8). Rangers patrol the [Parchwood](parchwood-timberland) and protect the city from the creatures that dwell there.
+- **[Pale Guard](pale-guard-barracks)** (42). The primary defenders and police force for the city and surrounding villages.
+- **[Whitestone Rifleman](whitestone-riflemen-barracks)** (20). The firearm-equipped guard of the de Rolos and [Castle Whitestone](castle-whitestone)
+- **[Grey Hunt](estate-of-the-mistress-of-the-grey-hunt)** (8). Rangers patrol the [Parchwood](parchwood-timberland) and protect the city from the creatures that dwell there.
 {.square}
 
 In addition to the traditional defenses, the city is protected by an [Illusory Barrier](illusory-barrier) that hides the city from above.
 
-(print-column)
+
+
+(print-page)
+
+
 
 ##### Economy
 ^Strength:^ **^Booming^** ^-^ ^Crime:^ **^Low^**^
@@ -443,18 +446,19 @@ Whitestone's economy is strong and booming and fueled by the city's signature ex
 
 
 
-(print-page)
-
-
-
 #### Altar of the Raven
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Altar of the Raven](assets/img/location-altar_of_the_raven.jpg)
 
 ^Type:^ **^Shrine^** ^-^ ^Staff:^ **^0^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
 
 The Altar of the Raven is a small shrine to the **Raven Queen** located behind the [Zenith](zenith) temple to **Pelor** in the Greyfields of [Whitestone](whitestone). About the size of a noble's mausoleum, the building is completely made of stone with intricate reliefs depicting motifs of the Raven Queen, her ascension and symbols associated with her stewardship of fate and death.
+
+
+
+(print-column)
+
+
 
 The shrine was constructed ~815 P.D. by Lord Percival Fredrickstein von Musel Klossowski de Rolo III for Vax'ildan Vessar, champion of the Raven Queen, and brother to his future wife, Lady Vex'ahlia (Vessar) de Rolo. 
 
@@ -468,200 +472,22 @@ An individual that prays to the Raven Queen at the Altar of the Raven cannot bec
 
 
 
-(print-column)
-
-
-
-#### Arsenal of Fear
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Blacksmith](assets/img/location-blacksmith.jpg)
-
-^Type:^ **^Weaponsmith^** ^-^ ^Staff:^ **^2^** ^-^ ^Residents:^ **^3^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
-
-The Arsenal of Fear is a weaponsmith in Dawnfather Square in the city of [Whitestone](whitestone). The shop specializes in swords, but makes other bladed weapons as well. The shop is two-story building with a stone first floor and timber-framed second story. The second floor is the owner's residence.
-
-##### Occupants
-- **Orianna Fear** (Tiefling, F, 40s) - Owner/Smith
-- **Eli Davis** (Human, M, 40s) - Manager/Spouse
-- **Calianna Fear** (Tiefling, F, 12) - Assistant/Child
-{.square}
-
-##### Goods
-||||
-|:-----------|:----:|:---------------------|
-| Dagger     | 2gp  | [1d4](/roll/1d4)     |
-| Greatsword | 50gp | [1d4-2](/roll/1d4-2) |
-| Handaxe    | 5gp  | [1d4-2](/roll/1d4-2) |
-| Longsword  | 15gp | [1d4-1](/roll/1d4-1) |
-| Rapier     | 25gp | [1d4-1](/roll/1d4-1) |
-| Shortsword | 10gp | [1d6](/roll/1d6)     |
-| Small Knife| 1gp  | [2d4](/roll/2d4)     |
-{.gray}
-
-##### Services
-- **Customs**. Cost + ((Cost/50=Days)*3)
-- **Repairs**. 10% to 25% of item cost
-{.square} 
-
-
-
-(print-page)
-
-
-
-#### Bhevek's Whispers
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Scholar](assets/img/location-scholar1.jpg)
-
-^Type:^ **^Enchanter^** ^-^ ^Staff:^ **^1^** ^-^ ^Residents:^ **^1^** ^-^ ^Guests:^ [**^1d4-3^**](/roll/1d4-3)
-
-Bhevek's Whispers is a magical shop and enchanter located on the west side of Dawnfather Square in the city of [Whitestone](whitestone). The shop is located on the end of a row of shops and is three stories tall. The first floor is split in half by a large counter with most of the items, safely out of reach from the customers. A heavy green curtain hides the enchanter's work space from the main shop and stairs that lead upwards.
-
-Like a mage's tower, the shop is considerably larger than the outside would indicate. Only Bhevek knows how many floors and chambers there are inside and he doesn't let just anyone behind the counter.
-
-##### Occupants
-- **Bhevek Arvanel** (Elf, M, 90s) - [Archmage](/monster/archmage)
-{.square}
-
-##### Goods
-||||
-|:-----------|:----:|:---------------------|
-| Mundane     | 2gp  | [1d4](/roll/1d4)     |
-| Common | 50gp | [1d4-2](/roll/1d4-2) |
-| Uncommon    | 5gp  | [1d4-2](/roll/1d4-2) |
-| Rare  | 15gp | [1d4-1](/roll/1d4-1) |
-| Very Rare     | 25gp | [1d4-1](/roll/1d4-1) |
-| Legendary | 10gp | [1d6](/roll/1d6)     |
-{.gray}
-
-##### Services
-Coming Soon
-
-
-
-(print-column)
-
-
-
-#### Black Oak Inn
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Tavern](assets/img/location-tavern1.jpg)
-
-^Type:^ **^Inn^ ^&^ ^Tavern^** ^-^ ^Staff:^ **^6^** ^-^ ^Residents:^ **^3^** ^-^ ^Guests:^ [**^1d8^**](/roll/1d8)
-
-The Black Oak Inn is a large, three-story inn located on the north side of Dawnfather Square in the city of [Whitestone](whitestone). The inn is the nicest inn in the city and is used by the de Rolo family to put up honored guests, not quite honored enough to stay at the [Castle](castle-whitestone).
-
-The inn is well-made with a stone first floor and the second and third framed in dark oak. The common room has a large stone hearth on the far wall and a polished, dark oak bar. Guest rooms facing the square have a great view of the [Sun Tree](sun-tree) with small balconies overlooking the square. The rooms on the back of the inn are cheaper with a view of [Castle Whitestone](castle-whitestone).
-
-##### Occupants
-- **James Black** (Human, M, 60s) - Owner
-- **Marion Black** (Human, F, 50s) - Owner
-- **Elias Black** (Human, M, 20s) - Barkeep
-- **Hanna Greenbough** (Halfling, F, 20s) - Waiter
-- **Earl Greenbough** (Halfling, M, Teens) - Bellhop
-- **Talia Illevial** (Elf, F, 50s) - Cook
-{.square}
-
-##### Goods
-Coming Soon
-
-##### Services
-Coming Soon
-
-
-
-(print-page)
-
-
-
-#### Castle Whitestone
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Whitestone](assets/img/geography-castle_whitestone.jpg)
-
-^Type:^ **^Administration^ ^&^ ^Residence^** ^-^ ^Staff:^ **^?^** ^-^ ^Residents:^ **^?^** ^-^ ^Guests:^ [**^1d8^**](/roll/1d8)
-
-Castle Whitestone (or Whitestone Castle) is a large, fortified keep on a large hill overlooking the north side of the [city](whitestone). The road from the north gate winds its way up the hill to the walled courtyard protecting the keep's main entrance. 
-
-The ground floor of the keep houses the meeting chambers for the **Chamber of Whitestone**, a dining hall, study, and various other chambers for hosting guests and administering to the business of the city. The large central keep is home to the de Rolo family and their honored guests. Attached to the castle, on the east side are the [barracks](whitestone-riflemen-barracks) for the **Whitestone Riflemen**, an elite, firearm-equipped force tasked with protecting **House de Rolo** and the **Chamber of Whitestone**.
-
-Beneath the castle are the private crypts for the de Rolo family, the dungeons, and various store rooms. It is rumored that there is a secret passage that leads out of the castle to the east side of the hill.
-
-##### Occupants
-- Name (Race, G, A) - Position/Title
-{.square}
-
-##### Goods
-Coming Soon
-
-##### Services
-Coming Soon
-
-
-
-(print-column)
-
-
-
-#### Estate of the Mistress of the Grey Hunt
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-
-^Type:^ **^Defense^** ^-^ ^Staff:^ **^?^** ^-^ ^Residents:^ **^?^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
-
-This estate was briefly the personal residence of Vex'ahlia Vessar prior to her marriage to Percival de Rolo and their moving into [Castle Whitestone](castle-whitestone). The residence is now the headquarters of the **Grey Hunt**, a group of rangers tasked with patrolling the surrounding [Parchwood](parchwood-timberland) and protecting the people of [Whitestone](whitestone) from the monsters that roam within.
-
-##### Occupants
-- Name (Race, G, A) - Position/Title
-{.square}
-
-##### Goods
-Coming Soon
-
-##### Services
-Coming Soon
-
-
-
-(print-page)
-
-
-
-#### Illusory Barrier
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-
-^Type:^ **^Defense^** ^-^ ^Staff:^ **^0^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ **^0^**
-
-The Illusory Barrier is collection of five obelisks around the city of [Whitestone](whitestone) designed to shield the city from above. When all five obelisks are powered by arcane energy, at the same time, they create a dome-like illusion causing the city to appear as unspoiled wilderness from above.
-
-**Powering the Barrier**. An arcane spellcaster must expend 1 spell slot for 2 hours of illusion in each obelisk. Multiple casters are recommended due to the geographic dispersion and toll it takes on the casters. For every spell level sacrificed within a 24 hour period, the caster suffers 1 point of exhaustion.
-
-##### Occupants
-These locations do not have permanent staff or residents and are only used in times of need.
-
-
-(print-column)
-
-
-
 #### Lady's Chamber
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Church](assets/img/location-church1.jpg)
+
+^Type:^ **^Temple^** ^-^ ^Staff:^ **^3-4^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d6-2^**](/roll/1d4-2)
+
 
 The [Lady's Chambers](ladys-chambers), or the House of the Lawbearer, is the temple to Erathis in the city of [Whitestone](whitestone). Located on the west side of the Common Ward near the west gate, the [Lady's Chambers](ladys-chambers) is a small temple with a large, open-air courtyard and ampitheater.
 
 The head of the temple is called the "Keeper" and they often serve as a member of the **Chamber of Whitestone**.
 
 ##### Occupants
-- **Lorelei de Rolo Desnay** (Human, F, 60s) - [Keeper](/monster/priest)
-- ? () - [Acolyte](/monster/acolyte)
-- ? () - [Acolyte](/monster/acolyte)
-- ? () - [Acolyte](/monster/acolyte)
+The Lady's Chamber is staffed full-time by the [Keeper (Priest)](/monster/priest) and 2 to 3 [Acolytes](/monster/acolyte). During weekly services, the temple's ampitheater is usually full.
 {.square}
 
-##### Goods
-Coming Soon
-
 ##### Services
-Coming Soon
+Standard spellcasting services are available to members of the temple and followers of Erathis. All others must pay a fee for services or perform noble works for the Keeper.
 
 
 
@@ -686,7 +512,6 @@ Coming Soon
 
 
 
-(print-column)
 
 
 
@@ -699,7 +524,7 @@ The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **T
 
 
 
-(print-page)
+(print-column)
 
 
 
@@ -720,13 +545,12 @@ Coming Soon
 
 
 
-(print-column)
+(print-page)
 
 
 
 #### Zenith
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Church](assets/img/location-church1.jpg)
 
 The Zenith is a temple to **Pelor the Dawn Father** in the Greyfields ward of [Whitestone](whitestone). The temple is made of stone and stained glass windows depict classic imagery of **Pelor**. A large wooden wreath of fire is carved into the heavy wooden doors at the front of the temple.
 
