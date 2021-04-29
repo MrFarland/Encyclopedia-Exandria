@@ -111,21 +111,6 @@ The major settlements in the region are:
 
 
 
-
-(print-page)
-
-
-
-
-(print-page)
-
-
-
-
-(print-page)
-
-
-
 ![Bladeshimmer Shoreline - North](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline_north-3300x2550-rotated.jpg){.size-full .print-only}
 
 (print-page)
