@@ -424,9 +424,6 @@ Whitestone's economy is strong and booming and fueled by the city's signature ex
 {.square}
 
 **Dawnfather Square**. The commercial heart of the city, the [Sun Tree](sun-tree) is surrounded by shops, taverns, and artisans.
-- [Arsenal of Fear](arsenal-of-fear)
-- [Bhevek's Whispers](bheveks-whispers)
-- [Black Oak Inn](black-oak-inn)
 - [Sun Tree](sun-tree)
 - [Ziggurat of Whitestone](ziggurat-of-whitestone) (Underground)
 {.square}
@@ -477,7 +474,7 @@ An individual that prays to the Raven Queen at the Altar of the Raven cannot bec
 
 #### Arsenal of Fear
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Blacksmith](assets/img/location-blacksmith1.jpg)
+![Blacksmith](assets/img/location-blacksmith.jpg)
 
 ^Type:^ **^Weaponsmith^** ^-^ ^Staff:^ **^2^** ^-^ ^Residents:^ **^3^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
