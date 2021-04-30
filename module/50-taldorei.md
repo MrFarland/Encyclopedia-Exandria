@@ -475,7 +475,7 @@ An individual that prays to the Raven Queen at the Altar of the Raven cannot bec
 #### Lady's Chamber
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
-^Type:^ **^Temple^** ^-^ ^Staff:^ **^3-4^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d6-2^**](/roll/1d4-2)
+^Type:^ **^Temple^** ^-^ ^Staff:^ **^3-4^** ^-^ ^Residents:^ **^1^** ^-^ ^Guests:^ [**^1d6-2^**](/roll/1d6-2)
 
 
 The [Lady's Chambers](ladys-chambers), or the House of the Lawbearer, is the temple to Erathis in the city of [Whitestone](whitestone). Located on the west side of the Common Ward near the west gate, the [Lady's Chambers](ladys-chambers) is a small temple with a large, open-air courtyard and ampitheater.
@@ -484,7 +484,6 @@ The head of the temple is called the "Keeper" and they often serve as a member o
 
 ##### Occupants
 The Lady's Chamber is staffed full-time by the [Keeper (Priest)](/monster/priest) and 2 to 3 [Acolytes](/monster/acolyte). During weekly services, the temple's ampitheater is usually full.
-{.square}
 
 ##### Services
 Standard spellcasting services are available to members of the temple and followers of Erathis. All others must pay a fee for services or perform noble works for the Keeper.
@@ -498,20 +497,13 @@ Standard spellcasting services are available to members of the temple and follow
 #### Pale Guard Barracks
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+^Type:^ **^Barracks^** ^-^ ^Staff:^ **^40-45^** ^-^ ^Residents:^ **[^2d8^](/roll/2d8)** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
+
 Located in the northeast corner of the Northern Ward of [Whitestone](whitestone), the Pale Guard Barracks is the administrtive and training center for the guard force that protects the city of [Whitestone](whitestone). While called a barracks, the majority of the force reside in their own homes with a small, rotating detatchment stationed at the barracks in the event of an emergency. The barracks also contains the administrative offices, a small jail, armory, and training facilities. 
 
 ##### Occupants
-- ?
+The Captain of the Pale Guard, or their deputy, as well as some administrative personnel can be found at the barracks at all hours. There is a small holding facility for drunks and disturbers of the peace, but serious criminals are held in the [Castle](castle-whitestone) dungeons.
 {.square}
-
-##### Goods
-Coming Soon
-
-##### Services
-Coming Soon
-
-
-
 
 
 
@@ -524,54 +516,40 @@ The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **T
 
 
 
+#### Whitestone Riflemen Barracks
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+^Type:^ **^Barracks^** ^-^ ^Staff:^ **^16-24^** ^-^ ^Residents:^ **[^2d6^](/roll/2d6)** ^-^ ^Guests:^ ^Rarely^
+
+Located on the east side of the [Castle Whitestone](castle-whitestone) complex are the barracks for the **Whitestone Riflemen**, an elite, firearm-equipped guard tasked with the defense of the castle, the de Rolo family and the **Chamber of Whitestone**. The barracks is home to half of the Riflemen's number at any one time and all of the supplies and support staff they need to withstand a short siege.
+
+
+
 (print-column)
 
 
 
-#### Whitestone Riflemen Barracks
-[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-
-Located on the east side of the [Castle Whitestone](castle-whitestone) complex are the barracks for the **Whitestone Riflemen**, an elite, firearm-equipped guard tasked with the defense of the castle, the de Rolo family and the **Chamber of Whitestone**. The barracks is home to half of the Riflemen's number at any one time and all of the supplies and support staff they need to withstand a short siege.
-
 ##### Occupants
-- ?
+The Riflemen rotate in and out of the barracks constantly and the only occupants are typically sleeping or in the process of going on or coming off shift.
 {.square}
-
-##### Goods
-Coming Soon
-
-##### Services
-Coming Soon
-
-
-
-(print-page)
 
 
 
 #### Zenith
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+^Type:^ **^Temple^** ^-^ ^Staff:^ **^3-4^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d10^**](/roll/1d6-2)
+
+
 The Zenith is a temple to **Pelor the Dawn Father** in the Greyfields ward of [Whitestone](whitestone). The temple is made of stone and stained glass windows depict classic imagery of **Pelor**. A large wooden wreath of fire is carved into the heavy wooden doors at the front of the temple.
 
 Inside wooden pews line either side of the main aisle and three 10' wide stained glass windows line each side. A large stone altar stands on a small raised platform in the back. Doors lead to two small rooms on either side of the temple. 
 
 ##### Occupants
-- ? () - [Priest](/monster/priest)
-- ? () - [Acolyte](/monster/acolyte)
-- ? () - [Acolyte](/monster/acolyte)
-- ? () - [Acolyte](/monster/acolyte)
-{.square}
-
-##### Goods
-Coming Soon
+The Zenith is staffed full-time by a [Priest](/monster/priest) and 2 to 3 [Acolytes](/monster/acolyte). As the dominant faith in the city, the temple has frequent visitors and is packed during weekly services.
 
 ##### Services
-Coming Soon
-
-
-
-(print-page)
+Standard spellcasting services are available to members of the temple and followers of Pelor. All others must pay a fee for services or perform noble works for the temple.
 
 
 
@@ -581,22 +559,13 @@ Coming Soon
 The Ziggurat of Whitestone is an ancient temple to **Ioun the Knowing Mistress** that was coated in [residuum](/item/residuum) and corrupted by the Briarwoods to aid in the acension of **Vecna the Whispered One** to godhood. 
 
 The Ziggurat was once a great temple to **Ioun the Knowing Mistress**, but exactly when it was constructed is unknown. During the Calamity, the temple was the location of a terrible battle between **Tharizdun the Chained Oblivion** and **Ioun** in which she was very nearly fatally wounded. After the battle, the temple sank into the ground and was forgotten, by all but **Pelor the Dawn Father**. He planted the [Sun Tree](sun-tree) directly above the ziggurat to mark its location and honor her valor.
- 
-##### Occupants
-There are no permanent occupants, but researchers from the **Arcana Pansophical**, **Alabaster Lyceum**, and **Cobalt Soul** are frequent visitors.
-
-##### Goods
-Coming Soon
-
-##### Services
-Coming Soon
-
 
 
 
 
 (print-page)
 
+(print-page)
 
 
 ![Bladeshimmer Shoreline - North](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline_north-3300x2550-rotated.jpg){.size-full .print-only}
