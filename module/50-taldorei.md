@@ -76,8 +76,8 @@ While the city of [Whitestone](whitestone) and surrounding villages are predomin
 
 ##### Factions
 The dominant factions in the region are:
-- **Chamber of Whitestone**. Governs the city of [Whitestone](whitestone) and the surrounding countryside.
-- **Pale Guard**. Guard the city of [Whitestone](whitestone), the surrounding area and northern [Alabaster Trail](alabaster-trail).
+- **[Chamber of Whitestone](castle-whitestone)**. Governs the city of [Whitestone](whitestone) and the surrounding countryside.
+- **[Pale Guard](pale-guard-barracks)**. Guard the city of [Whitestone](whitestone), the surrounding area and northern [Alabaster Trail](alabaster-trail).
 {.square}
 
 ##### Geography
@@ -111,16 +111,16 @@ The major settlements in the region are:
 
 
 
-### [Alabaster Bay](alabaster-bay)
+### Alabaster Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![[Alabaster Bay](alabaster-bay)](assets/img/geography-alabaster_bay.jpg)
+![Alabaster Bay](assets/img/geography-alabaster_bay.jpg)
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
 The [Alabaster Bay](alabaster-bay) is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the [Alabaster Bay](alabaster-bay) offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
 ##### Dangers
-[Killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) hunt seals along the western shore and [harpies](/monster/harpy) and [wyverns](/monster/wyvern) attack ships that get too close to the [[Alabaster Sierras](alabaster-sierra-range)](alabaster-sierra-range).
+[Killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) hunt seals along the western shore and [harpies](/monster/harpy) and [wyverns](/monster/wyvern) attack ships that get too close to the [Alabaster Sierras](alabaster-sierra-range).
 
 ##### Environment
 During the winter months, **Extreme Cold** and **Frigid Water** can prove fatal for the unprepared.
@@ -147,7 +147,7 @@ Travel is usually uneventful, but winter storms, heavy fog, and the occassional 
 
 ^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-Named for their chalk-white color, the Alabaster Sierra range stretches three hundred miles along the western shore of the [[Alabaster Bay](alabaster-bay)](alabaster-bay) and hook around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
+Named for their chalk-white color, the Alabaster Sierra range stretches three hundred miles along the western shore of the [Alabaster Bay](alabaster-bay) and hook around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
 
 ##### Dangers
 [Giants](/monster/stone-giant), [goblins](/monster/goblin), [kobolds](/monster/kobold), and [orcs](/monster/orc) give the people of [Whitestone](whitestone) a wide berth, but do not tolerate trespassers.
@@ -207,7 +207,7 @@ Travel on the [Alabaster Trail](alabaster-trail) is very dangerous and travelers
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
-Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the [Dawnmist Bay](dawnmist-bay) is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [[Alabaster Bay](alabaster-bay)](alabaster-bay) on the other side of the peninsula. 
+Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the [Dawnmist Bay](dawnmist-bay) is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
 
 ##### Dangers
 A breeding ground for whales from the [Frigid Depths](frigid-depths), the bay is also home to a [sea monster](/monster/plesiosaurus) nicknamed "Misty".
@@ -291,7 +291,7 @@ Travelers are warned to stick to the [Alabaster Trail](alabaster-trail) on their
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-The [Salted Bluffs](salted-bluffs) are white cliffs that wrap around the north end of the [Alabaster Peninsula](alabaster-peninsula). The Bluffs stretch from the [[Alabaster Bay](alabaster-bay)](alabaster-bay) in the east to the [Dawnmist](dawnmist-bay) in the west, the [Salted Bluffs](salted-bluffs) are a network of towering spires, hidden coves, and caves.
+The [Salted Bluffs](salted-bluffs) are white cliffs that wrap around the north end of the [Alabaster Peninsula](alabaster-peninsula). The Bluffs stretch from the [Alabaster Bay](alabaster-bay) in the east to the [Dawnmist](dawnmist-bay) in the west, the [Salted Bluffs](salted-bluffs) are a network of towering spires, hidden coves, and caves.
 
 ##### Dangers
 The greatest danger in the [Salted Bluffs](salted-bluffs) come not from the water, but the sky. [Harpies](/monster/harpy), [wyverns](/monster/wyvern), and [griffons](/monster/griffon) all nest in the towering spires swoop down on unsuspecting prey.
@@ -354,7 +354,7 @@ The [Upper Mooren River Run](upper-mooren-river-run) is a long, fast-moving rive
 As an important source of fresh water, the Mooren River Run is also an important source of food for many of the beasts and monstrosities that call the forest home.
 
 ##### Environment
-In the spring, snowmelt from the [[Alabaster Sierras](alabaster-sierra-range)](alabaster-sierra-range) cause the river to swell and the already fast-moving river becomes a torrent.
+In the spring, snowmelt from the [Alabaster Sierras](alabaster-sierra-range) cause the river to swell and the already fast-moving river becomes a torrent.
 
 In the winter, the **frigid water** rarely freezes over due to the strong current, but when it does, the ice is thin and dangerous to walk on.
 
@@ -380,10 +380,10 @@ While the river is navigable by canoe or kayak, the trip is dangerous with numer
 
 ^Type:^ **^City^** ^-^ ^Population:^ **^4,230^** ^-^ ^Area:^ **^69^ ^Acres^**
 
-The city of [Whitestone](whitestone) is an independent city-state located in northeast [Tal'Dorei](taldorei) at the northern tip of the [[Alabaster Sierras](alabaster-sierra-range)](alabaster-sierras) and surrounded by the [Parchwood Timberland](parchwood-timberland).
+The city of [Whitestone](whitestone) is an independent city-state located in northeast [Tal'Dorei](taldorei) at the northern tip of the [Alabaster Sierras](alabaster-sierra-range) and surrounded by the [Parchwood Timberland](parchwood-timberland).
 
 ##### Administration
-Whitestone is governed by the **Chamber of Whitestone**, which is led by **House de Rolo** and local leaders in the community.
+Whitestone is governed by the **[Chamber of Whitestone](castle-whitestone)**, which is led by **[House de Rolo](castle-whitestone)** and local leaders in the community.
 
 ##### Demographics
 While the city is mostly human, [Whitestone](whitestone) was founded by refugees and its people are welcoming and tolerant.
@@ -480,7 +480,7 @@ An individual that prays to the Raven Queen at the Altar of the Raven cannot bec
 
 The [Lady's Chambers](ladys-chambers), or the House of the Lawbearer, is the temple to Erathis in the city of [Whitestone](whitestone). Located on the west side of the Common Ward near the west gate, the [Lady's Chambers](ladys-chambers) is a small temple with a large, open-air courtyard and ampitheater.
 
-The head of the temple is called the "Keeper" and they often serve as a member of the **Chamber of Whitestone**.
+The head of the temple is called the "Keeper" and they often serve as a member of the **[Chamber of Whitestone](castle-whitestone)**.
 
 ##### Occupants
 The Lady's Chamber is staffed full-time by the [Keeper (Priest)](/monster/priest) and 2 to 3 [Acolytes](/monster/acolyte). During weekly services, the temple's ampitheater is usually full.
@@ -499,10 +499,10 @@ Standard spellcasting services are available to members of the temple and follow
 
 ^Type:^ **^Barracks^** ^-^ ^Staff:^ **^40-45^** ^-^ ^Residents:^ **[^2d8^](/roll/2d8)** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
-Located in the northeast corner of the Northern Ward of [Whitestone](whitestone), the Pale Guard Barracks is the administrtive and training center for the guard force that protects the city of [Whitestone](whitestone). While called a barracks, the majority of the force reside in their own homes with a small, rotating detatchment stationed at the barracks in the event of an emergency. The barracks also contains the administrative offices, a small jail, armory, and training facilities. 
+Located in the northeast corner of the Northern Ward of [Whitestone](whitestone), the [Pale Guard](pale-guard-barracks) Barracks is the administrtive and training center for the guard force that protects the city of [Whitestone](whitestone). While called a barracks, the majority of the force reside in their own homes with a small, rotating detatchment stationed at the barracks in the event of an emergency. The barracks also contains the administrative offices, a small jail, armory, and training facilities. 
 
 ##### Occupants
-The Captain of the Pale Guard, or their deputy, as well as some administrative personnel can be found at the barracks at all hours. There is a small holding facility for drunks and disturbers of the peace, but serious criminals are held in the [Castle](castle-whitestone) dungeons.
+The Captain of the [Pale Guard](pale-guard-barracks), or their deputy, as well as some administrative personnel can be found at the barracks at all hours. There is a small holding facility for drunks and disturbers of the peace, but serious criminals are held in the [Castle](castle-whitestone) dungeons.
 {.square}
 
 
@@ -521,7 +521,7 @@ The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **T
 
 ^Type:^ **^Barracks^** ^-^ ^Staff:^ **^16-24^** ^-^ ^Residents:^ **[^2d6^](/roll/2d6)** ^-^ ^Guests:^ ^Rarely^
 
-Located on the east side of the [Castle Whitestone](castle-whitestone) complex are the barracks for the **Whitestone Riflemen**, an elite, firearm-equipped guard tasked with the defense of the castle, the de Rolo family and the **Chamber of Whitestone**. The barracks is home to half of the Riflemen's number at any one time and all of the supplies and support staff they need to withstand a short siege.
+Located on the east side of the [Castle Whitestone](castle-whitestone) complex are the barracks for the **[Whitestone Riflemen](whitestone-riflemen-barracks)**, an elite, firearm-equipped guard tasked with the defense of the castle, the de Rolo family and the **[Chamber of Whitestone](castle-whitestone)**. The barracks is home to half of the Riflemen's number at any one time and all of the supplies and support staff they need to withstand a short siege.
 
 
 
@@ -680,7 +680,7 @@ The major settlements in the region are:
 
 The Cliffkeep Mountains is the largest region in all of [Tal'Dorei](taldorei) and occupies the northern third of the continent. Virtually all of which is dominated by various mountain ranges that make up the [mountain range](cliffkeep-mountain-range) of the same name. 
 
-The region stretches from the [Ozmit Sea](ozmit-sea) on [Tal'Dorei's](taldorei) northwestern shores to the [Dawnmist Bay](dawnmist-bay) that separates it from the [[Alabaster Sierras](alabaster-sierra-range)](alabaster-sierras) to the east. To the north lies the frozen waters of the [Frigid Depths](frigid-depths) while the temperate [Bladeshimmer Shoreline](bladeshimmer-shoreline) and [Dividing Plains](dividing-plains) of central [Tal'Dorei](taldorei) to the south.
+The region stretches from the [Ozmit Sea](ozmit-sea) on [Tal'Dorei's](taldorei) northwestern shores to the [Dawnmist Bay](dawnmist-bay) that separates it from the [Alabaster Sierras](alabaster-sierra-range) to the east. To the north lies the frozen waters of the [Frigid Depths](frigid-depths) while the temperate [Bladeshimmer Shoreline](bladeshimmer-shoreline) and [Dividing Plains](dividing-plains) of central [Tal'Dorei](taldorei) to the south.
 
 ##### Climate
 The Cliffkeep Mountains is a large region with a ***humid continental climate (Dwb)*** with warm summers and cold, dry winters in the south, and a ***subarctic climate (Dfc)*** with long, cold winters and brief, warm summers in the north. The following numbers are from the more populous southern half.
