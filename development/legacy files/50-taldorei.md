@@ -82,7 +82,7 @@ The dominant factions in the region are:
 
 ##### Geography
 The prominent geographical features in the region are:
-- [Alabaster Bay](alabaster-bay)
+- [[Alabaster Bay](alabaster-bay)](alabaster-bay)
 - [Alabaster Sierras](alabaster-sierra-range)
 - [Alabaster Trail](alabaster-trail)
 - [Dawnmist Bay](dawnmist-bay)
@@ -111,13 +111,13 @@ The major settlements in the region are:
 
 
 
-### Alabaster Bay
+### [Alabaster Bay](alabaster-bay)
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Alabaster Bay](assets/img/geography-alabaster_bay.jpg)
+![[Alabaster Bay](alabaster-bay)](assets/img/geography-alabaster_bay.jpg)
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
-The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
+The [Alabaster Bay](alabaster-bay) is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the [Alabaster Bay](alabaster-bay) offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
 ##### Dangers
 [Killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) hunt seals along the western shore and [harpies](/monster/harpy) and [wyverns](/monster/wyvern) attack ships that get too close to the [Alabaster Sierras](alabaster-sierra-range).
@@ -147,7 +147,7 @@ Travel is usually uneventful, but winter storms, heavy fog, and the occassional 
 
 ^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-Named for their chalk-white color, the Alabaster Sierra range stretches three hundred miles along the western shore of the [Alabaster Bay](alabaster-bay) and hook around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
+Named for their chalk-white color, the Alabaster Sierra range stretches three hundred miles along the western shore of the [[Alabaster Bay](alabaster-bay)](alabaster-bay) and hook around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
 
 ##### Dangers
 [Giants](/monster/stone-giant), [goblins](/monster/goblin), [kobolds](/monster/kobold), and [orcs](/monster/orc) give the people of [Whitestone](whitestone) a wide berth, but do not tolerate trespassers.
@@ -207,7 +207,7 @@ Travel on the Alabaster Trail is very dangerous and travelers are encouraged to 
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
-Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
+Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [[Alabaster Bay](alabaster-bay)](alabaster-bay) on the other side of the peninsula. 
 
 ##### Dangers
 A breeding ground for whales from the [Frigid Depths](frigid-depths), the bay is also home to a [sea monster](/monster/plesiosaurus) nicknamed "Misty".
@@ -291,7 +291,7 @@ Travelers are warned to stick to the [Alabaster Trail](alabaster-trail) on their
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-The Salted Bluffs are white cliffs that wrap around the north end of the [Alabaster Peninsula](alabaster-peninsula). The Bluffs stretch from the [Alabaster Bay](alabaster-bay) in the east to the [Dawnmist](dawnmist-bay) in the west, the Salted Bluffs are a network of towering spires, hidden coves, and caves.
+The Salted Bluffs are white cliffs that wrap around the north end of the [Alabaster Peninsula](alabaster-peninsula). The Bluffs stretch from the [[Alabaster Bay](alabaster-bay)](alabaster-bay) in the east to the [Dawnmist](dawnmist-bay) in the west, the Salted Bluffs are a network of towering spires, hidden coves, and caves.
 
 ##### Dangers
 The greatest danger in the Salted Bluffs come not from the water, but the sky. [Harpies](/monster/harpy), [wyverns](/monster/wyvern), and [griffons](/monster/griffon) all nest in the towering spires swoop down on unsuspecting prey.

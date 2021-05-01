@@ -46,9 +46,9 @@ The continent of Tal'Dorei is divided into the following eight regions:
 
 ^Area:^ **^63,911^ ^sq^ ^mi^** ^-^ ^Population:^ **^5,288^**
 
-Located in the northeast corner of the continent, the Alabaster Sierras are named for the chalk-white mountains that run the length of the Alabaster Peninsula. While named for the Alabaster Sierra range, it is the massive Parchwood Timberland that truly dominates the region.
+Located in the northeast corner of the continent, the Alabaster Sierras are named for the chalk-white mountains that run the length of the Alabaster Peninsula. While named for the Alabaster Sierra range, it is the massive [Parchwood Timberland](parchwood-timberland) that truly dominates the region.
 
-The region is bordered by the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south and by water to the east, north, and west. The Alabaster and Dawnmist Bays frame the peninsula and the Shearing Channel separates the region from the continent of [Wildemount](wildemount) to the east.
+The region is bordered by the [Dividing Plains](dividing-plains) and [Lucidian Coast](lucidian-coast) to the south and by water to the east, north, and west. The Alabaster and [Dawnmist Bay](dawnmist-bay)s frame the peninsula and the [Shearing Channel](shearing-channel) separates the region from the continent of [Wildemount](wildemount) to the east.
 
 ##### Climate
 The region has a **humid continental climate (Dfb)** with long, cold winters with plenty of snowfall. Summers are warm, but short with a fair amount of rain.
@@ -62,7 +62,7 @@ The region has a **humid continental climate (Dfb)** with long, cold winters wit
 {.gray}
 
 ##### Demographics
-While the city of Whitestone and surrounding villages are predominantly human, [gnolls](/monster/gnoll), [orcs](/monster/orc), [kobolds](/monster/kobold), [goblins](/monster/goblin) and [stone giants](/monster/stone-giant) are common throughout the region.
+While the city of [Whitestone](whitestone) and surrounding villages are predominantly human, [gnolls](/monster/gnoll), [orcs](/monster/orc), [kobolds](/monster/kobold), [goblins](/monster/goblin) and [stone giants](/monster/stone-giant) are common throughout the region.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
@@ -76,33 +76,33 @@ While the city of Whitestone and surrounding villages are predominantly human, [
 
 ##### Factions
 The dominant factions in the region are:
-- **Chamber of Whitestone**. Governs the city of Whitestone and the surrounding countryside.
-- **Pale Guard**. Guard the city of Whitestone, the surrounding area and northern Alabaster Trail.
+- **Chamber of Whitestone**. Governs the city of [Whitestone](whitestone) and the surrounding countryside.
+- **Pale Guard**. Guard the city of [Whitestone](whitestone), the surrounding area and northern [Alabaster Trail](alabaster-trail).
 {.square}
 
 ##### Geography
 The prominent geographical features in the region are:
-- Alabaster Bay
-- Alabaster Sierras
-- Alabaster Trail
-- Dawnmist Bay
-- Parchwood Bay
-- Parchwood Timberland
-- Salted Bluffs
-- Shearing Channel
-- Upper Mooren River Run
+- [Alabaster Bay](alabaster-bay)
+- [Alabaster Sierras](alabaster-sierra-range)
+- [Alabaster Trail](alabaster-trail)
+- [Dawnmist Bay](dawnmist-bay)
+- [Parchwood Bay](parchwood-bay)
+- [Parchwood Timberland](parchwood-timberland)
+- [Salted Bluffs](salted-bluffs)
+- [Shearing Channel](shearing-channel)
+- [Upper Mooren River Run](upper-mooren-river-run)
 {.square}
 
 ##### Religion
 The dominant religions in the region are:
-- **Pelor**. Pelor is deeply ingrained in the culture of Whitestone and is the dominant faith in the city.
+- **Pelor**. Pelor is deeply ingrained in the culture of [Whitestone](whitestone) and is the dominant faith in the city.
 - **Erathis**. While less popular than Pelor, the Law Bearer has a sizable following in the city.
 - **Melora**. Melora's is popular in the wilds and is gaining influence among some orc & gnoll tribes.
 {.square}
 
 ##### Settlements
 The major settlements in the region are:
-- Whitestone
+- [Whitestone](whitestone)
 {.square}
 
 
@@ -111,16 +111,16 @@ The major settlements in the region are:
 
 
 
-### Alabaster Bay
+### [Alabaster Bay](alabaster-bay)
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Alabaster Bay](assets/img/geography-alabaster_bay.jpg)
+![[Alabaster Bay](alabaster-bay)](assets/img/geography-alabaster_bay.jpg)
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
-The Alabaster Bay is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the Alabaster Bay offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
+The [Alabaster Bay](alabaster-bay) is a large bay located on the east side of the [Alabaster Peninsula](alabaster-sierras) and west of the [Shearing Channel](shearing-channel). While not as rough as the open waters of the [Frigid Depths](frigid-depths), the [Alabaster Bay](alabaster-bay) offers little protection from the brutal storms that plague, [Exandria's](exandria) northern ocean.
 
 ##### Dangers
-[Killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) hunt seals along the western shore and [harpies](/monster/harpy) and [wyverns](/monster/wyvern) attack ships that get too close to the [Alabaster Sierras](alabaster-sierra-range).
+[Killer whales](/monster/killer-whale) and [sea lions](/monster/sea-lion) hunt seals along the western shore and [harpies](/monster/harpy) and [wyverns](/monster/wyvern) attack ships that get too close to the [[Alabaster Sierras](alabaster-sierra-range)](alabaster-sierra-range).
 
 ##### Environment
 During the winter months, **Extreme Cold** and **Frigid Water** can prove fatal for the unprepared.
@@ -147,7 +147,7 @@ Travel is usually uneventful, but winter storms, heavy fog, and the occassional 
 
 ^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-Named for their chalk-white color, the Alabaster Sierra range stretches three hundred miles along the western shore of the [Alabaster Bay](alabaster-bay) and hook around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
+Named for their chalk-white color, the Alabaster Sierra range stretches three hundred miles along the western shore of the [[Alabaster Bay](alabaster-bay)](alabaster-bay) and hook around the northern tip to form the towering cliffs of the [Salted Bluffs](salted-bluffs). 
 
 ##### Dangers
 [Giants](/monster/stone-giant), [goblins](/monster/goblin), [kobolds](/monster/kobold), and [orcs](/monster/orc) give the people of [Whitestone](whitestone) a wide berth, but do not tolerate trespassers.
@@ -177,7 +177,7 @@ The Sierras are difficult to traverse and travelers are advised to bring climbin
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Normal^**
 
-The Alabaster Trail is a small road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
+The [Alabaster Trail](alabaster-trail) is a small road that connects the city of [Whitestone](whitestone) at the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the rest of [Tal'Dorei](taldorei). It winds southward for a little more than 360 miles through the [Parchwood Timberland](parchwood-timberland) to the town of [Turst Fields](turst-fields) in the eastern [Dividing Plains](dividing-plains).
 
 ##### Dangers
 [Bandits](/monster/bandit) and the more aggressive [orc](/monster/orc) and [gnoll](/monster/gnoll) tribes in the area are a constant threat on the southern end of the road, but even they avoid the stretch through [Parchwood](parchwood-timberland).
@@ -191,7 +191,7 @@ While the [forest](parchwood-timberland) provides some shelter from the elements
 For much of it's length, edible plants, berries, and game can be found without a lot of effort. Fresh water is more scarce, with most streams near the road slow-moving and murky.
 
 ##### Travel
-Travel on the Alabaster Trail is very dangerous and travelers are encouraged to travel in caravans and never at night.
+Travel on the [Alabaster Trail](alabaster-trail) is very dangerous and travelers are encouraged to travel in caravans and never at night.
 - [Whitestone](whitestone) to [Turst Fields](turst-fields) - (360 mi, 12d)
 {.square}
 
@@ -207,7 +207,7 @@ Travel on the Alabaster Trail is very dangerous and travelers are encouraged to 
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
-Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the Dawnmist Bay is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [Alabaster Bay](alabaster-bay) on the other side of the peninsula. 
+Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the [Dawnmist Bay](dawnmist-bay) is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei) . While technically an extension of the [Frigid Depths](frigid-depths), the bay is warmer and calmer than the [[Alabaster Bay](alabaster-bay)](alabaster-bay) on the other side of the peninsula. 
 
 ##### Dangers
 A breeding ground for whales from the [Frigid Depths](frigid-depths), the bay is also home to a [sea monster](/monster/plesiosaurus) nicknamed "Misty".
@@ -235,10 +235,10 @@ While the bay is often calm, the fog makes navigating difficult by hiding danger
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-The Parchwood Bay is an island-choked bay on the west side of the [Shearing Channel](shearing-channel) that separates [Tal'Dorei](tal'dorei) and [Wildemount](wildemount). While the bay seems like a great place to ride out a storm, the bay is a maze of heavily [forested](parchwood-timberland) islands and shoals that make navigating difficult. 
+The [Parchwood Bay](parchwood-bay) is an island-choked bay on the west side of the [Shearing Channel](shearing-channel) that separates [Tal'Dorei](tal'dorei) and [Wildemount](wildemount). While the bay seems like a great place to ride out a storm, the bay is a maze of heavily [forested](parchwood-timberland) islands and shoals that make navigating difficult. 
 
 ##### Dangers
-The Parchwood Bay is crawling with terrible creatures of the deep. Sailors have reported coming across [hags](/monster/sea-hag), [giant crabs](/monster/giant-crabs), ghost ships, and even a [kraken](/monster/kraken).
+The [Parchwood Bay](parchwood-bay) is crawling with terrible creatures of the deep. Sailors have reported coming across [hags](/monster/sea-hag), [giant crabs](/monster/giant-crabs), ghost ships, and even a [kraken](/monster/kraken).
 
 ##### Environment
 While the bay provides some shelter from the storms that plague the [Shearing Channel](shearing-channel), they rocky islands and shoals leave little room to manuever in a bad storm.
@@ -263,13 +263,13 @@ Navigating the bay is difficult. The tall, forested islands, rocky shoals, and p
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-The Parchwood Timberland is a massive evergreen forest that dominates the entire northeastern corner of [Tal'Dorei](taldorei). The forest is an unholy combination of towering trees and a thick, almost impenetrable underbrush. 
+The [Parchwood Timberland](parchwood-timberland) is a massive evergreen forest that dominates the entire northeastern corner of [Tal'Dorei](taldorei). The forest is an unholy combination of towering trees and a thick, almost impenetrable underbrush. 
 
 ##### Dangers
 While the forest is home to countless woodland beasts, the Parchwood is best known for the dire beasts, undead, corrupted plants, and lycanthropes that dwell within.
 
 ##### Environment
-Winters are hard in the Parchwood Timberland. **Extreme cold** and **heavy snow** are common in the winter months and well into spring.
+Winters are hard in the [Parchwood Timberland](parchwood-timberland). **Extreme cold** and **heavy snow** are common in the winter months and well into spring.
 
 ##### Foraging
 ^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
@@ -291,21 +291,21 @@ Travelers are warned to stick to the [Alabaster Trail](alabaster-trail) on their
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-The Salted Bluffs are white cliffs that wrap around the north end of the [Alabaster Peninsula](alabaster-peninsula). The Bluffs stretch from the [Alabaster Bay](alabaster-bay) in the east to the [Dawnmist](dawnmist-bay) in the west, the Salted Bluffs are a network of towering spires, hidden coves, and caves.
+The [Salted Bluffs](salted-bluffs) are white cliffs that wrap around the north end of the [Alabaster Peninsula](alabaster-peninsula). The Bluffs stretch from the [[Alabaster Bay](alabaster-bay)](alabaster-bay) in the east to the [Dawnmist](dawnmist-bay) in the west, the [Salted Bluffs](salted-bluffs) are a network of towering spires, hidden coves, and caves.
 
 ##### Dangers
-The greatest danger in the Salted Bluffs come not from the water, but the sky. [Harpies](/monster/harpy), [wyverns](/monster/wyvern), and [griffons](/monster/griffon) all nest in the towering spires swoop down on unsuspecting prey.
+The greatest danger in the [Salted Bluffs](salted-bluffs) come not from the water, but the sky. [Harpies](/monster/harpy), [wyverns](/monster/wyvern), and [griffons](/monster/griffon) all nest in the towering spires swoop down on unsuspecting prey.
 
 ##### Environment
-The Salted Bluffs are blasted by surging tides and **strong winds** year-round and **extreme cold** and **frigid water** during the long, cold winters.
+The [Salted Bluffs](salted-bluffs) are blasted by surging tides and **strong winds** year-round and **extreme cold** and **frigid water** during the long, cold winters.
 
 ##### Foraging
 ^Food:^ **^Limited^** ^-^ ^Water:^ **^Rare^**
 
-Food and water are hard to come by in the Salted Bluffs. There are few edible plants in the area and harvesting fish is difficult in the powerful tide.
+Food and water are hard to come by in the [Salted Bluffs](salted-bluffs). There are few edible plants in the area and harvesting fish is difficult in the powerful tide.
 
 ##### Travel
-Travel of any kind is difficult near the Salted Bluffs. The rough tide, uneven ground, and strong winds make it difficult to navigate the area by boat, foot, or in the air.
+Travel of any kind is difficult near the [Salted Bluffs](salted-bluffs). The rough tide, uneven ground, and strong winds make it difficult to navigate the area by boat, foot, or in the air.
 
 
 
@@ -319,7 +319,7 @@ Travel of any kind is difficult near the Salted Bluffs. The rough tide, uneven g
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-The Shearing Channel is a narrow channel that seperates the continents of [Tal'Dorei](taldorei) and [Wildemount](wildemount). The channel is less than 60 miles wide at it's narrowest point and roughly 300 miles from the temperate [Lucidian Ocean](lucidian-ocean) to the icy [Frigid Depths](frigid-depths).
+The [Shearing Channel](shearing-channel) is a narrow channel that seperates the continents of [Tal'Dorei](taldorei) and [Wildemount](wildemount). The channel is less than 60 miles wide at it's narrowest point and roughly 300 miles from the temperate [Lucidian Ocean](lucidian-ocean) to the icy [Frigid Depths](frigid-depths).
 
 
 ##### Dangers
@@ -331,7 +331,7 @@ Powerful storms, surging tides, and strong winds are the greatest danger to any 
 ##### Foraging
 ^Food:^ **^Abundant^** ^-^ ^Water:^ **^Rare^**
 
-While there are plenty of fish in the sea, catching them in the tumultuous waters of the Shearing Channel requires some skill.
+While there are plenty of fish in the sea, catching them in the tumultuous waters of the [Shearing Channel](shearing-channel) requires some skill.
 
 ##### Travel
 While the traversing the channel should take no more than three days, ships can spend a week fighting violent storms and shifting currents before emerging on the other side. 
@@ -348,20 +348,20 @@ While the traversing the channel should take no more than three days, ships can 
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
-The Upper Mooren River Run is a long, fast-moving river that stretches over 600 miles from the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the city of [Drynna](drynna) on the west bank of [Mooren Lake](mooren-lake). 
+The [Upper Mooren River Run](upper-mooren-river-run) is a long, fast-moving river that stretches over 600 miles from the northern tip of the [Alabaster Peninsula](alabaster-sierras) to the city of [Drynna](drynna) on the west bank of [Mooren Lake](mooren-lake). 
 
 ##### Dangers
 As an important source of fresh water, the Mooren River Run is also an important source of food for many of the beasts and monstrosities that call the forest home.
 
 ##### Environment
-In the spring, snowmelt from the [Alabaster Sierras](alabaster-sierra-range) cause the river to swell and the already fast-moving river becomes a torrent.
+In the spring, snowmelt from the [[Alabaster Sierras](alabaster-sierra-range)](alabaster-sierra-range) cause the river to swell and the already fast-moving river becomes a torrent.
 
 In the winter, the **frigid water** rarely freezes over due to the strong current, but when it does, the ice is thin and dangerous to walk on.
 
 ##### Foraging
 ^Food:^ **^Abundant^** ^-^ ^Water:^ **^Abundant^**
 
-The cold, crystal clear Mooren River Run is an important source of fresh water for the entire region and is home to various species of freshwater fish.
+The cold, crystal clear [Mooren River Run](upper-mooren-river-run) is an important source of fresh water for the entire region and is home to various species of freshwater fish.
 
 ##### Travel
 While the river is navigable by canoe or kayak, the trip is dangerous with numerous rapids and falls. Few are willing to brave the river and forest to save a few days.
@@ -380,13 +380,13 @@ While the river is navigable by canoe or kayak, the trip is dangerous with numer
 
 ^Type:^ **^City^** ^-^ ^Population:^ **^4,230^** ^-^ ^Area:^ **^69^ ^Acres^**
 
-The city of Whitestone is an independent city-state located in northeast [Tal'Dorei](taldorei) at the northern tip of the [Alabaster Sierras](alabaster-sierras) and surrounded by the [Parchwood Timberland](parchwood-timberland).
+The city of [Whitestone](whitestone) is an independent city-state located in northeast [Tal'Dorei](taldorei) at the northern tip of the [[Alabaster Sierras](alabaster-sierra-range)](alabaster-sierras) and surrounded by the [Parchwood Timberland](parchwood-timberland).
 
 ##### Administration
 Whitestone is governed by the **Chamber of Whitestone**, which is led by **House de Rolo** and local leaders in the community.
 
 ##### Demographics
-While the city is mostly human, Whitestone was founded by refugees and its people are welcoming and tolerant.
+While the city is mostly human, [Whitestone](whitestone) was founded by refugees and its people are welcoming and tolerant.
 
 |||||||
 |:---|:---:|:---|:---:|:---|:---:|
@@ -680,7 +680,7 @@ The major settlements in the region are:
 
 The Cliffkeep Mountains is the largest region in all of [Tal'Dorei](taldorei) and occupies the northern third of the continent. Virtually all of which is dominated by various mountain ranges that make up the [mountain range](cliffkeep-mountain-range) of the same name. 
 
-The region stretches from the [Ozmit Sea](ozmit-sea) on [Tal'Dorei's](taldorei) northwestern shores to the Dawnmist Bay that separates it from the [Alabaster Sierras](alabaster-sierras) to the east. To the north lies the frozen waters of the [Frigid Depths](frigid-depths) while the temperate [Bladeshimmer Shoreline](bladeshimmer-shoreline) and [Dividing Plains](dividing-plains) of central [Tal'Dorei](taldorei) to the south.
+The region stretches from the [Ozmit Sea](ozmit-sea) on [Tal'Dorei's](taldorei) northwestern shores to the [Dawnmist Bay](dawnmist-bay) that separates it from the [[Alabaster Sierras](alabaster-sierra-range)](alabaster-sierras) to the east. To the north lies the frozen waters of the [Frigid Depths](frigid-depths) while the temperate [Bladeshimmer Shoreline](bladeshimmer-shoreline) and [Dividing Plains](dividing-plains) of central [Tal'Dorei](taldorei) to the south.
 
 ##### Climate
 The Cliffkeep Mountains is a large region with a ***humid continental climate (Dwb)*** with warm summers and cold, dry winters in the south, and a ***subarctic climate (Dfc)*** with long, cold winters and brief, warm summers in the north. The following numbers are from the more populous southern half.
@@ -849,7 +849,7 @@ The major settlements in the region are:
 
 ^Area:^ **^85,734^ ^sq^ ^mi^** ^-^ ^Population:^ **^16,383^**
 
-Located on the east coast of [Tal'Dorei](tal'dorei), the Lucidian Coast stretches from the base of the Parchwood Timberland in the north to the Owlset Bay at the eastern end of the [Stormcrest Mountains](stormcrest-mountains) in the south. Inland, the region extends as far as the western slope of the Summit Peaks where it meets the central [Dividing Plains](dividing-plains).
+Located on the east coast of [Tal'Dorei](tal'dorei), the Lucidian Coast stretches from the base of the [Parchwood Timberland](parchwood-timberland) in the north to the Owlset Bay at the eastern end of the [Stormcrest Mountains](stormcrest-mountains) in the south. Inland, the region extends as far as the western slope of the Summit Peaks where it meets the central [Dividing Plains](dividing-plains).
 
 Home to the port cities of Stilben and Drynna, the [Lucidian Coast](lucidian-coast) is an important source of trade with the eastern continent of [Wildemount](wildemount) and the lucrative ports on the [Menagerie Coast](menagerie-coast).
 

@@ -1,10 +1,10 @@
 
-### Alabaster Bay
+### [Alabaster Bay](alabaster-bay)
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
 
 **^Type:^** ^Coastal,^ ^Arctic,^ ^&^ ^Underwater^
 
-Alabaster Bay is a large bay located on the eastern side of the [Alabaster Peninsula](alabaster-peninsula) in northeastern [Tal'Dorei](taldorei). Located on the northern end of the [Shearing Channel](shearing-channel), few vessels cross the bay, as most turn east toward the northern coast of [Wildemount](wildemount) and the island of [Eiselcross](eiselcross).
+[Alabaster Bay](alabaster-bay) is a large bay located on the eastern side of the [Alabaster Peninsula](alabaster-peninsula) in northeastern [Tal'Dorei](taldorei). Located on the northern end of the [Shearing Channel](shearing-channel), few vessels cross the bay, as most turn east toward the northern coast of [Wildemount](wildemount) and the island of [Eiselcross](eiselcross).
 
 The western shore is rocky and cold. The [Sierras](alabaster-sierra-range) rise out of the water and flat land is hard to find. The southern shore, on the other hand, is relatively flat with the [Parchwood Timberland](parchwood-timberland) coming right to the water's edge.
 
@@ -25,7 +25,7 @@ The western shore is rocky and cold. The [Sierras](alabaster-sierra-range) rise 
 
 **^Type:^** ^Mountain^
 
-Aptly named, the Alabaster Sierras are tall, rocky mountains of chalk-white stone. The range stretches over three hundred miles from the base of the [Alabaster Peninsula](alabaster-sierras), along the [Alabaster Bay](alabaster-bay) and around the peninsula's northern tip. 
+Aptly named, the Alabaster Sierras are tall, rocky mountains of chalk-white stone. The range stretches over three hundred miles from the base of the [Alabaster Peninsula](alabaster-sierras), along the [[Alabaster Bay](alabaster-bay)](alabaster-bay) and around the peninsula's northern tip. 
 
 The entirety of the [Alabaster Peninsula](alabaster-sierras) is wild, untamed wilderness and the Sierras are no different. [Behirs](/monster/behir), [harpies](/monster/harpy), and [wyverns](/monster/wyvern) call the mountains home, as do a number of [stone giant](/monster/stone-giant) clans. The city of [Whitestone](whitestone) is the only outpost of [human](humans) civilization on the peninsula.
 
@@ -65,7 +65,7 @@ The Trail is a dangerous road. The northern and southern ends are well patroled 
 
 **^Type:^** ^Coastal^ ^&^ ^Underwater^
 
-Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the [Dawnmist Bay](dawnmist-bay) is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei). While an extension of the [Frigid Depths](frigid-depths), the [Dawnmist Bay](dawnmist-bay) is warmer than its sister, the [Alabaster Bay](alabaster-bay) on the eastern side of the peninsula. 
+Located on the western side of the [Alabaster Peninsula](alabaster-sierras), the [Dawnmist Bay](dawnmist-bay) is a large, sheltered bay that drives deep into the continent of [Tal'Dorei](taldorei). While an extension of the [Frigid Depths](frigid-depths), the [Dawnmist Bay](dawnmist-bay) is warmer than its sister, the [[Alabaster Bay](alabaster-bay)](alabaster-bay) on the eastern side of the peninsula. 
 
 Named for the heavy banks of fog that roll off the eastern slope of the [Cliffkeep Mountains](cliffkeep-mountain-range), the [Dawnmist Bay](dawnmist-bay) and [Dawnmist Pines](dawnmist-pines) are often obscured by light fog. Only during the exceptionally warm months of summer does the fog burn off by midday.
 
