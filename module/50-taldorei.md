@@ -452,6 +452,8 @@ Whitestone's economy is strong and booming and fueled by the city's signature ex
 
 #### Altar of the Raven
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+![Altar of the Raven](assets/img/location-altar_of_the_raven.jpg)
+
 
 ^Type:^ **^Shrine^** ^-^ ^Staff:^ **^0^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
