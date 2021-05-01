@@ -410,7 +410,7 @@ In addition to the traditional defenses, the city is protected by an [Illusory B
 
 
 ##### Economy
-^Strength:^ **^Booming^** ^-^ ^Crime:^ **^Low^**^
+^Strength:^ **^Booming^** ^-^ ^Crime:^ **^Low^**
 
 Whitestone's economy is strong and booming and fueled by the city's signature exports, [white stone](/item/white-stone) and [residuum](/item/residuum).
 
@@ -446,6 +446,10 @@ Whitestone's economy is strong and booming and fueled by the city's signature ex
 
 
 
+(print-column)
+
+
+
 #### Altar of the Raven
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
@@ -453,12 +457,6 @@ Whitestone's economy is strong and booming and fueled by the city's signature ex
 
 
 The Altar of the Raven is a small shrine to the **Raven Queen** located behind the [Zenith](zenith) temple to **Pelor** in the Greyfields of [Whitestone](whitestone). About the size of a noble's mausoleum, the building is completely made of stone with intricate reliefs depicting motifs of the Raven Queen, her ascension and symbols associated with her stewardship of fate and death.
-
-
-
-(print-column)
-
-
 
 The shrine was constructed ~815 P.D. by Lord Percival Fredrickstein von Musel Klossowski de Rolo III for Vax'ildan Vessar, champion of the Raven Queen, and brother to his future wife, Lady Vex'ahlia (Vessar) de Rolo. 
 
@@ -469,6 +467,79 @@ Guests often make offerings and prayers to the Raven Queen to guide a dying love
 
 ##### Services
 An individual that prays to the Raven Queen at the Altar of the Raven cannot become undead should they pass within the next 7 days.
+
+
+
+(print-page)
+
+
+
+#### Castle Whitestone
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+![Whitestone](assets/img/geography-castle_whitestone.jpg)
+
+^Type:^ **^Administration^ ^&^ ^Residence^** ^-^ ^Staff:^ **^?^** ^-^ ^Residents:^ **^?^** ^-^ ^Guests:^ [**^1d8^**](/roll/1d8)
+
+Castle Whitestone (or Whitestone Castle) is a large, fortified keep on a large hill overlooking the north side of the [city](whitestone). The road from the north gate winds its way up the hill to the walled courtyard protecting the keep's main entrance. 
+
+The ground floor of the keep houses the meeting chambers for the **Chamber of Whitestone**, a dining hall, study, and various other chambers for hosting guests and administering to the business of the city. The large central keep is home to the de Rolo family and their honored guests. Attached to the castle, on the east side are the [barracks](whitestone-riflemen-barracks) for the **Whitestone Riflemen**, an elite, firearm-equipped force tasked with protecting **House de Rolo** and the **Chamber of Whitestone**.
+
+Beneath the castle are the private crypts for the de Rolo family, the dungeons, and various store rooms. It is rumored that there is a secret passage that leads out of the castle to the east side of the hill.
+
+##### Occupants
+- Name (Race, G, A) - Position/Title
+{.square}
+
+##### Goods
+Coming Soon
+
+##### Services
+Coming Soon
+
+
+
+(print-column)
+
+
+
+#### Estate of the Mistress of the Grey Hunt
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+^Type:^ **^Defense^** ^-^ ^Staff:^ **^?^** ^-^ ^Residents:^ **^?^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
+
+This estate was briefly the personal residence of Vex'ahlia Vessar prior to her marriage to Percival de Rolo and their moving into [Castle Whitestone](castle-whitestone). The residence is now the headquarters of the **Grey Hunt**, a group of rangers tasked with patrolling the surrounding [Parchwood](parchwood-timberland) and protecting the people of [Whitestone](whitestone) from the monsters that roam within.
+
+##### Occupants
+- Name (Race, G, A) - Position/Title
+{.square}
+
+##### Goods
+Coming Soon
+
+##### Services
+Coming Soon
+
+
+
+(print-page)
+
+
+
+#### Illusory Barrier
+[^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+^Type:^ **^Defense^** ^-^ ^Staff:^ **^0^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ **^0^**
+
+The Illusory Barrier is collection of five obelisks around the city of [Whitestone](whitestone) designed to shield the city from above. When all five obelisks are powered by arcane energy, at the same time, they create a dome-like illusion causing the city to appear as unspoiled wilderness from above.
+
+**Powering the Barrier**. An arcane spellcaster must expend 1 spell slot for 2 hours of illusion in each obelisk. Multiple casters are recommended due to the geographic dispersion and toll it takes on the casters. For every spell level sacrificed within a 24 hour period, the caster suffers 1 point of exhaustion.
+
+##### Occupants
+These locations do not have permanent staff or residents and are only used in times of need.
+
+
+
+(print-column)
 
 
 
@@ -507,12 +578,20 @@ The Captain of the [Pale Guard](pale-guard-barracks), or their deputy, as well a
 
 
 
+(print-column)
+
+
+
 #### Sun Tree
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
 The Sun Tree is a massive oak tree located in the heart of Dawnfather Square in the city of [Whitestone](whitestone). It is a couple of stories tall and its leaves are vibrant orange, red, and yellow year-round. The tree is a major landmark in the city and an integral part of the city's identity and soul. 
 
 The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **Tharizdun the Chained Oblivion** nearly killed **Ioun the Knowing Mistress**. The tree stands directly above a lost [temple](ziggurat-of-whitestone) to **Ioun**.
+
+
+
+(print-page)
 
 
 
@@ -523,15 +602,13 @@ The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **T
 
 Located on the east side of the [Castle Whitestone](castle-whitestone) complex are the barracks for the **[Whitestone Riflemen](whitestone-riflemen-barracks)**, an elite, firearm-equipped guard tasked with the defense of the castle, the de Rolo family and the **[Chamber of Whitestone](castle-whitestone)**. The barracks is home to half of the Riflemen's number at any one time and all of the supplies and support staff they need to withstand a short siege.
 
-
-
-(print-column)
-
-
-
 ##### Occupants
 The Riflemen rotate in and out of the barracks constantly and the only occupants are typically sleeping or in the process of going on or coming off shift.
 {.square}
+
+
+
+(print-column)
 
 
 
@@ -539,7 +616,6 @@ The Riflemen rotate in and out of the barracks constantly and the only occupants
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
 ^Type:^ **^Temple^** ^-^ ^Staff:^ **^3-4^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d10^**](/roll/1d6-2)
-
 
 The Zenith is a temple to **Pelor the Dawn Father** in the Greyfields ward of [Whitestone](whitestone). The temple is made of stone and stained glass windows depict classic imagery of **Pelor**. A large wooden wreath of fire is carved into the heavy wooden doors at the front of the temple.
 
@@ -550,6 +626,10 @@ The Zenith is staffed full-time by a [Priest](/monster/priest) and 2 to 3 [Acoly
 
 ##### Services
 Standard spellcasting services are available to members of the temple and followers of Pelor. All others must pay a fee for services or perform noble works for the temple.
+
+
+
+(print-page)
 
 
 
