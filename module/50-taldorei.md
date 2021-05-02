@@ -113,7 +113,6 @@ The major settlements in the region are:
 
 ### Alabaster Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Alabaster Bay](assets/img/geography-alabaster_bay.jpg)
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
@@ -136,14 +135,9 @@ Travel is usually uneventful, but winter storms, heavy fog, and the occassional 
 
 
 
-(print-column)
-
-
-
 ### Alabaster Sierra Range
 
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Alabaster Sierras](assets/img/geography-alabaster_sierras.jpg)
 
 ^Type:^ **^Mountain^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -153,6 +147,8 @@ Named for their chalk-white color, the Alabaster Sierra range stretches three hu
 [Giants](/monster/stone-giant), [goblins](/monster/goblin), [kobolds](/monster/kobold), and [orcs](/monster/orc) give the people of [Whitestone](whitestone) a wide berth, but do not tolerate trespassers.
 
 [Harpies](/monster/harpy) and [wyverns](/monster/wyvern) nest in the mountain peaks and travelers must keep an eye on the skies at all times.
+
+(print-column)
 
 ##### Environment
 During the winter months, **Extreme Cold**, **Frigid Water** and blinding snowstorms are a common occurence as are rock slides and avalanches.
@@ -167,13 +163,8 @@ The Sierras are difficult to traverse and travelers are advised to bring climbin
 
 
 
-(print-page)
-
-
-
 ### Alabaster Trail
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Alabaster Trail](assets/img/geography-alabaster_trail.jpg)
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Normal^**
 
@@ -197,13 +188,12 @@ Travel on the [Alabaster Trail](alabaster-trail) is very dangerous and travelers
 
 
 
-(print-column)
+(print-page)
 
 
 
 ### Dawnmist Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Dawnmist Bay](assets/img/geography-dawnmist_bay.jpg)
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^Normal^** ^-^ ^Terrain:^ **^Normal^**
 
@@ -225,13 +215,8 @@ While the bay is often calm, the fog makes navigating difficult by hiding danger
 
 
 
-(print-page)
-
-
-
 ### Parchwood Bay
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Parchwood Bay](assets/img/geography-parchwood_bay.jpg)
 
 ^Type:^ **^Underwater^** ^-^ ^Danger:^ **^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -253,13 +238,8 @@ Navigating the bay is difficult. The tall, forested islands, rocky shoals, and p
 
 
 
-(print-column)
-
-
-
 ### Parchwood Timberland
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Parchwood Timberland](assets/img/geography-parchwood_timberland.jpg)
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -287,7 +267,6 @@ Travelers are warned to stick to the [Alabaster Trail](alabaster-trail) on their
 
 ### Salted Bluffs
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Salted Bluffs](assets/img/geography-salted_bluffs.jpg)
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -309,18 +288,12 @@ Travel of any kind is difficult near the [Salted Bluffs](salted-bluffs). The rou
 
 
 
-(print-column)
-
-
-
 ### Shearing Channel
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Shearing Channel](assets/img/geography-shearing_channel.jpg)
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
 The [Shearing Channel](shearing-channel) is a narrow channel that seperates the continents of [Tal'Dorei](taldorei) and [Wildemount](wildemount). The channel is less than 60 miles wide at it's narrowest point and roughly 300 miles from the temperate [Lucidian Ocean](lucidian-ocean) to the icy [Frigid Depths](frigid-depths).
-
 
 ##### Dangers
 While the Channel itself is dangerous enough on its own, sailors are always on the lookout for the many sea monsters they hear tales of in [Port Damali](port-damali) and [Stilben](stilben).
@@ -331,20 +304,15 @@ Powerful storms, surging tides, and strong winds are the greatest danger to any 
 ##### Foraging
 ^Food:^ **^Abundant^** ^-^ ^Water:^ **^Rare^**
 
-While there are plenty of fish in the sea, catching them in the tumultuous waters of the [Shearing Channel](shearing-channel) requires some skill.
+While there are plenty of fish, catching them in the tumultuous waters of the [Shearing Channel](shearing-channel) requires skill.
 
 ##### Travel
 While the traversing the channel should take no more than three days, ships can spend a week fighting violent storms and shifting currents before emerging on the other side. 
 
 
 
-(print-page)
-
-
-
 ### Upper Mooren River Run
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Upper Mooren River Run](assets/img/geography-upper_mooren_river_run.jpg)
 
 ^Type:^ **^Forest^** ^-^ ^Danger:^ **^Very^ ^High^** ^-^ ^Terrain:^ **^Difficult^**
 
@@ -354,7 +322,7 @@ The [Upper Mooren River Run](upper-mooren-river-run) is a long, fast-moving rive
 As an important source of fresh water, the Mooren River Run is also an important source of food for many of the beasts and monstrosities that call the forest home.
 
 ##### Environment
-In the spring, snowmelt from the [Alabaster Sierras](alabaster-sierra-range) cause the river to swell and the already fast-moving river becomes a torrent.
+In the spring, snowmelt from the [Sierras](alabaster-sierra-range) cause the river to swell and the already fast-moving river becomes a torrent.
 
 In the winter, the **frigid water** rarely freezes over due to the strong current, but when it does, the ice is thin and dangerous to walk on.
 
@@ -370,13 +338,12 @@ While the river is navigable by canoe or kayak, the trip is dangerous with numer
 
 
 
-(print-column)
+(print-page)
 
 
 
 ### Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras)
-![Whitestone](assets/img/geography-castle_whitestone.jpg)
 
 ^Type:^ **^City^** ^-^ ^Population:^ **^4,230^** ^-^ ^Area:^ **^69^ ^Acres^**
 
@@ -402,12 +369,6 @@ Whitestone is surrounded by a large, stone wall and heavy gates protect all road
 {.square}
 
 In addition to the traditional defenses, the city is protected by an [Illusory Barrier](illusory-barrier) that hides the city from above.
-
-
-
-(print-page)
-
-
 
 ##### Economy
 ^Strength:^ **^Booming^** ^-^ ^Crime:^ **^Low^**
@@ -446,17 +407,10 @@ Whitestone's economy is strong and booming and fueled by the city's signature ex
 
 
 
-(print-column)
-
-
-
 #### Altar of the Raven
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Altar of the Raven](assets/img/location-altar_of_the_raven.jpg)
-
 
 ^Type:^ **^Shrine^** ^-^ ^Staff:^ **^0^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
-
 
 The Altar of the Raven is a small shrine to the **Raven Queen** located behind the [Zenith](zenith) temple to **Pelor** in the Greyfields of [Whitestone](whitestone). About the size of a noble's mausoleum, the building is completely made of stone with intricate reliefs depicting motifs of the Raven Queen, her ascension and symbols associated with her stewardship of fate and death.
 
@@ -478,7 +432,6 @@ An individual that prays to the Raven Queen at the Altar of the Raven cannot bec
 
 #### Castle Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-![Whitestone](assets/img/geography-castle_whitestone.jpg)
 
 ^Type:^ **^Administration^ ^&^ ^Residence^** ^-^ ^Staff:^ **^?^** ^-^ ^Residents:^ **^?^** ^-^ ^Guests:^ [**^1d8^**](/roll/1d8)
 
@@ -653,8 +606,6 @@ Standard spellcasting services are available to members of the temple and follow
 The Ziggurat of Whitestone is an ancient temple to **Ioun the Knowing Mistress** that was coated in [residuum](/item/residuum) and corrupted by the Briarwoods to aid in the acension of **Vecna the Whispered One** to godhood. 
 
 The Ziggurat was once a great temple to **Ioun the Knowing Mistress**, but exactly when it was constructed is unknown. During the Calamity, the temple was the location of a terrible battle between **Tharizdun the Chained Oblivion** and **Ioun** in which she was very nearly fatally wounded. After the battle, the temple sank into the ground and was forgotten, by all but **Pelor the Dawn Father**. He planted the [Sun Tree](sun-tree) directly above the ziggurat to mark its location and honor her valor.
-
-
 
 
 (print-page)
