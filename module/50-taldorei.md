@@ -548,6 +548,8 @@ These locations do not have permanent staff or residents and are only used in ti
 #### Lady's Chamber
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+![Lady's Chamber](assets/img/location-church-01.jpg)
+
 ^Type:^ **^Temple^** ^-^ ^Staff:^ **^3-4^** ^-^ ^Residents:^ **^1^** ^-^ ^Guests:^ [**^1d6-2^**](/roll/1d6-2)
 
 
@@ -570,6 +572,9 @@ Standard spellcasting services are available to members of the temple and follow
 #### Pale Guard Barracks
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+![Barracks](assets/img/location-barracks-01.jpg)
+
+
 ^Type:^ **^Barracks^** ^-^ ^Staff:^ **^40-45^** ^-^ ^Residents:^ **[^2d8^](/roll/2d8)** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
 Located in the northeast corner of the Northern Ward of [Whitestone](whitestone), the [Pale Guard](pale-guard-barracks) Barracks is the administrtive and training center for the guard force that protects the city of [Whitestone](whitestone). While called a barracks, the majority of the force reside in their own homes with a small, rotating detatchment stationed at the barracks in the event of an emergency. The barracks also contains the administrative offices, a small jail, armory, and training facilities. 
@@ -587,6 +592,8 @@ The Captain of the [Pale Guard](pale-guard-barracks), or their deputy, as well a
 #### Sun Tree
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
+![Sun Tree](assets/img/location-sun_tree.jpg)
+
 The Sun Tree is a massive oak tree located in the heart of Dawnfather Square in the city of [Whitestone](whitestone). It is a couple of stories tall and its leaves are vibrant orange, red, and yellow year-round. The tree is a major landmark in the city and an integral part of the city's identity and soul. 
 
 The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **Tharizdun the Chained Oblivion** nearly killed **Ioun the Knowing Mistress**. The tree stands directly above a lost [temple](ziggurat-of-whitestone) to **Ioun**.
@@ -599,6 +606,8 @@ The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **T
 
 #### Whitestone Riflemen Barracks
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+![Barracks](assets/img/location-barracks-01.jpg)
 
 ^Type:^ **^Barracks^** ^-^ ^Staff:^ **^16-24^** ^-^ ^Residents:^ **[^2d6^](/roll/2d6)** ^-^ ^Guests:^ ^Rarely^
 
@@ -616,6 +625,9 @@ The Riflemen rotate in and out of the barracks constantly and the only occupants
 
 #### Zenith
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
+
+![Zenith](assets/img/location-church-01.jpg)
+
 
 ^Type:^ **^Temple^** ^-^ ^Staff:^ **^3-4^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d10^**](/roll/1d6-2)
 
