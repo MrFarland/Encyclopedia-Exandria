@@ -416,10 +416,8 @@ The Altar of the Raven is a small shrine to the **Raven Queen** located behind t
 
 The shrine was constructed ~815 P.D. by Lord Percival Fredrickstein von Musel Klossowski de Rolo III for Vax'ildan Vessar, champion of the Raven Queen, and brother to his future wife, Lady Vex'ahlia (Vessar) de Rolo. 
 
-##### Occupants
-The Altar of the Raven has no full-time clergy.
-
-Guests often make offerings and prayers to the Raven Queen to guide a dying loved one to the afterlife. 
+#### Occupants
+The Altar of the Raven has no full-time clergy. Guests often make offerings and prayers to the Raven Queen to guide a dying loved one to the afterlife. 
 
 ##### Services
 An individual that prays to the Raven Queen at the Altar of the Raven cannot become undead should they pass within the next 7 days.
@@ -433,7 +431,7 @@ An individual that prays to the Raven Queen at the Altar of the Raven cannot bec
 #### Castle Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
-^Type:^ **^Administration^ ^&^ ^Residence^** ^-^ ^Staff:^ **^?^** ^-^ ^Residents:^ **^?^** ^-^ ^Guests:^ [**^1d8^**](/roll/1d8)
+^Type:^ **^Administration^ ^&^ ^Residence^** ^-^ ^Staff:^ **^6-8^** ^-^ ^Residents:^ **^4-10^** ^-^ ^Guests:^ [**^1d8^**](/roll/1d8)
 
 Castle Whitestone (or Whitestone Castle) is a large, fortified keep on a large hill overlooking the north side of the [city](whitestone). The road from the north gate winds its way up the hill to the walled courtyard protecting the keep's main entrance. 
 
@@ -441,42 +439,12 @@ The ground floor of the keep houses the meeting chambers for the **Chamber of Wh
 
 Beneath the castle are the private crypts for the de Rolo family, the dungeons, and various store rooms. It is rumored that there is a secret passage that leads out of the castle to the east side of the hill.
 
-##### Occupants
-- Name (Race, G, A) - Position/Title
-{.square}
-
-##### Goods
-Coming Soon
-
-##### Services
-Coming Soon
-
-
-
-(print-column)
-
-
-
 #### Estate of the Mistress of the Grey Hunt
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
-^Type:^ **^Defense^** ^-^ ^Staff:^ **^?^** ^-^ ^Residents:^ **^?^** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
+^Type:^ **^Defense^** ^-^ ^Staff:^ **^2-3^** ^-^ ^Residents:^ **^[**^1d4-2^**](/roll/1d4-2)^** ^-^ ^Guests:^ [**^1d6/2^**](/roll/1d6)
 
 This estate was briefly the personal residence of Vex'ahlia Vessar prior to her marriage to Percival de Rolo and their moving into [Castle Whitestone](castle-whitestone). The residence is now the headquarters of the **Grey Hunt**, a group of rangers tasked with patrolling the surrounding [Parchwood](parchwood-timberland) and protecting the people of [Whitestone](whitestone) from the monsters that roam within.
-
-##### Occupants
-- Name (Race, G, A) - Position/Title
-{.square}
-
-##### Goods
-Coming Soon
-
-##### Services
-Coming Soon
-
-
-
-(print-page)
 
 
 
@@ -494,17 +462,10 @@ These locations do not have permanent staff or residents and are only used in ti
 
 
 
-(print-column)
-
-
-
 #### Lady's Chamber
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
-![Lady's Chamber](assets/img/location-church-01.jpg)
-
 ^Type:^ **^Temple^** ^-^ ^Staff:^ **^3-4^** ^-^ ^Residents:^ **^1^** ^-^ ^Guests:^ [**^1d6-2^**](/roll/1d6-2)
-
 
 The [Lady's Chambers](ladys-chambers), or the House of the Lawbearer, is the temple to Erathis in the city of [Whitestone](whitestone). Located on the west side of the Common Ward near the west gate, the [Lady's Chambers](ladys-chambers) is a small temple with a large, open-air courtyard and ampitheater.
 
@@ -518,19 +479,14 @@ Standard spellcasting services are available to members of the temple and follow
 
 
 
-(print-page)
-
-
-
 #### Pale Guard Barracks
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-
-![Barracks](assets/img/location-barracks-01.jpg)
-
 
 ^Type:^ **^Barracks^** ^-^ ^Staff:^ **^40-45^** ^-^ ^Residents:^ **[^2d8^](/roll/2d8)** ^-^ ^Guests:^ [**^1d4-2^**](/roll/1d4-2)
 
 Located in the northeast corner of the Northern Ward of [Whitestone](whitestone), the [Pale Guard](pale-guard-barracks) Barracks is the administrtive and training center for the guard force that protects the city of [Whitestone](whitestone). While called a barracks, the majority of the force reside in their own homes with a small, rotating detatchment stationed at the barracks in the event of an emergency. The barracks also contains the administrative offices, a small jail, armory, and training facilities. 
+
+(print-page)
 
 ##### Occupants
 The Captain of the [Pale Guard](pale-guard-barracks), or their deputy, as well as some administrative personnel can be found at the barracks at all hours. There is a small holding facility for drunks and disturbers of the peace, but serious criminals are held in the [Castle](castle-whitestone) dungeons.
@@ -538,14 +494,8 @@ The Captain of the [Pale Guard](pale-guard-barracks), or their deputy, as well a
 
 
 
-(print-column)
-
-
-
 #### Sun Tree
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-
-![Sun Tree](assets/img/location-sun_tree.jpg)
 
 The Sun Tree is a massive oak tree located in the heart of Dawnfather Square in the city of [Whitestone](whitestone). It is a couple of stories tall and its leaves are vibrant orange, red, and yellow year-round. The tree is a major landmark in the city and an integral part of the city's identity and soul. 
 
@@ -553,14 +503,8 @@ The Sun Tree was planted by **Pelor the Dawn Father** to mark the spot where **T
 
 
 
-(print-page)
-
-
-
 #### Whitestone Riflemen Barracks
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-
-![Barracks](assets/img/location-barracks-01.jpg)
 
 ^Type:^ **^Barracks^** ^-^ ^Staff:^ **^16-24^** ^-^ ^Residents:^ **[^2d6^](/roll/2d6)** ^-^ ^Guests:^ ^Rarely^
 
@@ -572,19 +516,14 @@ The Riflemen rotate in and out of the barracks constantly and the only occupants
 
 
 
-(print-column)
-
-
-
 #### Zenith
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
-
-![Zenith](assets/img/location-church-01.jpg)
-
 
 ^Type:^ **^Temple^** ^-^ ^Staff:^ **^3-4^** ^-^ ^Residents:^ **^0^** ^-^ ^Guests:^ [**^1d10^**](/roll/1d6-2)
 
 The Zenith is a temple to **Pelor the Dawn Father** in the Greyfields ward of [Whitestone](whitestone). The temple is made of stone and stained glass windows depict classic imagery of **Pelor**. A large wooden wreath of fire is carved into the heavy wooden doors at the front of the temple.
+
+(print-column)
 
 Inside wooden pews line either side of the main aisle and three 10' wide stained glass windows line each side. A large stone altar stands on a small raised platform in the back. Doors lead to two small rooms on either side of the temple. 
 
@@ -596,10 +535,6 @@ Standard spellcasting services are available to members of the temple and follow
 
 
 
-(print-page)
-
-
-
 #### Ziggurat of Whitestone
 [^Exandria^](geography) ^>^ [^Tal'Dorei^](taldorei) ^>^ [^Alabaster^ ^Sierras^](alabaster-sierras) ^>^ [^Whitestone^](whitestone)
 
@@ -608,9 +543,9 @@ The Ziggurat of Whitestone is an ancient temple to **Ioun the Knowing Mistress**
 The Ziggurat was once a great temple to **Ioun the Knowing Mistress**, but exactly when it was constructed is unknown. During the Calamity, the temple was the location of a terrible battle between **Tharizdun the Chained Oblivion** and **Ioun** in which she was very nearly fatally wounded. After the battle, the temple sank into the ground and was forgotten, by all but **Pelor the Dawn Father**. He planted the [Sun Tree](sun-tree) directly above the ziggurat to mark its location and honor her valor.
 
 
-(print-page)
 
 (print-page)
+
 
 
 ![Bladeshimmer Shoreline - North](assets/img/MrFarland-Exandria_800-2_region-bladeshimmer_shoreline_north-3300x2550-rotated.jpg){.size-full .print-only}
