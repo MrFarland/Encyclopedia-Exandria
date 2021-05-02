@@ -712,24 +712,26 @@ The dominant factions in this region are:
 
 ##### Geography
 The prominent geographical features in the region are:
-- Bladeshimmer Bay
-- Scar of the Cinder King
-- Crystalfen Caverns
-- Daggerbay
-- Daggerbay Mountains
-- Emerald Path
-- Emerald River
-- Flamereach Grove (was Shivergreen Grove)
-- Ivyheart Run
-- Ivyheart Thicket
-- Nightwash Tide
-- Othendin Trail
-- Ruins of Salar
-- Ruins of Vos'Sykriss
-- Seashale Mountains
-- Slumber Reef
-- Snowember Fields
-- Visa Isle
+- [Bladeshimmer Bay](bladeshimmer-bay)
+- [Crystalfen Caverns](crystalfen-caverns)
+- [Daggerbay](daggerbay)
+- [Daggerbay Mountains](daggerbay-mountains)
+- [Emerald Path](emerald-path)
+- [Emerald River](emerald-river)
+- [Flamereach Grove](flamereach-grove) (was Shivergreen Grove)
+- [Ivyheart Run](ivyheart-run)
+- [Ivyheart Thicket](ivyheart-thicket)
+- [Nightwash Tide](nightwash-tide)
+- [Othendin Pass](othendin-pass)
+- [Othendin River](othendin-river)
+- [Othendin Trail](othendin-trail)
+- [Ruins of Salar](ruins-of-salar)
+- [Ruins of Vos'Sykriss](ruins-of-vossykriss)
+- [Scar of the Cinder King](scar-of-the-cinder-king)
+- [Seashale Mountains](seashale-mountains)
+- [Slumber Reef](slumber-reef)
+- [Snowember Fields](snowember-fields)
+- [Visa Isle](visa-isle)
 {.square}
 
 ##### Religion
@@ -741,10 +743,10 @@ The dominant religions in the region are:
 
 ##### Settlemetnts
 The major settlements in the region are:
-- Emerald Outpost
-- Emon
-- Ruins of O'Noa
-- Shalesteps
+- [Emerald Outpost](emerald-outpost)
+- [Emon](emon)
+- [Ruins of O'Noa](ruins-of-onoa)
+- [Shalesteps](shalesteps)
 {.square}
 
 
