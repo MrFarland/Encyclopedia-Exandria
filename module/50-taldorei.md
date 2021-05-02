@@ -77,7 +77,10 @@ While the city of Whitestone and surrounding villages are predominantly human, [
 ##### Factions
 The dominant factions in the region are:
 - **Chamber of Whitestone**. Governs the city of Whitestone and the surrounding countryside.
+- **Grey Hunt**. Small band of rangers that patrol the Parchwood & defend the city of Whitestone.
+- **House de Rolo**. Founded the city of Whitestone and serve as the head of the Chamber of Whitestone.
 - **Pale Guard**. Guard the city of Whitestone, the surrounding area and northern Alabaster Trail.
+- **Whitestone Riflemen**. Firearm equipped guard of the de Rolos, Chamber, and Castle Whitestone.
 {.square}
 
 ##### Geography
@@ -104,10 +107,6 @@ The dominant religions in the region are:
 The major settlements in the region are:
 - Whitestone
 {.square}
-
-
-
-(print-page)
 
 
 
@@ -193,7 +192,6 @@ The dominant religions in the region are:
 - **Pelor** & **Avandra**. Worshipped mostly in the rural countryside among the farmers of the region.
 {.square}
 
-
 ##### Settlemetnts
 The major settlements in the region are:
 - Emerald Outpost
@@ -203,10 +201,9 @@ The major settlements in the region are:
 {.square}
 
 
-
 (print-page)
 
-
+*This page intentionally left blank at this time.* {.print-only}
 
 (print-page)
 
@@ -256,8 +253,10 @@ An large region, the Cliffkeeps are home to many different races and cultures. W
 ##### Factions
 The dominant factions in the region are:
 - **Army of Tal'Dorei**. The military of the Republic of Tal'Dorei, stationed at Fort Daxio.
+- **Ashari (Earth)**. Druids that guard the Exandrian rift to the Elemental Plane of Earth in Terrah.
 - **Carvers**. The police and military protectors of the dwarven stronghold of Kraghammer.
 - **Houses of Kraghammer**. The five noble houses of Kraghammer that rule the dwarven city.
+- **Shadewatch**. A volunteer gang that purports to protect the town of Jorenn Village.
 {.square}
 
 ##### Geography
@@ -301,7 +300,7 @@ The major settlements in the region are:
 
 (print-page)
 
-
+*This page intentionally left blank at this time.* {.print-only}
 
 (print-page)
 
@@ -352,7 +351,6 @@ The dominant factions in the region are:
 
 ##### Geography
 The prominent geographical features in the region are:
-- Blazing Foundry
 - Bramblewood
 - Byhills River
 - Dawnmist Pines
@@ -372,7 +370,7 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Religion
-The region is theologically diverse, but most people are very private in their worship. All of the Prime Deities are equally represented throughout the region, but .
+The region is theologically diverse, but most people are very private in their worship. All of the Prime Deities are equally represented throughout the region.
 
 ##### Settlements
 The major settlements in the region are:
@@ -380,7 +378,6 @@ The major settlements in the region are:
 - Turst Fields
 - Westruun
 {.square}
-
 
 
 (print-page)
@@ -541,7 +538,7 @@ The major settlements in the region are:
 
 (print-page)
 
-
+*This page intentionally left blank at this time.* {.print-only}
 
 (print-page)
 
@@ -615,7 +612,6 @@ The major settlements in the region are:
 {.square}
 
 
-
 (print-page)
 
 
@@ -687,3 +683,4 @@ The major settlements in the region are:
 - Syngorn
 - Vues'dal
 {.square}
+
