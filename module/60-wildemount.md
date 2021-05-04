@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Located on the far eastern shore of [Wildemount](wildemount) lies the corrupted Blightshore. Once a temperate, coastal paradise, the Miskath Strand was despoiled and ruined by the Betrayer Gods during the Calamity. Now a perilous wasteland, Blightshore is plagued by violent, supernatural storms, and home to a seemingly endless supply of twisted aberrations and monstrosities.
 
-One of the smaller regions of [Wildemount](wildemount), Blightshore lies due east of [Xhorhas](xhorhas) and is bordered by the far eastern reaches of the [Lucidian Ocean](lucidian-ocean) and the [Frigid Depths](frigid-depths) along the northern shore of [Far Hharom](far-hharom).
+One of the smaller regions of [Wildemount](wildemount), Blightshore lies due east of [Xhorhas](xhorhas) and is bordered by the far eastern reaches of the [Lucidian Ocean](lucidian-ocean) and the [Frigid Depths](frigid-depths) along the northern shore of Far Hharom.
 
 ##### Climate
 While largely temperate, the climate of Blightshore is chaotic and unpredictable. Supernatural storms plague the region and the weather can shift dramatically and without warning. The south has a **warm semi-aird (BSk)** climate, but temperatures drop and precipitation increases the further north one goes up the coast..
@@ -64,33 +64,33 @@ Much of Blightshore's people and culture were destroyed in the Calamity and near
 ##### Factions
 The dominant factions in the region are: 
 - **Cerberus Assmebly**. The order is deeply invested in the region & scours it for ancient artifacts & secrets. 
-- **Fang of the Worm**. A large clan of kobolds in the [Ebonglass Massif](ebonglass-massif). 
-- **Myriad**. The crime syndicate has a strong presence in the city of [Rotthold](rotthold). 
-- **Revelry**. Pirates from the isle of [Darktow](darktow) maintain a presence in [Rotthold](rotthold). 
+- **Fang of the Worm**. A large clan of kobolds in the Ebonglass Massif. 
+- **Myriad**. The crime syndicate has a strong presence in the city of Rotthold. 
+- **Revelry**. Pirates from the isle of Darktow maintain a presence in Rotthold. 
 {.square}
 
 ##### Geography
 The prominent geographical features in the region are:
-- [Cauldron Sea](cauldron-sea)
-- [Ebonglass Massif](ebonglass-massif)
-- [Emerald Gulch](emerald-gulch)
-- [Far Hharom](far-hhraom)
-- [Ghor Veles](ghor-veles)
-- [Incanter's Rest](incaters-rest)
-- [Miskath Pit](miskath-pit)
-- [Mordant Isle](mordant-isle)
-- [Olc Skerry](olc-skerry)
-- [Strathfell](strathfell)
-- [Tooth of Zehir](tooth-of-zehir)
-- [Venom Strait](venom-strait)
-- [Xagonstar](xagonstar)
+- Cauldron Sea
+- Ebonglass Massif
+- Emerald Gulch
+- Far Hharom
+- Ghor Veles
+- Incanter's Rest
+- Miskath Pit
+- Mordant Isle
+- Olc Skerry
+- Strathfell
+- Tooth of Zehir
+- Venom Strait
+- Xagonstar
 {.square}
 
 ##### Settlements
 The major settlements in the region are:
-- [New Haxon](new-haxon)
-- [Rotthold](rotthold)
-- [Sariss](sariss)
+- New Haxon
+- Rotthold
+- Sariss
 {.square}
 
 
@@ -123,43 +123,60 @@ The major settlements in the region are:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
 
 ##### Climate
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+Located far to the north, the islands of Eiselcross are a frozen wasteland of rock and ice. The entire region is locked in a frigid **tundra (ET)** climate with long periods of extreme cold and blinding blizzards.
 
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
-| High | 00°  | 00°  | 00°  | 00°  |
-| Low  | 00°  | 00°  | 00°  | 00°  |
-| Rain | 0.0" | 0.0" | 0.0" | 0.0" |
-| Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
+| High | 30°  | 56°  | 36°  | 15°  |
+| Low  | 16°  | 15°  | 24°  | 03°  |
+| Rain | 0.5" | 1.8" | 1.1" | 0.4" |
+| Snow | 0." | 0.0" | 0.0" | 0.0" | 
 {.gray}
 
 ##### Demographics
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+While most of Eiselcross' inhabitants reside in the settlements of Balenpost, Syrinlya, and Vurmas many live in small settlements and within semi-nomadic tribes throughout the region. The most notable being the highly advanced [yeti](/monster/yeti) of Allowak Sanctuary.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| -          | -   | -          | -   | -          | -   |
-| -          | -   | -          | -   | Other      | -   |
+| Human      | 40% | Goblin     |  9% | Halfling   |  6% |
+| Dwarf      | 11% | Drow       |  8% | Other      | 26% |
 {.gray}
+
 
 ##### Factions
 The dominant factions in the region are:
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
+- **Allowak**. The Allowak are more intelligent [yeti](/monster/yeti] that live in peace in the village known as Allowak Sanctuary.
+- **Cerebus Assembly**. The Assembly are regular visitors to the ruins of Aeor sponsoring expeditions into the ancient, fallen city.
+- **Diarchy of Uthodurn**. The dwarven and elven Diarchy maintains the settlement of Syrinlya. 
+- **Kryn Dynasty**. From their base in the floating settlement of Vurmas, the Kryn lead many expeditions into the ruins of Aeor.
 {.square}
 
 ##### Geography
 The prominent geographical features in the region are:
-- Geography
+- Aeor
+- Biesel
+- Dampfkan
+- Foren
+- Fortress of the Dead Jarl
+- Frostbogen
+- Gelier
+- Kaltsel
+- Mutalos
+- River Inferno
+- Schneescel
+- Taergoss
 {.square}
 
 ##### Settlements
 The major settlements in the region are:
-- Settlement
+- Allowak Sanctuary
+- Balenpost
+- Syrinlya
+- Tomb of the Worm
+- Vurmas
 {.square}
+
+
 
 (print-page)
 
