@@ -38,45 +38,59 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ^Area:^ **^74,822^ ^sq^ ^mi^** ^-^ ^Population:^ **^10,930^**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+Located on the far eastern shore of [Wildemount](wildemount) lies the corrupted Blightshore. Once a temperate, coastal paradise, the Miskath Strand was despoiled and ruined by the Betrayer Gods during the Calamity. Now a perilous wasteland, Blightshore is plagued by violent, supernatural storms, and home to a seemingly endless supply of twisted aberrations and monstrosities.
+
+One of the smaller regions of [Wildemount](wildemount), Blightshore lies due east of [Xhorhas](xhorhas) and is bordered by the far eastern reaches of the [Lucidian Ocean](lucidian-ocean) and the [Frigid Depths](frigid-depths) along the northern shore of [Far Hharom](far-hharom).
 
 ##### Climate
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+While largely temperate, the climate of Blightshore is chaotic and unpredictable. Supernatural storms plague the region and the weather can shift dramatically and without warning. The south has a **warm semi-aird (BSk)** climate, but temperatures drop and precipitation increases the further north one goes up the coast..
 
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
-| High | 00°  | 00°  | 00°  | 00°  |
-| Low  | 00°  | 00°  | 00°  | 00°  |
-| Rain | 0.0" | 0.0" | 0.0" | 0.0" |
-| Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
+| High | 70°  | 89°  | 67°  | 44°  |
+| Low  | 49°  | 69°  | 49°  | 27°  |
+| Rain | 0.6" | 1.3" | 1.0" | 0.2" |
+| Snow | 0.0" | 0.0" | 0.1" | 1.0" | 
 {.gray}
 
 ##### Demographics
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
-
+Much of Blightshore's people and culture were destroyed in the Calamity and nearly all who live in the region have come from some place else. Adventurers, people avoiding persecution, or criminals hiding from the authorities, the region boasts a wide mix of people.
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| -          | -   | -          | -   | -          | -   |
-| -          | -   | -          | -   | Other      | -   |
+| Human      | 34% | Drow       | 12% | Goblinoid  |  6% |
+| Tiefling   | 14% | Dragonborn |  6% | Other      | 28% |
 {.gray}
 
 ##### Factions
-The dominant factions in the region are:
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
+The dominant factions in the region are: 
+- **Cerberus Assmebly**. The order is deeply invested in the region & scours it for ancient artifacts & secrets. 
+- **Fang of the Worm**. A large clan of kobolds in the [Ebonglass Massif](ebonglass-massif). 
+- **Myriad**. The crime syndicate has a strong presence in the city of [Rotthold](rotthold). 
+- **Revelry**. Pirates from the isle of [Darktow](darktow) maintain a presence in [Rotthold](rotthold). 
 {.square}
 
 ##### Geography
 The prominent geographical features in the region are:
-- Geography
+- [Cauldron Sea](cauldron-sea)
+- [Ebonglass Massif](ebonglass-massif)
+- [Emerald Gulch](emerald-gulch)
+- [Far Hharom](far-hhraom)
+- [Ghor Veles](ghor-veles)
+- [Incanter's Rest](incaters-rest)
+- [Miskath Pit](miskath-pit)
+- [Mordant Isle](mordant-isle)
+- [Olc Skerry](olc-skerry)
+- [Strathfell](strathfell)
+- [Tooth of Zehir](tooth-of-zehir)
+- [Venom Strait](venom-strait)
+- [Xagonstar](xagonstar)
 {.square}
 
 ##### Settlements
 The major settlements in the region are:
-- Settlement
+- [New Haxon](new-haxon)
+- [Rotthold](rotthold)
+- [Sariss](sariss)
 {.square}
 
 
