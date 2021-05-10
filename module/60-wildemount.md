@@ -40,10 +40,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Located on the far eastern shore of [Wildemount](wildemount) lies the corrupted Blightshore. Once a temperate, coastal paradise, the Miskath Strand was despoiled and ruined by the Betrayer Gods during the Calamity. Now a perilous wasteland, Blightshore is plagued by violent, supernatural storms, and home to a seemingly endless supply of twisted aberrations and monstrosities.
 
-One of the smaller regions of [Wildemount](wildemount), Blightshore lies due east of [Xhorhas](xhorhas) and is bordered by the far eastern reaches of the [Lucidian Ocean](lucidian-ocean) and the [Frigid Depths](frigid-depths) along the northern shore of Far Hharom.
-
 ##### Climate
-While largely temperate, the climate of Blightshore is chaotic and unpredictable. Supernatural storms plague the region and the weather can shift dramatically and without warning. The south has a **warm semi-aird (BSk)** climate, but temperatures drop and precipitation increases the further north one goes up the coast..
+While largely temperate, the climate of Blightshore is chaotic and unpredictable. Supernatural storms plague the region and the weather can shift dramatically and without warning. The south has a **warm semi-aird (BSk)** climate, but temperatures drop and precipitation increases the further north one moves up the coast.
 
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
@@ -54,20 +52,18 @@ While largely temperate, the climate of Blightshore is chaotic and unpredictable
 {.gray}
 
 ##### Demographics
-Much of Blightshore's people and culture were destroyed in the Calamity and nearly all who live in the region have come from some place else. Adventurers, people avoiding persecution, or criminals hiding from the authorities, the region boasts a wide mix of people.
+Much of Blightshore's people and culture were destroyed in the Calamity and nearly all who live in the region are immigrants from other parts of [Exandria](exandria). Most reside in and around the settlements of New Haxon and Rotthold in the south, but small, remote settlements and a number of semi-nomadic tribes can be found throughout the region.
+
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
 | Human      | 34% | Drow       | 12% | Goblinoid  |  6% |
 | Tiefling   | 14% | Dragonborn |  6% | Other      | 28% |
 {.gray}
 
-##### Factions
-The dominant factions in the region are: 
-- **Cerberus Assmebly**. The order is deeply invested in the region & scours it for ancient artifacts & secrets. 
-- **Fang of the Worm**. A large clan of kobolds in the Ebonglass Massif. 
-- **Myriad**. The crime syndicate has a strong presence in the city of Rotthold. 
-- **Revelry**. Pirates from the isle of Darktow maintain a presence in Rotthold. 
-{.square}
+(print-column)
+
+##### Economy
+Blightshore's economy is based almost entirely on the export of illicit items to other parts of [Exandria](exandria). Black Sap, Blight Ichor, Soothsalts and a seemingly endless supply of ancient relics are the lifeblood of this frontier economy and all other commerce serves largely as a front for the region's thriving black market.
 
 ##### Geography
 The prominent geographical features in the region are:
@@ -79,12 +75,19 @@ The prominent geographical features in the region are:
 - Incanter's Rest
 - Miskath Pit
 - Mordant Isle
+- Oblivion Vortex
 - Olc Skerry
 - Strathfell
 - Tooth of Zehir
 - Venom Strait
 - Xagonstar
 {.square}
+
+##### Politics
+Blightshore exists on the periphery of [Wildemount](wildemount) politics, but it is not completely removed from them. Both the Kryn and the Dwendalian Empire maintain a presence in the region, but it is the crime syndicates like the Myriad and Revelry, as well as the various mercenary guilds that really run the region.
+
+##### Religion
+The influence of the Betrayer Gods is still strong in Blightshore and there are still many that remain loyal to them. The Cloaked Serpent is still revered among the people of Sariss in north, while the influence of Tharizdun, the Chained Oblivion is omnipresent in and around the Cauldron Sea and the Oblivion Vortex. 
 
 ##### Settlements
 The major settlements in the region are:
@@ -96,6 +99,10 @@ The major settlements in the region are:
 
 
 (print-page)
+
+
+
+*This page intentionally left blank ... for now.*
 
 
 
@@ -120,7 +127,7 @@ The major settlements in the region are:
 
 ^Area:^ **^1,335^ ^sq^ ^mi^** ^-^ ^Population:^ **^62,352^**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+The smallest of [Wildemount's](wildemount) regions, Eiselcross is a collection of frozen, arctic islands in the [Frigid Depths](frigid-depths) off the continent's northern coast. A cold, inhospitable place, Eiselcross was largely ignored by the people on the mainland until the discovery of the ruined pre-Calamity city of Aeor. The region is now at the center of an arcane arms race between the Dwendalian Empire and the Kryn Dynasty.
 
 ##### Climate
 Located far to the north, the islands of Eiselcross are a frozen wasteland of rock and ice. The entire region is locked in a frigid **tundra (ET)** climate with long periods of extreme cold and blinding blizzards.
@@ -134,7 +141,7 @@ Located far to the north, the islands of Eiselcross are a frozen wasteland of ro
 {.gray}
 
 ##### Demographics
-While most of Eiselcross' inhabitants reside in the settlements of Balenpost, Syrinlya, and Vurmas many live in small settlements and within semi-nomadic tribes throughout the region. The most notable being the highly advanced [yeti](/monster/yeti) of Allowak Sanctuary.
+While most of Eiselcross' inhabitants reside in the settlements of Balenpost, Syrinlya, and Vurmas many live in small settlements and among nomadic tribes throughout the region. The peoples of Eiselcross are extremely hardy, independent folk who's allegiance can be bought for the right price. 
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
@@ -142,14 +149,7 @@ While most of Eiselcross' inhabitants reside in the settlements of Balenpost, Sy
 | Dwarf      | 11% | Drow       |  8% | Other      | 26% |
 {.gray}
 
-
-##### Factions
-The dominant factions in the region are:
-- **Allowak**. The Allowak are more intelligent [yeti](/monster/yeti] that live in peace in the village known as Allowak Sanctuary.
-- **Cerebus Assembly**. The Assembly are regular visitors to the ruins of Aeor sponsoring expeditions into the ancient, fallen city.
-- **Diarchy of Uthodurn**. The dwarven and elven Diarchy maintains the settlement of Syrinlya. 
-- **Kryn Dynasty**. From their base in the floating settlement of Vurmas, the Kryn lead many expeditions into the ruins of Aeor.
-{.square}
+(print-page)
 
 ##### Geography
 The prominent geographical features in the region are:
@@ -166,6 +166,9 @@ The prominent geographical features in the region are:
 - Schneescel
 - Taergoss
 {.square}
+
+##### Politics
+
 
 ##### Settlements
 The major settlements in the region are:
@@ -205,10 +208,11 @@ This page intentionally left blank ... for now.
 
 ^Area:^ **^162,115^ ^sq^ ^mi^** ^-^ ^Population:^ **^57,880^**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+Located in the far, northeastern corner of the continent, the Greying Wildlands is a remote, cold frontier far removed from the politics and intrigue of the continent's central regions. Cut-off from the Empire by the Dunrock Mountains and the Dynasty by the Emerald Gulch, the people of the Wildlands are left to focus on much more important tasks, like survival in the wild, dangerous biting north.
+
 
 ##### Climate
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+Often referred to as the biting north, the Greying Wildlands is
 
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
@@ -219,17 +223,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, temp
 {.gray}
 
 ##### Demographics
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin libero diam, tempor sed mauris ac, aliquet dapibus lectus. Donec vulputate sem nunc, eget sagittis est tempor eget. Aliquam eleifend consequat ultricies. Cras euismod porttitor neque, ut condimentum ante placerat nec.
+For centuries the region was dominated by the dwarven and elven kingdoms of Uthodurn and Molaesmyr. When Molaesmyr fell to an unknown corruption, the elves relocated to Uthodurn
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
-| -          | -   | -          | -   | -          | -   |
-| -          | -   | -          | -   | Other      | -   |
+| Dwarf      | 35% | Human      | 18% | Gnome      |  3% |
+| Elf        | 23% | Orc        |  8% | Other      | 13% |
 {.gray}
 
 ##### Factions
 The dominant factions in the region are:
-- **Faction**. 
+- **Diarchy of Uthodurn**. 
 - **Faction**. 
 - **Faction**. 
 - **Faction**. 
@@ -240,6 +244,9 @@ The dominant factions in the region are:
 The prominent geographical features in the region are:
 - Geography
 {.square}
+
+##### Religion
+The domainn
 
 ##### Settlements
 The major settlements in the region are:

@@ -491,7 +491,7 @@ The Rifenmist Peninsula is a complex region with multiple climates. The jungle i
 | Rain | 2.9" | 0.2" | 2.4" | 3.2" |
 {.gray}
 
-*^Climate^ ^for^ ^the^ ^Beyndfal^ ^Plateau^ ^near^ ^Tz'Arrm^.*
+*^Climate^ ^for^ ^the^ ^Beyndfal^ ^Plateau^ ^near^ ^Tz'Arrm.^*
 
 ##### Demographics
 While the Rifenmist Peninsula is heavily populated, the majority of the people in the region live in the city-states of the Iron Authority on the Beynsfal Plateau. The city-states are predominantly goblinoid, with hobgoblins exercising almost total control over all other peoples. The rest of the region is much more open and diverse, but the various tribes and communities of the Rifenmist Jungle and Mornset Countryside are wary of outsiders.
