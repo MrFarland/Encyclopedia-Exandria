@@ -127,10 +127,10 @@ The major settlements in the region are:
 
 ^Area:^ **^1,335^ ^sq^ ^mi^** ^-^ ^Population:^ **^62,352^**
 
-The smallest of [Wildemount's](wildemount) regions, Eiselcross is a collection of frozen, arctic islands in the [Frigid Depths](frigid-depths) off the continent's northern coast. A cold, inhospitable place, Eiselcross was largely ignored by the people on the mainland until the discovery of the ruined pre-Calamity city of Aeor. The region is now at the center of an arcane arms race between the Dwendalian Empire and the Kryn Dynasty.
+Located off the northern coast of [Wildemount](wildemount) lie the forzen, arctic islands of Eiselcross. Surrounded by the [Frigid Depths](frigid-depths) on all sides, the region is completely isolated from the mainland and wild magic makes travel via magical means, dangerous and unpredictable. Travelers to Eiselcross, are forced to travel across the ice and monster infested waters from the fishing villages of Balenpost or Syrinlya.
 
 ##### Climate
-Located far to the north, the islands of Eiselcross are a frozen wasteland of rock and ice. The entire region is locked in a frigid **tundra (ET)** climate with long periods of extreme cold and blinding blizzards.
+Located far to the north, the islands of Eiselcross are a frozen wasteland of rock and ice. The entire region is locked in a frigid **tundra (ET)** climate with long, bitter winters and short, night-less summers. Strong winds blow across the islands bringing extreme cold and blinding blizzards.
 
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
@@ -149,7 +149,7 @@ While most of Eiselcross' inhabitants reside in the settlements of Balenpost, Sy
 | Dwarf      | 11% | Drow       |  8% | Other      | 26% |
 {.gray}
 
-(print-page)
+(print-column)
 
 ##### Geography
 The prominent geographical features in the region are:
@@ -168,7 +168,12 @@ The prominent geographical features in the region are:
 {.square}
 
 ##### Politics
+For centuries, the people of Eiselcross were all but ignored by the political powers of [Wildemount](wildemount). With the discovery of the ruined pre-Calamity city of Aeor. The region is now at the center of an arcane arms race between the Dwendalian Empire and the Kryn Dynasty.
 
+##### Religion
+When it comes to matters of faith, the people of Eiselcross are intensely private. Most worship in private at make-shift shrines in their homes and there are no temples in any of the settlements. There are a few public shrines to Avandra and Kord, but they are most often used to pray for safe travels and calm seas.
+
+The settlement known as the Tomb of the Worm is a notable exception. The inhabitants are firmly within the grasp of Quajath the Undermaw and are constantly trying to recruit members to their cult. 
 
 ##### Settlements
 The major settlements in the region are:
@@ -208,22 +213,22 @@ This page intentionally left blank ... for now.
 
 ^Area:^ **^162,115^ ^sq^ ^mi^** ^-^ ^Population:^ **^57,880^**
 
-Located in the far, northeastern corner of the continent, the Greying Wildlands is a remote, cold frontier far removed from the politics and intrigue of the continent's central regions. Cut-off from the Empire by the Dunrock Mountains and the Dynasty by the Emerald Gulch, the people of the Wildlands are left to focus on much more important tasks, like survival in the wild, dangerous biting north.
+Located in the far, northeastern corner of the continent, the Greying Wildlands is a remote, cold frontier far removed from the politics and intrigue of the continent's central regions. Cut-off from the Empire by the Dunrock Mountains and the Dynasty by the Emerald Gulch, the people of the Wildlands are left to focus on much more important tasks, like survival in the wild, dangerous north of [Wildemount](wildemount).
 
 
 ##### Climate
-Often referred to as the biting north, the Greying Wildlands is
+Often referred to as the biting north, the Greying Wildlands has a **Humid continental (Dfb)** climate with short, cool summers and long, cold winters. Most of the region's rain falls in the spring and summer months, with heavy snowfall in winter.
 
 | |~Spring~|~Summer~|~Fall~|~Winter~|
 |:-----|:----:|:----:|:----:|:----:|
-| High | 00°  | 00°  | 00°  | 00°  |
-| Low  | 00°  | 00°  | 00°  | 00°  |
-| Rain | 0.0" | 0.0" | 0.0" | 0.0" |
-| Snow | 0.0" | 0.0" | 0.0" | 0.0" | 
+| High | 51°  | 75°  | 52°  | 25°  |
+| Low  | 49°  | 52°  | 32°  | 08°  |
+| Rain | 1.2" | 2.3" | 0.4" | 0.1" |
+| Snow | 4.9" | 0.0" | 4.2" | 7.1" | 
 {.gray}
 
 ##### Demographics
-For centuries the region was dominated by the dwarven and elven kingdoms of Uthodurn and Molaesmyr. When Molaesmyr fell to an unknown corruption, the elves relocated to Uthodurn
+For centuries the region was dominated by the dwarven and elven kingdoms of Uthodurn and Molaesmyr. When Molaesmyr fell to an unknown corruption, the elves relocated to Uthodurn and formed the Diarchy of Uthodurn. In the south, humans make up the majority in and around Shadycreek Run.
 
 |||||||
 |:-----------|:---:|:-----------|:---:|:-----------|:---:|
@@ -231,14 +236,7 @@ For centuries the region was dominated by the dwarven and elven kingdoms of Utho
 | Elf        | 23% | Orc        |  8% | Other      | 13% |
 {.gray}
 
-##### Factions
-The dominant factions in the region are:
-- **Diarchy of Uthodurn**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-- **Faction**. 
-{.square}
+(print-column)
 
 ##### Geography
 The prominent geographical features in the region are:
