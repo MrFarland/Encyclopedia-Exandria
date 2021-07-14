@@ -1,13 +1,8 @@
 # Encyclopedia Exandria
-Encyclopedia Exandria is a reference module for the popular 5th edition Dungeons & Dragons virtual tabletop application, [EncounterPlus](https://encounter.plus/). It is a module dedicated to providing dungeon masters with a detailed reference for the world of Exandria, the setting for the hit actual-play D&D series, [Critical Role](https://critrole.com). 
+Encyclopedia Exandria is a reference module for the popular 5th edition Dungeons & Dragons virtual tabletop application, [EncounterPlus](https://encounter.plus/). It is a module 
+I created for my own personal use to provide a comprehensive reference module for the world of Exandria, the setting for the hit actual-play D&D series, [Critical Role](https://critrole.com). 
 
-## Goals
-The high-level goals for this module are:
-- **Atlas**: A comprehensive collection of maps and informational pages on the geography of Exandria.
-- **Factions**: Simple
-- **History**:
-- **Pantheon**:
-- **People**:
+It was designed for my own purposes, but anyone and everyone is free to use it as-is or to modify it to suit **YOUR** vision of Exandria.
 
 ## About Encounter+
 EncounterPlus is an advanced Virtual Tabletop (VTT) application for the 5th edition of the popular tabletop RPG system Dungeons & Dragons. It was designed to help Dungeon masters run combat encounters more easily, track initiative, health, statistics and conditions seamlessly and efficiently. It is available for iOS and Mac devices.
