@@ -1,19 +1,22 @@
-# Atlas Exandria
-Atlas Exandria is a reference module for the popular 5th edition Dungeons & Dragons virtual tabletop application, [Encounter+](https://encounter.plus/). It is a module dedicated to providing dungeon masters with a detailed reference for the world of Exandria, the setting for the hit actual-play D&D series, [Critical Role](https://critrole.com).
+# Encyclopedia Exandria
+Encyclopedia Exandria is a reference module for the popular 5th edition Dungeons & Dragons virtual tabletop application, [EncounterPlus](https://encounter.plus/). It is a module 
+I created for my own personal use to provide a comprehensive reference module for the world of Exandria, the setting for the hit actual-play D&D series, [Critical Role](https://critrole.com). 
+
+It was designed for my own purposes, but anyone and everyone is free to use it as-is or to modify it to suit **YOUR** vision of Exandria.
 
 ## About Encounter+
-Encounter+ is an advanced Virtual Tabletop (VTT) application for the 5th edition of the popular tabletop RPG system Dungeons & Dragons. It was designed to help Dungeon masters run combat encounters more easily, track initiative, health, statistics and conditions seamlessly and efficiently. It is available for iOS and Mac devices.
+EncounterPlus is an advanced Virtual Tabletop (VTT) application for the 5th edition of the popular tabletop RPG system Dungeons & Dragons. It was designed to help Dungeon masters run combat encounters more easily, track initiative, health, statistics and conditions seamlessly and efficiently. It is available for iOS and Mac devices.
 
-### What is an Encounter+ Module?
-A module is a collection of pages, encounters, and maps that can be quickly and easily imported into Encounter+. They can be reference materials, adventures, or any number of tools that can help run a D&D session more efficiently. 
+### What is an EncounterPlus Module?
+A module is a collection of pages, encounters, and maps that can be quickly and easily imported into EncounterPlus. They can be reference materials, adventures, or any number of tools that can help run a D&D session more efficiently. 
 
 ## Special Thanks
-I'd like to extend my special thanks to the entire Encounter+ community. Their hard work, patience, advice, and encouragement have been huge. Thank you [Juraj](https://twitter.com/encounterplus) for such an amazing product; and thank you JacobJ and [rrgeorge](https://twitter.com/rrgeorge) for all your help. I couldn't do this without you.
+I'd like to extend my special thanks to the entire EncounterPlus community. Their hard work, patience, advice, and encouragement have been huge. Thank you [Juraj](https://twitter.com/encounterplus) for such an amazing product; and thank you JacobJ and [rrgeorge](https://twitter.com/rrgeorge) for all your help. I couldn't have done this without you.
 
 ***Encyclopedia Exandria for Encounter+** by [Donald Farland](https://donfarland.com) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
 
 ## Content
-I have made a valiant effort to use my own words and resources in the creation of this module and use content released under Creative Commons licenses. If I have somehow inadvertently used your work and/or not given you appropriate credit, I apologize. Please contact me via direct message on Twitter (https://twitter.com/MrFarland) or Reddit (https://www.reddit.com/user/dandyman28) and I will rectify the situation as soon as humanly possible.
+I have made a valiant effort to use my own words and resources in the creation of this module and use content released under Creative Commons licenses. If I have somehow inadvertently used your work and/or not given you appropriate credit, I apologize. Please contact me via direct message on Twitter (https://twitter.com/MrFarland) or Reddit (https://www.reddit.com/user/MrFarland) and I will rectify the situation as soon as humanly possible.
 
 ### Fan Content Policy
 **Encyclopedia Exandria** is unofficial Fan Content permitted under the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/fancontentpolicy). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2015 Wizards. All Rights Reserved.
