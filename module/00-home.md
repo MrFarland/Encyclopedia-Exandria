@@ -3,24 +3,20 @@ name: Encyclopedia Exandria
 slug: encyclopedia-exandria
 order: 00
 ---
-## DM Operations Center
-*Preview Release 0.4.0* {.small-text}
+# Encyclopedia Exandria
+*by MrFarland ([@MrFarland](https://twitter.com/MrFarland))* {.small-text .no-fancy}
 
 <div class="menu-container">
-    <a href="abilities">Abilities</a>
+    <a href="calendar">Calendar</a>
     <a href="characters">Characters</a>
-    <a href="combat">Combat</a>
-    <a href="conditions">Conditions</a>
-    <a href="downtime">Downtime</a>
-    <a href="encounters">Encounters</a>
-    <a href="environment">Environment</a>
-    <a href="equipment">Equipment</a>
-    <a href="expenses">Expenses</a>
-    <a href="life-and-death">Life & Death</a>
-    <a href="loot">Loot</a>
-    <a href="movement">Movement</a>
-    <a href="spellcasting">Spellcasting</a>
-    <a href="worldbuilding">Worldbuilding</a>
-    <a href="other">Other</a>
+    <a href="factions">Factions</a>
+    <a href="geography">Geography</a>
+    <a href="history">History</a>
+    <a href="items">Items</a>
+    <a href="pantheon">Pantheon</a>
+    <a href="races">Races</a>
+    <a href="."></a>
 </div>
 <hr/>
+
+*Preview Release 0.1.0* {.small-text .text-right}

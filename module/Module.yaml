@@ -1,9 +1,9 @@
 id: 08eda92a-6bfc-47ff-a53b-55ea451bd028
-name: Atlas Exandria
-slug: atlas-exandria
-description: An atlas to the world of Exandria by MrFarland.
+name: Encyclopedia Exandria
+slug: encyclopedia-exandria
+description: A comprehensive resource for DMs in the lands of Exandria. 
 author: Donald Farland (donfarland.com)
-code: atlas-exandria
+code: encyclopedia-exandria
 cover: assets/img/cover.png
 version: null
 autoIncrementVersion: false
