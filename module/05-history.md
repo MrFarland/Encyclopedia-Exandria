@@ -4,7 +4,9 @@ slug: history
 order: 05
 ---
 ![Header](./assets/img/heading.png){.size-cover}
-# History
+## History
+
+**This section has not yet been implemented.** {.text-center}
 
 <div class="menu-container">
     <a href="founding">Founding</a>

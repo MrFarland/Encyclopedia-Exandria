@@ -1,10 +1,12 @@
 ---
 name: Pantheon
 slug: pantheon
-order: 01
+order: 07
 ---
 ![Header](./assets/img/heading.png){.size-cover}
-# Pantheon
+## Pantheon
+
+**This section has not yet been implemented.** {.text-center}
 
 <div class="menu-container">
     <a href="prime-deities">Prime<br/> Deities</a>

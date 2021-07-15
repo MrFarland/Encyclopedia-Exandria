@@ -1,10 +1,12 @@
 ---
 name: Items
 slug: items
-order: 01
+order: 06
 ---
 ![Header](./assets/img/heading.png){.size-cover}
-# Items
+## Items
+
+**This section has not yet been implemented.** {.text-center}
 
 <div class="menu-container">
     <a href="."></a>

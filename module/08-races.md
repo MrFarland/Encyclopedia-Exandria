@@ -1,10 +1,12 @@
 ---
-name: Calendar
-slug: calendar
-order: 01
+name: Races
+slug: races
+order: 08
 ---
 ![Header](./assets/img/heading.png){.size-cover}
-# Races
+## Races
+
+**This section has not yet been implemented.** {.text-center}
 
 <div class="menu-container">
     <a href="aarakocra">Aarakocra</a>

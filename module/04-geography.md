@@ -4,7 +4,7 @@ slug: geography
 order: 04
 ---
 ![Header](./assets/img/heading.png){.size-cover}
-# Geography
+## Geography
 
 <div class="menu-container">
     <a href="isylra">Isylra</a>
