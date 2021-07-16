@@ -4,7 +4,8 @@
 *.wonderdraft_map
 *.zip
 .DS_Store
+bin/
 documentation/ModuleBuild/
-module/atlas-exandria.pdf
 module/ModuleBuild/
-releases/
+private/
+release/
